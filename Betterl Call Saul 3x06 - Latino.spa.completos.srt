@@ -1,0 +1,2265 @@
+﻿1
+00:01:00,200 --> 00:01:01,873
+Estás listo.
+
+2
+00:01:05,929 --> 00:01:07,895
+Nos vemos, Nacho.
+
+3
+00:01:08,062 --> 00:01:09,274
+Don Hector.
+
+4
+00:01:44,317 --> 00:01:45,822
+Hola, Nacho.
+
+5
+00:01:45,989 --> 00:01:47,788
+Siéntate.
+
+6
+00:01:54,980 --> 00:01:56,653
+¿Cómo está tu papá?
+
+7
+00:02:00,626 --> 00:02:02,214
+Bien.
+
+8
+00:02:02,382 --> 00:02:04,305
+- ¿Los negocios van bien?
+- Sí, creo que sí.
+
+9
+00:02:04,472 --> 00:02:06,062
+- Genial.
+- Muy bien.
+
+10
+00:02:06,228 --> 00:02:08,362
+Oye, mi padre va a traer su Corolla.
+
+11
+00:02:08,528 --> 00:02:13,212
+Sus perros destrozaron el asiento
+trasero. Se comieron el relleno.
+
+12
+00:02:29,228 --> 00:02:35,375
+Uno de mis chicos, un chico nuevo, se asustó
+con una patrulla y salió corriendo.
+
+13
+00:02:36,211 --> 00:02:38,594
+Tiró su mercancía en la alcantarilla.
+
+14
+00:02:40,017 --> 00:02:41,313
+Déjame terminar.
+
+15
+00:02:51,558 --> 00:02:53,272
+Te falta.
+
+16
+00:02:56,534 --> 00:02:59,671
+- Como decía, el tipo...
+- ¿Por qué no lo completaste tú?
+
+17
+00:02:59,837 --> 00:03:02,681
+Lo hice, pero no me alcanzó.
+
+18
+00:03:03,809 --> 00:03:05,985
+Tienes mi parte, hombre.
+
+19
+00:03:07,364 --> 00:03:08,535
+Te lo juro.
+
+20
+00:03:12,717 --> 00:03:15,895
+Está bien.
+Complétalo la próxima semana.
+
+21
+00:03:16,774 --> 00:03:18,237
+Gracias, Nacho.
+
+22
+00:03:18,404 --> 00:03:19,951
+Don Hector.
+
+23
+00:03:30,448 --> 00:03:33,584
+¿Quién trabaja para quién?
+
+24
+00:03:52,903 --> 00:03:55,245
+Nacho, no.
+
+25
+00:03:56,081 --> 00:03:57,378
+¡No!
+
+26
+00:03:57,670 --> 00:03:58,966
+¡No!
+
+27
+00:03:59,929 --> 00:04:02,395
+Nacho, no.
+
+28
+00:04:02,563 --> 00:04:05,114
+Vamos. Vamos.
+
+29
+00:04:07,999 --> 00:04:11,176
+¡No, lo siento! ¡Lo siento!
+
+30
+00:04:11,343 --> 00:04:12,850
+Nacho.
+
+31
+00:06:07,100 --> 00:06:09,566
+<i>Quiero empezar agradeciéndoles
+su paciencia...</i>
+
+32
+00:06:09,732 --> 00:06:12,951
+<i>...durante este largo y emotivo proceso.</i>
+
+33
+00:06:13,828 --> 00:06:16,503
+Jimmy McGill ha trabajado
+incansablemente...
+
+34
+00:06:16,670 --> 00:06:18,968
+...para crear un bufete
+que ayude a un segmento...
+
+35
+00:06:19,136 --> 00:06:23,022
+...desatendido y francamente ignorado
+de nuestra comunidad...
+
+36
+00:06:23,189 --> 00:06:24,904
+...los ancianos.
+
+37
+00:06:26,157 --> 00:06:28,707
+<i>Hoy han escuchado a muchos
+clientes del señor McGill.</i>
+
+38
+00:06:29,250 --> 00:06:33,471
+Cada uno de ellos vino gustosamente
+para apoyar a su abogado.
+
+39
+00:06:33,931 --> 00:06:35,518
+Jimmy le llegó a gente...
+
+40
+00:06:35,728 --> 00:06:38,862
+...que de otra manera no habría visto
+a un abogado en su vida.
+
+41
+00:06:39,365 --> 00:06:42,331
+Se tomó el tiempo para asegurarse
+de que tuvieran testamentos...
+
+42
+00:06:42,539 --> 00:06:46,551
+<i>...que reflejaran con precisión sus deseos
+a un precio que pudieran pagar.</i>
+
+43
+00:06:47,178 --> 00:06:50,439
+Porque Jimmy McGill
+se preocupa por la gente.
+
+44
+00:06:51,191 --> 00:06:55,035
+Ha dedicado los últimos tres años
+de su vida al bienestar de su hermano.
+
+45
+00:06:55,203 --> 00:06:58,087
+Se ha parado a las 5 a comprar
+el periódico favorito de Charles...
+
+46
+00:06:58,254 --> 00:07:01,514
+...en el único puesto de revistas
+de la ciudad que lo vende.
+
+47
+00:07:01,848 --> 00:07:06,278
+Ha dejado todo para cuidar a su hermano
+en sus múltiples hospitalizaciones.
+
+48
+00:07:06,446 --> 00:07:08,076
+<i>Incluso ha apoyado la carrera
+de Charles...</i>
+
+49
+00:07:08,243 --> 00:07:11,043
+<i>...forrando a mano con PET
+una chaqueta de traje...</i>
+
+50
+00:07:11,210 --> 00:07:14,721
+<i>...para evitarle a su hermano molestias
+por la exposición a la electricidad.</i>
+
+51
+00:07:16,351 --> 00:07:17,897
+<i>Y aun así, durante este tiempo...</i>
+
+52
+00:07:18,064 --> 00:07:21,617
+<i>...la animosidad irracional
+de Charles McGill hacia su hermano...</i>
+
+53
+00:07:21,784 --> 00:07:25,712
+<i>...llegó a tener proporciones épicas.</i>
+
+54
+00:07:25,963 --> 00:07:29,306
+Cuando Jimmy vio que Charles había
+usado su amor y su preocupación...
+
+55
+00:07:29,474 --> 00:07:31,145
+...en su contra...
+
+56
+00:07:31,313 --> 00:07:32,608
+...cuando descubrió...
+
+57
+00:07:32,776 --> 00:07:36,370
+...que había sido traicionado
+por su único pariente vivo...
+
+58
+00:07:36,578 --> 00:07:38,585
+...Jimmy estalló.
+
+59
+00:07:39,754 --> 00:07:41,175
+¿Ustedes no lo harían?
+
+60
+00:07:42,387 --> 00:07:44,018
+Tal vez yo habría estallado.
+
+61
+00:07:45,313 --> 00:07:47,152
+¿Chuck?
+
+62
+00:07:47,695 --> 00:07:50,412
+<i>Jimmy McGill entiende
+que violó la ley...</i>
+
+63
+00:07:50,580 --> 00:07:52,960
+<i>...cuando entró por la fuerza
+a la casa de su hermano...</i>
+
+64
+00:07:53,546 --> 00:07:56,597
+...y lo lamenta mucho.
+
+65
+00:07:56,764 --> 00:07:59,648
+Está más que listo
+para enfrentar las consecuencias.
+
+66
+00:08:00,442 --> 00:08:05,665
+<i>Sin embargo, en cuanto a la violación
+ética 16-304A...</i>
+
+67
+00:08:05,833 --> 00:08:08,550
+<i>...la afirmación de destrucción
+de evidencia del Colegio...</i>
+
+68
+00:08:08,717 --> 00:08:12,980
+<i>...eso definitivamente no sucedió.</i>
+
+69
+00:08:13,607 --> 00:08:17,034
+<i>Jimmy McGill no tenía malas intenciones
+al entrar a la casa de su hermano.</i>
+
+70
+00:08:17,201 --> 00:08:20,335
+<i>- Sencillamente perdió los estribos.
+- Chuck, déjame entrar.</i>
+
+71
+00:08:20,503 --> 00:08:23,845
+<i>Entonces, ahora la pregunta
+que se deben hacer es esta:</i>
+
+72
+00:08:24,766 --> 00:08:29,405
+<i>¿La profesión legal es mejor
+con Jimmy McGill en ella?</i>
+
+73
+00:08:31,620 --> 00:08:36,008
+Yo creo que la respuesta
+es un rotundo sí.
+
+74
+00:08:38,223 --> 00:08:41,024
+Brindemos por 12 cortos meses.
+
+75
+00:08:41,189 --> 00:08:45,077
+Y que alguien llame al papa,
+porque según tu recapitulación...
+
+76
+00:08:45,244 --> 00:08:49,173
+...yo debería ser un santo. La madre
+Teresa y yo, debería estar con ella.
+
+77
+00:08:49,341 --> 00:08:53,394
+"San Jimmy". Sí, suena bien.
+
+78
+00:09:00,958 --> 00:09:06,308
+¿Has pensado en lo que vas a hacer
+el próximo año?
+
+79
+00:09:06,476 --> 00:09:08,439
+¿Sabes, con tus clientes?
+
+80
+00:09:08,607 --> 00:09:10,112
+Más despacio.
+
+81
+00:09:10,278 --> 00:09:13,454
+Esa es una charla para mañana,
+abogada.
+
+82
+00:09:13,663 --> 00:09:17,467
+Esta noche, celebro con la mejor
+abogada defensora del mundo.
+
+83
+00:09:17,633 --> 00:09:18,762
+¿Dónde están tus notas?
+
+84
+00:09:18,930 --> 00:09:22,983
+Dispersémoslas y revolquémonos
+en ellas a ver qué pasa.
+
+85
+00:09:25,867 --> 00:09:27,915
+Es un buen plan.
+
+86
+00:09:45,468 --> 00:09:46,931
+¿Rebecca?
+
+87
+00:09:47,097 --> 00:09:48,478
+Jimmy.
+
+88
+00:09:49,188 --> 00:09:51,947
+Bueno, estoy... Pasa, por favor.
+
+89
+00:09:52,112 --> 00:09:54,411
+- Hola. Kim Wexler.
+- Rebecca Bois.
+
+90
+00:09:54,579 --> 00:09:56,292
+No nos conocimos formalmente antes.
+
+91
+00:09:56,502 --> 00:09:58,173
+- Claro. Mucho gusto.
+- Sí.
+
+92
+00:09:58,550 --> 00:10:02,143
+Estuve en la casa de Chuck,
+y no abre la puerta.
+
+93
+00:10:02,311 --> 00:10:05,571
+Estuve tocando casi una hora.
+
+94
+00:10:05,737 --> 00:10:08,998
+Parece típico de Chuck. Seguramente
+está bien. Estará siendo dramático.
+
+95
+00:10:09,164 --> 00:10:11,380
+Yo creo que es un poco más que eso.
+
+96
+00:10:11,589 --> 00:10:14,346
+Quiero que me acompañes
+para hacer que nos deje entrar.
+
+97
+00:10:15,017 --> 00:10:19,236
+- Jimmy, él necesita nuestra ayuda.
+- No, gracias.
+
+98
+00:10:19,446 --> 00:10:22,664
+Ya tumbé mi puerta por este año.
+
+99
+00:10:23,666 --> 00:10:25,465
+Se lo debes.
+
+100
+00:10:26,676 --> 00:10:29,226
+No le debo un comino.
+
+101
+00:10:39,715 --> 00:10:41,221
+Jimmy, tú me mentiste.
+
+102
+00:10:41,930 --> 00:10:43,852
+Esto nunca se trató de ayudarle a Chuck.
+
+103
+00:10:44,062 --> 00:10:47,489
+Si te sientes engañada, discúlpame,
+pero creo que fui claro.
+
+104
+00:10:47,656 --> 00:10:49,788
+Te dije que tenía que defenderme...
+
+105
+00:10:49,955 --> 00:10:53,632
+...y que Chuck necesitaría
+ayuda después, lo cual es cierto.
+
+106
+00:10:53,800 --> 00:10:55,931
+Conseguiste lo que querías.
+
+107
+00:10:56,099 --> 00:10:58,146
+Ahora es el momento de hacer
+lo correcto.
+
+108
+00:10:58,355 --> 00:11:00,361
+Sí...
+
+109
+00:11:00,612 --> 00:11:02,367
+No.
+
+110
+00:11:03,621 --> 00:11:06,422
+Jimmy, él sigue siendo tu hermano.
+
+111
+00:11:08,177 --> 00:11:10,391
+Ya no.
+
+112
+00:11:20,715 --> 00:11:23,724
+Chuck siempre tuvo la razón sobre ti.
+
+113
+00:11:25,897 --> 00:11:30,117
+Él es un enfermo mental.
+¿Cuál es tu excusa?
+
+114
+00:11:33,001 --> 00:11:35,049
+Disfruta tu champán.
+
+115
+00:11:51,000 --> 00:11:52,920
+Como la otra noche, durante la cena...
+
+116
+00:11:53,088 --> 00:11:56,138
+...Kaylee preguntó si su papá cocinaba.
+
+117
+00:11:56,304 --> 00:11:58,059
+Y le conté...
+
+118
+00:11:58,223 --> 00:12:02,527
+...que Matty solía hacerle panqueques
+de Mickey Mouse los fines de semana.
+
+119
+00:12:02,695 --> 00:12:07,121
+¿Saben? Dos orejas de panqueques
+pequeños pegados a uno grande.
+
+120
+00:12:07,289 --> 00:12:11,590
+Ella no se acordaba,
+pero creo que eso la hizo feliz.
+
+121
+00:12:11,841 --> 00:12:14,890
+La mañana siguiente incluso los pidió.
+
+122
+00:12:16,059 --> 00:12:18,482
+Vaya, Matty hacía que pareciera fácil.
+
+123
+00:12:18,649 --> 00:12:22,075
+Es muy difícil mantener
+las orejas separadas.
+
+124
+00:12:22,241 --> 00:12:26,627
+Las mías quedaron horribles,
+pero a Kaylee no le importó.
+
+125
+00:12:26,794 --> 00:12:30,761
+Ahora quiere "panqueques de papá"
+todos los fines de semana.
+
+126
+00:12:32,138 --> 00:12:36,609
+Pero a veces...
+
+127
+00:12:36,818 --> 00:12:42,248
+Para el día de la profesión, me pidió
+que fuera a hablar del trabajo de su papá.
+
+128
+00:12:42,415 --> 00:12:45,338
+Quiere saber más
+acerca de lo que él hacía.
+
+129
+00:12:45,799 --> 00:12:48,847
+Eso me dejó sin aliento.
+
+130
+00:12:49,013 --> 00:12:51,310
+La profesora de Kaylee cree
+que eso le serviría...
+
+131
+00:12:51,477 --> 00:12:57,450
+...que quizá su ausencia parecería
+un poco más normal.
+
+132
+00:12:57,868 --> 00:13:02,504
+- Entonces, ¿crees que vas a hacerlo?
+- No sé.
+
+133
+00:13:03,131 --> 00:13:04,676
+Tal vez.
+
+134
+00:13:06,264 --> 00:13:08,436
+Buen trabajo, Stacey.
+
+135
+00:13:10,523 --> 00:13:13,614
+Bueno, ¿quién sigue?
+
+136
+00:13:14,825 --> 00:13:16,788
+Gracias por venir.
+Significa mucho para mí.
+
+137
+00:13:16,955 --> 00:13:20,297
+Cariño, si eso te hace sentir mejor,
+cuenta conmigo.
+
+138
+00:13:20,464 --> 00:13:22,887
+¿Tanto como para volver?
+
+139
+00:13:23,512 --> 00:13:24,682
+Ya veremos.
+
+140
+00:13:24,849 --> 00:13:28,816
+Bueno, lo que pasa es que te ofrecí
+para algo.
+
+141
+00:13:28,984 --> 00:13:32,661
+- ¿Para qué?
+- Para ayudar con el nuevo patio.
+
+142
+00:13:32,826 --> 00:13:35,626
+Los niños se merecen algo mucho mejor,
+¿no te parece?
+
+143
+00:13:35,794 --> 00:13:37,213
+Claro, pero ¿por qué yo?
+
+144
+00:13:37,381 --> 00:13:39,969
+Bueno, necesitan a alguien que sepa
+vaciar concreto.
+
+145
+00:13:40,136 --> 00:13:43,227
+El tobogán y los columpios necesitan
+algo llamado cimientos, creo.
+
+146
+00:13:43,394 --> 00:13:46,235
+Cariño, en realidad esa no es mi área.
+
+147
+00:13:46,402 --> 00:13:50,286
+Claro que sí, papá. Construiste
+un garaje abierto cuando Matty era niño.
+
+148
+00:13:50,452 --> 00:13:51,580
+¿Sí?
+
+149
+00:13:51,748 --> 00:13:55,006
+Sí, él me contó eso varias veces.
+
+150
+00:13:55,173 --> 00:13:57,094
+Decía que cuando lo estabas cotizando...
+
+151
+00:13:57,302 --> 00:13:59,308
+...los que te daban presupuestos
+te parecían ladrones.
+
+152
+00:13:59,474 --> 00:14:01,939
+Entonces, decidiste hacerlo tú mismo.
+
+153
+00:14:02,148 --> 00:14:05,656
+Y dejaste que Matty escribiera
+sus iniciales en el cemento blando.
+
+154
+00:14:07,118 --> 00:14:11,920
+Papá, él hablaba de ti como si hubieras
+colgado la luna.
+
+155
+00:14:14,135 --> 00:14:16,265
+Lo siento. Te puedo sacar de eso.
+Solo pensé...
+
+156
+00:14:16,432 --> 00:14:20,024
+No, está bien.
+Solo dime cuándo y dónde.
+
+157
+00:14:20,192 --> 00:14:21,862
+Vamos. Cielos.
+
+158
+00:14:24,283 --> 00:14:25,954
+Gracias.
+
+159
+00:14:57,156 --> 00:14:58,658
+¿Chuck?
+
+160
+00:15:09,142 --> 00:15:11,062
+Chuck, soy Howard.
+
+161
+00:15:18,832 --> 00:15:21,086
+No me voy a ir, Chuck.
+
+162
+00:15:22,925 --> 00:15:26,058
+No quiero despertar a los vecinos,
+pero tengo toda la noche.
+
+163
+00:15:29,483 --> 00:15:30,945
+¿Chuck?
+
+164
+00:16:11,667 --> 00:16:15,343
+Ese es un Macallan de 35 años.
+
+165
+00:16:16,094 --> 00:16:17,972
+No te voy a decir cuánto costó...
+
+166
+00:16:18,140 --> 00:16:20,481
+...pero no te preocupes,
+saldrá de mi parte.
+
+167
+00:16:24,530 --> 00:16:26,662
+Ya salió la opinión.
+
+168
+00:16:26,827 --> 00:16:28,917
+Suspendieron a Jimmy
+durante 12 meses.
+
+169
+00:16:29,835 --> 00:16:32,049
+Esto es una victoria, amigo.
+
+170
+00:16:32,217 --> 00:16:34,806
+Lo sé, no parece.
+
+171
+00:16:35,433 --> 00:16:37,269
+Pero escúchame.
+
+172
+00:16:37,814 --> 00:16:40,112
+Jimmy no será abogado durante un año.
+
+173
+00:16:40,277 --> 00:16:42,909
+Y si mete la pata,
+lo cual sabemos que es probable...
+
+174
+00:16:43,201 --> 00:16:44,495
+...se termina su SCP.
+
+175
+00:16:44,663 --> 00:16:48,046
+Y ese año se puede convertir
+en algo permanente.
+
+176
+00:16:54,521 --> 00:16:56,275
+Chuck, estás en una encrucijada.
+
+177
+00:16:56,900 --> 00:16:58,405
+Puedes seguir mirando atrás...
+
+178
+00:16:58,571 --> 00:17:02,664
+...concentrado en tu hermano,
+en lo que hace, o puedes seguir adelante.
+
+179
+00:17:03,751 --> 00:17:05,839
+Y Chuck, escúchame...
+
+180
+00:17:06,548 --> 00:17:08,637
+...Jimmy no vale la pena.
+
+181
+00:17:08,889 --> 00:17:11,393
+¿Dónde estaríamos si...
+
+182
+00:17:11,561 --> 00:17:15,613
+...digamos, Clarence Darrow hubiera
+dedicado los mejores años de su vida...
+
+183
+00:17:15,779 --> 00:17:18,327
+...a supervisar a sus parientes
+buenos para nada?
+
+184
+00:17:18,578 --> 00:17:21,209
+Piensa en los casos
+que no habría asumido...
+
+185
+00:17:21,376 --> 00:17:25,177
+...en las injusticias que no habrían
+tenido respuesta.
+
+186
+00:17:26,639 --> 00:17:28,644
+Qué desperdicio.
+
+187
+00:17:31,358 --> 00:17:32,443
+Yo digo...
+
+188
+00:17:34,826 --> 00:17:37,248
+...que pongas tu energía en el futuro.
+
+189
+00:17:47,230 --> 00:17:49,193
+Cualquier otra cosa...
+
+190
+00:17:49,820 --> 00:17:53,704
+...es un desperdicio
+de tu tiempo y tu intelecto.
+
+191
+00:18:00,137 --> 00:18:01,891
+¿Qué dices?
+
+192
+00:18:17,302 --> 00:18:19,516
+Por los nuevos comienzos.
+
+193
+00:18:20,226 --> 00:18:22,272
+Por los nuevos comienzos.
+
+194
+00:18:33,000 --> 00:18:34,546
+¿Estás bien para conducir?
+
+195
+00:18:34,714 --> 00:18:36,678
+Desde luego.
+
+196
+00:18:39,726 --> 00:18:41,398
+¿Cómo te sientes?
+
+197
+00:18:41,565 --> 00:18:44,448
+Estoy bien. Gracias, Howard.
+
+198
+00:19:39,762 --> 00:19:44,482
+ALTA POTENCIA
+
+199
+00:20:10,928 --> 00:20:12,684
+El almuerzo está servido.
+
+200
+00:20:12,851 --> 00:20:14,437
+Nada, cariño.
+
+201
+00:20:14,605 --> 00:20:17,153
+Cómetelo antes de que se ablande.
+
+202
+00:20:26,343 --> 00:20:29,979
+- Francesca, es hora de empezar.
+- ¿Por dónde quieres empezar?
+
+203
+00:20:30,147 --> 00:20:31,692
+Con las A.
+
+204
+00:20:31,860 --> 00:20:35,369
+Hola, ¿señora Adamson? Habla
+Francesca de la oficina de Jimmy McGill.
+
+205
+00:20:36,079 --> 00:20:38,794
+¿Está disponible para hablar
+con Jimmy? Bien, estupendo.
+
+206
+00:20:39,004 --> 00:20:40,466
+La señora Adamson.
+
+207
+00:20:40,883 --> 00:20:43,433
+Hola, querida. ¿Tienes un momento?
+
+208
+00:20:43,766 --> 00:20:45,854
+Solo quería que fueras
+la primera en saber...
+
+209
+00:20:46,023 --> 00:20:48,905
+...que me tomaré un breve sabático
+del derecho.
+
+210
+00:20:49,113 --> 00:20:50,283
+Solo un año.
+
+211
+00:20:50,451 --> 00:20:53,501
+Una rápida vuelta de la Tierra
+alrededor del sol y volveré.
+
+212
+00:20:54,295 --> 00:20:55,464
+Lo haré.
+
+213
+00:20:57,177 --> 00:20:59,015
+- Siguiente.
+- Espere a Jimmy.
+
+214
+00:20:59,225 --> 00:21:03,068
+¿Sí? Qué honor.
+
+215
+00:21:03,236 --> 00:21:05,616
+¿Y cómo murió?
+
+216
+00:21:06,994 --> 00:21:10,671
+Siguiente. Los detalles estarán todos
+en una carta que recibirás pronto.
+
+217
+00:21:10,878 --> 00:21:12,426
+En general, texto estándar legal.
+
+218
+00:21:12,592 --> 00:21:15,267
+Ahora, dale un abrazo a tu sobrino
+de mi parte.
+
+219
+00:21:15,434 --> 00:21:16,563
+Sobrina.
+
+220
+00:21:16,771 --> 00:21:18,023
+Siguiente.
+
+221
+00:21:19,570 --> 00:21:22,871
+- Espere a Jimmy.
+- En realidad es un asunto técnico.
+
+222
+00:21:23,079 --> 00:21:26,338
+Es algo técnico...
+Un acuerdo. Es un acuerdo.
+
+223
+00:21:26,546 --> 00:21:30,055
+Es un acuerdo al que llegué
+con el Colegio de Abogados.
+
+224
+00:21:30,222 --> 00:21:32,981
+Recibirá una carta con todos
+los detalles, así que...
+
+225
+00:21:33,189 --> 00:21:36,197
+Señor Levine, ¿me escucha? ¿Hola?
+
+226
+00:21:36,407 --> 00:21:41,169
+¿Todavía me escucha?
+Está bien, deje de hablar y hablaré yo.
+
+227
+00:21:41,336 --> 00:21:42,757
+Muy bien. Siguiente.
+
+228
+00:21:42,965 --> 00:21:48,563
+La carta lo explicará, pero los detalles
+son pura cháchara legal aburrida.
+
+229
+00:21:48,731 --> 00:21:51,363
+No sé de dónde vienen esos ruidos,
+señor.
+
+230
+00:21:51,529 --> 00:21:54,413
+Usted... Tendrá que revisar.
+Bueno, entonces quédese adentro.
+
+231
+00:21:54,622 --> 00:21:58,257
+Los detalles estarán en una carta.
+Así es, pero no se preocupe por eso.
+
+232
+00:21:58,467 --> 00:22:01,349
+Siguiente. Siguiente. Siguiente.
+
+233
+00:22:01,557 --> 00:22:03,937
+Sí, señora Pressman,
+todavía tengo el documento.
+
+234
+00:22:04,398 --> 00:22:07,072
+Incluiré el gato tricolor.
+
+235
+00:22:07,281 --> 00:22:09,913
+No quiero entrar en detalle con esto,
+señor.
+
+236
+00:22:10,122 --> 00:22:12,795
+Solo es mi dolor de cabeza, señor.
+Estoy cansado.
+
+237
+00:22:12,963 --> 00:22:15,677
+Escúchese. ¿Dónde aprendió tanto
+de abogacía?
+
+238
+00:22:15,845 --> 00:22:18,727
+Sí, esté atento a su correo
+y espere esa carta de mi oficina.
+
+239
+00:22:18,937 --> 00:22:20,859
+De acuerdo. Adiós.
+
+240
+00:22:21,026 --> 00:22:23,615
+- Siguiente.
+- El último. El señor Yalowitz.
+
+241
+00:22:23,783 --> 00:22:25,620
+El último.
+
+242
+00:22:27,419 --> 00:22:30,008
+Señor Yalowitz.
+Hola, habla Jimmy McGill.
+
+243
+00:22:30,176 --> 00:22:34,186
+Escuche, para sus futuras necesidades
+de abogacía, haré una pausa de un año.
+
+244
+00:22:34,351 --> 00:22:38,112
+Por favor espere una carta
+de mi oficina en su correo.
+
+245
+00:22:39,034 --> 00:22:40,621
+Sí, Jimmy de la televisión.
+
+246
+00:22:40,828 --> 00:22:43,544
+Lo ve todos los días, ¿?
+
+247
+00:22:45,216 --> 00:22:46,887
+¿De veras?
+
+248
+00:22:47,471 --> 00:22:49,853
+¿Usted fue el piloto del B-29?
+
+249
+00:22:50,062 --> 00:22:53,988
+¿Treinta y dos misiones? Santo...
+
+250
+00:22:55,827 --> 00:22:57,373
+Bueno, permítame decirle, señor...
+
+251
+00:22:57,540 --> 00:23:01,425
+...que usted es uno de los que hicieron
+tan genial la generación más grande.
+
+252
+00:23:01,591 --> 00:23:02,846
+Lo felicito.
+
+253
+00:23:04,892 --> 00:23:06,898
+Muy bien. Nos vemos pronto.
+
+254
+00:23:07,065 --> 00:23:09,322
+En televisión, sí.
+
+255
+00:23:09,489 --> 00:23:11,076
+Adiós.
+
+256
+00:23:19,892 --> 00:23:23,065
+Francesca, llama a la KWBV.
+
+257
+00:23:23,902 --> 00:23:25,655
+Está bien.
+
+258
+00:23:36,937 --> 00:23:38,942
+Páseme al gerente.
+
+259
+00:23:39,444 --> 00:23:42,243
+Entonces, páseme a alguien
+que pueda quitar un comercial rápido.
+
+260
+00:23:58,454 --> 00:24:03,431
+- ¿Terminaste de hacer tus llamadas?
+- Sí, fue muy divertido.
+
+261
+00:24:03,932 --> 00:24:05,981
+Pero lo que me inquieta es esto.
+
+262
+00:24:06,148 --> 00:24:07,277
+¿Qué es?
+
+263
+00:24:07,445 --> 00:24:09,784
+Mi contrato con la KWBV.
+
+264
+00:24:09,951 --> 00:24:12,794
+Hoy estuvieron a punto de pasar
+un comercial mío.
+
+265
+00:24:12,962 --> 00:24:15,431
+- No puedes hacer eso.
+- Lo sé.
+
+266
+00:24:15,598 --> 00:24:18,522
+Pero ¿puedes creer esto?
+Me quedan nueve emisiones.
+
+267
+00:24:18,691 --> 00:24:21,574
+Pierdo 4000 dólares.
+
+268
+00:24:26,301 --> 00:24:28,014
+Supongo...
+
+269
+00:24:28,391 --> 00:24:31,358
+...que tienes que buscar un negocio local
+y venderles tu tiempo.
+
+270
+00:24:31,526 --> 00:24:34,201
+- ¿Qué más puedes hacer?
+- Sí.
+
+271
+00:24:34,368 --> 00:24:39,303
+Este montón de basura dice
+explícitamente que no puedo revender.
+
+272
+00:24:39,468 --> 00:24:41,811
+Eres abogado.
+Mira si encuentras una laguna legal.
+
+273
+00:24:41,979 --> 00:24:46,451
+No puedo ver otro contrato.
+Estoy agobiada con Mesa Verde.
+
+274
+00:24:47,371 --> 00:24:49,713
+Sí, lo siento.
+
+275
+00:24:50,255 --> 00:24:52,848
+¿Qué quieres hacer con Francesca?
+
+276
+00:24:53,477 --> 00:24:55,191
+¿Hacer con ella? ¿Qué?
+
+277
+00:24:55,356 --> 00:24:58,200
+¿Cuánto preaviso le damos?
+¿Dos semanas?
+
+278
+00:25:00,459 --> 00:25:03,091
+No le hacemos ningún favor
+ocultándole las cosas.
+
+279
+00:25:03,258 --> 00:25:05,517
+Debería empezar a buscar.
+
+280
+00:25:06,728 --> 00:25:09,949
+Entonces, ¿quieres despedir a Francesca?
+
+281
+00:25:10,784 --> 00:25:11,789
+No quiero.
+
+282
+00:25:12,039 --> 00:25:16,345
+Solo la necesito para archivar
+y hacer café. Yo puedo hacer eso.
+
+283
+00:25:16,514 --> 00:25:18,561
+Acabamos de contratarla. Me cae bien.
+
+284
+00:25:18,728 --> 00:25:21,445
+Y tenemos que hablar de los gastos
+de este sitio.
+
+285
+00:25:21,613 --> 00:25:22,993
+No, Kim, no.
+
+286
+00:25:23,160 --> 00:25:25,667
+Esta oficina está montada
+para dos bufetes...
+
+287
+00:25:25,876 --> 00:25:29,763
+...y ahora solo hay uno. Yo no necesito
+tanto espacio. Solo tengo un cliente.
+
+288
+00:25:29,932 --> 00:25:33,193
+- Es un cliente enorme.
+- Lo estudié...
+
+289
+00:25:33,360 --> 00:25:36,287
+...y cancelar el contrato costará
+menos que 10 meses de alquiler.
+
+290
+00:25:36,454 --> 00:25:40,802
+No hicimos todo esto para dejarlo todo
+después de un día de suspensión.
+
+291
+00:25:40,970 --> 00:25:44,398
+- Un día.
+- No es todo.
+
+292
+00:25:45,444 --> 00:25:48,413
+Es una oficina.
+Cuatro paredes y una puerta.
+
+293
+00:25:48,580 --> 00:25:52,300
+¿Por qué desperdiciar dinero en algo
+que no necesitamos?
+
+294
+00:25:54,014 --> 00:25:58,405
+En lo que a mí concierne,
+nada ha cambiado, ¿de acuerdo?
+
+295
+00:25:58,573 --> 00:26:01,457
+Yo cumpliré con mi parte,
+tú con la tuya. Mitad y mitad.
+
+296
+00:26:01,625 --> 00:26:05,596
+¿Seguirás pagando media oficina
+aunque no estés ejerciendo el derecho?
+
+297
+00:26:05,763 --> 00:26:08,312
+- Llámalo pensar con aspiraciones.
+- De acuerdo.
+
+298
+00:26:08,480 --> 00:26:11,658
+Pero ¿cómo la vas a pagar?
+
+299
+00:26:14,124 --> 00:26:16,383
+El día que no llegue con mi parte...
+
+300
+00:26:16,549 --> 00:26:19,685
+...es el día en que hablaremos
+de cerrar este sitio.
+
+301
+00:26:22,278 --> 00:26:25,204
+Es justo, supongo.
+
+302
+00:26:32,270 --> 00:26:33,984
+Ya verás.
+
+303
+00:26:51,356 --> 00:26:55,200
+Mírense. Digo, deberían estar
+en la televisión.
+
+304
+00:26:55,366 --> 00:26:57,371
+Son actores natos.
+
+305
+00:26:57,579 --> 00:27:00,546
+Yo sé. Están pensando:
+"Es demasiado bueno para ser verdad.
+
+306
+00:27:00,712 --> 00:27:03,471
+La televisión es muy cara.
+No podemos pagar eso".
+
+307
+00:27:03,637 --> 00:27:06,518
+Pues, les digo que sí pueden.
+
+308
+00:27:06,686 --> 00:27:08,317
+Y esto es lo bello.
+
+309
+00:27:08,524 --> 00:27:11,156
+Rodaremos su comercial
+por un precio razonable.
+
+310
+00:27:11,323 --> 00:27:16,421
+Y luego incluiremos la emisión
+por el bajo, bajo precio de gratis.
+
+311
+00:27:16,588 --> 00:27:18,674
+"Oye, dame a Jimmy".
+
+312
+00:27:18,883 --> 00:27:20,973
+Así es. Ese soy yo. Ha visto mi anuncio.
+
+313
+00:27:21,141 --> 00:27:24,106
+Pues lo que hice por mí,
+amigos, lo haré por ustedes.
+
+314
+00:27:24,273 --> 00:27:26,612
+Nuestro paquete de primera
+con todo incluido...
+
+315
+00:27:26,779 --> 00:27:29,412
+...será el que más beneficios les dará.
+
+316
+00:27:29,577 --> 00:27:33,588
+Rodaremos nueve comerciales
+por 4900 dólares.
+
+317
+00:27:33,756 --> 00:27:34,758
+¿De acuerdo?
+
+318
+00:27:34,925 --> 00:27:39,813
+Y eso incluye las nueve emisiones
+a las 3:20 de la tarde en el canal KWBV.
+
+319
+00:27:39,981 --> 00:27:43,113
+Es un horario excelente
+con una audiencia...
+
+320
+00:27:43,281 --> 00:27:47,457
+...de decenas de miles
+de clientes potenciales.
+
+321
+00:27:47,707 --> 00:27:49,965
+- Parece un buen negocio.
+- Sí.
+
+322
+00:27:50,257 --> 00:27:53,264
+- Es mucho dinero.
+- Sí.
+
+323
+00:27:53,432 --> 00:27:57,568
+Eso es muy comprensible.
+Es un gran compromiso financiero.
+
+324
+00:27:57,736 --> 00:28:01,953
+Por eso tenemos el paquete
+"probar el agua con el dedo".
+
+325
+00:28:02,119 --> 00:28:07,090
+Es un comercial, tarifa fija: 849.95.
+
+326
+00:28:07,467 --> 00:28:10,223
+Lo bello de nuevo: emisión gratis.
+
+327
+00:28:10,390 --> 00:28:12,564
+Y cuando esto salga al aire,
+van a recibir llamadas.
+
+328
+00:28:12,732 --> 00:28:14,778
+Se lo puedo prometer.
+
+329
+00:28:18,079 --> 00:28:19,623
+Lo pensaremos.
+
+330
+00:28:20,083 --> 00:28:21,712
+Excelente.
+
+331
+00:28:22,004 --> 00:28:24,971
+¿Cuándo creen que pueden decidir?
+
+332
+00:28:25,972 --> 00:28:28,018
+- Tal vez la próxima semana.
+- Sí.
+
+333
+00:28:29,314 --> 00:28:31,905
+Vaya, lamento si hubo alguna confusión.
+
+334
+00:28:32,071 --> 00:28:33,450
+Pero estaba hablando...
+
+335
+00:28:33,616 --> 00:28:37,334
+Estaba hablando de un espacio
+mucho más corto...
+
+336
+00:28:37,501 --> 00:28:40,218
+...para lo de pensarlo.
+
+337
+00:28:40,384 --> 00:28:42,265
+¿Qué tan corto?
+
+338
+00:28:43,225 --> 00:28:46,693
+Los tendríamos al aire
+esta tarde a las 3:20.
+
+339
+00:28:46,860 --> 00:28:50,871
+¿Hoy? ¿Va a rodar un comercial
+en las próximas dos horas y media?
+
+340
+00:28:51,079 --> 00:28:53,419
+No. Digo, hay todo un proceso
+de posproducción.
+
+341
+00:28:53,586 --> 00:28:56,343
+Hay edición y mezcla,
+corrección de color, sincronización.
+
+342
+00:28:56,550 --> 00:28:57,888
+Es un rollo. No les interesa.
+
+343
+00:28:58,055 --> 00:29:02,901
+Pero tendríamos que empezar a rodar
+en los próximos 15 minutos.
+
+344
+00:29:11,631 --> 00:29:15,977
+PUNTO DE VENTA
+ALFOMBRAS Y AZULEJOS
+
+345
+00:29:16,143 --> 00:29:18,523
+<i>No, es Joseph and the Amazing
+Technicolor Dreamcoat.</i>
+
+346
+00:29:18,691 --> 00:29:20,571
+Creí que hicieron un musical de Moisés.
+
+347
+00:29:20,738 --> 00:29:21,740
+- Lo hicieron.
+- Sí.
+
+348
+00:29:21,908 --> 00:29:23,830
+¿Cuál es ese? ¿"Deja ir a mi pueblo"?
+
+349
+00:29:23,996 --> 00:29:26,128
+Bueno, sí. Era como...
+
+350
+00:29:26,293 --> 00:29:27,673
+Súbanse todos.
+
+351
+00:29:44,716 --> 00:29:47,140
+- ¿Todo está bien?
+- No.
+
+352
+00:29:47,306 --> 00:29:49,937
+Salgo al aire en dos horas y 20 minutos,
+y no tengo cliente.
+
+353
+00:29:50,106 --> 00:29:53,572
+Son otros 400 dólares
+tirados a la basura.
+
+354
+00:29:54,951 --> 00:29:59,755
+¿Cómo encuentro a alguien que necesite
+un comercial y lo pueda pagar?
+
+355
+00:30:02,428 --> 00:30:06,020
+A lo mejor tú podrías hacer
+un comercial.
+
+356
+00:30:06,187 --> 00:30:10,072
+¿No has estado escuchando?
+Eso es lo que he estado tratando...
+
+357
+00:30:15,294 --> 00:30:16,881
+Claro.
+
+358
+00:30:40,610 --> 00:30:42,030
+Vamos. Rápido.
+
+359
+00:30:44,034 --> 00:30:45,623
+Muy bien.
+
+360
+00:30:45,874 --> 00:30:46,875
+Ponla aquí.
+
+361
+00:30:47,043 --> 00:30:50,342
+Quiero que salgan esas antenas
+detrás de mí.
+
+362
+00:30:50,509 --> 00:30:53,267
+Hola, habla Jimmy McGill.
+Por tiempo limitado... No.
+
+363
+00:30:53,435 --> 00:30:57,821
+Soy Jimmy McGill y quiero hablarles
+de las maravillas de la emisión... No.
+
+364
+00:30:57,987 --> 00:31:00,494
+Mi nombre es Jimmy McGill.
+La publicidad es...
+
+365
+00:31:00,662 --> 00:31:02,291
+Cámara lista.
+
+366
+00:31:04,128 --> 00:31:09,141
+Soy Jimmy McGill con una oportunidad
+para pequeños empresarios...
+
+367
+00:31:09,308 --> 00:31:11,062
+Mierda. No. No puedo hacer esto.
+
+368
+00:31:11,229 --> 00:31:14,280
+- Claro que puedes.
+- No.
+
+369
+00:31:14,780 --> 00:31:16,829
+Estamos totalmente desviados
+de la marca.
+
+370
+00:31:16,995 --> 00:31:19,627
+Soy Jimmy McGill,
+un abogado en quien confiar.
+
+371
+00:31:19,794 --> 00:31:23,010
+No puedo convertirme de repente
+en un tipo de comerciales.
+
+372
+00:31:24,974 --> 00:31:26,685
+Espera.
+
+373
+00:31:27,521 --> 00:31:31,115
+Repite. Por un tiempo limitado,
+rodaremos su comercial hoy...
+
+374
+00:31:31,281 --> 00:31:32,452
+...y lo emitiremos mañana.
+
+375
+00:31:32,909 --> 00:31:34,999
+Por un tiempo limitado,
+rodaremos su comercial hoy...
+
+376
+00:31:35,165 --> 00:31:37,213
+...y lo emitiremos mañana.
+
+377
+00:31:39,093 --> 00:31:41,807
+¿No eras presidenta
+del club de teatro o algo así?
+
+378
+00:31:41,975 --> 00:31:43,020
+Soy la tesorera.
+
+379
+00:31:45,317 --> 00:31:46,989
+Tú, dale.
+
+380
+00:31:47,530 --> 00:31:49,536
+Di las palabras.
+
+381
+00:31:50,247 --> 00:31:54,759
+Por un tiempo limitado, solamente...
+
+382
+00:31:54,967 --> 00:31:57,224
+Corta. Tal vez la próxima vez.
+
+383
+00:32:02,402 --> 00:32:05,536
+¿Lo haremos o no? Porque
+de todas formas tendré mis 100 dólares.
+
+384
+00:32:05,702 --> 00:32:09,461
+Rápido, abre tu bolso mágico.
+Tendremos que hacerlo a lo Karloff.
+
+385
+00:33:49,552 --> 00:33:51,264
+¿Todos pesan lo mismo?
+
+386
+00:33:52,141 --> 00:33:54,106
+De un cuarto de gramo.
+
+387
+00:33:54,273 --> 00:33:56,110
+¿Tienes una balanza?
+
+388
+00:33:57,948 --> 00:33:59,703
+Escoge.
+
+389
+00:34:26,731 --> 00:34:28,527
+¿Se te olvidó contar?
+
+390
+00:34:29,194 --> 00:34:30,825
+Recibes cinco.
+
+391
+00:34:31,533 --> 00:34:34,167
+Don Hector recibe seis.
+
+392
+00:34:46,907 --> 00:34:49,329
+Está esperando seis.
+
+393
+00:34:52,547 --> 00:34:54,719
+Y eso es lo que voy a llevar.
+
+394
+00:35:16,232 --> 00:35:19,240
+Está tratando de llevarse seis.
+Solo le debemos cinco.
+
+395
+00:35:19,867 --> 00:35:21,788
+Está insistiendo.
+
+396
+00:35:26,677 --> 00:35:29,431
+<i>- Dáselo.
+- ¿Seguro?</i>
+
+397
+00:35:29,599 --> 00:35:31,480
+Dáselo.
+
+398
+00:37:19,549 --> 00:37:22,095
+ALTO
+SOLO PERSONAL AUTORIZADO
+
+399
+00:37:22,305 --> 00:37:25,606
+PROPIEDAD INDUSTRIAL
+SE VENDE
+
+400
+00:37:48,580 --> 00:37:50,002
+¿Y bien?
+
+401
+00:37:51,339 --> 00:37:53,260
+Podría funcionar.
+
+402
+00:37:55,179 --> 00:37:56,935
+Está bien.
+
+403
+00:39:43,522 --> 00:39:47,404
+<i>- ¿En qué puedo ayudarle?
+- Con la doctora Lara Cruz, por favor.</i>
+
+404
+00:39:47,571 --> 00:39:49,745
+<i>- ¿Puede esperar un momento?
+- Sí, esperaré.</i>
+
+405
+00:39:49,912 --> 00:39:52,962
+JOYAS Y ARTESANÍAS INDIAS
+
+406
+00:39:58,097 --> 00:39:59,637
+<i>- Gracias por su paciencia.
+- ¿Doctora...?</i>
+
+407
+00:39:59,805 --> 00:40:02,429
+<i>- ¿Es una emergencia?
+- Necesito hablar con ella.</i>
+
+408
+00:40:02,594 --> 00:40:05,136
+<i>- ¿Quién llama?
+- Sí, Charles McGill.</i>
+
+409
+00:40:05,302 --> 00:40:07,341
+Soy un paciente, antiguo paciente.
+
+410
+00:40:07,509 --> 00:40:10,592
+Necesito ver a la doctora Cruz
+lo antes posible.
+
+411
+00:40:10,759 --> 00:40:13,715
+<i>- La llamaré. Por favor, espere.
+- Gracias.</i>
+
+412
+00:40:19,545 --> 00:40:21,212
+¿Entonces?
+
+413
+00:40:21,462 --> 00:40:24,418
+Tomé los cinco, luego uno más.
+
+414
+00:40:24,794 --> 00:40:27,875
+¿Qué dijo? ¿Se orinó?
+
+415
+00:40:28,042 --> 00:40:31,666
+No, él no estaba, solo sus hombres.
+
+416
+00:40:31,832 --> 00:40:32,832
+Entonces, ¿qué pasó?
+
+417
+00:40:34,831 --> 00:40:38,078
+Lo llamaron, y mientras esperábamos
+a ver qué decía...
+
+418
+00:40:38,246 --> 00:40:40,578
+...uno de ellos me apuntó con un arma
+a la cabeza.
+
+419
+00:40:40,786 --> 00:40:43,077
+¿Te apuntaron con un arma a la cabeza?
+
+420
+00:40:45,282 --> 00:40:47,201
+No fue gran cosa.
+
+421
+00:40:51,323 --> 00:40:52,321
+Lionel.
+
+422
+00:40:53,073 --> 00:40:55,778
+Ve afuera a ver qué averiguó.
+
+423
+00:40:55,945 --> 00:40:57,321
+Sí.
+
+424
+00:41:02,109 --> 00:41:05,566
+Entonces, tu padre...
+
+425
+00:41:05,734 --> 00:41:07,441
+...su tienda...
+
+426
+00:41:08,731 --> 00:41:11,771
+...¿dónde consigue sus telas?
+
+427
+00:41:13,646 --> 00:41:15,854
+Con el distribuidor.
+
+428
+00:41:16,021 --> 00:41:19,520
+¿Y dónde está el distribuidor?
+
+429
+00:41:20,810 --> 00:41:23,684
+- En Jalisco.
+- En Jalisco.
+
+430
+00:41:24,682 --> 00:41:30,096
+Quiero una nueva manera
+de pasar mi mercancía por la frontera.
+
+431
+00:41:30,305 --> 00:41:32,720
+Un negocio legítimo.
+
+432
+00:41:32,886 --> 00:41:34,430
+Sí, pero el del pollo...
+
+433
+00:41:34,636 --> 00:41:39,884
+Temporal. Quiero una nueva pantalla,
+que sea mía.
+
+434
+00:41:40,549 --> 00:41:46,506
+Don Hector,
+mi padre es un hombre sencillo.
+
+435
+00:41:46,673 --> 00:41:49,796
+Él no está en el negocio.
+
+436
+00:41:50,129 --> 00:41:53,002
+- Tú le enseñarás.
+- Don Hector, por favor...
+
+437
+00:41:53,170 --> 00:41:56,167
+No te preocupes. Yo cuidaré bien a papi.
+Hará dinero.
+
+438
+00:41:56,335 --> 00:41:58,918
+Mucho más que con su maquinita
+de coser.
+
+439
+00:41:59,540 --> 00:42:02,750
+Lionel habló con nuestro hombre
+en Los Lunas. Tuco apuñaló a un tipo.
+
+440
+00:42:02,956 --> 00:42:05,123
+Le partió la quijada a un guardia.
+Lo tienen aislado.
+
+441
+00:42:05,290 --> 00:42:08,371
+¿Qué? Solo tenía que estar seis meses
+en la cárcel.
+
+442
+00:42:08,539 --> 00:42:10,495
+Estará ahí eternamente.
+
+443
+00:42:34,816 --> 00:42:36,358
+Jefe.
+
+444
+00:42:49,102 --> 00:42:51,934
+Habla con tu padre.
+
+445
+00:43:13,840 --> 00:43:15,466
+Le prometo que en cuanto vea
+el primero...
+
+446
+00:43:15,632 --> 00:43:18,339
+...querrá el paquete completo.
+
+447
+00:43:19,589 --> 00:43:20,962
+Tomará como una hora.
+
+448
+00:43:21,130 --> 00:43:24,628
+Llevaré a todo el equipo.
+Estaremos ahí a las 12:30 en punto.
+
+449
+00:43:24,794 --> 00:43:27,295
+Lo voy a convertir en una estrella.
+
+450
+00:43:27,502 --> 00:43:31,084
+Desde luego, estará al aire
+mañana por la tarde.
+
+451
+00:43:31,252 --> 00:43:34,082
+Yo sé. Es increíble.
+
+452
+00:43:34,248 --> 00:43:38,662
+<i>Muy bien, y no se vista de rayas
+porque quedará moirè.</i>
+
+453
+00:43:38,830 --> 00:43:41,372
+Es un término de realización.
+No se vista de rayas y ya.
+
+454
+00:43:41,538 --> 00:43:43,618
+Muy bien. Hasta entonces.
+
+455
+00:43:45,909 --> 00:43:48,159
+- ¿Quieres una cerveza?
+- Sí. Gracias.
+
+456
+00:43:48,325 --> 00:43:53,407
+Esta noche dormirás en tu propia cama.
+Las cosas deben ir bien.
+
+457
+00:43:53,990 --> 00:43:56,030
+Necesitaba ropa limpia.
+
+458
+00:43:57,072 --> 00:43:58,736
+¿Qué fue todo eso?
+
+459
+00:43:58,905 --> 00:44:03,154
+- Estoy soltando ese tiempo de emisión.
+- Pero pensé que no podías venderlo.
+
+460
+00:44:03,320 --> 00:44:05,069
+Ese es el asunto. No lo estoy vendiendo.
+
+461
+00:44:05,235 --> 00:44:09,233
+Me pagan por hacer un comercial.
+Yo incluyo la emisión gratis.
+
+462
+00:44:09,399 --> 00:44:10,981
+- Inteligente.
+- Sí.
+
+463
+00:44:11,149 --> 00:44:14,897
+Pasé casi todo el día de puerta en puerta
+vendiendo. No hubo suerte.
+
+464
+00:44:15,065 --> 00:44:18,729
+Entonces pensé: "Estoy vendiendo
+publicidad, ¿por qué no publicitar?".
+
+465
+00:44:18,937 --> 00:44:22,520
+Y funcionó. Digo, los comerciales
+de televisión generan llamadas.
+
+466
+00:44:22,728 --> 00:44:26,599
+¿Qué comercial hiciste?
+¿No...? ¿No el de "Dame a Jimmy"?
+
+467
+00:44:26,809 --> 00:44:30,266
+No, yo... hice uno nuevo.
+
+468
+00:44:31,015 --> 00:44:32,389
+¿Cuándo?
+
+469
+00:44:32,556 --> 00:44:34,014
+Hoy.
+
+470
+00:44:35,680 --> 00:44:36,720
+Aquí está.
+
+471
+00:44:36,887 --> 00:44:39,511
+¿Entonces hiciste un comercial
+para hacer comerciales hoy?
+
+472
+00:44:39,720 --> 00:44:43,092
+Sí, estoy empezando a pensar
+que quizá cubra pérdidas.
+
+473
+00:44:45,676 --> 00:44:48,006
+Está bien. A ver.
+
+474
+00:44:48,881 --> 00:44:50,172
+No sé.
+
+475
+00:44:50,339 --> 00:44:54,713
+No es mi mejor trabajo.
+Lo hice a última hora.
+
+476
+00:44:54,879 --> 00:44:57,546
+Bueno, te están llamando.
+No puede ser tan malo.
+
+477
+00:44:57,711 --> 00:44:59,544
+Sí.
+
+478
+00:44:59,709 --> 00:45:02,667
+¿Qué, ahora te vuelves tímido?
+
+479
+00:45:03,876 --> 00:45:05,666
+Vamos.
+
+480
+00:45:06,206 --> 00:45:08,539
+Está bien, pero ten en cuenta...
+
+481
+00:45:08,706 --> 00:45:12,539
+Sí, sí, no es tu mejor trabajo.
+Ya entendí.
+
+482
+00:45:27,197 --> 00:45:30,571
+<i>¿Qué es eso que veo? ¿La próxima
+estrella de televisión de Albuquerque?</i>
+
+483
+00:45:30,778 --> 00:45:32,237
+<i>Es usted, pequeño empresario.</i>
+
+484
+00:45:32,403 --> 00:45:34,652
+<i>¿Le cuesta mantenerse
+en la rápida economía de hoy?</i>
+
+485
+00:45:34,819 --> 00:45:37,859
+<i>¿Creía que la publicidad en televisión
+era muy cara para usted?</i>
+
+486
+00:45:38,026 --> 00:45:42,066
+<i>Pues, piénselo mejor. No puede
+darse el lujo de no salir en televisión.</i>
+
+487
+00:45:42,234 --> 00:45:44,357
+<i>Mírese. Es una amenaza triple.</i>
+
+488
+00:45:44,524 --> 00:45:47,064
+<i>Estupendo servicio,
+estupendos productos, y sobre todo...</i>
+
+489
+00:45:47,230 --> 00:45:49,603
+<i>...esa cara. Usted es una estrella.</i>
+
+490
+00:45:49,772 --> 00:45:54,768
+<i>Envuélvalo todo en su carisma natural
+y pum, debería estar en televisión.</i>
+
+491
+00:45:54,935 --> 00:45:58,059
+<i>Tenga cuidado con los cazadores
+de autógrafos y los paparazzi.</i>
+
+492
+00:45:58,226 --> 00:46:00,807
+<i>Y se pone mejor.
+Lo puedo tener al aire mañana.</i>
+
+493
+00:46:00,974 --> 00:46:02,846
+<i>Me escuchó bien. Mañana.</i>
+
+494
+00:46:03,014 --> 00:46:05,390
+<i>Mejor prepárese para ser famoso
+en Albuquerque.</i>
+
+495
+00:46:05,555 --> 00:46:08,553
+<i>Lo puedo convertir en estrella
+por un precio que puede pagar.</i>
+
+496
+00:46:08,804 --> 00:46:10,179
+<i>Llámeme a mí: Saul Goodman.</i>
+
+497
+00:46:10,345 --> 00:46:13,052
+<i>El mundo necesita saber
+sobre usted y su negocio.</i>
+
+498
+00:46:13,218 --> 00:46:14,594
+<i>Llámeme ahora.</i>
+
+499
+00:46:14,760 --> 00:46:16,384
+PRODUCCIONES
+SAUL GOODMAN
+
+500
+00:46:18,509 --> 00:46:22,257
+El del canal nunca había visto tantas
+transiciones seguidas con estrellas.
+
+501
+00:46:22,423 --> 00:46:24,755
+Nunca se había hecho.
+
+502
+00:46:26,921 --> 00:46:28,295
+¿Saul Goodman?
+
+503
+00:46:28,462 --> 00:46:31,459
+Sí, como decir en inglés:
+"Todo bien, hombre".
+
+504
+00:46:31,627 --> 00:46:33,794
+- Ese tipo tiene mucha energía.
+- Sí.
+
+505
+00:46:35,000 --> 00:46:37,085
+Solo es un nombre.
+
