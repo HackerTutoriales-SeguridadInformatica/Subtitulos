@@ -1,0 +1,2298 @@
+1
+00:00:15,558 --> 00:00:16,559
+¡Carajo!
+
+2
+00:00:42,627 --> 00:00:43,628
+Por favor.
+
+3
+00:01:49,861 --> 00:01:50,862
+Muy bien.
+
+4
+00:02:01,956 --> 00:02:02,957
+Por favor.
+
+5
+00:02:15,470 --> 00:02:16,471
+Vamos.
+
+6
+00:03:51,524 --> 00:03:53,526
+BASADO EN LA SERIE DE LIBROS DE SILO
+POR HUGH HOWEY
+
+7
+00:04:33,816 --> 00:04:35,944
+BOMBA DE AGUAS RESIDUALES, PISO 90
+
+8
+00:05:29,956 --> 00:05:31,374
+¿Está ocupado este asiento?
+
+9
+00:05:33,293 --> 00:05:34,294
+No.
+
+10
+00:05:35,128 --> 00:05:36,754
+Siéntate, por favor.
+
+11
+00:05:41,718 --> 00:05:43,011
+Eres un hombre valiente.
+
+12
+00:05:43,720 --> 00:05:44,720
+¿Por qué?
+
+13
+00:05:44,721 --> 00:05:46,973
+Usamos las galletas de Maeve
+como contrapeso.
+
+14
+00:05:47,682 --> 00:05:50,100
+Dos amigos perdieron dientes
+al intentar morderlas.
+
+15
+00:05:50,101 --> 00:05:52,729
+Mi esposa siempre intenta
+que mastique más mi comida.
+
+16
+00:05:53,396 --> 00:05:54,772
+Era un buen ejercicio.
+
+17
+00:05:57,275 --> 00:05:59,651
+¿Y qué vas a hacer ahora?
+
+18
+00:05:59,652 --> 00:06:01,778
+Haré lo posible para obtener respuestas.
+
+19
+00:06:01,779 --> 00:06:02,906
+¿Aquí abajo?
+
+20
+00:06:03,573 --> 00:06:05,949
+- ¿Aún eres alguacil?
+- Hasta que se me diga lo contrario.
+
+21
+00:06:05,950 --> 00:06:08,619
+Así que, básicamente,
+¿te estás escondiendo?
+
+22
+00:06:08,620 --> 00:06:09,704
+No.
+
+23
+00:06:12,957 --> 00:06:14,042
+Tal vez.
+
+24
+00:06:15,877 --> 00:06:19,088
+Bueno, mientras tanto,
+¿por qué no haces algo útil?
+
+25
+00:06:20,465 --> 00:06:21,757
+Ayúdanos.
+
+26
+00:06:21,758 --> 00:06:24,259
+Hasta donde el Pacto lo permita.
+
+27
+00:06:24,260 --> 00:06:25,552
+Tengo una pregunta para ti.
+
+28
+00:06:25,553 --> 00:06:30,015
+¿Qué dice el Pacto sobre personas
+que apuñalan a alguien en el corazón
+
+29
+00:06:30,016 --> 00:06:31,433
+e intentan culpar a otras?
+
+30
+00:06:31,434 --> 00:06:33,685
+- Necesito pruebas de que...
+- No sigas con lo mismo.
+
+31
+00:06:33,686 --> 00:06:35,313
+Sabes que no podrás probar nada.
+
+32
+00:06:36,356 --> 00:06:41,861
+El alcalde y Sims se reirán mucho
+de tu patético intento de enjuiciarlos.
+
+33
+00:06:42,445 --> 00:06:45,990
+Mientras Walker, Knox y yo
+colgamos frente a Jurídico.
+
+34
+00:06:46,908 --> 00:06:48,450
+Los Fundadores establecieron un proceso,
+
+35
+00:06:48,451 --> 00:06:50,410
+- uno adecuado.
+- ¿Los Fundadores?
+
+36
+00:06:50,411 --> 00:06:54,831
+¿Has considerado que los Fundadores,
+
+37
+00:06:54,832 --> 00:06:56,458
+quienes sea que fueran,
+
+38
+00:06:56,459 --> 00:06:59,503
+mentían por completo sobre todo?
+
+39
+00:06:59,504 --> 00:07:00,964
+No.
+
+40
+00:07:02,006 --> 00:07:03,091
+No.
+
+41
+00:07:09,055 --> 00:07:12,809
+Si no respetamos el orden de las cosas,
+entonces todo se derrumba.
+
+42
+00:07:14,602 --> 00:07:17,437
+El Pacto es lo que tenemos.
+
+43
+00:07:17,438 --> 00:07:19,732
+Nos regimos por esas palabras.
+
+44
+00:07:20,400 --> 00:07:25,780
+Vendrá el momento en el que tendrás
+que alzar la voz contra las mentiras.
+
+45
+00:07:42,589 --> 00:07:43,590
+Muy bien.
+
+46
+00:08:05,028 --> 00:08:06,529
+Oye, ¿quién carajo eres?
+
+47
+00:08:07,113 --> 00:08:08,114
+Lukas Kyle.
+
+48
+00:08:09,365 --> 00:08:11,617
+El aprendiz del jefe de TI.
+
+49
+00:08:11,618 --> 00:08:13,368
+Holland no tiene un aprendiz.
+
+50
+00:08:13,369 --> 00:08:14,661
+Así que tienes que irte.
+
+51
+00:08:14,662 --> 00:08:18,583
+- No, tengo un...
+- Oye, estamos siendo amables.
+
+52
+00:08:19,626 --> 00:08:21,669
+¿O quieres que esto sea de otra manera?
+
+53
+00:08:24,714 --> 00:08:25,797
+Es azul.
+
+54
+00:08:25,798 --> 00:08:27,258
+Sí, conozco los colores.
+
+55
+00:08:28,801 --> 00:08:29,801
+¿Qué haces aquí?
+
+56
+00:08:29,802 --> 00:08:33,597
+El alcalde Holland me pidió buscar algo
+en el apartamento de la jueza.
+
+57
+00:08:33,598 --> 00:08:35,682
+- ¿Qué cosa?
+- No puedo decirles.
+
+58
+00:08:35,683 --> 00:08:39,353
+El juez Sims nos pidió empacar todo
+y llevarlo a Jurídico.
+
+59
+00:08:40,063 --> 00:08:41,648
+No sé qué van a decirle,
+
+60
+00:08:43,316 --> 00:08:47,070
+pero necesito estar solo.
+
+61
+00:08:49,614 --> 00:08:50,615
+Ahora.
+
+62
+00:09:43,918 --> 00:09:46,712
+DESCENDIENTES DE SALVADOR QUINN
+
+63
+00:09:46,713 --> 00:09:47,881
+RESTRINGIDO
+
+64
+00:10:12,447 --> 00:10:15,157
+¿Qué es lo que van a hacer ahora?
+¿Subirán de nuevo por el piso?
+
+65
+00:10:15,158 --> 00:10:16,992
+No, iremos de noche.
+
+66
+00:10:16,993 --> 00:10:19,912
+Por el lado opuesto, en las sillas
+que Jules y Coop usaron en el generador.
+
+67
+00:10:19,913 --> 00:10:21,371
+Y de algún modo,
+
+68
+00:10:21,372 --> 00:10:26,251
+al entrar en Suministros Médicos
+sin ser vistos y sin que los identifiquen,
+
+69
+00:10:26,252 --> 00:10:28,086
+¿las cosas se arreglarán mágicamente?
+
+70
+00:10:28,087 --> 00:10:29,588
+Se acaban los recursos, Walk.
+
+71
+00:10:29,589 --> 00:10:32,257
+Son tan escasos
+que usamos trapos para vendajes
+
+72
+00:10:32,258 --> 00:10:34,051
+y licor barato como anestesia.
+
+73
+00:10:34,052 --> 00:10:35,511
+Si tu hija estuviera aquí,
+
+74
+00:10:35,512 --> 00:10:38,722
+les diría a esos ineptos
+que están locos si siguen con su plan.
+
+75
+00:10:38,723 --> 00:10:41,391
+- ¿Tienes una mejor idea?
+- Claro que sí.
+
+76
+00:10:41,392 --> 00:10:43,685
+No necesitan ir a Suministros
+por vendajes.
+
+77
+00:10:43,686 --> 00:10:46,105
+Necesitan ir por McLain
+para que ella se los dé.
+
+78
+00:10:46,689 --> 00:10:50,859
+Sacar a McLain de detención es 200 %
+más difícil que entrar a Suministros.
+
+79
+00:10:50,860 --> 00:10:52,778
+No me interesan las probabilidades.
+
+80
+00:10:52,779 --> 00:10:54,322
+Al menos deberíamos intentarlo.
+
+81
+00:10:54,906 --> 00:10:57,449
+Ella se sacrificó por nosotros.
+
+82
+00:10:57,450 --> 00:10:58,951
+Eso debería contar para algo.
+
+83
+00:10:58,952 --> 00:11:01,704
+- Claro que sí, pero...
+- No me des ningún pero.
+
+84
+00:11:02,455 --> 00:11:03,914
+Si siguen adelante con esto,
+
+85
+00:11:03,915 --> 00:11:06,458
+los arrestarán o tal vez los maten.
+
+86
+00:11:06,459 --> 00:11:07,626
+¿Y adivinen qué?
+
+87
+00:11:07,627 --> 00:11:10,170
+McLain seguirá encerrada
+y nosotros estaremos peor.
+
+88
+00:11:10,171 --> 00:11:11,755
+Walk, tenemos que seguir...
+
+89
+00:11:11,756 --> 00:11:14,216
+¿Saben qué? Lárguense de mi taller.
+
+90
+00:11:14,217 --> 00:11:17,886
+Vayan con su estúpido juego a otra parte.
+Yo tengo trabajo que hacer.
+
+91
+00:11:17,887 --> 00:11:20,139
+- ¡Por favor, Walk!
+- Ya me escuchaste. Largo.
+
+92
+00:11:30,525 --> 00:11:33,236
+Sabemos lo que McLain
+significa para ti, Walk.
+
+93
+00:11:34,279 --> 00:11:35,280
+¡Vete!
+
+94
+00:11:54,340 --> 00:11:56,050
+Debe ser una broma.
+
+95
+00:12:46,643 --> 00:12:49,394
+Dos de mis hombres
+empacaban en el apartamento de Meadows
+
+96
+00:12:49,395 --> 00:12:54,108
+cuando Lukas Kyle, ese idiota al que tú
+y yo enviamos a las minas, irrumpe,
+
+97
+00:12:55,276 --> 00:12:57,319
+muestra su nueva identificación azul
+
+98
+00:12:57,320 --> 00:12:59,113
+y dice que va de parte de Bernard.
+
+99
+00:12:59,906 --> 00:13:01,157
+¿Qué es lo que hace?
+
+100
+00:13:02,450 --> 00:13:03,451
+No lo sé.
+
+101
+00:13:03,952 --> 00:13:06,996
+Y si lo supiera, no podría decirte.
+
+102
+00:13:08,206 --> 00:13:10,291
+Hasta donde sé, trabajas para Jurídico.
+
+103
+00:13:11,709 --> 00:13:16,339
+Y ya que soy el juez Sims,
+significa que trabajas para mí.
+
+104
+00:13:17,715 --> 00:13:18,716
+Por favor, Rob.
+
+105
+00:13:19,342 --> 00:13:20,426
+Cuando tú tenías mi puesto,
+
+106
+00:13:20,927 --> 00:13:22,720
+¿le reportabas a la jueza Meadows
+
+107
+00:13:23,388 --> 00:13:24,722
+más de lo necesario?
+
+108
+00:13:33,690 --> 00:13:34,982
+¡Walk!
+
+109
+00:13:34,983 --> 00:13:37,402
+Espera. Oye, espera.
+
+110
+00:13:38,152 --> 00:13:40,405
+- ¿A dónde vas?
+- Eso no te incumbe.
+
+111
+00:13:41,322 --> 00:13:42,531
+De hecho, sí me incumbe.
+
+112
+00:13:42,532 --> 00:13:45,826
+Porque si subes más de diez pisos,
+vas a necesitar protección.
+
+113
+00:13:45,827 --> 00:13:47,495
+Recibí un mensaje en mi computadora.
+
+114
+00:13:47,996 --> 00:13:49,288
+Desactivaron los mensajes.
+
+115
+00:13:49,289 --> 00:13:50,747
+Bueno, los activaron para mí.
+
+116
+00:13:50,748 --> 00:13:51,999
+¿Quién lo hizo?
+
+117
+00:13:52,000 --> 00:13:53,458
+Extracción de aguas.
+
+118
+00:13:53,459 --> 00:13:55,919
+Hay una solicitud para hacer un servicio.
+
+119
+00:13:55,920 --> 00:13:57,963
+La bomba en el 90 no funciona.
+
+120
+00:13:57,964 --> 00:14:00,382
+La última vez que la revisé,
+tú seguías en pañales.
+
+121
+00:14:00,383 --> 00:14:01,884
+Walk, es una trampa.
+
+122
+00:14:01,885 --> 00:14:04,136
+Me aseguraron que el camino sería seguro.
+
+123
+00:14:04,137 --> 00:14:07,639
+¿Para alguien que dicen estar relacionada
+al complot de asesinato de la jueza?
+
+124
+00:14:07,640 --> 00:14:10,726
+Dijeron que el mantenimiento de la bomba
+tiene prioridad.
+
+125
+00:14:10,727 --> 00:14:12,061
+Aún creo que es una trampa.
+
+126
+00:14:12,562 --> 00:14:15,648
+Bueno, si me echan a una celda,
+tal vez me pongan con Carla.
+
+127
+00:14:16,482 --> 00:14:18,442
+Al menos tendré unas horas
+lejos de ustedes
+
+128
+00:14:18,443 --> 00:14:19,861
+y de sus planes estúpidos.
+
+129
+00:15:16,751 --> 00:15:18,961
+- ¿Qué?
+- Tengo algunas preguntas.
+
+130
+00:15:18,962 --> 00:15:20,046
+Bien por ti.
+
+131
+00:15:24,175 --> 00:15:25,343
+No.
+
+132
+00:15:30,014 --> 00:15:32,891
+Dile a tu jefe que tendrá su paño
+antes de la próxima limpieza, ¿sí?
+
+133
+00:15:32,892 --> 00:15:35,562
+Bien.
+Señora, no tiene que ver con el paño.
+
+134
+00:15:36,896 --> 00:15:39,731
+Es sobre algo de vital importancia
+para el Silo.
+
+135
+00:15:39,732 --> 00:15:40,942
+¿Al igual que un paño?
+
+136
+00:15:41,609 --> 00:15:43,194
+Es sobre Salvador Quinn.
+
+137
+00:15:44,237 --> 00:15:45,613
+No conozco a nadie llamado así.
+
+138
+00:15:47,323 --> 00:15:50,951
+Muy bien, bueno,
+¿Terrance Penbrook vive aquí?
+
+139
+00:15:50,952 --> 00:15:54,329
+Es mi suegro,
+pero está en las granjas ahora, así que...
+
+140
+00:15:54,330 --> 00:15:56,623
+Sí. Bueno, su suegro
+es un descendiente directo
+
+141
+00:15:56,624 --> 00:15:58,293
+- de Salvador...
+- ¿Quién es, Josey?
+
+142
+00:15:59,627 --> 00:16:00,628
+Alguien de TI.
+
+143
+00:16:01,129 --> 00:16:03,798
+Dice que necesita hablar con usted
+de Salvador Quinn.
+
+144
+00:16:05,133 --> 00:16:08,094
+¿Qué necesitas saber de ese bastardo
+que aún no sepas?
+
+145
+00:16:09,220 --> 00:16:11,013
+Señor, ¿podría entrar? Es...
+
+146
+00:16:11,014 --> 00:16:13,682
+No, debo vigilar a las ovejas.
+Ya voy tarde.
+
+147
+00:16:13,683 --> 00:16:18,855
+Señor, no creo que haya visto bien esto,
+
+148
+00:16:19,522 --> 00:16:21,024
+del color que es.
+
+149
+00:16:22,400 --> 00:16:26,362
+¿Quiere que lo arrastren hacia arriba
+para una interrogación oficial?
+
+150
+00:16:31,242 --> 00:16:32,327
+Gracias.
+
+151
+00:16:36,706 --> 00:16:38,957
+Hacen los paños para las limpiezas, ¿no?
+
+152
+00:16:38,958 --> 00:16:41,878
+Sí, señor. Cuatro generaciones.
+
+153
+00:16:42,462 --> 00:16:44,296
+Brandon será la quinta.
+
+154
+00:16:44,297 --> 00:16:46,089
+Claro que hacemos más que eso.
+
+155
+00:16:46,090 --> 00:16:49,301
+También hacemos mantas para los de Arriba.
+
+156
+00:16:49,302 --> 00:16:50,385
+¿Qué quiere?
+
+157
+00:16:50,386 --> 00:16:54,473
+Hay propiedad que falta
+en los archivos de TI,
+
+158
+00:16:54,474 --> 00:16:56,850
+propiedad que el señor Quinn
+tomó sin permiso
+
+159
+00:16:56,851 --> 00:17:00,438
+y la cual creemos que sigue en posesión
+de sus descendientes.
+
+160
+00:17:02,649 --> 00:17:03,900
+No sé nada sobre eso.
+
+161
+00:17:04,692 --> 00:17:05,693
+No.
+
+162
+00:17:06,194 --> 00:17:08,820
+¿Quizá documentos...,
+
+163
+00:17:10,572 --> 00:17:11,866
+reliquias...,
+
+164
+00:17:12,783 --> 00:17:14,327
+- libros?
+- ¿Libros?
+
+165
+00:17:15,369 --> 00:17:17,663
+Todos los libros fueron destruidos
+en la rebelión.
+
+166
+00:17:17,664 --> 00:17:20,207
+¿Y por qué demonios
+guardaríamos algo de él?
+
+167
+00:17:20,208 --> 00:17:24,795
+El nombre "Salvador Quinn" trajo vergüenza
+y deshonra a esta familia.
+
+168
+00:17:24,796 --> 00:17:29,384
+Yo le creo
+y desearía que eso fuera suficiente,
+
+169
+00:17:31,052 --> 00:17:33,846
+pero temo que tendré que pedir a Jurídico
+un equipo de búsqueda.
+
+170
+00:17:33,847 --> 00:17:36,431
+- ¿Qué? No, no tenemos nada.
+- Oye, espera un momento.
+
+171
+00:17:36,432 --> 00:17:41,604
+Bueno, tal vez deban hacer
+una búsqueda a fondo para asegurarse.
+
+172
+00:17:42,188 --> 00:17:44,523
+Iré por un café y luego regresaré.
+
+173
+00:17:44,524 --> 00:17:46,943
+Por favor. No tenemos nada.
+
+174
+00:17:59,372 --> 00:18:00,623
+¡Oye!
+
+175
+00:18:03,126 --> 00:18:04,586
+¿Puedo darte un consejo?
+
+176
+00:18:05,086 --> 00:18:06,837
+Señor, como le expliqué...
+
+177
+00:18:06,838 --> 00:18:09,716
+Hace no mucho
+que tienes esa identificación, ¿cierto?
+
+178
+00:18:11,301 --> 00:18:17,307
+Veo que te esfuerzas por ser un tipo rudo,
+pero no lo eres.
+
+179
+00:18:18,850 --> 00:18:20,518
+Los tipos rudos
+
+180
+00:18:21,311 --> 00:18:23,271
+difícilmente dicen algo.
+
+181
+00:18:26,274 --> 00:18:28,401
+No hablamos sobre Salvador Quinn.
+
+182
+00:18:30,069 --> 00:18:32,863
+Mi familia se libró de ese nombre
+hace mucho tiempo.
+
+183
+00:18:32,864 --> 00:18:33,947
+Muy bien.
+
+184
+00:18:33,948 --> 00:18:38,661
+¿Sabe por qué hacemos los paños
+para las limpiezas?
+
+185
+00:18:39,245 --> 00:18:40,454
+No, ¿por qué?
+
+186
+00:18:40,455 --> 00:18:44,458
+Ciento cuarenta años
+y aún intentamos expiar
+
+187
+00:18:44,459 --> 00:18:48,421
+el estar relacionados
+al hombre que casi destruyó al Silo.
+
+188
+00:18:58,431 --> 00:19:00,475
+<i>El legado de fracasos de Quinn continúa.</i>
+
+189
+00:19:01,100 --> 00:19:02,685
+Su familia no fue de ayuda.
+
+190
+00:19:03,228 --> 00:19:06,814
+Salvador Quinn no fue un fracaso.
+
+191
+00:19:07,690 --> 00:19:11,109
+Permitió que los rebeldes borraran
+los servidores y quemaran los libros.
+
+192
+00:19:11,110 --> 00:19:15,365
+Es lo que nos han enseñado,
+pero no es la verdad.
+
+193
+00:19:17,116 --> 00:19:19,744
+Salvador Quinn salvó al Silo.
+
+194
+00:19:20,662 --> 00:19:24,624
+Antes de él, había rebeliones
+cada 20 años aproximadamente.
+
+195
+00:19:25,792 --> 00:19:28,919
+Y en cada rebelión
+existía el riesgo de abrir la esclusa
+
+196
+00:19:28,920 --> 00:19:30,964
+y la muerte de diez mil personas.
+
+197
+00:19:32,048 --> 00:19:34,676
+Quinn vio que parte del problema
+
+198
+00:19:35,218 --> 00:19:38,763
+era que la gente
+sabía sobre las rebeliones anteriores,
+
+199
+00:19:39,430 --> 00:19:44,310
+así que ideó una solución radical,
+quitarle al Silo el acceso a su historia.
+
+200
+00:19:45,019 --> 00:19:47,021
+Cortó el acceso a los servidores,
+
+201
+00:19:47,814 --> 00:19:49,399
+confiscó los libros,
+
+202
+00:19:50,859 --> 00:19:52,526
+luego culpó a los rebeldes.
+
+203
+00:19:52,527 --> 00:19:55,445
+¿Y cómo es que nadie sabe que él lo hizo?
+
+204
+00:19:55,446 --> 00:19:57,907
+- Sin duda había alguien...
+- Puso algo en el agua.
+
+205
+00:19:58,449 --> 00:20:00,033
+Un compuesto químico.
+
+206
+00:20:00,034 --> 00:20:02,287
+Una droga que nos hace olvidar.
+
+207
+00:20:02,871 --> 00:20:04,663
+No todo a la vez.
+
+208
+00:20:04,664 --> 00:20:08,668
+Durante el transcurso de las semanas,
+meses y años.
+
+209
+00:20:10,461 --> 00:20:12,881
+Y la consecuencia de esto...
+
+210
+00:20:14,716 --> 00:20:17,302
+fueron 140 años de paz.
+
+211
+00:20:20,889 --> 00:20:21,973
+Hasta ahora.
+
+212
+00:20:52,504 --> 00:20:53,588
+¡Carajo!
+
+213
+00:20:54,589 --> 00:20:56,591
+Eso sabe como a la axila de mi hermano.
+
+214
+00:20:58,718 --> 00:21:01,929
+No preguntaré cómo sabes
+a qué saben las axilas de tu hermano,
+
+215
+00:21:01,930 --> 00:21:03,722
+pero aún necesitas beberlo.
+
+216
+00:21:03,723 --> 00:21:05,057
+¿Qué es lo que tiene?
+
+217
+00:21:05,058 --> 00:21:08,393
+Es una receta vieja
+pasada de generación en generación,
+
+218
+00:21:08,394 --> 00:21:10,395
+tal vez desde tiempos antes del Silo.
+
+219
+00:21:10,396 --> 00:21:13,233
+Tú y tu esposo parece que saben mucho
+sobre esos tiempos.
+
+220
+00:21:19,822 --> 00:21:20,823
+¿Por qué lo dices?
+
+221
+00:21:21,824 --> 00:21:22,909
+Me mostró esa página...
+
+222
+00:21:25,203 --> 00:21:26,204
+con todos los árboles...,
+
+223
+00:21:27,997 --> 00:21:29,123
+todo era verde.
+
+224
+00:21:35,630 --> 00:21:36,756
+¿A ti qué te pareció?
+
+225
+00:21:37,924 --> 00:21:39,342
+Fue especial.
+
+226
+00:21:41,135 --> 00:21:42,470
+Sí, fue especial.
+
+227
+00:21:59,779 --> 00:22:00,822
+¡Oye!
+
+228
+00:22:01,531 --> 00:22:04,534
+No sé dónde estás y no me importa, ¿sí?
+
+229
+00:22:05,326 --> 00:22:07,954
+Pero el hombre que te llevaste
+tiene algo que necesito.
+
+230
+00:22:18,131 --> 00:22:19,132
+¡Basta!
+
+231
+00:22:22,760 --> 00:22:24,595
+¡El hombre que te llevaste
+tiene algo que necesito!
+
+232
+00:22:24,596 --> 00:22:25,762
+- Lo maté...
+- ¿Qué?
+
+233
+00:22:25,763 --> 00:22:27,723
+Y te mataré también si no te vas.
+
+234
+00:22:27,724 --> 00:22:30,602
+No. Escucha,
+déjame hablar con él, por favor.
+
+235
+00:22:31,227 --> 00:22:32,645
+Te lo advertí.
+
+236
+00:23:06,930 --> 00:23:08,639
+Hola, extraño.
+
+237
+00:23:08,640 --> 00:23:09,932
+Camille.
+
+238
+00:23:09,933 --> 00:23:12,267
+Café, cuando puedas, por favor. Negro.
+
+239
+00:23:12,268 --> 00:23:13,186
+Por supuesto.
+
+240
+00:23:13,770 --> 00:23:16,104
+Así que debes estar muy involucrado.
+
+241
+00:23:16,105 --> 00:23:17,523
+Trabajando todo el día.
+
+242
+00:23:17,524 --> 00:23:19,025
+Casi sin parar.
+
+243
+00:23:19,567 --> 00:23:20,860
+Ha de ser duro para Marcy.
+
+244
+00:23:21,819 --> 00:23:23,947
+Sí, sé cómo son esos turnos.
+
+245
+00:23:25,323 --> 00:23:28,492
+No era fácil preguntarse
+cuándo volvería Rob a casa.
+
+246
+00:23:28,493 --> 00:23:29,953
+Si es que iba a volver.
+
+247
+00:23:30,578 --> 00:23:33,581
+Marcy no se queja demasiado.
+
+248
+00:23:34,749 --> 00:23:37,627
+Recuerdo cuando ustedes fueron a cenar.
+
+249
+00:23:38,294 --> 00:23:39,462
+Solo estaban saliendo.
+
+250
+00:23:40,213 --> 00:23:42,130
+Sí, supe en ese momento
+que ella era fuerte.
+
+251
+00:23:42,131 --> 00:23:43,508
+Sí que lo es.
+
+252
+00:23:44,509 --> 00:23:47,553
+¿Sabías que fue la primera vez
+que Rob invitó a uno de sus agentes?
+
+253
+00:23:47,554 --> 00:23:50,014
+¿Y ahora? Ya tienes a un bebé en camino.
+
+254
+00:23:50,515 --> 00:23:51,682
+Nace en dos meses.
+
+255
+00:23:51,683 --> 00:23:52,976
+Eso es maravilloso.
+
+256
+00:23:53,977 --> 00:23:54,811
+Una bendición.
+
+257
+00:23:55,937 --> 00:23:59,858
+Y, aun así, temo por nuestros hijos.
+
+258
+00:24:01,860 --> 00:24:04,237
+- Creo que no entiendo.
+- Todo está fuera de control.
+
+259
+00:24:04,779 --> 00:24:06,405
+Tú mejor que nadie puede verlo.
+
+260
+00:24:06,406 --> 00:24:08,031
+Resolveremos todo pronto.
+
+261
+00:24:08,032 --> 00:24:09,658
+Es por esos aceitosos de la Profun...
+
+262
+00:24:09,659 --> 00:24:11,369
+No hacen las cosas más sencillas.
+
+263
+00:24:12,954 --> 00:24:14,664
+Pero ¿el problema real no está en TI?
+
+264
+00:24:16,249 --> 00:24:17,959
+No, no lo creo.
+
+265
+00:24:18,710 --> 00:24:21,295
+El nuevo aprendiz del alcalde es un tipo
+
+266
+00:24:21,296 --> 00:24:24,090
+que antes estaba picando rocas
+en las minas
+
+267
+00:24:24,674 --> 00:24:26,759
+y estamos a poco tiempo de una rebelión.
+
+268
+00:24:27,385 --> 00:24:31,263
+- Bernard sabe lo que hace.
+- Eso espero, pero la gente tiene dudas.
+
+269
+00:24:31,264 --> 00:24:34,225
+En todos los pisos,
+no solo en los inferiores.
+
+270
+00:24:35,226 --> 00:24:39,230
+Solo hago mi trabajo,
+así como tu esposo hacía el suyo.
+
+271
+00:24:43,568 --> 00:24:45,445
+Moriremos todos si no tenemos cuidado.
+
+272
+00:24:46,196 --> 00:24:48,864
+Mi esposo tiene las mejores intenciones
+con el Silo.
+
+273
+00:24:48,865 --> 00:24:50,074
+Tienes que creer eso.
+
+274
+00:24:51,993 --> 00:24:55,288
+Necesita que averigües
+lo que hace el aprendiz de Bernard.
+
+275
+00:24:56,372 --> 00:24:57,665
+Aunque quisiera ayudar...,
+
+276
+00:25:00,084 --> 00:25:01,961
+- si Bernard lo averigua...
+- Una cosa.
+
+277
+00:25:03,796 --> 00:25:05,298
+Solo pide una cosa.
+
+278
+00:25:06,341 --> 00:25:09,219
+- Sigue a Lukas Kyle.
+- Hice un juramento, Camille.
+
+279
+00:25:10,094 --> 00:25:12,471
+Como todos, incluido el juez Sims.
+
+280
+00:25:12,472 --> 00:25:14,140
+No solo juraste ante un hombre.
+
+281
+00:25:15,725 --> 00:25:17,018
+Juraste hacia el Silo.
+
+282
+00:25:17,977 --> 00:25:19,729
+Justo ahora, el Silo necesita tu ayuda.
+
+283
+00:25:21,981 --> 00:25:22,981
+Debo irme.
+
+284
+00:25:22,982 --> 00:25:24,275
+Lo siento.
+
+285
+00:25:51,302 --> 00:25:52,345
+Señor Alcalde.
+
+286
+00:25:53,555 --> 00:25:55,265
+Supe que la bomba necesita repararse.
+
+287
+00:25:56,307 --> 00:25:57,433
+Ya no es necesario.
+
+288
+00:26:02,438 --> 00:26:03,689
+Eso fue sencillo.
+
+289
+00:26:03,690 --> 00:26:05,191
+Escuché que querías verme.
+
+290
+00:26:06,651 --> 00:26:07,986
+¿Qué le dio esa idea?
+
+291
+00:26:08,570 --> 00:26:11,113
+Encendiste tu cámara por alguna razón.
+
+292
+00:26:11,114 --> 00:26:12,198
+Eso...
+
+293
+00:26:13,324 --> 00:26:14,450
+Eso fue un error.
+
+294
+00:26:15,159 --> 00:26:18,704
+Bueno, verás,
+yo lo tomé como una invitación.
+
+295
+00:26:18,705 --> 00:26:22,708
+¿A qué? ¿Para tener una buena charla
+porque somos buenos amigos y todo eso?
+
+296
+00:26:22,709 --> 00:26:24,252
+Claro que sí.
+
+297
+00:26:24,836 --> 00:26:29,674
+Aunque esperaba tener la oportunidad
+de negociar.
+
+298
+00:26:57,911 --> 00:26:59,037
+Vamos.
+
+299
+00:28:09,524 --> 00:28:10,525
+JUEZ SIMS,
+
+300
+00:28:14,362 --> 00:28:16,446
+ME ACORDÉ DE CUANDO VINO
+AL FUNERAL DE MI PADRE.
+
+301
+00:28:16,447 --> 00:28:17,739
+SIENTO QUE FUE HACE MUCHO.
+
+302
+00:28:17,740 --> 00:28:19,908
+A VECES ME PREGUNTO CÓMO ES
+QUE ESE ÁRBOL DE MANZANAS CRECIÓ.
+
+303
+00:28:19,909 --> 00:28:20,994
+R. AMUNDSEN
+
+304
+00:28:34,174 --> 00:28:36,092
+Intenté comer la fruta de este árbol.
+
+305
+00:28:36,968 --> 00:28:38,052
+Estaba muy amarga.
+
+306
+00:28:38,803 --> 00:28:41,556
+Creo que le queda
+ya que mi padre era un maldito.
+
+307
+00:28:43,808 --> 00:28:46,352
+Investigué a dónde fue Lukas Kyle.
+
+308
+00:28:46,895 --> 00:28:48,395
+Lo aprecio mucho.
+
+309
+00:28:48,396 --> 00:28:50,731
+Fue del apartamento de la jueza Meadows
+a uno de en Medio
+
+310
+00:28:50,732 --> 00:28:52,816
+habitado por Terrance Penbrook.
+
+311
+00:28:52,817 --> 00:28:54,651
+- Luego fue a la oficina de Bernard.
+- ¿Qué hacía?
+
+312
+00:28:54,652 --> 00:28:56,820
+Buscaba algo. Un libro.
+
+313
+00:28:56,821 --> 00:28:58,448
+Que pertenecía a Salvador Quinn.
+
+314
+00:28:59,282 --> 00:29:01,033
+- ¿Cuál libro?
+- No lo sé.
+
+315
+00:29:01,034 --> 00:29:02,117
+No creo que él lo sepa.
+
+316
+00:29:02,118 --> 00:29:03,619
+¿Dónde está ahora?
+
+317
+00:29:03,620 --> 00:29:05,537
+En las escaleras, va hacia abajo.
+
+318
+00:29:05,538 --> 00:29:07,164
+Bueno, hazme saber dónde está cuan...
+
+319
+00:29:07,165 --> 00:29:08,415
+No.
+
+320
+00:29:08,416 --> 00:29:10,752
+Y deja de enviar a tu esposa
+a pedir favores.
+
+321
+00:29:12,045 --> 00:29:15,715
+Hice esto por ti, juez Sims,
+solo esta vez...
+
+322
+00:29:17,717 --> 00:29:19,010
+porque te lo debía.
+
+323
+00:29:20,345 --> 00:29:22,639
+Pero ya terminamos.
+
+324
+00:29:37,403 --> 00:29:40,030
+Es obstinada, tu McLain.
+
+325
+00:29:40,031 --> 00:29:41,616
+Demasiado.
+
+326
+00:29:42,242 --> 00:29:45,286
+Pero la detención no es fácil para muchos,
+
+327
+00:29:45,954 --> 00:29:47,580
+en especial, para alguien de su edad.
+
+328
+00:29:48,998 --> 00:29:51,041
+No sé cuánto más resista.
+
+329
+00:29:51,042 --> 00:29:52,709
+Entonces, déjela ir.
+
+330
+00:29:52,710 --> 00:29:54,419
+- Bueno...
+- No, hablo en serio.
+
+331
+00:29:54,420 --> 00:29:57,130
+¿Qué hace incomodando a un par de ancianas
+
+332
+00:29:57,131 --> 00:29:59,842
+que estuvieron
+en el lugar y hora equivocados?
+
+333
+00:29:59,843 --> 00:30:01,051
+Por favor.
+
+334
+00:30:01,052 --> 00:30:03,471
+Sabes muy bien que ese no es el caso.
+
+335
+00:30:04,681 --> 00:30:10,019
+Bueno, supongo que si supiera algo,
+no necesitaría vagar como lo hace ahora.
+
+336
+00:30:10,728 --> 00:30:13,397
+Creo que no sabe qué hacer o dónde iniciar
+
+337
+00:30:13,398 --> 00:30:16,650
+y solo está disparando en la oscuridad,
+esperando darle a algo.
+
+338
+00:30:16,651 --> 00:30:19,362
+Intento salvar al Silo, Martha.
+
+339
+00:30:20,530 --> 00:30:22,906
+Y estoy obligado a hacer lo que sea
+para lograrlo.
+
+340
+00:30:22,907 --> 00:30:24,825
+Bueno, bien por usted.
+
+341
+00:30:24,826 --> 00:30:29,371
+Lo que hace Mecánica,
+en pocas palabras, hará que nos maten.
+
+342
+00:30:29,372 --> 00:30:30,789
+Eso cree.
+
+343
+00:30:30,790 --> 00:30:35,044
+Lo creo y antes de dejar que eso pase,
+
+344
+00:30:35,879 --> 00:30:37,754
+tu esposa sufrirá más dolor
+
+345
+00:30:37,755 --> 00:30:40,133
+del que ella creía que podía existir
+en esta vida.
+
+346
+00:30:40,758 --> 00:30:42,051
+No morirá,
+
+347
+00:30:42,594 --> 00:30:46,722
+pero rogará a los Fundadores
+que la dejen morir.
+
+348
+00:30:46,723 --> 00:30:48,099
+Por favor, no.
+
+349
+00:30:49,309 --> 00:30:51,060
+No es por ser dramático,
+
+350
+00:30:52,770 --> 00:30:56,733
+pero su vida está en tus manos.
+
+351
+00:30:59,235 --> 00:31:00,694
+¿Qué es lo que quiere?
+
+352
+00:31:00,695 --> 00:31:05,032
+Si tuviera a alguien que me informe
+con anticipación
+
+353
+00:31:05,033 --> 00:31:08,785
+lo que sea que tu pequeña
+banda de rebeldes esté planeando,
+
+354
+00:31:08,786 --> 00:31:13,166
+entonces tendré oportunidad de regresar
+las cosas a la normalidad.
+
+355
+00:31:16,794 --> 00:31:18,046
+Hola.
+
+356
+00:31:19,839 --> 00:31:21,799
+- Hola.
+- ¿Dónde está Claire?
+
+357
+00:31:22,425 --> 00:31:25,136
+- Está dormida.
+- ¡Vaya! ¿Ya es tan tarde?
+
+358
+00:31:29,599 --> 00:31:30,642
+¿Todo está bien?
+
+359
+00:31:36,564 --> 00:31:37,774
+De hecho, no.
+
+360
+00:31:39,484 --> 00:31:40,527
+¿Qué?
+
+361
+00:31:42,153 --> 00:31:43,320
+¿Qué pasó?
+
+362
+00:31:43,321 --> 00:31:45,156
+Le llevé comida a Patrick Kennedy hoy.
+
+363
+00:31:46,824 --> 00:31:48,116
+Muy bien.
+
+364
+00:31:48,117 --> 00:31:51,704
+Le mostraste una página de un libro
+hecho en los tiempos antes del Silo.
+
+365
+00:31:52,705 --> 00:31:53,873
+¿Eso es cierto?
+
+366
+00:31:55,583 --> 00:31:58,085
+Debí saber que no podría guardárselo.
+
+367
+00:31:58,086 --> 00:31:59,254
+¿Eso es cierto?
+
+368
+00:32:00,713 --> 00:32:03,131
+- Sí.
+- ¿Y se la mostraste a él y no a mí?
+
+369
+00:32:03,132 --> 00:32:06,718
+No debí habérsela enseñado a nadie,
+pero necesitaba convencerlo de decirme...
+
+370
+00:32:06,719 --> 00:32:08,346
+¡No me importa por qué!
+
+371
+00:32:08,972 --> 00:32:11,390
+¿Por qué evitarías enseñarme algo
+
+372
+00:32:11,391 --> 00:32:14,393
+- tan importante como eso?
+- Porque es peligroso.
+
+373
+00:32:14,394 --> 00:32:16,646
+¡No me importa que sea peligroso!
+
+374
+00:32:22,151 --> 00:32:23,611
+¿Es cierto...
+
+375
+00:32:25,697 --> 00:32:29,784
+que había un mundo afuera que era hermoso?
+
+376
+00:32:34,163 --> 00:32:35,540
+Muéstramela.
+
+377
+00:32:37,166 --> 00:32:39,043
+- Kathleen, tú...
+- ¡Muéstramela!
+
+378
+00:33:11,159 --> 00:33:14,245
+Hay todo un libro de fotografías.
+
+379
+00:33:17,415 --> 00:33:18,708
+Personas.
+
+380
+00:33:19,292 --> 00:33:20,418
+El cielo.
+
+381
+00:33:21,377 --> 00:33:22,670
+Animales.
+
+382
+00:33:23,588 --> 00:33:24,756
+Niños.
+
+383
+00:33:29,177 --> 00:33:30,803
+¿Qué pasó, Paul?
+
+384
+00:33:31,429 --> 00:33:32,555
+No lo sé.
+
+385
+00:33:35,266 --> 00:33:36,434
+No lo sé.
+
+386
+00:33:39,479 --> 00:33:41,397
+No sé qué hacer, amor, yo...
+
+387
+00:33:44,526 --> 00:33:45,985
+No sé qué hacer.
+
+388
+00:33:49,572 --> 00:33:51,658
+Necesito disculparme por lo de antes.
+
+389
+00:33:53,785 --> 00:33:57,997
+Intento averiguar algo
+y es muy importante...,
+
+390
+00:33:59,999 --> 00:34:02,377
+pero no justifica cómo actué.
+
+391
+00:34:05,922 --> 00:34:07,923
+La verdad es que soy alguien de en Medio,
+
+392
+00:34:07,924 --> 00:34:11,927
+tuve suerte al conseguir este empleo
+y una identificación especial.
+
+393
+00:34:11,928 --> 00:34:13,219
+Y...
+
+394
+00:34:13,220 --> 00:34:17,559
+Cometí el error de creer
+que quizá soy algo especial,
+
+395
+00:34:18,226 --> 00:34:20,644
+pero no lo soy.
+
+396
+00:34:21,979 --> 00:34:22,981
+Para nada.
+
+397
+00:34:25,400 --> 00:34:28,945
+Salvador Quinn, él es especial.
+
+398
+00:34:29,946 --> 00:34:32,489
+- Fue un héroe.
+- Lo sabía.
+
+399
+00:34:32,490 --> 00:34:34,074
+No nos mientas, hijo.
+
+400
+00:34:34,075 --> 00:34:39,330
+Señor, desearía poder decirles cómo lo sé,
+pero no puedo.
+
+401
+00:34:39,956 --> 00:34:43,917
+Y puede que les cueste creerme
+por lo idiota que fui antes,
+
+402
+00:34:43,918 --> 00:34:48,923
+pero les aseguro que él salvó el Silo.
+
+403
+00:34:50,800 --> 00:34:54,345
+Cuando la jueza Meadows nos visitó,
+intentó decirnos lo mismo.
+
+404
+00:34:56,930 --> 00:34:59,225
+¿La jueza Meadows vino aquí?
+
+405
+00:35:00,602 --> 00:35:01,603
+¿Cuándo?
+
+406
+00:35:02,395 --> 00:35:04,980
+Hace años. Antes de que Brandon naciera.
+
+407
+00:35:04,981 --> 00:35:07,191
+Creo que antes de que fuera jueza.
+
+408
+00:35:07,192 --> 00:35:09,402
+¿Qué quería?
+
+409
+00:35:13,489 --> 00:35:14,532
+Libros.
+
+410
+00:35:15,200 --> 00:35:16,575
+Igual que tú.
+
+411
+00:35:16,576 --> 00:35:18,203
+No importaba si eran reliquias.
+
+412
+00:35:18,828 --> 00:35:20,871
+Dijo que no nos meteríamos en problemas.
+
+413
+00:35:20,872 --> 00:35:23,583
+Tenía una identificación azul, como tú.
+
+414
+00:35:24,209 --> 00:35:26,710
+Dijo que estaba dispuesta
+a hacer un intercambio.
+
+415
+00:35:26,711 --> 00:35:29,589
+- ¿Y ustedes...?
+- Brandon.
+
+416
+00:35:46,105 --> 00:35:49,233
+¿Qué libros intercambiaron por estos?
+
+417
+00:35:49,234 --> 00:35:50,318
+Solo uno.
+
+418
+00:35:50,902 --> 00:35:52,486
+Una copia vieja del Pacto.
+
+419
+00:35:52,487 --> 00:35:53,946
+Era de Quinn.
+
+420
+00:35:53,947 --> 00:35:55,989
+Al menos su nombre estaba en el interior.
+
+421
+00:35:55,990 --> 00:35:57,075
+¿Eso fue todo?
+
+422
+00:35:57,617 --> 00:35:58,826
+Ella solo quería eso.
+
+423
+00:35:59,410 --> 00:36:00,620
+No la volví a ver.
+
+424
+00:36:02,705 --> 00:36:06,459
+¿Es cierto que fue asesinada
+por algunos de Mecánica?
+
+425
+00:36:08,002 --> 00:36:09,212
+Eso es lo que dicen.
+
+426
+00:36:10,755 --> 00:36:11,756
+No lo sé.
+
+427
+00:36:12,799 --> 00:36:13,800
+Gracias.
+
+428
+00:36:18,346 --> 00:36:22,349
+Que te consuele saber
+que diez mil ciudadanos
+
+429
+00:36:22,350 --> 00:36:25,144
+estarán agradecidos por tu cooperación.
+
+430
+00:36:27,605 --> 00:36:28,898
+¿Puedo verla ahora?
+
+431
+00:36:29,607 --> 00:36:30,983
+Por supuesto.
+
+432
+00:36:30,984 --> 00:36:32,485
+Un trato es un trato.
+
+433
+00:37:39,052 --> 00:37:40,178
+Aquí es.
+
+434
+00:37:41,387 --> 00:37:42,388
+Vamos.
+
+435
+00:37:43,264 --> 00:37:44,265
+Por aquí.
+
+436
+00:37:50,647 --> 00:37:52,689
+- Ben, trae medicamentos.
+- Entendido.
+
+437
+00:37:52,690 --> 00:37:54,067
+Sarah, tú ve por atr...
+
+438
+00:38:09,249 --> 00:38:10,458
+¿Qué le ha hecho?
+
+439
+00:38:11,668 --> 00:38:13,837
+Más bien qué se ha hecho ella misma.
+
+440
+00:38:16,256 --> 00:38:17,507
+¡Carla!
+
+441
+00:38:18,716 --> 00:38:19,842
+¡Carla!
+
+442
+00:38:19,843 --> 00:38:21,135
+No puede escucharte.
+
+443
+00:38:26,474 --> 00:38:28,852
+Dije que podías verla, y ya la viste.
+
+444
+00:38:29,561 --> 00:38:32,187
+- ¿Qué?
+- Puedes ver que está viva.
+
+445
+00:38:32,188 --> 00:38:33,939
+Y si quieres que siga así,
+
+446
+00:38:33,940 --> 00:38:36,609
+seguirás siendo mis ojos y oídos
+en la Profundidad.
+
+447
+00:38:37,277 --> 00:38:39,028
+¿Qué pasó con un trato es un trato?
+
+448
+00:38:39,904 --> 00:38:41,446
+Te haré esta promesa.
+
+449
+00:38:41,447 --> 00:38:45,243
+Nada le hará daño si sigues cooperando.
+
+450
+00:38:45,952 --> 00:38:49,414
+Y cuando este desastre termine,
+
+451
+00:38:50,540 --> 00:38:54,627
+te reunirás con tu verdadero amor
+de nuevo.
+
+452
+00:38:56,754 --> 00:38:59,048
+Eres un infeliz, ¿no es así?
+
+453
+00:39:00,216 --> 00:39:01,759
+¿Sí o no?
+
+454
+00:39:06,389 --> 00:39:07,807
+Sí, maldición.
+
+455
+00:39:08,558 --> 00:39:10,768
+- Sí.
+- Bien.
+
+456
+00:39:13,104 --> 00:39:14,230
+Y...
+
+457
+00:39:15,607 --> 00:39:17,442
+no es que no confíe en ti...
+
+458
+00:39:18,193 --> 00:39:19,318
+De hecho, no lo hago.
+
+459
+00:39:19,319 --> 00:39:22,946
+Pero habrá otros en la Profundidad
+
+460
+00:39:22,947 --> 00:39:27,660
+que se asegurarán
+de que cumplas con tu parte del trato.
+
+461
+00:39:28,786 --> 00:39:33,458
+Y también necesito
+que enciendas tu cámara.
+
+462
+00:39:34,292 --> 00:39:37,962
+Y hasta que esto termine,
+te quedarás en tu taller.
+
+463
+00:39:48,681 --> 00:39:50,683
+EL PACTO ENTRE LOS FUNDADORES
+Y LOS CIUDADANOS DEL SILO
+
+464
+00:40:05,698 --> 00:40:06,866
+Muy bien.
+
+465
+00:40:27,554 --> 00:40:28,763
+¡Carajo!
+
+466
+00:40:41,943 --> 00:40:44,361
+A-V-A-N-Z-A
+
+467
+00:40:44,362 --> 00:40:46,781
+Avanza...
+
+468
+00:40:48,491 --> 00:40:52,661
+Veinte pa, pa, pas... Veinte pasos...
+
+469
+00:40:52,662 --> 00:40:55,914
+Veinte pasos hacia del... Delante.
+
+470
+00:40:55,915 --> 00:40:59,752
+Avanza 20 pasos hacia delante, luego dos.
+
+471
+00:41:05,925 --> 00:41:07,135
+Página 99.
+
+472
+00:41:08,803 --> 00:41:09,804
+Vamos.
+
+473
+00:41:10,597 --> 00:41:11,681
+Vamos, Lukas.
+
+474
+00:41:27,238 --> 00:41:31,075
+"Si llegaste hasta aquí,
+ya sabes que todo es un fraude".
+
+475
+00:41:41,920 --> 00:41:44,296
+Sacaste a mis agentes de este apartamento.
+
+476
+00:41:44,297 --> 00:41:46,340
+- ¿Qué hay en la mochila?
+- No puede tocarme.
+
+477
+00:41:46,341 --> 00:41:48,259
+Soy el aprendiz de Bernard Holland.
+
+478
+00:41:49,469 --> 00:41:52,847
+No tienes idea de lo que soy capaz.
+
+479
+00:42:01,856 --> 00:42:02,982
+El Pacto.
+
+480
+00:42:03,942 --> 00:42:05,442
+El alcalde Holland
+me pidió que se lo lleve.
+
+481
+00:42:05,443 --> 00:42:06,361
+¿Por qué?
+
+482
+00:42:07,862 --> 00:42:08,947
+Le pertenecía a ella.
+
+483
+00:42:11,449 --> 00:42:15,327
+No busco saber
+qué intenta hacer Bernard contigo.
+
+484
+00:42:15,328 --> 00:42:18,497
+Pero sea lo que sea, debes saber
+que cuando obtenga lo que necesita
+
+485
+00:42:18,498 --> 00:42:20,875
+te enviará de nuevo a las minas.
+
+486
+00:42:25,171 --> 00:42:27,924
+Por lo pronto, vas a necesitar a un amigo.
+
+487
+00:42:29,551 --> 00:42:30,884
+¿A un amigo como usted?
+
+488
+00:42:30,885 --> 00:42:33,596
+Quizá creas que sabes lo que él quiere.
+
+489
+00:42:34,472 --> 00:42:35,974
+Eso creía yo.
+
+490
+00:42:37,600 --> 00:42:39,853
+Pero él siempre estará
+cuatro pasos adelante.
+
+491
+00:42:41,771 --> 00:42:42,897
+Cuídate.
+
+492
+00:42:43,606 --> 00:42:44,983
+Ese es mi consejo.
+
+493
+00:42:46,860 --> 00:42:47,985
+Gracias.
+
+494
+00:42:47,986 --> 00:42:49,736
+Ahora, si no le importa, debo irme.
+
+495
+00:42:49,737 --> 00:42:53,950
+Tu madre trabaja en un hospital en el 85,
+¿es correcto?
+
+496
+00:42:55,410 --> 00:42:59,122
+Supongo que odiaría tener a su hijo
+de paciente.
+
+497
+00:43:38,620 --> 00:43:39,746
+¿Cómo te fue?
+
+498
+00:43:40,914 --> 00:43:42,457
+¿Todo bien con la bomba?
+
+499
+00:43:43,333 --> 00:43:44,584
+Se quemó el condensador.
+
+500
+00:43:45,251 --> 00:43:46,419
+Pudo haber sido peor.
+
+501
+00:43:47,795 --> 00:43:49,130
+No podría ser peor que aquí abajo.
+
+502
+00:43:49,839 --> 00:43:51,257
+Debimos escucharte, Walk.
+
+503
+00:43:52,217 --> 00:43:54,594
+- ¿Sobre qué?
+- Sobre entrar a Suministros.
+
+504
+00:43:56,387 --> 00:43:57,387
+Los arrestaron.
+
+505
+00:43:57,388 --> 00:43:59,432
+Arrestaron a Teddy y a su equipo.
+
+506
+00:44:03,311 --> 00:44:04,603
+¿Mataron a alguien?
+
+507
+00:44:04,604 --> 00:44:06,481
+Sinceramente, no lo sabemos.
+
+508
+00:44:07,815 --> 00:44:13,153
+Es posible,
+pero no podemos recibir información.
+
+509
+00:44:13,154 --> 00:44:14,280
+Mierda.
+
+510
+00:44:15,031 --> 00:44:17,492
+Knox y yo no sabemos
+cómo lo supieron los incursores.
+
+511
+00:44:18,201 --> 00:44:22,288
+Debe haber alguien aquí abajo, un espía.
+
+512
+00:44:23,873 --> 00:44:27,377
+Creíamos que teníamos cuidado,
+pero supongo que no es así.
+
+513
+00:44:35,343 --> 00:44:36,427
+¿Estás bien?
+
+514
+00:44:37,178 --> 00:44:38,388
+Sí, solo estoy cansada.
+
+515
+00:44:38,888 --> 00:44:40,014
+Fue un camino largo.
+
+516
+00:44:40,723 --> 00:44:43,059
+No creo que vuelva a subir de nuevo.
+
+517
+00:44:44,644 --> 00:44:45,979
+¿Viste algo?
+
+518
+00:44:46,980 --> 00:44:48,690
+Gente asustada.
+
+519
+00:44:50,024 --> 00:44:54,528
+Incursores en cada piso, muy armados,
+esperando a que alguien se equivoque.
+
+520
+00:44:54,529 --> 00:44:57,282
+- ¿Eso es todo?
+- Sí, ¿no es suficiente para ti?
+
+521
+00:45:00,368 --> 00:45:04,247
+Mira, lo siento, solo estoy cansada.
+
+522
+00:45:04,956 --> 00:45:07,332
+- ¿Te traigo algo?
+- No, solo estoy...
+
+523
+00:45:07,333 --> 00:45:09,169
+Mira, solo necesito descansar, ¿sí?
+
+524
+00:45:09,669 --> 00:45:10,670
+Gracias.
+
+525
+00:45:16,384 --> 00:45:17,552
+Está bien.
+
+526
+00:45:19,304 --> 00:45:20,388
+Bueno...
+
+527
+00:45:22,640 --> 00:45:25,101
+- Sabes dónde encontrarme.
+- Siempre.
+
+528
+00:46:18,363 --> 00:46:19,364
+¡Oye!
+
+529
+00:46:27,330 --> 00:46:28,414
+¡Espera! ¡Espe...!
+
+530
+00:46:31,125 --> 00:46:32,126
+¡No!
+
+531
+00:46:44,305 --> 00:46:45,306
+¡Oye!
+
+532
+00:46:49,602 --> 00:46:51,895
+Ya te metí una flecha en el hombro.
+
+533
+00:46:51,896 --> 00:46:54,274
+Un movimiento más y esta irá a tu corazón.
+
+534
+00:47:46,451 --> 00:47:48,453
+Subtítulos: Omar Granados
