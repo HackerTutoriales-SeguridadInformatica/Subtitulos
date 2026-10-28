@@ -1,0 +1,4581 @@
+﻿1
+00:00:47,047 --> 00:00:48,423
+¡Ahora!
+
+2
+00:01:18,537 --> 00:01:20,998
+El sospechoso huye a pie,
+entró a una bodega.
+
+3
+00:01:58,410 --> 00:02:00,746
+¡No te muevas! ¡Alto ahí! ¡Baja el arma!
+
+4
+00:02:00,871 --> 00:02:03,290
+¡No pueden detenerlo! ¡Nada puede hacerlo!
+
+5
+00:02:03,415 --> 00:02:06,293
+¡Al suelo! ¡Suelta el arma ahora!
+
+6
+00:02:06,418 --> 00:02:08,253
+¡Halloran! ¡El detective Halloran!
+
+7
+00:02:09,921 --> 00:02:12,382
+Si no llega en 17 minutos...
+
+8
+00:02:12,507 --> 00:02:14,384
+...van a morir cinco personas.
+
+9
+00:02:14,676 --> 00:02:16,261
+¡Llamen a Halloran ya!
+
+10
+00:02:27,898 --> 00:02:30,817
+¿Dónde está Halloran?
+¡Hay personas que morirán!
+
+11
+00:02:31,443 --> 00:02:32,819
+¿No lo sabe?
+
+12
+00:02:32,944 --> 00:02:34,821
+-Atrás, señores.
+-¡Halloran!
+
+13
+00:02:34,946 --> 00:02:35,947
+¡Edgar!
+
+14
+00:02:36,740 --> 00:02:38,742
+¿Qué demonios estás haciendo?
+
+15
+00:02:38,867 --> 00:02:41,078
+-Baja ese control remoto.
+-No puedo.
+
+16
+00:02:41,203 --> 00:02:43,288
+-¿Para qué es?
+-Los juegos apenas comienzan.
+
+17
+00:02:43,413 --> 00:02:45,916
+-¿Cuáles?
+-Sus juegos, con sus reglas.
+
+18
+00:02:46,041 --> 00:02:48,335
+Tengo que decidir quién muere,
+ellos o yo.
+
+19
+00:02:48,460 --> 00:02:51,088
+Edgar, no quiero dispararte,
+pero lo haré.
+
+20
+00:02:51,213 --> 00:02:52,297
+Suelta el control.
+
+21
+00:02:52,422 --> 00:02:54,633
+-Lo tengo en la mira, ¿disparo?
+-No. Apunta al control.
+
+22
+00:02:54,758 --> 00:02:56,760
+Si se mueve para oprimirlo,
+lo haces pedazos.
+
+23
+00:02:56,885 --> 00:02:58,970
+-¡Se acaba el tiempo!
+-¿Quién está contigo?
+
+24
+00:02:59,054 --> 00:03:01,181
+¡Edgar, dinos qué sucede!
+
+25
+00:03:01,264 --> 00:03:04,434
+-¿Quién ejerce control sobre ti?
+-¡No voy a morir!
+
+26
+00:03:23,745 --> 00:03:26,289
+¿Quién de ustedes, idiotas,
+le disparó en el pecho?
+
+27
+00:03:27,290 --> 00:03:28,500
+El juego...
+
+28
+00:03:29,418 --> 00:03:31,211
+...ya comenzó.
+
+29
+00:04:17,507 --> 00:04:18,675
+¿Qué es esto?
+
+30
+00:04:25,891 --> 00:04:27,267
+¿Qué demonios?
+
+31
+00:04:28,602 --> 00:04:29,728
+Mierda.
+
+32
+00:04:31,646 --> 00:04:32,856
+¿Qué sucede?
+
+33
+00:04:33,690 --> 00:04:34,858
+No, no, no...
+
+34
+00:04:39,654 --> 00:04:41,364
+¡Ayúdenme!
+
+35
+00:04:43,241 --> 00:04:45,160
+¿Qué está pasando?
+
+36
+00:04:45,327 --> 00:04:46,453
+Que alguien me ayude.
+
+37
+00:04:47,871 --> 00:04:49,748
+¡Auxilio! ¡Auxilio!
+
+38
+00:04:50,832 --> 00:04:53,460
+-Ayúdame, por favor.
+-¡No te me acerques!
+
+39
+00:04:56,046 --> 00:04:59,090
+<i>Estoy seguro de que quieren saber
+qué hacen aquí.</i>
+
+40
+00:04:59,216 --> 00:05:05,555
+<i>Sin duda se niegan a aceptar su culpa
+por las circunstancias en las que están.</i>
+
+41
+00:05:05,680 --> 00:05:11,061
+<i>Pueden salvarse si limpian su alma
+de las mentiras habituales...</i>
+
+42
+00:05:11,186 --> 00:05:15,440
+<i>...que los condujeron hasta aquí,
+que se han dicho a ustedes mismos,</i>
+
+43
+00:05:15,524 --> 00:05:18,109
+<i>que han afectado a otros.</i>
+
+44
+00:05:18,235 --> 00:05:21,446
+<i>Confiesen. La verdad los liberará.</i>
+
+45
+00:05:21,571 --> 00:05:24,866
+<i>Pero cualquier intento
+de violar mis reglas...</i>
+
+46
+00:05:24,991 --> 00:05:26,201
+<i>...los llevará a la muerte.</i>
+
+47
+00:05:26,326 --> 00:05:27,994
+<i>Quiero jugar.</i>
+
+48
+00:05:28,787 --> 00:05:29,913
+¡Púdrete!
+
+49
+00:05:30,080 --> 00:05:34,125
+<i>Primero, una ofrenda de sangre,
+por pequeña que sea...</i>
+
+50
+00:05:34,251 --> 00:05:39,297
+<i>...les dará la oportunidad de salir
+con vida de esta habitación.</i>
+
+51
+00:05:39,798 --> 00:05:42,842
+<i>Si logran liberarse de sus demonios...</i>
+
+52
+00:05:42,968 --> 00:05:47,222
+<i>...comenzarán a despojarse de las cadenas
+que traen consigo dichos demonios.</i>
+
+53
+00:05:47,430 --> 00:05:50,767
+<i>Hagan el sencillo sacrificio de sangre
+que les pedí...</i>
+
+54
+00:05:50,892 --> 00:05:53,395
+<i>...o enfrenten las severas consecuencias.</i>
+
+55
+00:05:53,520 --> 00:05:55,230
+<i>La decisión es de ustedes.</i>
+
+56
+00:05:58,692 --> 00:06:00,110
+¿Qué demonios sucede?
+
+57
+00:06:00,860 --> 00:06:02,445
+No. No, espera.
+
+58
+00:06:02,571 --> 00:06:04,864
+No, no, no. ¡No! ¡No!
+
+59
+00:06:20,714 --> 00:06:22,424
+-¡No!
+-¿Qué hacemos?
+
+60
+00:06:24,718 --> 00:06:26,511
+¿Qué hacemos? ¿Qué hacemos?
+
+61
+00:06:26,720 --> 00:06:28,555
+¡No!
+
+62
+00:06:28,930 --> 00:06:29,889
+No...
+
+63
+00:06:40,066 --> 00:06:42,986
+¡Oye! ¡Despierta!
+
+64
+00:06:44,654 --> 00:06:45,697
+¡No!
+
+65
+00:06:49,242 --> 00:06:50,744
+"Una ofrenda de sangre,
+
+66
+00:06:53,705 --> 00:06:55,373
+por pequeña que sea...".
+
+67
+00:06:57,584 --> 00:06:59,044
+Una ofrenda de sangre...
+
+68
+00:06:59,794 --> 00:07:01,338
+Una ofrenda de sangre...
+
+69
+00:07:02,422 --> 00:07:03,757
+Una ofrenda de sangre...
+
+70
+00:07:15,560 --> 00:07:19,731
+¡Córtate! ¡Debes cortarte!
+Quiere sangre, y entonces te libera.
+
+71
+00:07:21,232 --> 00:07:24,486
+¡Córtate, quiere sangre! ¡Córtate!
+
+72
+00:07:24,611 --> 00:07:25,570
+¡Diablos!
+
+73
+00:07:33,036 --> 00:07:35,622
+Vamos, vamos, vamos...
+
+74
+00:07:40,043 --> 00:07:42,003
+¡Sí! ¡Santo cielo!
+
+75
+00:07:42,754 --> 00:07:44,798
+¡Tienes que cortarte!
+
+76
+00:08:04,192 --> 00:08:06,027
+-¿Qué...?
+-No...
+
+77
+00:08:06,611 --> 00:08:07,487
+No...
+
+78
+00:08:07,570 --> 00:08:08,863
+¡Córtate!
+
+79
+00:08:08,947 --> 00:08:10,657
+¡Tienes que cortarte!
+
+80
+00:08:11,324 --> 00:08:12,575
+¡Córtate!
+
+81
+00:08:36,975 --> 00:08:38,560
+¿Dónde demonios estamos?
+
+82
+00:08:40,770 --> 00:08:44,190
+Apretó el control, pero nada detonó.
+Hasta donde sabemos.
+
+83
+00:08:45,150 --> 00:08:46,526
+¿Crees que el juego sea real?
+
+84
+00:08:46,651 --> 00:08:47,610
+No sé.
+
+85
+00:08:48,111 --> 00:08:49,612
+¿Por qué mandó a llamarte?
+
+86
+00:08:49,904 --> 00:08:51,114
+Somos buenos amigos.
+
+87
+00:08:51,364 --> 00:08:55,326
+Ya lo encerré antes. Edgar Munsen es
+un sociópata adicto a la metanfetamina.
+
+88
+00:08:55,452 --> 00:08:58,830
+Ha entrado y salido de prisión
+por agresión, violencia, robo...
+
+89
+00:08:58,955 --> 00:09:01,041
+...y tráfico de drogas. Toda una joya.
+
+90
+00:09:02,500 --> 00:09:05,295
+¡Doctora! Necesitamos que despierte,
+debemos interrogarlo.
+
+91
+00:09:05,420 --> 00:09:06,546
+Lo siento, detective.
+
+92
+00:09:06,713 --> 00:09:08,339
+La bala se alojó junto al corazón.
+
+93
+00:09:08,465 --> 00:09:11,176
+Estará en coma inducido con barbitúricos
+hasta que se estabilice.
+
+94
+00:09:11,301 --> 00:09:13,720
+-¿Cuánto tiempo?
+-La inflamación debe bajar primero.
+
+95
+00:09:13,845 --> 00:09:17,140
+Dos horas, dos semanas.
+No sabría decirles. Con permiso.
+
+96
+00:09:20,185 --> 00:09:23,313
+Inicia la lista de sospechosos
+con los socios de Munsen.
+
+97
+00:09:24,481 --> 00:09:26,357
+Esto no va a terminar bien.
+
+98
+00:09:27,484 --> 00:09:28,610
+¿Tienes hambre?
+
+99
+00:09:33,114 --> 00:09:37,243
+¡Auxilio! ¡Por favor, ayúdennos!
+
+100
+00:09:38,036 --> 00:09:39,746
+¡Auxilio!
+
+101
+00:09:40,580 --> 00:09:41,790
+¡Por favor!
+
+102
+00:09:42,040 --> 00:09:43,792
+-¡No!
+-No te muevas.
+
+103
+00:09:49,547 --> 00:09:51,216
+¿Qué quieres de nosotros?
+
+104
+00:09:51,883 --> 00:09:52,842
+Esa voz...
+
+105
+00:09:53,301 --> 00:09:58,306
+...dijo que podemos salvarnos
+si limpiamos nuestra alma de las mentiras.
+
+106
+00:09:58,431 --> 00:10:00,517
+¿Esto es un confesionario retorcido?
+
+107
+00:10:00,767 --> 00:10:02,393
+La verdad nos liberará.
+
+108
+00:10:02,560 --> 00:10:04,312
+Cariño, mi alma está limpia.
+
+109
+00:10:06,356 --> 00:10:07,482
+Me llamo Anna.
+
+110
+00:10:08,441 --> 00:10:09,984
+¡Y eso es mentira!
+
+111
+00:10:14,989 --> 00:10:16,241
+Soy Mitch.
+
+112
+00:10:17,075 --> 00:10:18,118
+¿Cómo te llamas?
+
+113
+00:10:21,162 --> 00:10:22,163
+Carly.
+
+114
+00:10:23,206 --> 00:10:24,791
+¡No me toques!
+
+115
+00:10:26,543 --> 00:10:28,920
+Esta es la broma de un loco.
+
+116
+00:10:29,838 --> 00:10:31,506
+Dijo que era un juego.
+
+117
+00:10:32,090 --> 00:10:34,676
+Espero, por el bien de todos,
+que sea un juego.
+
+118
+00:10:34,801 --> 00:10:36,386
+¿Sí? ¿Por qué lo dices, cariño?
+
+119
+00:10:36,970 --> 00:10:38,680
+Los juegos se pueden ganar.
+
+120
+00:10:52,861 --> 00:10:54,404
+Esto es una locura.
+
+121
+00:10:54,821 --> 00:10:56,072
+No puede ser.
+
+122
+00:11:01,661 --> 00:11:03,496
+¿Ya llamaron a la policía?
+
+123
+00:11:10,086 --> 00:11:11,254
+Por debajo.
+
+124
+00:11:15,550 --> 00:11:18,261
+-Por encima.
+-Muy bien. La lanzaste con fuerza.
+
+125
+00:11:25,393 --> 00:11:27,604
+Por algo tengo apagado
+el celular, Halloran.
+
+126
+00:11:32,567 --> 00:11:34,027
+¿Tú qué opinas, El?
+
+127
+00:11:34,485 --> 00:11:36,779
+No sé. Se ve un poco pálido.
+
+128
+00:11:37,780 --> 00:11:39,157
+Vamos a quitarle esta cosa.
+
+129
+00:12:08,853 --> 00:12:11,522
+Alguien ha estado estudiando
+a John Kramer.
+
+130
+00:12:12,190 --> 00:12:13,399
+¿Un imitador?
+
+131
+00:12:14,025 --> 00:12:16,653
+Espero que no.
+Kramer murió hace diez años.
+
+132
+00:12:19,113 --> 00:12:20,531
+-¡Keith!
+-Hola, doctor.
+
+133
+00:12:20,657 --> 00:12:22,825
+-¿Cómo estás? Me da gusto verte.
+-Igualmente.
+
+134
+00:12:22,951 --> 00:12:26,746
+-¿Te asignaron a este vecindario?
+-Sí, entré a Homicidios el mes pasado.
+
+135
+00:12:28,164 --> 00:12:30,667
+Por Dios, ¿qué le pasó a este tipo?
+
+136
+00:12:33,211 --> 00:12:37,006
+-¿Se conocen?
+-Logan era nuestro médico en Faluya.
+
+137
+00:12:37,757 --> 00:12:41,636
+Oye, siento mucho lo de Christine.
+¿Cómo has estado?
+
+138
+00:12:42,595 --> 00:12:46,557
+-Bien, Keith. Sí, estoy bien.
+-Qué bueno.
+
+139
+00:12:50,019 --> 00:12:50,937
+Eleanor.
+
+140
+00:12:58,695 --> 00:12:59,696
+¿Qué es?
+
+141
+00:13:05,910 --> 00:13:06,995
+Muy bien.
+
+142
+00:13:26,347 --> 00:13:27,807
+"Y luego, quedaron cuatro".
+
+143
+00:13:29,392 --> 00:13:31,394
+¿Tienen una computadora?
+
+144
+00:13:36,941 --> 00:13:39,027
+<i>Los juegos comenzaron de nuevo.</i>
+
+145
+00:13:39,277 --> 00:13:45,324
+<i>Y no terminarán hasta que se expíen
+los pecados cometidos contra inocentes.</i>
+
+146
+00:13:45,616 --> 00:13:50,121
+<i>Yo me ocuparé de estos cuatro,
+ustedes ocúpense del resto.</i>
+
+147
+00:13:53,207 --> 00:13:55,084
+Hay que llevarlo a reconocimiento.
+
+148
+00:14:01,215 --> 00:14:02,467
+No es él.
+
+149
+00:14:03,342 --> 00:14:04,427
+No puede ser.
+
+150
+00:14:05,386 --> 00:14:06,387
+¿Verdad?
+
+151
+00:14:16,272 --> 00:14:17,482
+¡Diablos, no puede ser!
+
+152
+00:14:46,594 --> 00:14:48,304
+CONFIESEN.
+
+153
+00:14:48,679 --> 00:14:49,931
+¿Qué demonios?
+
+154
+00:14:50,765 --> 00:14:52,016
+¿Qué demonios?
+
+155
+00:14:52,475 --> 00:14:54,102
+No, eso no asusta para nada.
+
+156
+00:15:07,240 --> 00:15:08,741
+No... ¡No!
+
+157
+00:15:09,200 --> 00:15:10,952
+Ay, no. No, no, no.
+
+158
+00:15:11,494 --> 00:15:13,830
+¡Auxilio! Ayuda.
+
+159
+00:15:16,040 --> 00:15:19,085
+-Ayúdennos, por favor.
+-¿Adónde nos lleva este demente?
+
+160
+00:15:19,210 --> 00:15:20,670
+¿Alguien vio algo?
+
+161
+00:15:20,795 --> 00:15:23,840
+No, nada. Yo estaba drogada.
+
+162
+00:15:23,923 --> 00:15:26,884
+Dijo que confesáramos,
+eso tenemos que hacer.
+
+163
+00:15:27,009 --> 00:15:29,512
+¿Tienes algo que confesar?
+Adelante, vamos.
+
+164
+00:15:35,852 --> 00:15:37,520
+Todos tenemos algo que confesar.
+
+165
+00:15:39,480 --> 00:15:41,441
+Una vez, le vendí una moto a un chico.
+
+166
+00:15:42,650 --> 00:15:45,236
+Tuvo un accidente diez minutos después.
+
+167
+00:15:45,695 --> 00:15:49,574
+No es mi culpa que no supiera controlar
+una moto tan potente. ¡Murió!
+
+168
+00:15:49,740 --> 00:15:52,827
+¿Es todo? ¿Solo le vendiste una moto
+a un chico en la que se mató?
+
+169
+00:15:52,952 --> 00:15:55,913
+-Eso es todo, ya lo dije.
+-¡Mentiroso! ¿Y tú, cariño?
+
+170
+00:15:57,039 --> 00:15:58,624
+Perdimos a nuestro bebé.
+
+171
+00:15:59,792 --> 00:16:03,421
+Anna, dime que esto no está sucediendo.
+
+172
+00:16:04,380 --> 00:16:06,090
+Mi esposo cometió un error.
+
+173
+00:16:07,425 --> 00:16:10,011
+No, no. ¡Eso no es una confesión!
+¡Por favor!
+
+174
+00:16:10,136 --> 00:16:12,013
+¡No sé qué quieres que diga!
+
+175
+00:16:12,305 --> 00:16:14,056
+Dejé que nuestro matrimonio se acabara.
+
+176
+00:16:14,182 --> 00:16:16,267
+Una confesión es:
+"Maté a una prostituta en Tulsa"...
+
+177
+00:16:16,392 --> 00:16:18,811
+...o "Me comí al vecino",
+no "Necesito terapia de pareja".
+
+178
+00:16:18,936 --> 00:16:19,896
+¿Carly?
+
+179
+00:16:20,021 --> 00:16:23,191
+-No. No se me ocurre nada.
+-¡Que se te ocurra pronto!
+
+180
+00:16:23,274 --> 00:16:24,692
+¡Que se te ocurra a ti!
+
+181
+00:16:28,237 --> 00:16:29,280
+DENLE PLAY
+
+182
+00:16:42,460 --> 00:16:43,586
+Dios mío.
+
+183
+00:16:44,420 --> 00:16:45,880
+Nos va a colgar.
+
+184
+00:16:50,092 --> 00:16:51,761
+¡Ponle <i>play</i> a la cinta, Mitch!
+
+185
+00:16:53,262 --> 00:16:54,096
+¡Por Dios!
+
+186
+00:17:05,066 --> 00:17:09,737
+<i>Aunque estoy seguro de que desean
+señalarme como culpable</i>
+
+187
+00:17:09,862 --> 00:17:11,739
+<i>por la sangre derramada,</i>
+
+188
+00:17:11,822 --> 00:17:14,200
+<i>a menos que asuman su culpa...</i>
+
+189
+00:17:14,325 --> 00:17:17,870
+<i>...les aseguro que se perderá más sangre.</i>
+
+190
+00:17:17,995 --> 00:17:20,289
+<i>Y todos serán juzgados.</i>
+
+191
+00:17:20,623 --> 00:17:23,042
+<i>Comenzaremos con uno.</i>
+
+192
+00:17:23,167 --> 00:17:26,504
+<i>Uno que además de mentiroso, es ladrón.</i>
+
+193
+00:17:26,879 --> 00:17:28,422
+<i>Carterista.</i>
+
+194
+00:17:29,632 --> 00:17:33,511
+<i>Y cuando tuviste la oportunidad
+de remediar el daño hecho...</i>
+
+195
+00:17:33,886 --> 00:17:35,680
+<i>...decidiste no hacer nada.</i>
+
+196
+00:17:36,180 --> 00:17:40,601
+<i>Ahora eres tú quien podría morir
+sin el medicamento adecuado.</i>
+
+197
+00:17:41,060 --> 00:17:42,770
+<i>Mientras estaban inconscientes...</i>
+
+198
+00:17:42,895 --> 00:17:47,733
+<i>...a ese mentiroso, a ese criminal,
+se le inyectó veneno.</i>
+
+199
+00:17:47,900 --> 00:17:51,904
+<i>Una de las jeringas frente a ustedes
+tiene el antídoto.</i>
+
+200
+00:17:52,029 --> 00:17:54,365
+<i>Una es solución salina...</i>
+
+201
+00:17:54,490 --> 00:17:59,370
+<i>...y la otra es un ácido
+que causará una muerte atroz.</i>
+
+202
+00:17:59,453 --> 00:18:02,957
+<i>Si inyectan la correcta,
+se soltarán las cadenas.</i>
+
+203
+00:18:03,749 --> 00:18:09,213
+<i>Si se equivocan, podrían provocar
+la muerte de todos.</i>
+
+204
+00:18:09,380 --> 00:18:10,464
+<i>Les pregunto:</i>
+
+205
+00:18:11,090 --> 00:18:13,050
+<i>¿cuánto vale una vida para ustedes?</i>
+
+206
+00:18:23,769 --> 00:18:25,730
+Uno confiese o todos moriremos.
+
+207
+00:18:26,731 --> 00:18:29,400
+Bien. Búsquense una marca.
+
+208
+00:18:29,483 --> 00:18:31,485
+Si nos inyectó, pudo dejar una marca.
+
+209
+00:18:42,455 --> 00:18:43,414
+¡Bingo!
+
+210
+00:18:43,831 --> 00:18:45,041
+¿Qué haces?
+
+211
+00:18:45,124 --> 00:18:47,960
+Tranquila. Solo tienes que elegir
+una jeringa, rubia.
+
+212
+00:18:49,420 --> 00:18:51,631
+Nos liberamos de esto
+si eliges el antídoto.
+
+213
+00:18:51,756 --> 00:18:55,134
+-O morimos todos, Carly.
+-No. ¿Y si tomo el ácido?
+
+214
+00:18:55,509 --> 00:18:57,553
+-No lo haré.
+-¡Claro que sí!
+
+215
+00:18:57,970 --> 00:19:01,849
+O, tal vez, solo confiesa, Carly.
+¿Robabas bolsos?
+
+216
+00:19:01,974 --> 00:19:05,519
+Sí, hace años. Pero ¡no maté a nadie!
+
+217
+00:19:05,645 --> 00:19:10,483
+¡No! No es el arrepentimiento
+que busca este tipo. ¡Estás mintiendo!
+
+218
+00:19:10,650 --> 00:19:14,195
+¡No! No tenía dinero, ¿sí?
+Y sí, alguien murió.
+
+219
+00:19:14,362 --> 00:19:16,864
+Pero ¡no fue mi culpa!
+
+220
+00:19:17,031 --> 00:19:19,784
+Bien. Elige una o te las clavo todas.
+
+221
+00:19:19,950 --> 00:19:21,994
+-¡No!
+-¿Es una broma?
+
+222
+00:19:22,161 --> 00:19:23,996
+-¡Detente!
+-Déjala que mire.
+
+223
+00:19:24,121 --> 00:19:26,040
+¿Estos números significan algo para ti?
+
+224
+00:19:26,374 --> 00:19:28,626
+-¡Elige ya!
+-¡Eso intento!
+
+225
+00:19:33,047 --> 00:19:35,132
+Tres dólares y 53 centavos.
+
+226
+00:19:35,299 --> 00:19:36,801
+-¿Qué significa?
+-Sí.
+
+227
+00:19:37,051 --> 00:19:39,220
+-¿Qué?
+-Lo que vale una vida para mí.
+
+228
+00:19:39,345 --> 00:19:40,054
+¿Qué?
+
+229
+00:19:53,484 --> 00:19:55,111
+Ay, maldita sea.
+
+230
+00:19:55,611 --> 00:19:58,781
+-¡Elige ya! ¡Vamos, elige una ahora!
+-¡No puedo!
+
+231
+00:19:58,864 --> 00:19:59,865
+¡Por favor!
+
+232
+00:20:00,282 --> 00:20:02,576
+-¡Vamos a morir todos!
+-¡Elige ya!
+
+233
+00:20:02,910 --> 00:20:03,911
+¡Escoge!
+
+234
+00:20:04,036 --> 00:20:05,871
+¡Vamos, Carly, elige una!
+
+235
+00:20:06,372 --> 00:20:08,541
+-¡Hazlo, Carly!
+-¡No lo voy a hacer!
+
+236
+00:20:08,666 --> 00:20:11,293
+-No, no lo haré. ¡Púdranse!
+-¡Elige ya!
+
+237
+00:20:11,836 --> 00:20:13,671
+¡Vamos! ¡Escoge!
+
+238
+00:20:13,879 --> 00:20:16,340
+-¡No voy a elegir, maldita sea!
+-¡Elige una!
+
+239
+00:20:16,424 --> 00:20:18,300
+¡Hazlo, Carly! ¡Ahora!
+
+240
+00:20:18,634 --> 00:20:19,760
+¡Elige una!
+
+241
+00:20:19,844 --> 00:20:20,720
+¡Elige una!
+
+242
+00:20:21,929 --> 00:20:22,847
+¡Vamos!
+
+243
+00:20:23,764 --> 00:20:24,890
+¡Escoge!
+
+244
+00:20:41,490 --> 00:20:42,700
+¡No te acerques!
+
+245
+00:21:22,323 --> 00:21:23,365
+¡No!
+
+246
+00:21:40,591 --> 00:21:42,510
+-¡Maldito imbécil!
+-¡Oye! ¡Oye!
+
+247
+00:21:43,511 --> 00:21:46,347
+Yo no nos puse aquí. Tranquilízate.
+
+248
+00:21:46,972 --> 00:21:49,600
+-Nos salvé la vida.
+-Sí, pero a costa de la de ella.
+
+249
+00:21:49,850 --> 00:21:52,436
+¡La mataste! ¡Eres un maldito egoísta!
+
+250
+00:21:52,561 --> 00:21:54,355
+¡No! ¡Basta! ¡Cálmense los dos!
+
+251
+00:21:55,689 --> 00:21:56,816
+¿Qué demonios?
+
+252
+00:22:01,612 --> 00:22:03,906
+Una vida vale
+tres dólares y 53 centavos.
+
+253
+00:22:04,240 --> 00:22:06,450
+-¿Qué?
+-Eso dijo ella.
+
+254
+00:22:06,951 --> 00:22:07,910
+Sí.
+
+255
+00:22:09,245 --> 00:22:11,914
+Sí. Tres dólares y 53 centavos.
+
+256
+00:22:25,844 --> 00:22:27,846
+Esta tiene más números dentro.
+
+257
+00:22:29,515 --> 00:22:31,100
+Podría ser la combinación.
+
+258
+00:22:43,153 --> 00:22:46,240
+Los registros dentales lo identifican
+como Malcolm Neale.
+
+259
+00:22:46,490 --> 00:22:48,951
+¿Malcolm Neale? Recuerdo ese caso.
+
+260
+00:22:49,034 --> 00:22:52,871
+Asesinaron a su esposa hace cinco años.
+Entraron a su casa, la degollaron.
+
+261
+00:22:52,997 --> 00:22:54,123
+Lo obligaron a mirar.
+
+262
+00:22:54,290 --> 00:22:58,252
+Ah, sí, ya recuerdo.
+Malcolm Neale era apostador.
+
+263
+00:22:58,419 --> 00:23:01,130
+El homicidio de su esposa fue su culpa.
+Debía dinero.
+
+264
+00:23:01,213 --> 00:23:03,424
+¿Lograste atrapar a los malos?
+
+265
+00:23:04,174 --> 00:23:08,429
+Marcas de rasguños, peleó con alguien.
+Presuntamente con el asesino.
+
+266
+00:23:08,512 --> 00:23:11,557
+La decapitación parcial se hizo
+con una sierra circular.
+
+267
+00:23:11,682 --> 00:23:15,269
+Hay rastros de óxido férrico,
+hematita, en la herida.
+
+268
+00:23:16,020 --> 00:23:17,521
+Óxido de la cuchilla.
+
+269
+00:23:17,730 --> 00:23:20,941
+-Bien.
+-¿Y la grabación? ¿Hay algo en el USB?
+
+270
+00:23:21,066 --> 00:23:24,320
+La voz es de John Kramer.
+Coincidió. Es idéntica.
+
+271
+00:23:24,403 --> 00:23:27,031
+-¿Coincidió?
+-¿Volvió de entre los muertos?
+
+272
+00:23:27,114 --> 00:23:28,449
+No sería la primera vez.
+
+273
+00:23:28,824 --> 00:23:31,910
+Que alguien esté muerto
+no significa que no tenga voz.
+
+274
+00:23:32,119 --> 00:23:34,705
+Si nos dan tiempo,
+nosotros hablaremos por los muertos.
+
+275
+00:23:35,039 --> 00:23:38,167
+Edgar Munsen dijo algo
+de que comenzaba un juego.
+
+276
+00:23:38,292 --> 00:23:40,961
+La grabación dice que hay
+cuatro víctimas más.
+
+277
+00:23:41,253 --> 00:23:43,380
+Cuatro personas luchando por su vida.
+
+278
+00:24:11,116 --> 00:24:12,076
+¡Dios!
+
+279
+00:24:29,134 --> 00:24:31,387
+Bien, estamos en alguna parte del campo.
+
+280
+00:24:31,845 --> 00:24:34,765
+-No se ven puntos de referencia, nada.
+-Dios.
+
+281
+00:24:35,599 --> 00:24:37,101
+¿Quién nos hace esto?
+
+282
+00:24:40,854 --> 00:24:41,980
+No tengo idea.
+
+283
+00:24:43,065 --> 00:24:44,191
+¿Cómo te llamas?
+
+284
+00:24:45,484 --> 00:24:46,527
+Ryan.
+
+285
+00:24:48,237 --> 00:24:49,947
+¿Cuál es tu pecado, Ryan?
+
+286
+00:24:51,573 --> 00:24:55,411
+Vender hipotecas fraudulentas,
+buena cocaína, mentir en los impuestos.
+
+287
+00:24:55,536 --> 00:24:58,163
+Engañar a mis dos esposas.
+
+288
+00:24:58,580 --> 00:24:59,665
+Ya sabes...
+
+289
+00:25:00,541 --> 00:25:01,792
+...nada muy grave.
+
+290
+00:25:03,127 --> 00:25:04,795
+¿Cuál es tu historia, dulzura?
+
+291
+00:25:09,925 --> 00:25:12,720
+-Fue culpa de mi esposo.
+-¡Por favor! Es mentira.
+
+292
+00:25:12,803 --> 00:25:16,515
+¿Por qué me castigan por algo que hizo él?
+
+293
+00:25:21,270 --> 00:25:23,063
+Si no se hubiera dormido...
+
+294
+00:25:23,772 --> 00:25:25,232
+...no se habría girado...
+
+295
+00:25:25,399 --> 00:25:27,234
+...y sofocado a nuestro bebé.
+
+296
+00:25:30,028 --> 00:25:31,363
+No es mi culpa.
+
+297
+00:25:34,366 --> 00:25:35,826
+NO ES LA SALIDA
+
+298
+00:25:36,869 --> 00:25:38,162
+No, no. ¡No!
+
+299
+00:25:38,454 --> 00:25:40,706
+En serio, ¿no crees
+que quiere decirnos algo?
+
+300
+00:25:41,832 --> 00:25:44,752
+-Aquí hay dos puertas en buen estado.
+-Sí.
+
+301
+00:25:44,877 --> 00:25:47,713
+Y cruzamos la puerta que nos conduce
+a donde él quiere. No, gracias.
+
+302
+00:25:47,880 --> 00:25:51,216
+-Mitch tiene razón. No creo...
+-¡Háganse para atrás!
+
+303
+00:25:51,341 --> 00:25:52,801
+Quítame eso de la cara.
+
+304
+00:26:09,026 --> 00:26:11,653
+¡Dios mío! Ayúdenme, por favor.
+
+305
+00:26:12,112 --> 00:26:13,280
+¿Qué demonios?
+
+306
+00:26:16,366 --> 00:26:18,202
+Son cables, hay algo...
+
+307
+00:26:18,911 --> 00:26:21,663
+...que me agarró la pierna.
+No, no. ¡No!
+
+308
+00:26:21,830 --> 00:26:23,290
+Ayúdenme.
+
+309
+00:26:27,544 --> 00:26:28,921
+¿Ves? ¿Hay algo?
+
+310
+00:26:29,546 --> 00:26:33,300
+Cientos de cables se enredaron
+en su pierna y en unas poleas.
+
+311
+00:26:33,592 --> 00:26:34,510
+Sí.
+
+312
+00:26:34,635 --> 00:26:37,471
+Bien. Hay como una palanca.
+
+313
+00:26:46,021 --> 00:26:47,272
+Chicos, hay una cinta.
+
+314
+00:26:52,486 --> 00:26:54,655
+¡Se apretó más!
+
+315
+00:26:54,780 --> 00:26:56,698
+¡Ay, Dios mío!
+
+316
+00:26:57,366 --> 00:26:59,034
+¿Cómo sacamos la cinta?
+
+317
+00:27:02,871 --> 00:27:04,873
+-Despacio.
+-Sí, con cuidado.
+
+318
+00:27:05,040 --> 00:27:06,416
+-Muy despacio.
+-Bien.
+
+319
+00:27:07,501 --> 00:27:10,295
+Con cuidado. Por favor, ten cuidado.
+
+320
+00:27:22,641 --> 00:27:24,184
+Con cuidado. Con cuidado.
+
+321
+00:27:33,861 --> 00:27:37,155
+¡Ay, Dios! ¡Ay, Dios mío!
+
+322
+00:27:38,365 --> 00:27:40,075
+¡No me están ayudando!
+
+323
+00:27:40,784 --> 00:27:42,786
+Toma la cinta. Sácala.
+
+324
+00:27:42,911 --> 00:27:45,163
+De ninguna manera.
+Tú vas a sacar la cinta.
+
+325
+00:27:45,330 --> 00:27:48,458
+¡Te salvé la vida, Mitch!
+¡Toma la cinta!
+
+326
+00:27:48,542 --> 00:27:49,793
+-Solo hazlo.
+-Por favor.
+
+327
+00:27:52,504 --> 00:27:55,716
+Por favor. Sí, vamos. Vamos.
+
+328
+00:27:56,592 --> 00:27:58,468
+Vamos, amigo. Por Dios.
+
+329
+00:28:00,762 --> 00:28:03,015
+-¿Ya la tienes?
+-¡Eso intento, amigo!
+
+330
+00:28:03,140 --> 00:28:04,141
+Ya casi, ya casi.
+
+331
+00:28:13,901 --> 00:28:15,736
+Todo va bien.
+
+332
+00:28:15,861 --> 00:28:18,322
+¿La tienes? Dios, qué bueno.
+
+333
+00:28:19,531 --> 00:28:21,742
+¿La tienes? Sí, sí.
+
+334
+00:28:21,909 --> 00:28:23,493
+Ponle <i>play,</i> Mitch.
+
+335
+00:28:24,119 --> 00:28:25,495
+Tú ponle <i>play.</i>
+
+336
+00:28:31,585 --> 00:28:35,130
+<i>La vida no tiene atajos.</i>
+
+337
+00:28:35,422 --> 00:28:40,219
+<i>Por favor, disculpen el ejemplo crudo
+que les daré de su decisión...</i>
+
+338
+00:28:40,302 --> 00:28:42,095
+<i>...de no seguir las reglas.</i>
+
+339
+00:28:42,429 --> 00:28:46,475
+<i>Tiren de la palanca y quedarán libres.</i>
+
+340
+00:28:49,603 --> 00:28:50,520
+¿Qué?
+
+341
+00:28:51,980 --> 00:28:54,399
+¿A qué se refiere
+con que quedaremos libres?
+
+342
+00:28:56,401 --> 00:28:57,819
+Buena suerte, dulzura.
+
+343
+00:29:04,952 --> 00:29:08,205
+Hola. Tengo el informe preliminar
+de Cabeza de Cubo.
+
+344
+00:29:08,622 --> 00:29:11,625
+Las partículas encontradas
+en el cadáver son heces de animales.
+
+345
+00:29:11,750 --> 00:29:13,460
+Vacas, pollos, cerdos.
+
+346
+00:29:13,543 --> 00:29:15,712
+También hay rastros
+de la enfermedad de Aujeszky.
+
+347
+00:29:15,879 --> 00:29:17,089
+¿Enfermedad de Aujeszky?
+
+348
+00:29:17,172 --> 00:29:20,342
+Es un virus, más conocido
+porque cuando le da a los cerdos...
+
+349
+00:29:20,550 --> 00:29:22,469
+...hay que cerrar el corral.
+
+350
+00:29:22,552 --> 00:29:25,055
+Estoy impresionado, sigue investigando.
+
+351
+00:29:26,265 --> 00:29:28,350
+Quizá pueda rastrear
+el virus a una ubicación.
+
+352
+00:29:28,433 --> 00:29:30,936
+¿Doctor Nelson? Hay otro, quizá saltó.
+
+353
+00:29:36,733 --> 00:29:38,360
+¿Identificaron a la víctima?
+
+354
+00:29:38,902 --> 00:29:41,280
+No, parece el mismo asesino.
+
+355
+00:29:42,531 --> 00:29:43,740
+Estaba en el cadáver.
+
+356
+00:29:43,865 --> 00:29:44,950
+Y LUEGO, QUEDARON TRES...
+
+357
+00:29:45,075 --> 00:29:47,160
+Ninguna relación con los sospechosos.
+
+358
+00:29:49,121 --> 00:29:52,249
+-¿Sabe si es Kramer?
+-¿El crimen está relacionado con Jigsaw?
+
+359
+00:29:52,791 --> 00:29:56,003
+¿Crees que es coincidencia
+que Edgar Munsen esté aquí?
+
+360
+00:29:56,169 --> 00:29:58,714
+Creo que es muy poco probable
+que despertara del coma...
+
+361
+00:29:58,880 --> 00:30:01,091
+...subiera al techo y lanzara a una chica.
+
+362
+00:30:01,800 --> 00:30:04,803
+Pero fui a terapia intensiva, sigue ahí.
+
+363
+00:30:08,432 --> 00:30:09,766
+Parece ácido.
+
+364
+00:30:10,100 --> 00:30:13,645
+Hay disminución de trifosfato de adenosina
+en las fibras musculares.
+
+365
+00:30:13,770 --> 00:30:14,813
+<i>Rigor mortis.</i>
+
+366
+00:30:15,731 --> 00:30:17,774
+Es obvio que no la mató la caída.
+
+367
+00:30:33,040 --> 00:30:34,583
+Es ácido hidrofluórico.
+
+368
+00:30:35,375 --> 00:30:38,086
+Miren, ahí. Allí entró la inyección.
+
+369
+00:30:38,628 --> 00:30:41,423
+La vena lo llevó directo al corazón
+y lo quemó.
+
+370
+00:30:42,090 --> 00:30:44,092
+¿Cómo sabes que es ácido hidrofluórico?
+
+371
+00:30:44,509 --> 00:30:46,470
+Vi mucho en Faluya.
+
+372
+00:30:48,180 --> 00:30:50,015
+Aunque nunca inyectado.
+
+373
+00:30:52,851 --> 00:30:54,019
+¡Una pieza de rompecabezas!
+
+374
+00:30:55,020 --> 00:30:56,813
+¡Es el maldito Jigsaw!
+
+375
+00:30:58,565 --> 00:31:00,776
+¿De qué habla Logan?
+¿Qué sucedió en Faluya?
+
+376
+00:31:01,276 --> 00:31:02,361
+Él...
+
+377
+00:31:03,320 --> 00:31:04,529
+Lo capturaron.
+
+378
+00:31:05,238 --> 00:31:07,366
+No sin que antes matara a tres talibanes.
+
+379
+00:31:07,866 --> 00:31:10,369
+Supe que lo torturaron
+casi hasta matarlo.
+
+380
+00:31:10,452 --> 00:31:13,163
+Cuando volvió, pasó meses
+en el hospital de veteranos.
+
+381
+00:31:13,413 --> 00:31:14,831
+¿Crees que abrió la boca?
+
+382
+00:31:15,082 --> 00:31:17,084
+Por favor, estás hablando de un hermano.
+
+383
+00:31:17,250 --> 00:31:19,086
+Mi hermano es un maldito imbécil.
+
+384
+00:31:21,963 --> 00:31:24,091
+¿Qué opinas de su ayudante, Eleanor?
+
+385
+00:31:24,383 --> 00:31:26,760
+Tiene un trasero estupendo,
+y una boca muy floja.
+
+386
+00:31:26,885 --> 00:31:29,262
+-Parece que le atraen las aberraciones.
+-Sí.
+
+387
+00:31:50,033 --> 00:31:51,201
+Mierda.
+
+388
+00:31:54,913 --> 00:31:56,081
+Maldita sea.
+
+389
+00:31:57,874 --> 00:31:59,251
+Soy una buena persona.
+
+390
+00:31:59,960 --> 00:32:01,920
+Soy bueno, no merezco esto.
+
+391
+00:32:02,254 --> 00:32:05,048
+Yo confieso...
+
+392
+00:32:05,132 --> 00:32:07,676
+¡Yo confieso que esto es una locura!
+
+393
+00:32:33,910 --> 00:32:35,662
+¿Qué...? ¿Qué...?
+
+394
+00:32:45,755 --> 00:32:46,923
+¡Oigan, chicos!
+
+395
+00:32:48,133 --> 00:32:49,259
+¡Chicos!
+
+396
+00:32:49,676 --> 00:32:51,470
+Alguien encendió un televisor.
+
+397
+00:32:52,471 --> 00:32:54,931
+-¿Hola?
+-Sí, aquí también.
+
+398
+00:32:55,223 --> 00:32:57,350
+-Voy a tener que subirte.
+-¿Qué?
+
+399
+00:32:57,809 --> 00:32:59,311
+Debemos alcanzar el control remoto.
+
+400
+00:32:59,436 --> 00:33:00,479
+DENLE PLAY
+
+401
+00:33:00,562 --> 00:33:01,563
+Está bien.
+
+402
+00:33:04,649 --> 00:33:05,609
+¿Lo tienes?
+
+403
+00:33:07,110 --> 00:33:08,069
+Lo tengo.
+
+404
+00:33:11,114 --> 00:33:12,741
+¡No! ¡No!
+
+405
+00:33:13,200 --> 00:33:14,242
+¡No!
+
+406
+00:33:32,636 --> 00:33:35,764
+<i>En el pasado, todos ustedes pusieron
+sus intereses personales...</i>
+
+407
+00:33:35,931 --> 00:33:37,432
+<i>...por sobre los de los demás.</i>
+
+408
+00:33:37,599 --> 00:33:40,810
+<i>Y luego, se mintieron a sí mismos
+y engañaron al mundo...</i>
+
+409
+00:33:40,936 --> 00:33:44,940
+<i>...sobre su insensibilidad,
+su latrocinio, su delincuencia.</i>
+
+410
+00:33:45,190 --> 00:33:47,317
+<i>Ahora, mirarán al espejo...</i>
+
+411
+00:33:47,400 --> 00:33:50,070
+<i>...y enfrentarán a la persona
+que son en realidad.</i>
+
+412
+00:33:50,570 --> 00:33:54,366
+<i>Las decisiones que han tomado
+podrían costarles la vida.</i>
+
+413
+00:33:54,699 --> 00:33:57,035
+<i>No pueden huir de la verdad.</i>
+
+414
+00:33:57,160 --> 00:34:00,413
+<i>Sin embargo, hay una persona
+que puede ayudarlos.</i>
+
+415
+00:34:01,039 --> 00:34:02,082
+<i>Ryan.</i>
+
+416
+00:34:02,791 --> 00:34:05,961
+<i>Si tira de la palanca
+antes de que sean enterrados vivos...</i>
+
+417
+00:34:06,461 --> 00:34:07,796
+<i>...vivirán.</i>
+
+418
+00:34:08,838 --> 00:34:09,881
+<i>Ryan...</i>
+
+419
+00:34:10,549 --> 00:34:13,260
+<i>...libérate para liberarlos.</i>
+
+420
+00:34:20,976 --> 00:34:22,060
+Ryan...
+
+421
+00:34:24,521 --> 00:34:25,480
+¡Ryan!
+
+422
+00:34:36,241 --> 00:34:37,534
+¡No! ¡No!
+
+423
+00:34:40,912 --> 00:34:42,122
+¿Qué es eso?
+
+424
+00:34:42,289 --> 00:34:43,373
+Son granos.
+
+425
+00:34:43,873 --> 00:34:46,751
+-Ryan, nos va a sepultar vivos.
+-¡Ryan!
+
+426
+00:34:50,880 --> 00:34:51,923
+¡Ryan!
+
+427
+00:34:52,632 --> 00:34:54,342
+-¡Ryan!
+-No...
+
+428
+00:34:54,759 --> 00:34:56,803
+-¡Tira de la palanca!
+-¡Libéranos!
+
+429
+00:34:57,679 --> 00:34:58,888
+¡No puedo!
+
+430
+00:34:58,972 --> 00:35:00,765
+-¡Ryan!
+-¡Por favor, Ryan!
+
+431
+00:35:01,433 --> 00:35:02,934
+Apresúrate, amigo.
+
+432
+00:35:03,226 --> 00:35:06,271
+¡Ryan! ¡Tienes que hacerlo!
+
+433
+00:35:06,354 --> 00:35:07,314
+¡Ryan!
+
+434
+00:35:11,192 --> 00:35:14,571
+-¡Tira de la palanca!
+-Ryan, ¡tira de la maldita palanca!
+
+435
+00:35:14,863 --> 00:35:15,989
+¡Por favor!
+
+436
+00:35:23,872 --> 00:35:25,498
+¿Cuál es tu historia, cariño?
+
+437
+00:35:26,708 --> 00:35:28,585
+¿Qué quiere saber, detective?
+
+438
+00:35:29,252 --> 00:35:31,421
+¿Eres pervertida?
+
+439
+00:35:32,380 --> 00:35:34,591
+-¿Te gusta el dolor?
+-¿Por qué?
+
+440
+00:35:36,343 --> 00:35:37,719
+¿Quiere que lo castigue?
+
+441
+00:35:39,179 --> 00:35:42,724
+Demasiado tarde. Ya tengo una exesposa
+que me tortura todos los días.
+
+442
+00:35:43,224 --> 00:35:45,268
+-Quizá lo merezca.
+-Es probable.
+
+443
+00:35:45,852 --> 00:35:48,980
+¿Dónde estabas la noche
+que asesinaron a Malcolm Neale?
+
+444
+00:35:50,523 --> 00:35:51,650
+En casa.
+
+445
+00:35:52,525 --> 00:35:54,194
+-Sola.
+-Qué bien.
+
+446
+00:35:57,155 --> 00:35:58,281
+¿Puedes probarlo?
+
+447
+00:35:59,115 --> 00:36:00,200
+¿Es necesario?
+
+448
+00:36:03,244 --> 00:36:05,580
+<i>-Regresa pronto a casa, papi.</i>
+-Lo haré.
+
+449
+00:36:05,830 --> 00:36:08,792
+Lamento que debas quedarte
+hasta tarde de nuevo, Judy.
+
+450
+00:36:09,000 --> 00:36:10,043
+<i>No te preocupes.</i>
+
+451
+00:36:10,335 --> 00:36:12,379
+Bien. Dulces sueños, Mel.
+
+452
+00:36:12,879 --> 00:36:13,880
+Te quiero.
+
+453
+00:36:14,422 --> 00:36:15,840
+<i>Yo también te quiero, papi.</i>
+
+454
+00:36:15,965 --> 00:36:17,092
+Te quiero, adiós.
+
+455
+00:36:17,384 --> 00:36:18,343
+<i>Adiós.</i>
+
+456
+00:36:19,010 --> 00:36:19,969
+Logan.
+
+457
+00:36:24,516 --> 00:36:25,892
+¿De dónde salió Eleanor?
+
+458
+00:36:26,184 --> 00:36:27,394
+¿Mi asistente?
+
+459
+00:36:28,603 --> 00:36:31,898
+¿Es solo eso?
+Christine murió hace dos años.
+
+460
+00:36:32,190 --> 00:36:34,859
+-No te culparía.
+-No, pero soy profesional.
+
+461
+00:36:35,610 --> 00:36:38,780
+¿Has oído de un sitio web
+llamado "Las reglas de Jigsaw"?
+
+462
+00:36:39,072 --> 00:36:41,241
+-No.
+-Está bien oculto en internet.
+
+463
+00:36:41,366 --> 00:36:43,910
+Nos tomó tiempo, pero es
+un sitio dedicado a Jigsaw.
+
+464
+00:36:44,619 --> 00:36:48,081
+La mitad es mentira, acertijos,
+pero hay cosas...
+
+465
+00:36:48,998 --> 00:36:50,792
+...que dan miedo.
+
+466
+00:36:50,959 --> 00:36:52,293
+Muchos locos enfermos.
+
+467
+00:36:52,544 --> 00:36:55,004
+-De acuerdo.
+-Buscamos las direcciones IP.
+
+468
+00:36:55,130 --> 00:36:57,048
+Tu asistente entra demasiado.
+
+469
+00:36:57,549 --> 00:36:58,758
+Lo visita con frecuencia.
+
+470
+00:36:59,509 --> 00:37:01,845
+Descargó cosas que ni te imaginas.
+
+471
+00:37:01,970 --> 00:37:05,765
+¿Dices que Eleanor Bonneville
+es nuestro imitador?
+
+472
+00:37:05,890 --> 00:37:07,142
+No, no decimos eso.
+
+473
+00:37:07,434 --> 00:37:08,810
+¿Comprobaste su coartada?
+
+474
+00:37:08,893 --> 00:37:12,272
+Dijo que estaba en casa la mañana
+que Cabeza de Cubo apareció colgado.
+
+475
+00:37:12,731 --> 00:37:16,901
+¿Sola en casa a las siete de la mañana?
+¿Una mujer soltera? Suena sospechoso.
+
+476
+00:37:17,068 --> 00:37:20,280
+Bien, rebobinemos.
+¿Cómo llegó Eleanor a ti?
+
+477
+00:37:20,363 --> 00:37:23,283
+Llegó al Departamento
+para hacer su residencia.
+
+478
+00:37:23,700 --> 00:37:27,328
+¿Y después, cuando terminó su residencia?
+
+479
+00:37:27,954 --> 00:37:32,292
+Hace tres meses recibió una oferta
+para dirigir la morgue de Cleveland.
+
+480
+00:37:32,459 --> 00:37:33,543
+¿Por qué no aceptó?
+
+481
+00:37:34,919 --> 00:37:36,421
+¿Te mudarías a Cleveland?
+
+482
+00:37:37,881 --> 00:37:40,049
+Era el laboratorio,
+ya tienen los resultados.
+
+483
+00:37:44,429 --> 00:37:48,433
+Este es el ADN que había debajo
+de las uñas de la primera víctima...
+
+484
+00:37:48,600 --> 00:37:51,603
+-...Malcolm Neale.
+-Cabeza de Cubo. ¿Puedes identificarlo?
+
+485
+00:37:51,770 --> 00:37:52,771
+Ya lo hice.
+
+486
+00:37:53,480 --> 00:37:57,650
+Esta es la muestra de sangre
+de un asesino tomada hace una década.
+
+487
+00:37:58,359 --> 00:37:59,652
+Quizá recuerden el caso.
+
+488
+00:38:00,445 --> 00:38:01,654
+Coincide perfecto.
+
+489
+00:38:05,950 --> 00:38:07,160
+¿De quién es la sangre?
+
+490
+00:38:08,119 --> 00:38:10,079
+-De John Kramer.
+-¿Qué?
+
+491
+00:38:11,581 --> 00:38:12,791
+Es imposible.
+
+492
+00:38:13,082 --> 00:38:14,209
+Está comprobado.
+
+493
+00:38:14,501 --> 00:38:17,170
+La sangre debajo de las uñas
+de la primera víctima...
+
+494
+00:38:17,670 --> 00:38:20,840
+...es de John Kramer,
+el asesino del rompecabezas.
+
+495
+00:38:26,679 --> 00:38:28,181
+¡Ryan!
+
+496
+00:38:28,348 --> 00:38:30,892
+<i>¡Ayúdanos! ¡Ryan!</i>
+
+497
+00:38:31,059 --> 00:38:33,102
+-¡Ayuda!
+-Tira de la palanca.
+
+498
+00:38:33,770 --> 00:38:35,063
+¡Ryan!
+
+499
+00:38:36,815 --> 00:38:38,900
+¡Tira de la palanca!
+
+500
+00:38:42,612 --> 00:38:44,823
+-¡Ryan!
+-¡Ayúdanos ya!
+
+501
+00:38:46,616 --> 00:38:47,909
+¡Ryan!
+
+502
+00:38:50,745 --> 00:38:52,080
+¡Auxilio!
+
+503
+00:38:52,163 --> 00:38:53,164
+¡No!
+
+504
+00:38:53,331 --> 00:38:54,791
+¡Váyanse al infierno!
+
+505
+00:38:55,208 --> 00:38:57,252
+¡Tienes que ayudarnos!
+
+506
+00:39:06,386 --> 00:39:08,054
+¡Ayuda!
+
+507
+00:39:16,062 --> 00:39:17,814
+¡Por Dios!
+
+508
+00:39:22,861 --> 00:39:24,070
+¡Ryan!
+
+509
+00:39:28,449 --> 00:39:30,159
+¡Tira de la palanca, Ryan!
+
+510
+00:39:30,285 --> 00:39:31,286
+¡Tira de ella!
+
+511
+00:39:39,586 --> 00:39:41,004
+¡Ryan!
+
+512
+00:39:41,170 --> 00:39:42,130
+¡Ryan!
+
+513
+00:39:42,255 --> 00:39:45,049
+¡Vamos a morir aquí, por favor!
+
+514
+00:39:45,550 --> 00:39:48,011
+Por el amor de Dios, ayúdanos.
+
+515
+00:39:48,678 --> 00:39:51,431
+¡Si nosotros morimos, tú también!
+
+516
+00:40:04,485 --> 00:40:05,612
+Por Dios...
+
+517
+00:40:41,022 --> 00:40:43,858
+Es la ubicación GPS
+del celular de la señorita Bonneville.
+
+518
+00:40:46,486 --> 00:40:47,528
+Estupendo.
+
+519
+00:40:49,280 --> 00:40:50,323
+¿Jigsaw está muerto?
+
+520
+00:40:50,490 --> 00:40:51,991
+¿Encontraron la sangre de John Kramer?
+
+521
+00:40:52,075 --> 00:40:54,994
+¿Qué puede decirles
+a los ciudadanos que quieren respuestas?
+
+522
+00:41:02,001 --> 00:41:03,294
+¿Apagaste tu teléfono?
+
+523
+00:41:06,631 --> 00:41:09,592
+Y aun así, aquí estás, me encontraste.
+
+524
+00:41:11,302 --> 00:41:13,012
+Serías un buen detective.
+
+525
+00:41:15,223 --> 00:41:17,642
+O quizá soy muy predecible.
+
+526
+00:41:17,809 --> 00:41:19,852
+¿Predecible? No.
+
+527
+00:41:21,062 --> 00:41:24,524
+Halloran está repartiendo culpas.
+Va tras nosotros.
+
+528
+00:41:26,192 --> 00:41:28,987
+Sí. Están vigilando mi casa.
+
+529
+00:41:29,070 --> 00:41:30,905
+Cree que tu coartada es mentira.
+
+530
+00:41:33,491 --> 00:41:35,284
+En serio lo aprecias, ¿no?
+
+531
+00:41:38,329 --> 00:41:41,249
+El primer año en el condado
+hubo un caso evidente...
+
+532
+00:41:42,083 --> 00:41:45,128
+...un depredador
+de nombre Alistair Schultz.
+
+533
+00:41:46,421 --> 00:41:49,924
+Halloran lo golpeó estando en custodia
+y el abogado usó eso para sacarlo.
+
+534
+00:41:50,091 --> 00:41:52,635
+Al día siguiente,
+mató a una niña de ocho años...
+
+535
+00:41:52,760 --> 00:41:54,303
+...que terminó en mi mesa.
+
+536
+00:41:55,430 --> 00:41:56,723
+La primera de muchas.
+
+537
+00:41:57,682 --> 00:41:58,850
+Halloran...
+
+538
+00:42:00,184 --> 00:42:03,521
+...no puede controlarse,
+no puede hacer el esfuerzo.
+
+539
+00:42:05,148 --> 00:42:07,608
+Así que no, no lo aprecio.
+
+540
+00:42:09,736 --> 00:42:13,781
+Es un empleo, Logan.
+No puedes volverlo personal.
+
+541
+00:42:14,198 --> 00:42:15,950
+El día que tengas una hija...
+
+542
+00:42:20,955 --> 00:42:23,374
+¿Por qué no me hablaste
+del empleo en Cleveland?
+
+543
+00:42:25,460 --> 00:42:28,212
+-Porque me habrías dicho que lo aceptara.
+-¡Por supuesto!
+
+544
+00:42:28,379 --> 00:42:31,382
+-¡Es complicado!
+-Estamos más allá de eso.
+
+545
+00:42:34,552 --> 00:42:36,721
+Cuando colgaron a Cabeza de Cubo...
+
+546
+00:42:37,930 --> 00:42:40,141
+...no estaba en casa
+como le dije a la policía.
+
+547
+00:42:41,100 --> 00:42:42,518
+Estaba en...
+
+548
+00:42:44,020 --> 00:42:45,188
+...mi estudio.
+
+549
+00:42:45,271 --> 00:42:47,190
+¿Cuál estudio?
+
+550
+00:42:47,940 --> 00:42:49,442
+¿Y por qué no les dijiste eso?
+
+551
+00:42:49,609 --> 00:42:52,904
+Ya te dije, es complicado.
+
+552
+00:42:53,071 --> 00:42:54,781
+¿Crees que no lo averiguarán?
+
+553
+00:42:54,906 --> 00:42:58,367
+Saben del sitio de seguidores de Jigsaw,
+y lo que sea que estés haciendo.
+
+554
+00:42:58,451 --> 00:42:59,994
+Van a descubrir todo.
+
+555
+00:43:00,870 --> 00:43:03,331
+El, creen que estoy involucrado.
+
+556
+00:43:04,499 --> 00:43:05,500
+¡Muéstrame!
+
+557
+00:44:10,690 --> 00:44:12,150
+-¡Dios!
+-Debería advertirte...
+
+558
+00:44:12,233 --> 00:44:13,484
+¿Puedes prender la luz?
+
+559
+00:44:29,792 --> 00:44:30,960
+¿Eleanor?
+
+560
+00:44:32,920 --> 00:44:34,213
+¿Qué es esto?
+
+561
+00:44:35,840 --> 00:44:37,884
+Las chicas también
+tenemos pasatiempos.
+
+562
+00:44:38,259 --> 00:44:40,761
+¿Pasatiempo? ¿Así lo llamas?
+
+563
+00:44:41,179 --> 00:44:42,680
+¿Y coleccionar estampillas?
+
+564
+00:44:43,014 --> 00:44:44,390
+Eso es un pasatiempo.
+
+565
+00:45:09,248 --> 00:45:10,833
+Es hermoso, ¿verdad?
+
+566
+00:45:29,101 --> 00:45:32,813
+Supuestamente, John Kramer diseñó
+esa trampa para un juego...
+
+567
+00:45:32,980 --> 00:45:34,565
+...que se llevó a cabo
+antes que los demás.
+
+568
+00:45:34,941 --> 00:45:36,901
+Encontraron los planos en su laboratorio.
+
+569
+00:45:38,444 --> 00:45:39,946
+Lo construí yo misma.
+
+570
+00:45:40,363 --> 00:45:42,281
+Se los compré a un tipo en internet.
+
+571
+00:45:42,573 --> 00:45:46,369
+Los rumores dicen
+que además de diseñarlo...
+
+572
+00:45:48,079 --> 00:45:49,455
+...John construyó uno.
+
+573
+00:45:49,580 --> 00:45:51,415
+Lamento decepcionarte...
+
+574
+00:45:51,749 --> 00:45:54,961
+...pero ninguna víctima de Kramer
+murió en un aparato como este.
+
+575
+00:45:55,211 --> 00:45:57,129
+Las heridas no coinciden con el diseño.
+
+576
+00:45:58,130 --> 00:46:00,049
+Quizá no encontraron los cadáveres.
+
+577
+00:46:00,132 --> 00:46:01,425
+Y quizá no sucedió.
+
+578
+00:46:02,009 --> 00:46:03,761
+Quizá alguien está jugando contigo.
+
+579
+00:46:05,471 --> 00:46:09,558
+¿Qué haces con esto?
+Tienes que deshacerte de estas cosas.
+
+580
+00:47:22,423 --> 00:47:25,051
+Estupendo trabajo.
+Tenemos pruebas suficientes.
+
+581
+00:47:25,760 --> 00:47:27,470
+-No vas a creer esto.
+-¿Qué?
+
+582
+00:47:27,553 --> 00:47:30,973
+El inspector quiere ver
+los restos de Jigsaw.
+
+583
+00:47:31,140 --> 00:47:32,808
+Quiere evidencia de que está muerto.
+
+584
+00:47:32,892 --> 00:47:34,143
+-¿Qué?
+-Sí.
+
+585
+00:47:34,310 --> 00:47:36,353
+Quiere calmar los temores de la gente.
+
+586
+00:47:36,520 --> 00:47:38,647
+¿En serio? ¿Perseguir a un muerto?
+
+587
+00:47:39,482 --> 00:47:41,650
+Estas son tonterías electorales.
+
+588
+00:47:41,901 --> 00:47:44,278
+Es todo tuyo, le daré seguimiento a esto.
+
+589
+00:47:44,361 --> 00:47:45,404
+Enseguida.
+
+590
+00:47:46,572 --> 00:47:48,741
+DEPARTAMENTO DE VETERANOS DE EE. UU.
+
+591
+00:47:49,033 --> 00:47:50,951
+TENIENTE LOGAN NELSON
+
+592
+00:47:58,709 --> 00:48:01,212
+...DE UN INTERROGATORIO BRUTAL...
+
+593
+00:48:01,378 --> 00:48:05,007
+...UNA RECAÍDA SEVERA EN...
+
+594
+00:48:07,885 --> 00:48:08,969
+Halloran.
+
+595
+00:48:11,430 --> 00:48:13,974
+Está en coma, ¿cómo que desapareció?
+
+596
+00:48:22,691 --> 00:48:23,943
+Todavía respira.
+
+597
+00:48:45,131 --> 00:48:46,173
+¿Qué es?
+
+598
+00:48:49,301 --> 00:48:50,511
+Tiene mi nombre.
+
+599
+00:48:51,554 --> 00:48:54,098
+Ya sabes qué sucede
+si no seguimos las reglas.
+
+600
+00:49:07,069 --> 00:49:08,279
+<i>Hola, Mitch.</i>
+
+601
+00:49:08,404 --> 00:49:11,532
+<i>Admitiste haberle vendido
+una motocicleta a un chico.</i>
+
+602
+00:49:14,034 --> 00:49:17,204
+<i>Pero no contaste
+la historia completa, ¿verdad?</i>
+
+603
+00:49:18,330 --> 00:49:20,082
+<i>Pediste 600 dólares...</i>
+
+604
+00:49:20,249 --> 00:49:23,794
+<i>...por una moto que anunciaste
+en excelentes condiciones.</i>
+
+605
+00:49:23,961 --> 00:49:26,422
+<i>Aunque sabías que los frenos estaban mal.</i>
+
+606
+00:49:26,589 --> 00:49:28,924
+<i>Tomaste sus 600 dólares...</i>
+
+607
+00:49:29,508 --> 00:49:33,220
+<i>...y a cambio lo enviaste a su muerte.</i>
+
+608
+00:49:35,431 --> 00:49:39,268
+<i>Era mi sobrino,
+y nunca le hizo daño a nadie.</i>
+
+609
+00:49:40,519 --> 00:49:44,690
+<i>El artefacto que ves aquí
+tiene una fuente de poder única.</i>
+
+610
+00:49:44,773 --> 00:49:49,195
+<i>Es el mismo motor que tenía
+la moto que le vendiste a mi sobrino.</i>
+
+611
+00:49:49,320 --> 00:49:49,987
+Demonios.
+
+612
+00:49:50,070 --> 00:49:55,743
+<i>Sin embargo, te aseguro que los frenos
+de este funcionan perfecto.</i>
+
+613
+00:49:55,910 --> 00:49:56,827
+Mierda.
+
+614
+00:49:56,911 --> 00:49:58,329
+¡Oye, tienes razón!
+
+615
+00:49:58,412 --> 00:50:02,750
+<i>Escapa de los peligros que te rodean,
+oprime el freno de la motocicleta...</i>
+
+616
+00:50:02,100 --> 00:50:04,710
+<i>...y el motor se detendrá.</i>
+
+617
+00:50:04,835 --> 00:50:05,711
+¡Mierda!
+
+618
+00:50:05,878 --> 00:50:08,631
+<i>Vive o muere, Mitch.
+La decisión es tuya.</i>
+
+619
+00:50:11,550 --> 00:50:13,719
+¡Mierda! No, no.
+
+620
+00:50:16,055 --> 00:50:17,097
+¡Mierda!
+
+621
+00:50:17,640 --> 00:50:20,017
+¡Lo siento! ¡Detente, por favor!
+
+622
+00:50:20,601 --> 00:50:22,519
+Lamento lo de tu sobrino.
+
+623
+00:50:24,688 --> 00:50:25,940
+¡Ayúdame, Anna!
+
+624
+00:50:26,690 --> 00:50:28,150
+¡Ven aquí!
+
+625
+00:50:29,360 --> 00:50:31,278
+¡No quiero morir!
+
+626
+00:50:32,029 --> 00:50:33,614
+¡Basta! ¡Detenlo!
+
+627
+00:50:35,824 --> 00:50:36,909
+¡Páralo!
+
+628
+00:50:46,210 --> 00:50:48,837
+¡Tienes que ayudarme, Anna!
+¡Apúrate!
+
+629
+00:50:49,338 --> 00:50:52,007
+¡Necesito que te apresures!
+¡Rápido, por favor!
+
+630
+00:50:52,091 --> 00:50:54,760
+¡Ayúdame, por favor! ¡Rápido, apúrate!
+
+631
+00:50:59,431 --> 00:51:02,810
+-¡No quiero morir!
+-¡Oprime el freno, Mitch!
+
+632
+00:51:03,310 --> 00:51:04,603
+¡Oprime el freno!
+
+633
+00:51:16,907 --> 00:51:17,825
+Dios.
+
+634
+00:51:32,381 --> 00:51:33,841
+¡Lo lograste, Anna!
+
+635
+00:51:34,133 --> 00:51:35,634
+¡Me salvaste!
+
+636
+00:51:36,218 --> 00:51:38,220
+Anna, sácame de aquí, por favor.
+
+637
+00:51:38,304 --> 00:51:39,221
+¡Lo lograste!
+
+638
+00:51:39,763 --> 00:51:41,098
+¡Lo hiciste!
+
+639
+00:51:43,851 --> 00:51:44,810
+¡No! ¡No! ¡No!
+
+640
+00:52:01,035 --> 00:52:04,371
+Edgar Munsen estaba en coma.
+
+641
+00:52:04,538 --> 00:52:06,123
+¡Tenías una tarea!
+
+642
+00:52:06,290 --> 00:52:08,834
+Una tarea que cumplir, maldito...
+
+643
+00:52:13,839 --> 00:52:14,673
+¿Sí?
+
+644
+00:52:15,591 --> 00:52:16,508
+¿Nada?
+
+645
+00:52:17,051 --> 00:52:18,010
+<i>Nada.</i>
+
+646
+00:52:18,135 --> 00:52:20,054
+Hizo como Houdini, nadie vio nada.
+
+647
+00:52:20,721 --> 00:52:22,681
+Están sacando el ataúd de Kramer.
+
+648
+00:52:24,808 --> 00:52:25,851
+<i>¿Hay periodistas?</i>
+
+649
+00:52:27,478 --> 00:52:28,312
+Sí.
+
+650
+00:52:29,021 --> 00:52:29,980
+Qué bien.
+
+651
+00:52:30,230 --> 00:52:32,274
+Termina con esta tontería
+de una vez por todas.
+
+652
+00:52:32,441 --> 00:52:35,027
+<i>John Kramer está muerto
+desde hace diez años.</i>
+
+653
+00:52:35,110 --> 00:52:37,154
+<i>Ya fue suficiente de esta tontería.</i>
+
+654
+00:52:44,119 --> 00:52:45,954
+Tal vez quieras rectificar eso.
+
+655
+00:52:46,080 --> 00:52:47,289
+¿Por qué? ¿Qué sucede?
+
+656
+00:52:48,290 --> 00:52:52,127
+Digamos que puedes cancelar
+la búsqueda de Edgar Munsen.
+
+657
+00:52:52,211 --> 00:52:53,379
+¡Por favor!
+
+658
+00:52:55,631 --> 00:52:58,175
+<i>Consigue una orden para Bonneville,
+te veo allá.</i>
+
+659
+00:52:59,593 --> 00:53:02,721
+-Avancen, avancen.
+-Vamos, muévanse.
+
+660
+00:53:03,597 --> 00:53:05,391
+Ustedes a la izquierda,
+ustedes a la derecha.
+
+661
+00:53:09,269 --> 00:53:10,687
+¡Entren! ¡Entren!
+
+662
+00:53:11,230 --> 00:53:12,564
+¡Despejado a la izquierda!
+
+663
+00:53:12,815 --> 00:53:14,149
+-¡Despejado!
+-¡Despejado!
+
+664
+00:53:14,775 --> 00:53:16,193
+Cuidado a la izquierda, atentos.
+
+665
+00:53:17,903 --> 00:53:18,821
+¿Entraron?
+
+666
+00:54:02,990 --> 00:54:04,908
+¡SE CONOCE LA IDENTIDAD DE JIGSAW!
+
+667
+00:54:08,120 --> 00:54:09,580
+JIGSAW ATACA DE NUEVO
+
+668
+00:54:13,417 --> 00:54:14,460
+¡Por Dios!
+
+669
+00:54:21,175 --> 00:54:23,010
+Y LUEGO, QUEDARON DOS...
+
+670
+00:54:23,427 --> 00:54:24,511
+Quedan dos.
+
+671
+00:54:24,803 --> 00:54:28,390
+¿Entonces? ¿Bonneville deja un cadáver
+colgando en su estudio? ¡Por favor!
+
+672
+00:54:28,557 --> 00:54:29,433
+No sé.
+
+673
+00:54:32,561 --> 00:54:33,937
+Voy por Logan.
+
+674
+00:54:34,354 --> 00:54:35,731
+Yo voy por la chica.
+
+675
+00:54:39,485 --> 00:54:41,570
+Extiende los brazos, hermano.
+
+676
+00:54:42,863 --> 00:54:44,865
+-No hice nada, Keith...
+-Escúchame.
+
+677
+00:54:45,491 --> 00:54:47,034
+Tengo fotos tuyas.
+
+678
+00:54:47,743 --> 00:54:50,871
+Sí, Eleanor y tú en su bodega
+de instrumentos de tortura.
+
+679
+00:54:51,038 --> 00:54:52,372
+-¿Estuviste ahí?
+-¡Sí!
+
+680
+00:54:52,539 --> 00:54:54,958
+Acabo de ver un tercer cadáver
+que parece salido de una picadora.
+
+681
+00:54:55,042 --> 00:54:58,045
+-Alguien quiere incriminarnos...
+-Dime dónde está Eleanor.
+
+682
+00:54:58,170 --> 00:55:00,088
+-Puedo explicarte, confía...
+-¿Sabes dónde está?
+
+683
+00:55:00,172 --> 00:55:02,299
+Keith, te diré todo lo que sé.
+
+684
+00:55:05,844 --> 00:55:08,597
+Sé quién lo hizo, y tú también.
+
+685
+00:55:09,223 --> 00:55:11,183
+¿Quién encontró el cadáver
+en el estudio de Eleanor?
+
+686
+00:55:12,142 --> 00:55:12,893
+¡Por Dios!
+
+687
+00:55:13,352 --> 00:55:14,353
+Halloran.
+
+688
+00:55:14,520 --> 00:55:17,481
+Tenía el motivo,
+quería muerto a Edgar.
+
+689
+00:55:17,564 --> 00:55:20,192
+¿Quién ordenó que apuntaran
+al control remoto?
+
+690
+00:55:20,359 --> 00:55:22,194
+Si se mueve para oprimirlo,
+lo haces pedazos.
+
+691
+00:55:22,819 --> 00:55:23,820
+Continúa.
+
+692
+00:55:23,904 --> 00:55:27,908
+Todos apuntaron al detonador,
+pero ¿vieron a qué apuntó Halloran?
+
+693
+00:55:30,744 --> 00:55:32,663
+No planeaba dejar ir a Edgar.
+
+694
+00:55:35,791 --> 00:55:38,669
+¿Tu compañero sabe que trabajas
+con Asuntos Internos?
+
+695
+00:55:41,129 --> 00:55:43,382
+-Entonces, tengo razón.
+-¡Por Dios!
+
+696
+00:55:45,467 --> 00:55:47,928
+Estoy tras Halloran desde antes
+que esto empezara.
+
+697
+00:55:48,679 --> 00:55:52,182
+Asuntos Internos lo relacionó
+con múltiples homicidios de años atrás.
+
+698
+00:55:52,933 --> 00:55:54,893
+Los asesinatos recientes de Jigsaw...
+
+699
+00:55:55,060 --> 00:55:58,814
+Los tres cadáveres que te llevamos
+tienen que ver con casos de Halloran.
+
+700
+00:55:58,981 --> 00:56:00,023
+Arréstalo.
+
+701
+00:56:00,440 --> 00:56:02,067
+¡Halloran quiere incriminarme!
+
+702
+00:56:02,985 --> 00:56:05,320
+-Ni siquiera sé qué tiene contra mí.
+-¿En serio?
+
+703
+00:56:05,404 --> 00:56:07,948
+Lo has delatado
+por arruinar casos seguros.
+
+704
+00:56:08,198 --> 00:56:10,701
+Lo llamaste idiota delante de la prensa,
+dos veces.
+
+705
+00:56:10,867 --> 00:56:14,371
+No, dije que era un imbécil impulsivo.
+Dos veces.
+
+706
+00:56:16,623 --> 00:56:19,001
+Lo culpas por lo sucedido a Christine,
+¿verdad?
+
+707
+00:56:21,211 --> 00:56:23,213
+No sé cómo probar
+que Halloran es el imitador...
+
+708
+00:56:23,380 --> 00:56:25,799
+Es Halloran. Es él.
+Déjame ayudarte a armar el caso.
+
+709
+00:56:26,008 --> 00:56:29,094
+Déjame darte la evidencia.
+Permíteme abrir a Edgar Munsen.
+
+710
+00:56:29,261 --> 00:56:31,930
+Compararemos la bala
+con el arma de Halloran.
+
+711
+00:56:45,569 --> 00:56:46,903
+¿Qué arma usas?
+
+712
+00:56:47,029 --> 00:56:51,033
+Una Glock 22, como todos los policías.
+Excepto Halloran, la de él es de 17.
+
+713
+00:56:52,367 --> 00:56:55,329
+Es de 9 x 19 mm.
+Pertenece a una Glock 17.
+
+714
+00:56:57,331 --> 00:56:58,332
+Muy bien.
+
+715
+00:56:59,041 --> 00:57:02,044
+Te llevo a tu casa.
+Ahí te quedas hasta que te llame.
+
+716
+00:57:02,919 --> 00:57:04,171
+Voy por Halloran.
+
+717
+00:57:08,550 --> 00:57:10,427
+El, ¿dónde demonios estás?
+
+718
+00:57:11,011 --> 00:57:12,763
+Llámame. Es urgente.
+
+719
+00:57:17,809 --> 00:57:18,810
+¡Por Dios!
+
+720
+00:57:19,519 --> 00:57:22,648
+El, te he estado llamando.
+
+721
+00:57:22,731 --> 00:57:25,442
+-No sé cómo ese cadáver...
+-No, no. Tranquila.
+
+722
+00:57:25,692 --> 00:57:28,820
+No creen que seamos nosotros.
+Sospechan de Halloran.
+
+723
+00:57:30,280 --> 00:57:31,281
+Lo descubrí.
+
+724
+00:57:32,824 --> 00:57:34,993
+Creo que sé dónde hacen el juego.
+
+725
+00:57:35,243 --> 00:57:36,411
+Encontré la granja.
+
+726
+00:57:37,079 --> 00:57:39,081
+-Genial. Vamos a llamar al detective...
+-¡No!
+
+727
+00:57:39,373 --> 00:57:42,292
+Halloran está detrás de esto,
+no podemos confiar en la policía.
+
+728
+00:57:42,459 --> 00:57:44,920
+¿Qué? ¿Quieres ver el juego
+con tus propios ojos?
+
+729
+00:57:46,421 --> 00:57:48,215
+¿Te excita esta porquería?
+
+730
+00:57:48,548 --> 00:57:52,511
+Logan, es una oportunidad
+para que salvemos vidas.
+
+731
+00:57:52,678 --> 00:57:56,390
+¿Vamos a enfrentarnos a un asesino serial
+con ingenio y astucia?
+
+732
+00:58:01,812 --> 00:58:02,980
+Y esto.
+
+733
+00:58:16,410 --> 00:58:19,121
+¡Anna! ¡No me dejes!
+
+734
+00:58:20,122 --> 00:58:21,289
+¿Anna?
+
+735
+00:58:22,624 --> 00:58:25,961
+¡Anna! Me estoy desangrando, Anna.
+
+736
+00:58:30,090 --> 00:58:31,758
+Maldita sea...
+
+737
+00:58:35,887 --> 00:58:37,139
+Anna.
+
+738
+00:58:42,477 --> 00:58:43,478
+Bien.
+
+739
+00:58:44,855 --> 00:58:48,567
+¡Anna! ¡No me dejes, por favor!
+
+740
+00:59:58,428 --> 00:59:59,554
+Hola, Anna.
+
+741
+01:00:00,347 --> 01:00:01,431
+¿John?
+
+742
+01:00:03,850 --> 01:00:05,143
+¿John Kramer?
+
+743
+01:00:07,729 --> 01:00:09,022
+¿Qué sucede?
+
+744
+01:00:09,481 --> 01:00:11,483
+Están a punto de comenzar un juego.
+
+745
+01:00:15,654 --> 01:00:16,738
+Ay, no.
+
+746
+01:00:16,947 --> 01:00:19,032
+No. ¿Qué haces, John?
+
+747
+01:00:19,324 --> 01:00:22,119
+-¿Qué haces?
+-Es la última prueba.
+
+748
+01:00:22,202 --> 01:00:25,038
+¡Ya pasé tu prueba! ¡Mira mi pierna!
+
+749
+01:00:25,372 --> 01:00:27,290
+Esa no era tu prueba, Ryan.
+
+750
+01:00:29,000 --> 01:00:31,253
+Y eso no habría sido necesario...
+
+751
+01:00:31,711 --> 01:00:34,047
+...si hubieras seguido las reglas.
+
+752
+01:00:34,464 --> 01:00:36,383
+Pero no te agradan las reglas, ¿verdad?
+
+753
+01:00:41,930 --> 01:00:43,431
+¿Quieres misericordia?
+
+754
+01:00:43,890 --> 01:00:47,352
+¿Tú, que no has hecho nada para confesar?
+
+755
+01:00:49,729 --> 01:00:53,817
+¿Tú, que eres responsable
+no de una, sino de tres muertes?
+
+756
+01:00:56,278 --> 01:01:00,490
+Tu vida de mentiras insensatas
+comenzó en la preparatoria.
+
+757
+01:01:00,824 --> 01:01:02,242
+Y solamente empeoró.
+
+758
+01:01:02,409 --> 01:01:04,244
+¡Siéntate! ¡Baja de ahí!
+
+759
+01:01:04,411 --> 01:01:05,620
+¡Déjame en paz!
+
+760
+01:01:13,837 --> 01:01:17,424
+Le mentiste a las autoridades
+muchas veces, Ryan.
+
+761
+01:01:17,674 --> 01:01:22,053
+Culpaste únicamente al conductor,
+tu mejor amigo difunto.
+
+762
+01:01:22,721 --> 01:01:24,639
+¿Sabes qué le hiciste a su familia?
+
+763
+01:01:27,767 --> 01:01:30,520
+Y solo has empeorado con los años.
+
+764
+01:01:30,687 --> 01:01:33,231
+Fui yo. Está bien, yo lo hice.
+
+765
+01:01:33,398 --> 01:01:35,734
+Fue mi culpa, pero sucedió hace mucho.
+
+766
+01:01:36,067 --> 01:01:38,653
+Quiero vivir.
+
+767
+01:01:39,029 --> 01:01:40,363
+Como yo, Ryan.
+
+768
+01:01:41,698 --> 01:01:43,200
+Como todos.
+
+769
+01:01:44,784 --> 01:01:46,244
+Pero suceden cosas.
+
+770
+01:01:47,454 --> 01:01:51,374
+Si un residente del hospital donde estuve
+no hubiera cometido una negligencia...
+
+771
+01:01:54,211 --> 01:01:56,838
+...habrían diagnosticado
+mi cáncer mucho antes.
+
+772
+01:02:01,259 --> 01:02:05,013
+Simplemente etiquetó la radiografía
+con el nombre incorrecto.
+
+773
+01:02:05,972 --> 01:02:08,934
+Me habría ahorrado muchas penurias.
+
+774
+01:02:11,019 --> 01:02:12,479
+Y tú, Anna.
+
+775
+01:02:14,231 --> 01:02:17,692
+Yo no hice nada, John. ¡Me conoces!
+
+776
+01:02:19,861 --> 01:02:21,529
+Por favor, no me hagas esto.
+
+777
+01:02:21,821 --> 01:02:24,824
+Anna y yo éramos vecinos.
+
+778
+01:02:25,367 --> 01:02:28,453
+Mis primeras quimioterapias
+fueron muy difíciles.
+
+779
+01:02:28,870 --> 01:02:33,041
+Anna y su esposo Matthew fueron
+muy amables, me apoyaron mucho.
+
+780
+01:02:34,209 --> 01:02:35,543
+Te lo agradezco.
+
+781
+01:02:35,710 --> 01:02:38,672
+Entonces, ¿por qué me haces esto?
+
+782
+01:02:38,922 --> 01:02:41,508
+Esa fue una buena época para ti,
+¿verdad, Anna?
+
+783
+01:02:42,008 --> 01:02:46,137
+Pero pobre tu esposo Matthew.
+Sé que no siempre congeniaban.
+
+784
+01:02:46,763 --> 01:02:50,267
+Y superar la tragedia
+de la muerte de un hijo...
+
+785
+01:02:50,850 --> 01:02:53,270
+...es una de las cargas más pesadas,
+¿verdad?
+
+786
+01:02:53,812 --> 01:02:56,481
+Ojalá no se hubiera quedado dormido
+esa noche.
+
+787
+01:02:57,023 --> 01:03:01,569
+Entonces no se habría girado
+y sofocado a tu bebé. Eso sucedió, ¿no?
+
+788
+01:03:11,579 --> 01:03:12,580
+¡Cállate!
+
+789
+01:03:13,081 --> 01:03:14,291
+¡Cállate!
+
+790
+01:03:16,793 --> 01:03:18,962
+Cállate... ¡Cállate!
+
+791
+01:03:30,890 --> 01:03:33,018
+Digo, es horrible. Es horrible...
+
+792
+01:03:33,351 --> 01:03:35,270
+...tener que vivir con eso.
+
+793
+01:03:42,360 --> 01:03:44,571
+Podría enloquecer a una persona, ¿verdad?
+
+794
+01:03:52,954 --> 01:03:54,581
+¿Qué nos vas a hacer?
+
+795
+01:03:55,582 --> 01:03:56,541
+¿Yo?
+
+796
+01:03:57,542 --> 01:03:59,210
+No voy a hacer nada.
+
+797
+01:04:01,171 --> 01:04:03,757
+Simplemente tienen que asumir
+la responsabilidad...
+
+798
+01:04:10,513 --> 01:04:11,848
+...de quiénes son.
+
+799
+01:04:24,277 --> 01:04:25,236
+Es aquí.
+
+800
+01:04:27,238 --> 01:04:28,573
+¿Cómo sabes que es aquí?
+
+801
+01:04:29,282 --> 01:04:30,867
+El criadero de cerdos Tuck.
+
+802
+01:04:31,826 --> 01:04:35,080
+Cerró a causa de un brote
+de la enfermedad de Aujeszky.
+
+803
+01:04:36,164 --> 01:04:38,666
+La muestra de Cabeza de Cubo,
+el virus porcino.
+
+804
+01:04:38,750 --> 01:04:42,754
+Este criadero era de la familia
+de Jill Tuck, la esposa de Jigsaw.
+
+805
+01:04:43,922 --> 01:04:45,090
+Aún les pertenece.
+
+806
+01:04:45,256 --> 01:04:47,258
+Aunque el lugar cerró hace años.
+
+807
+01:04:47,884 --> 01:04:49,844
+Parece que hay alguien aquí.
+
+808
+01:04:50,553 --> 01:04:52,138
+¿Seguro que quieres hacer esto?
+
+809
+01:05:17,664 --> 01:05:19,874
+Halloran, soy Hunt. Llámame.
+
+810
+01:05:21,501 --> 01:05:23,461
+Estamos en casa de Halloran, no está.
+
+811
+01:05:24,587 --> 01:05:26,381
+-¿Tienes su ubicación?
+-Estoy buscando.
+
+812
+01:05:26,548 --> 01:05:27,340
+¿Señor?
+
+813
+01:05:40,520 --> 01:05:41,271
+¡Dios!
+
+814
+01:05:41,813 --> 01:05:43,857
+Tenemos que arrestarlo, ¡ahora!
+
+815
+01:06:27,901 --> 01:06:28,902
+Mira esto.
+
+816
+01:07:00,600 --> 01:07:02,143
+Es mucha sangre.
+
+817
+01:07:04,771 --> 01:07:07,607
+Apuesto a que aquí decapitaron
+a Cabeza de Cubo.
+
+818
+01:07:10,860 --> 01:07:12,070
+Es Jigsaw.
+
+819
+01:07:12,362 --> 01:07:13,696
+Él está muerto.
+
+820
+01:07:15,323 --> 01:07:16,324
+¿En serio?
+
+821
+01:07:27,377 --> 01:07:28,211
+Por favor...
+
+822
+01:07:29,671 --> 01:07:32,674
+Haré lo que me pidas, John,
+pero déjame ir, por favor.
+
+823
+01:07:32,799 --> 01:07:33,591
+Por favor.
+
+824
+01:07:33,967 --> 01:07:36,970
+¿Saben que los cerdos
+son animales muy compasivos?
+
+825
+01:07:38,596 --> 01:07:44,394
+Se angustian si ven sufrir a otro animal,
+incluyendo a los humanos.
+
+826
+01:07:44,644 --> 01:07:48,690
+¿Y tú, John?
+¿Dónde está tu compasión?
+
+827
+01:07:50,817 --> 01:07:55,613
+Todos actuamos en beneficio propio, Anna,
+para bien o para mal.
+
+828
+01:07:57,073 --> 01:07:59,909
+Estás en el lado equivocado
+de la balanza.
+
+829
+01:08:00,577 --> 01:08:01,619
+Los dos.
+
+830
+01:08:02,537 --> 01:08:06,040
+Si quieren ganarse su libertad,
+tienen que aprender.
+
+831
+01:08:06,100 --> 01:08:10,878
+Tienen que entender que han hecho
+las cosas al revés.
+
+832
+01:08:12,672 --> 01:08:16,050
+Entonces, les daré una oportunidad.
+
+833
+01:08:18,261 --> 01:08:19,887
+Para que cambien.
+
+834
+01:08:32,692 --> 01:08:34,193
+Es la llave de su libertad.
+
+835
+01:08:44,329 --> 01:08:45,830
+Todo depende de ustedes.
+
+836
+01:08:46,789 --> 01:08:49,500
+El juego es sencillo, los mejores lo son.
+
+837
+01:08:52,462 --> 01:08:53,796
+Tienen una escopeta.
+
+838
+01:08:55,340 --> 01:08:56,716
+Tienen un proyectil.
+
+839
+01:09:05,391 --> 01:09:06,601
+Como dije...
+
+840
+01:09:07,602 --> 01:09:08,853
+...depende de ustedes.
+
+841
+01:09:25,620 --> 01:09:27,580
+¿Por qué dices que Jigsaw no está muerto?
+
+842
+01:09:27,997 --> 01:09:29,040
+Está muerto.
+
+843
+01:09:29,874 --> 01:09:33,169
+Se le hizo la autopsia a su cadáver
+y está enterrado en su tumba.
+
+844
+01:09:33,252 --> 01:09:34,003
+No.
+
+845
+01:09:35,171 --> 01:09:38,549
+Jigsaw vive eternamente,
+a través del trabajo de sus seguidores.
+
+846
+01:09:46,140 --> 01:09:49,852
+Tú. Estuviste obsesionada
+con John Kramer desde el principio.
+
+847
+01:09:50,353 --> 01:09:53,439
+El sitio web, las trampas que construiste.
+
+848
+01:09:53,940 --> 01:09:56,401
+Mucha gente está embelesada por Kramer.
+
+849
+01:09:59,404 --> 01:10:01,614
+Sabes muy bien
+que yo no maté a Cabeza de Cubo.
+
+850
+01:10:01,781 --> 01:10:04,033
+-Ni a los otros dos.
+-Entonces, ¿quién fue?
+
+851
+01:10:04,283 --> 01:10:06,411
+Halloran. Tú mismo lo dijiste.
+
+852
+01:10:06,577 --> 01:10:08,996
+La bala coincide, está relacionado
+con las víctimas...
+
+853
+01:10:10,248 --> 01:10:13,000
+Justo atrás de ti. Suéltala. ¡Suéltala!
+
+854
+01:10:13,167 --> 01:10:14,961
+¡Los dos! ¡Ahora!
+
+855
+01:10:15,336 --> 01:10:17,213
+Es él. ¡Es él!
+
+856
+01:10:17,380 --> 01:10:18,339
+¡Háganlo!
+
+857
+01:10:18,673 --> 01:10:20,299
+No. No.
+
+858
+01:10:20,466 --> 01:10:21,718
+-¡Vamos!
+-¡Está bien!
+
+859
+01:10:21,968 --> 01:10:23,386
+-No...
+-Está bien.
+
+860
+01:10:23,761 --> 01:10:25,221
+Bien, lo suelto.
+
+861
+01:10:25,847 --> 01:10:27,223
+Es tu turno, cariño.
+
+862
+01:10:28,182 --> 01:10:29,600
+-Vamos, cariño.
+-No.
+
+863
+01:10:30,101 --> 01:10:32,478
+-No...
+-Vamos, baja el arma.
+
+864
+01:10:33,020 --> 01:10:34,814
+O le vuelo la cabeza.
+
+865
+01:10:35,231 --> 01:10:36,441
+-El...
+-Sí.
+
+866
+01:10:38,526 --> 01:10:39,652
+Bien hecho.
+
+867
+01:10:43,531 --> 01:10:45,283
+Bien, ya tienes lo que...
+
+868
+01:10:47,702 --> 01:10:48,661
+¡Corre!
+
+869
+01:11:05,052 --> 01:11:07,013
+Quiere que nos matemos entre nosotros.
+
+870
+01:11:18,900 --> 01:11:20,610
+Quiere que yo te mate.
+
+871
+01:11:21,736 --> 01:11:22,528
+¡No!
+
+872
+01:11:23,154 --> 01:11:23,988
+No.
+
+873
+01:11:24,280 --> 01:11:26,657
+¡No! ¡No la toques, maldita loca!
+
+874
+01:11:26,741 --> 01:11:28,910
+-Es la única manera.
+-¡No!
+
+875
+01:11:29,160 --> 01:11:34,373
+No, por favor. No, por favor,
+no lo hagas, eso es lo que quiere.
+
+876
+01:11:34,540 --> 01:11:36,501
+-Piénsalo.
+-Beneficio propio.
+
+877
+01:11:36,709 --> 01:11:39,170
+No, por favor, ¿sí? Por favor. No, no.
+
+878
+01:11:39,253 --> 01:11:41,130
+-"Para bien o para mal", dijo.
+-No. Por favor.
+
+879
+01:11:41,297 --> 01:11:44,884
+-Vamos a analizarlo un momento, ¿sí?
+-Debemos seguir las reglas.
+
+880
+01:11:45,510 --> 01:11:47,470
+Mi llave a la libertad...
+
+881
+01:11:48,638 --> 01:11:49,847
+...es matarte.
+
+882
+01:11:50,389 --> 01:11:52,099
+¡Por favor! ¡No!
+
+883
+01:11:56,771 --> 01:11:57,730
+¡Por favor!
+
+884
+01:12:00,650 --> 01:12:01,818
+No, no.
+
+885
+01:12:02,568 --> 01:12:04,111
+Lo siento, perdóname.
+
+886
+01:12:04,278 --> 01:12:05,696
+Por favor, no.
+
+887
+01:12:07,990 --> 01:12:08,991
+Al revés.
+
+888
+01:12:09,659 --> 01:12:11,828
+¡Por favor!
+¡Dijo que lo hacíamos al revés!
+
+889
+01:12:12,912 --> 01:12:13,830
+¡No!
+
+890
+01:12:19,961 --> 01:12:23,422
+¡Dios mío! ¡Dios mío!
+
+891
+01:12:23,798 --> 01:12:26,300
+¡Dios mío! ¡Dios...!
+
+892
+01:12:40,523 --> 01:12:41,399
+No...
+
+893
+01:12:42,400 --> 01:12:43,401
+No...
+
+894
+01:12:51,993 --> 01:12:52,827
+No.
+
+895
+01:12:57,790 --> 01:12:58,583
+No.
+
+896
+01:12:59,083 --> 01:12:59,834
+No.
+
+897
+01:13:04,046 --> 01:13:05,423
+Es la llave de su libertad.
+
+898
+01:13:11,637 --> 01:13:12,388
+No.
+
+899
+01:13:12,763 --> 01:13:16,017
+No. No. No.
+
+900
+01:13:20,813 --> 01:13:22,648
+Pudimos ser libres, Anna.
+
+901
+01:13:30,907 --> 01:13:31,991
+Lo siento.
+
+902
+01:14:23,167 --> 01:14:24,168
+Halloran.
+
+903
+01:14:26,921 --> 01:14:27,922
+¡Auxilio!
+
+904
+01:14:28,297 --> 01:14:31,258
+¡Alguien! ¡Ayuda!
+
+905
+01:14:31,342 --> 01:14:33,260
+¿Qué demonios es esto?
+¿Qué demonios?
+
+906
+01:14:33,511 --> 01:14:35,721
+Son cortadoras láser.
+
+907
+01:14:36,639 --> 01:14:39,767
+-¿Qué...? ¿Qué?
+-Espera. ¡Un momento!
+
+908
+01:14:40,101 --> 01:14:41,310
+¿Qué sucedió?
+
+909
+01:14:41,394 --> 01:14:42,478
+¿Y Eleanor?
+
+910
+01:14:43,771 --> 01:14:46,190
+-¡Halloran!
+-Alguien salió de la nada y me drogó.
+
+911
+01:14:46,524 --> 01:14:48,567
+-Me durmieron.
+-Sí, a mí también.
+
+912
+01:14:49,068 --> 01:14:50,403
+<i>Hola, caballeros.</i>
+
+913
+01:14:50,569 --> 01:14:54,740
+<i>Vinieron buscando el juego.
+Felicitaciones, lo encontraron.</i>
+
+914
+01:14:55,116 --> 01:14:57,576
+<i>Son los dos jugadores finales.</i>
+
+915
+01:14:58,202 --> 01:14:59,328
+No puede ser...
+
+916
+01:14:59,412 --> 01:15:04,208
+<i>Reconoce el aparato que tiene
+alrededor del cuello, Dr. Nelson.</i>
+
+917
+01:15:05,251 --> 01:15:10,256
+<i>Esas cortadoras láser rebanan
+el tejido y los huesos como mantequilla.</i>
+
+918
+01:15:11,090 --> 01:15:13,676
+<i>Es la cuchilla más poderosa del planeta.</i>
+
+919
+01:15:14,760 --> 01:15:17,847
+<i>Ambos tienen una oportunidad de vivir.</i>
+
+920
+01:15:18,139 --> 01:15:21,142
+<i>Lo único que tienen que hacer
+es confesar.</i>
+
+921
+01:15:21,308 --> 01:15:22,893
+-¿Confesar?
+<i>-Es así de sencillo.</i>
+
+922
+01:15:23,352 --> 01:15:27,356
+<i>Si reconocen la razón
+por la que deben morir...</i>
+
+923
+01:15:28,190 --> 01:15:29,942
+<i>...pueden escapar de la muerte.</i>
+
+924
+01:15:30,276 --> 01:15:32,028
+<i>Estaré escuchando.</i>
+
+925
+01:15:32,611 --> 01:15:34,113
+<i>Tomen su decisión.</i>
+
+926
+01:15:34,280 --> 01:15:37,783
+¿Por qué estás vivo?
+¿Por qué sigues vivo?
+
+927
+01:15:37,950 --> 01:15:40,453
+<i>El juego elegirá a uno de ustedes...</i>
+
+928
+01:15:40,619 --> 01:15:42,830
+<i>...para que comiencen en 60 segundos.</i>
+
+929
+01:15:43,330 --> 01:15:46,542
+<i>A menos, claro, que alguno
+decida empezar primero.</i>
+
+930
+01:15:50,546 --> 01:15:52,840
+No toquemos ningún botón.
+
+931
+01:15:53,174 --> 01:15:55,301
+En un minuto estaremos en problemas.
+
+932
+01:15:56,886 --> 01:15:57,970
+Empezaré yo.
+
+933
+01:15:59,013 --> 01:16:00,097
+De acuerdo.
+
+934
+01:16:07,772 --> 01:16:10,066
+No, no. ¡No! ¡No!
+
+935
+01:16:10,191 --> 01:16:10,983
+No.
+
+936
+01:16:11,233 --> 01:16:14,278
+Dios. ¡No he hecho nada malo!
+
+937
+01:16:17,156 --> 01:16:19,700
+¡No! ¡Detenlo! ¡Detenlo!
+
+938
+01:16:19,784 --> 01:16:23,079
+-Yo confieso, sí.
+-¡Está bien! ¡De acuerdo!
+
+939
+01:16:23,162 --> 01:16:25,331
+¡Está bien, John Kramer! ¡Fui yo!
+
+940
+01:16:25,581 --> 01:16:27,583
+¡Fui yo! ¡Yo me equivoqué!
+
+941
+01:16:27,708 --> 01:16:29,752
+¡Yo confundí las radiografías!
+
+942
+01:16:36,967 --> 01:16:39,220
+¡Fui negligente!
+
+943
+01:16:39,970 --> 01:16:41,430
+Y lo siento...
+
+944
+01:16:41,931 --> 01:16:43,641
+Lo lamento mucho.
+
+945
+01:16:44,308 --> 01:16:45,559
+Lo confieso.
+
+946
+01:16:46,811 --> 01:16:48,020
+Lo confieso.
+
+947
+01:16:53,901 --> 01:16:57,071
+Christine, lo siento mucho, amor.
+
+948
+01:16:57,780 --> 01:16:59,657
+Debí estar ahí para ti.
+
+949
+01:17:00,241 --> 01:17:01,450
+Y no estuve.
+
+950
+01:17:10,543 --> 01:17:12,419
+<i>Su turno, detective.</i>
+
+951
+01:17:12,503 --> 01:17:15,339
+¡No, no! ¡Yo gané! ¡Gané!
+
+952
+01:17:19,969 --> 01:17:20,970
+Maldita sea.
+
+953
+01:17:22,596 --> 01:17:23,889
+¡Maldita sea!
+
+954
+01:17:23,973 --> 01:17:24,682
+<i>Confiese.</i>
+
+955
+01:17:24,849 --> 01:17:27,726
+De acuerdo. Hice cosas muy malas.
+
+956
+01:17:28,060 --> 01:17:30,437
+Pero el sistema está corrupto,
+quise arreglarlo.
+
+957
+01:17:31,856 --> 01:17:35,651
+De acuerdo. Manipulé evidencia.
+
+958
+01:17:35,818 --> 01:17:37,278
+Acepté sobornos.
+
+959
+01:17:38,529 --> 01:17:40,239
+Encerré a gente inocente.
+
+960
+01:17:40,906 --> 01:17:41,782
+Está bien.
+
+961
+01:17:42,366 --> 01:17:44,160
+Asesinos y violadores salieron libres.
+
+962
+01:17:46,453 --> 01:17:48,497
+Murió gente por mi culpa.
+
+963
+01:17:48,831 --> 01:17:52,001
+¡Murió gente inocente por mi culpa!
+¡Fui yo!
+
+964
+01:18:23,365 --> 01:18:24,742
+Esto es una broma.
+
+965
+01:18:34,210 --> 01:18:36,337
+¿Qué...? ¿Qué sucede?
+
+966
+01:18:37,630 --> 01:18:38,631
+¿Qué...?
+
+967
+01:18:41,675 --> 01:18:44,053
+¿Qué...? Esto es una maldita broma.
+
+968
+01:18:46,222 --> 01:18:47,348
+Logan...
+
+969
+01:18:47,973 --> 01:18:49,099
+¿Qué...?
+
+970
+01:18:49,350 --> 01:18:51,560
+¿Qué...? ¡Oye! ¿Qué...?
+
+971
+01:18:54,230 --> 01:18:55,522
+¿Trabajas con él?
+
+972
+01:18:56,148 --> 01:18:58,234
+-Yo soy él.
+-¿Qué?
+
+973
+01:18:59,276 --> 01:19:02,780
+Y con un poco de tu ayuda,
+jamás lo sospecharán.
+
+974
+01:19:03,030 --> 01:19:04,949
+<i>Murió gente por mi culpa.</i>
+
+975
+01:19:05,241 --> 01:19:08,327
+<i>¡Murió gente inocente por mi culpa!
+¡Fui yo!</i>
+
+976
+01:19:09,870 --> 01:19:11,121
+No entiendo.
+
+977
+01:19:13,791 --> 01:19:15,960
+Hace diez años, en este mismo granero...
+
+978
+01:19:19,588 --> 01:19:20,923
+...se jugó un juego.
+
+979
+01:19:27,429 --> 01:19:29,640
+Supuestamente, John Kramer diseñó esto...
+
+980
+01:19:29,807 --> 01:19:31,850
+...para un juego llevado a cabo
+antes que los demás.
+
+981
+01:19:39,900 --> 01:19:41,610
+Nunca encontraron los cadáveres.
+
+982
+01:19:45,281 --> 01:19:48,158
+Lo sé porque yo fui uno de los jugadores.
+
+983
+01:19:48,575 --> 01:19:53,330
+Jigsaw me incluyó en el juego porque
+hace diez años confundí sus radiografías.
+
+984
+01:19:53,789 --> 01:19:55,457
+¡Tienes que cortarte!
+
+985
+01:20:15,227 --> 01:20:18,856
+John decidió que no debía morir
+por un error de buena fe.
+
+986
+01:20:19,273 --> 01:20:21,150
+Me dio una segunda oportunidad.
+
+987
+01:20:23,402 --> 01:20:25,529
+Y ahora, diez años después...
+
+988
+01:20:25,612 --> 01:20:29,450
+...recreé el juego de Jigsaw
+con criminales de tus casos fallidos.
+
+989
+01:20:29,533 --> 01:20:30,409
+¿Qué?
+
+990
+01:20:30,492 --> 01:20:33,203
+Quería que mi juego fuera
+idéntico al de Jigsaw.
+
+991
+01:20:33,787 --> 01:20:35,581
+Así que indagué en tus casos.
+
+992
+01:20:35,748 --> 01:20:38,375
+Busqué jugadores
+como los del juego original.
+
+993
+01:20:40,461 --> 01:20:44,006
+Les di las mismas oportunidades
+que Jigsaw dio hace una década.
+
+994
+01:20:46,508 --> 01:20:48,761
+Jigsaw escogió a cinco personas
+para su juego.
+
+995
+01:20:48,927 --> 01:20:52,431
+Yo elegí a tres.
+Tú y yo somos los últimos dos.
+
+996
+01:20:53,307 --> 01:20:55,392
+Quería comprobar si era como él.
+
+997
+01:20:56,560 --> 01:20:58,771
+Igual de talentoso.
+
+998
+01:21:01,857 --> 01:21:02,691
+No...
+
+999
+01:21:04,360 --> 01:21:05,361
+Vamos, Logan.
+
+1000
+01:21:06,820 --> 01:21:10,657
+-Vamos, ten piedad.
+-¿Como tú tuviste piedad de mí?
+
+1001
+01:21:10,908 --> 01:21:12,659
+¿Cuando iniciaste el juego...
+
+1002
+01:21:13,077 --> 01:21:14,536
+...y apretaste mi botón...
+
+1003
+01:21:15,788 --> 01:21:17,081
+...para salvarte?
+
+1004
+01:21:17,373 --> 01:21:18,290
+¿Qué?
+
+1005
+01:21:19,249 --> 01:21:20,918
+-Eso no es justo...
+-¿Justo?
+
+1006
+01:21:22,711 --> 01:21:24,713
+¿Por qué Edgar Munsen estaba libre?
+
+1007
+01:21:24,880 --> 01:21:26,006
+Era un asesino.
+
+1008
+01:21:26,298 --> 01:21:30,177
+Pero lo protegías porque fue
+tu informante hace años.
+
+1009
+01:21:30,511 --> 01:21:32,096
+Y lo dejaste en libertad.
+
+1010
+01:21:32,471 --> 01:21:35,391
+Edgar Munsen mató a mi esposa.
+
+1011
+01:21:35,557 --> 01:21:38,852
+No... No lo sabes.
+Nunca se demostró.
+
+1012
+01:21:40,979 --> 01:21:45,401
+Esto no te devolverá a tu familia.
+
+1013
+01:21:46,193 --> 01:21:47,111
+¿Verdad?
+
+1014
+01:21:48,570 --> 01:21:50,739
+John Kramer...
+
+1015
+01:21:51,240 --> 01:21:53,617
+...le daba a la gente una oportunidad
+de ganar el juego.
+
+1016
+01:21:54,410 --> 01:21:55,411
+¿Cierto?
+
+1017
+01:21:55,869 --> 01:21:58,497
+Una opción, imbécil.
+
+1018
+01:21:58,831 --> 01:21:59,790
+¡Maldito!
+
+1019
+01:21:59,957 --> 01:22:01,291
+Tienes una opción.
+
+1020
+01:22:01,875 --> 01:22:04,169
+Gritar o no.
+
+1021
+01:22:04,962 --> 01:22:06,672
+Logan, Logan, oye.
+
+1022
+01:22:06,839 --> 01:22:10,050
+Escucha, puedo ayudarte.
+Puedo hacer cosas por ti.
+
+1023
+01:22:12,636 --> 01:22:14,471
+¿Puedes revivir a mi esposa?
+
+1024
+01:22:14,721 --> 01:22:16,598
+No importa qué diga.
+
+1025
+01:22:20,811 --> 01:22:23,730
+<i>Hice un juego que parecía dirigido
+por Jigsaw.</i>
+
+1026
+01:22:23,897 --> 01:22:25,023
+PONLE PLAY
+
+1027
+01:22:30,446 --> 01:22:33,657
+<i>Hola, Edgar.
+Estás a punto de jugar un juego.</i>
+
+1028
+01:22:33,740 --> 01:22:36,410
+<i>Tienes cinco vidas en tus manos.</i>
+
+1029
+01:22:36,493 --> 01:22:38,829
+<i>Sigue mis indicaciones
+al pie de la letra.</i>
+
+1030
+01:22:39,538 --> 01:22:42,249
+Tengo que decidir quién muere,
+ellos o yo.
+
+1031
+01:22:42,749 --> 01:22:44,877
+¡Yo no voy a morir!
+
+1032
+01:22:51,550 --> 01:22:53,010
+¿Qué arma usas?
+
+1033
+01:22:53,177 --> 01:22:57,222
+Una Glock 22, como todos los policías.
+Excepto Halloran, la de él es de 17.
+
+1034
+01:23:00,309 --> 01:23:03,437
+Es de 9 x 19 mm.
+Pertenece a una Glock 17.
+
+1035
+01:23:04,021 --> 01:23:06,482
+La sangre debajo de las uñas
+de la primera víctima...
+
+1036
+01:23:07,941 --> 01:23:09,276
+...es de John Kramer.
+
+1037
+01:23:11,820 --> 01:23:13,739
+<i>Algunos creerán que es Jigsaw.</i>
+
+1038
+01:23:14,990 --> 01:23:16,617
+<i>Otros sospecharán de ti.</i>
+
+1039
+01:23:18,243 --> 01:23:20,496
+<i>Pero nadie sospechará de mí.</i>
+
+1040
+01:23:21,580 --> 01:23:23,457
+Tenemos que arrestarlo, ¡ahora!
+
+1041
+01:23:23,540 --> 01:23:26,126
+<i>Porque Eleanor les dará mi coartada.</i>
+
+1042
+01:23:27,377 --> 01:23:28,378
+Ay, sí.
+
+1043
+01:23:32,466 --> 01:23:33,300
+Maldita sea.
+
+1044
+01:23:34,760 --> 01:23:37,763
+<i>Hace diez años, volví hecho pedazos
+de la guerra.</i>
+
+1045
+01:23:40,265 --> 01:23:43,060
+<i>Jigsaw reconstruyó mi vida.</i>
+
+1046
+01:23:45,312 --> 01:23:47,105
+<i>Le dio un propósito a mi vida.</i>
+
+1047
+01:23:51,151 --> 01:23:55,155
+Nunca debemos actuar
+por ira o por venganza.
+
+1048
+01:23:56,698 --> 01:23:58,033
+Tú me enseñaste eso.
+
+1049
+01:24:00,911 --> 01:24:02,621
+Pero entonces no se hará justicia.
+
+1050
+01:24:02,788 --> 01:24:04,790
+Sí. Claro que la habrá.
+
+1051
+01:24:09,920 --> 01:24:11,797
+Porque hablaremos por los muertos.
+
+1052
+01:24:12,339 --> 01:24:14,383
+<i>Juntos construimos un legado.</i>
+
+1053
+01:24:18,220 --> 01:24:21,139
+Ahora, yo hablo por las vidas arruinadas
+por gente como tú.
+
+1054
+01:24:21,431 --> 01:24:23,517
+Asesinos, violadores...
+
+1055
+01:24:23,600 --> 01:24:27,396
+Sus víctimas llegaron a mi mesa
+por tu culpa.
+
+1056
+01:24:29,481 --> 01:24:30,399
+No...
+
+1057
+01:24:34,653 --> 01:24:35,445
+No...
+
+1058
+01:24:52,671 --> 01:24:54,047
+Hablo por los muertos.
+

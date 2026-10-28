@@ -1,0 +1,4834 @@
+﻿1
+00:01:22,708 --> 00:01:25,002
+¡Mi bolso! ¡Me robó el bolso!
+
+2
+00:01:25,044 --> 00:01:26,128
+-¡Deténganlo!
+-Por favor.
+
+3
+00:01:28,088 --> 00:01:29,965
+¡Deténganlo! ¡Me robó el bolso!
+
+4
+00:01:30,007 --> 00:01:31,133
+¡Policía! ¡Alto!
+
+5
+00:01:34,053 --> 00:01:36,055
+¡Alto! ¡Déjeme pasar!
+
+6
+00:01:36,764 --> 00:01:38,933
+¡Déjenme pasar! ¡Policía!
+
+7
+00:01:38,974 --> 00:01:39,975
+¡A un lado!
+
+8
+00:01:45,648 --> 00:01:47,900
+No puede ser que hayas bajado.
+
+9
+00:01:53,197 --> 00:01:54,698
+¿Qué mierda...?
+
+10
+00:02:02,540 --> 00:02:03,916
+Carajo.
+
+11
+00:02:36,907 --> 00:02:38,826
+¡Arriba las manos, carajo!
+
+12
+00:02:41,453 --> 00:02:43,539
+¡No lo voy a repetir, cabrón!
+
+13
+00:02:50,921 --> 00:02:52,131
+Carajo.
+
+14
+00:03:49,480 --> 00:03:51,357
+<i>Hola, detective Bozwick.</i>
+
+15
+00:03:51,398 --> 00:03:53,484
+<i>-Quiero jugar a un juego.</i>
+-¡No!
+
+16
+00:03:53,525 --> 00:03:56,320
+<i>El tren 3 llega en dos minutos.</i>
+
+17
+00:03:56,362 --> 00:04:00,407
+<i>Usted decide si esta será</i>
+<i>su última parada.</i>
+
+18
+00:04:00,991 --> 00:04:03,786
+<i>Ha declarado como testigo muchas veces</i>
+
+19
+00:04:03,827 --> 00:04:08,624
+<i>y ha incriminado a inocentes</i>
+<i>para encerrarlos por la vía rápida.</i>
+
+20
+00:04:09,291 --> 00:04:12,127
+<i>Hoy es usted el que quedará en la vía.</i>
+
+21
+00:04:12,628 --> 00:04:14,672
+<i>Tiene una oportunidad de vivir.</i>
+
+22
+00:04:14,713 --> 00:04:17,841
+<i>Arranque de su boca esa lengua</i>
+<i>que ha usado tantas veces</i>
+
+23
+00:04:17,883 --> 00:04:19,885
+<i>para mentir y engañar.</i>
+
+24
+00:04:19,927 --> 00:04:22,680
+<i>Dé un salto de fe y sobrevivirá.</i>
+
+25
+00:04:22,721 --> 00:04:26,642
+<i>Su propio peso arrancará</i>
+<i>esa lengua mentirosa y lo salvará.</i>
+
+26
+00:04:26,684 --> 00:04:29,103
+<i>Vivir o morir, usted decide.</i>
+
+27
+00:05:39,339 --> 00:05:45,304
+ESPIRAL: EL JUEGO DEL MIEDO CONTINÚA
+
+28
+00:05:46,930 --> 00:05:49,391
+<i>¿Qué dices? Esa película ganó premios.</i>
+
+29
+00:05:49,433 --> 00:05:52,019
+<i>Tom Hanks actúa muy bien, viejo,</i>
+
+30
+00:05:52,061 --> 00:05:53,854
+pero no sé si hoy
+se podría hacer la película.
+
+31
+00:05:53,896 --> 00:05:55,189
+¿Qué carajo dices?
+
+32
+00:05:55,230 --> 00:05:56,565
+Abusan de gente
+con necesidades especiales.
+
+33
+00:05:56,607 --> 00:05:58,692
+¿Necesidades especiales?
+¿Ahora eres políticamente correcto?
+
+34
+00:05:58,734 --> 00:06:02,321
+No, pero no se puede decir
+minusválido ni retardado.
+
+35
+00:06:02,362 --> 00:06:04,448
+Se dice "con necesidades especiales".
+Soy respetuoso.
+
+36
+00:06:04,490 --> 00:06:07,701
+Forrest Gump tenía necesidades especiales.
+
+37
+00:06:07,743 --> 00:06:09,036
+¿Cómo se llamaba la chica?
+
+38
+00:06:09,078 --> 00:06:10,871
+-Jenny.
+-Jenny.
+
+39
+00:06:10,913 --> 00:06:11,997
+Hizo de todo por Jenny.
+
+40
+00:06:12,039 --> 00:06:14,333
+Ese pendejo hizo de todo.
+
+41
+00:06:14,374 --> 00:06:17,503
+Cruzó el país corriendo.
+
+42
+00:06:17,544 --> 00:06:20,255
+Le ganó a China en ping-pong.
+
+43
+00:06:20,297 --> 00:06:21,715
+¿Saben lo difícil que es eso?
+
+44
+00:06:21,757 --> 00:06:23,300
+Fue héroe de guerra.
+
+45
+00:06:23,342 --> 00:06:25,719
+¿Quién carajo es más bueno
+que Forrest Gump?
+
+46
+00:06:25,761 --> 00:06:27,471
+Sus mejores amigos
+
+47
+00:06:27,513 --> 00:06:31,016
+eran un negro y un blanco sin piernas.
+
+48
+00:06:31,934 --> 00:06:34,645
+Se volvió multimillonario
+vendiendo camarones.
+
+49
+00:06:34,686 --> 00:06:36,146
+Y ella igual se negaba
+a coger con él.
+
+50
+00:06:36,188 --> 00:06:38,190
+Al final, terminaron juntos.
+
+51
+00:06:38,232 --> 00:06:41,819
+Sí, cuando ella se contagió de SIDA.
+
+52
+00:06:41,860 --> 00:06:44,780
+Apenas se contagió,
+empezó: "Hola, Forrest".
+
+53
+00:06:45,364 --> 00:06:46,907
+Déjate de joder, viejo.
+
+54
+00:06:47,533 --> 00:06:49,993
+¿Lo contagió de SIDA justo a él?
+
+55
+00:06:50,035 --> 00:06:51,662
+-¿En serio? Eso es abuso.
+-Sí.
+
+56
+00:06:51,703 --> 00:06:52,746
+Pero él no se contagió.
+
+57
+00:06:52,788 --> 00:06:55,791
+No hay una secuela. ¿Dónde está <i>Gump 2?</i>
+
+58
+00:06:56,583 --> 00:06:58,043
+Rico bajó del ascensor.
+
+59
+00:06:58,085 --> 00:06:59,169
+Carajo.
+
+60
+00:07:00,796 --> 00:07:01,797
+En marcha.
+
+61
+00:07:13,475 --> 00:07:15,018
+¡Abajo! ¡Al piso!
+
+62
+00:07:15,060 --> 00:07:16,770
+¡Al piso! ¡Ya saben qué es esto!
+
+63
+00:07:16,812 --> 00:07:17,813
+¡Ya saben qué es!
+
+64
+00:07:17,855 --> 00:07:19,565
+¡Eso es! ¡Todo! ¡Vamos! ¡Abajo!
+
+65
+00:07:19,606 --> 00:07:20,649
+¡Llena el bolso!
+
+66
+00:07:20,691 --> 00:07:22,359
+-¡Todo en el bolso, carajo!
+-Vamos.
+
+67
+00:07:22,401 --> 00:07:23,986
+-¡Ya sabes qué hacer!
+-¡Calma!
+
+68
+00:07:24,903 --> 00:07:26,071
+¡Atrás!
+
+69
+00:07:26,446 --> 00:07:28,866
+¡Quiero la coca! ¡Y el dinero!
+
+70
+00:07:28,907 --> 00:07:31,493
+¡Quiero todo!
+
+71
+00:07:36,874 --> 00:07:39,084
+¡Noventa segundos! ¡Vámonos!
+
+72
+00:08:22,878 --> 00:08:23,921
+¡Alto! ¡Policía!
+
+73
+00:08:23,962 --> 00:08:25,464
+¡Arriba las manos!
+
+74
+00:08:25,923 --> 00:08:26,965
+Fuera del auto.
+
+75
+00:08:27,007 --> 00:08:28,050
+Carajo, salgan...
+
+76
+00:08:29,384 --> 00:08:30,886
+¿Zeke? ¿Eres tú?
+
+77
+00:08:31,428 --> 00:08:32,429
+¿Zeke?
+
+78
+00:08:33,764 --> 00:08:34,848
+ESTACIÓN DE POLICÍA - ÁREA SUR
+
+79
+00:08:34,890 --> 00:08:36,266
+¿Qué haces? Una operación encubierta,
+
+80
+00:08:36,308 --> 00:08:38,352
+y no avisas, no hay coordinación.
+
+81
+00:08:38,393 --> 00:08:42,022
+Somos de Homicidios,
+pero asaltas a unos narcos en un hotel.
+
+82
+00:08:42,064 --> 00:08:44,316
+Recibí como diez llamadas al 9-1-1.
+
+83
+00:08:44,358 --> 00:08:45,400
+¿Y si moría alguien?
+
+84
+00:08:45,442 --> 00:08:48,111
+Ellos mataron a cuatro
+la semana pasada, y los atrapamos.
+
+85
+00:08:48,153 --> 00:08:50,864
+Si no me hubieran expuesto,
+habríamos atrapado a más.
+
+86
+00:08:50,906 --> 00:08:52,282
+¡A la mierda con eso, Zeke!
+
+87
+00:08:53,283 --> 00:08:57,412
+Te fuiste por tu cuenta, como siempre,
+sin refuerzos ni nada.
+
+88
+00:08:57,955 --> 00:09:02,376
+¡Porque aquí
+no puedo confiar en nadie, carajo!
+
+89
+00:09:03,543 --> 00:09:06,296
+Desde ahora,
+aprenderás a trabajar en equipo.
+
+90
+00:09:06,338 --> 00:09:07,381
+Te pondré un compañero.
+
+91
+00:09:07,422 --> 00:09:08,548
+Jeannie, llama a Schenk.
+
+92
+00:09:08,590 --> 00:09:11,468
+¿Acaso parezco una niñera jamaiquina?
+
+93
+00:09:11,510 --> 00:09:15,222
+¿Tengo olor a salsa agridulce
+y toallitas de bebé? ¡No!
+
+94
+00:09:15,264 --> 00:09:17,474
+¡No quiero un compañero!
+
+95
+00:09:17,516 --> 00:09:19,434
+No seré la niñera de un novato.
+
+96
+00:09:19,476 --> 00:09:21,144
+Sí, lo serás.
+
+97
+00:09:21,645 --> 00:09:24,398
+Que seas el hijo del jefe Marcus Banks
+
+98
+00:09:24,439 --> 00:09:25,816
+no implica que te zafes de todo.
+
+99
+00:09:25,857 --> 00:09:27,401
+Basta de relacionar todo con mi padre.
+
+100
+00:09:27,442 --> 00:09:29,695
+Él ya no está. Ahora la cabeza eres tú.
+
+101
+00:09:29,736 --> 00:09:30,904
+Sí. Cuánto melodrama.
+
+102
+00:09:30,946 --> 00:09:31,989
+Zeke, ya pasaron 12 años.
+
+103
+00:09:32,030 --> 00:09:34,908
+¡Sí! Pasaron 12 putos años.
+
+104
+00:09:34,950 --> 00:09:40,747
+Hace 12 años, entregué a un corrupto,
+y me dieron una medalla. ¿Y qué?
+
+105
+00:09:40,789 --> 00:09:45,377
+También me dieron un balazo y viví
+paranoico el resto de mi carrera.
+
+106
+00:09:45,419 --> 00:09:46,503
+¡Cállate!
+
+107
+00:09:47,296 --> 00:09:50,173
+Hace demasiado calor para tener
+que escuchar estas idioteces.
+
+108
+00:09:50,507 --> 00:09:51,967
+Atravesamos una ola de calor.
+
+109
+00:09:52,009 --> 00:09:55,178
+Tenemos apagones programados,
+la ciudad es una locura. ¡Basta!
+
+110
+00:09:55,846 --> 00:09:57,139
+¿Quería verme, capitana?
+
+111
+00:09:57,180 --> 00:09:58,432
+Sí, adelante.
+
+112
+00:09:59,975 --> 00:10:02,769
+Zeke, te presento a William Schenk,
+detective en formación.
+
+113
+00:10:03,186 --> 00:10:05,605
+Fue el mejor de la Academia,
+así que no lo arruines.
+
+114
+00:10:06,315 --> 00:10:08,317
+Zeke te va a entrenar
+y te va mostrar cómo es todo.
+
+115
+00:10:09,318 --> 00:10:10,736
+Detective Banks, es un gusto...
+
+116
+00:10:12,112 --> 00:10:13,196
+Sí...
+
+117
+00:10:14,156 --> 00:10:15,657
+-Ve.
+-Bueno.
+
+118
+00:10:16,366 --> 00:10:19,202
+<i>Oficial Harris, 1-0-3.</i>
+
+119
+00:10:34,676 --> 00:10:38,055
+<i>Sargento Jones, mesa de entradas.</i>
+
+120
+00:10:39,348 --> 00:10:43,352
+¿Cómo le gusta tomar
+el café por la mañana?
+
+121
+00:10:43,852 --> 00:10:44,936
+Solo.
+
+122
+00:10:46,938 --> 00:10:48,023
+De acuerdo.
+
+123
+00:10:53,570 --> 00:10:55,155
+Lo entiendo, amigo.
+
+124
+00:10:55,197 --> 00:10:57,366
+Yo tampoco querría
+que me encajaran a un chico.
+
+125
+00:10:58,241 --> 00:10:59,618
+No quieres ser mi compañero.
+
+126
+00:11:00,285 --> 00:11:01,370
+Eso no lo sabes.
+
+127
+00:11:02,454 --> 00:11:04,164
+{\an8}Todo esto es gracias a tu papá.
+
+128
+00:11:05,165 --> 00:11:07,376
+Por él decidí dedicarme a esto.
+
+129
+00:11:07,417 --> 00:11:08,835
+Y yo no soy mi papá.
+
+130
+00:11:10,504 --> 00:11:12,589
+Prepárate para decepcionarte.
+
+131
+00:11:13,507 --> 00:11:15,175
+Banks y Schenk...
+
+132
+00:11:15,217 --> 00:11:17,636
+El tren 3 atropelló a un indigente.
+Les toca.
+
+133
+00:11:20,430 --> 00:11:24,434
+<i>Detective Peterson, adelante, 2-2-1.</i>
+<i>Detective Peterson, 2-2-1.</i>
+
+134
+00:11:31,566 --> 00:11:32,651
+¿Este es tu auto?
+
+135
+00:11:35,779 --> 00:11:37,072
+Es mejor que la patrulla.
+
+136
+00:11:39,074 --> 00:11:41,952
+Detective Banks en camino al 10-19.
+
+137
+00:11:41,993 --> 00:11:44,037
+¿Del lado norte o sur de la calle?
+
+138
+00:11:44,079 --> 00:11:45,163
+<i>Al norte.</i>
+
+139
+00:11:45,455 --> 00:11:46,498
+Entendido.
+
+140
+00:11:47,249 --> 00:11:48,250
+¿Qué haces?
+
+141
+00:11:49,209 --> 00:11:50,460
+Es mi familia.
+
+142
+00:11:50,502 --> 00:11:53,505
+Mi esposa, Emma. Y mi hijo, Charlie.
+
+143
+00:11:53,547 --> 00:11:55,590
+Son lindos. Disfrútalo mientras dure.
+
+144
+00:11:56,007 --> 00:11:57,092
+¿Mientras dure?
+
+145
+00:11:57,134 --> 00:12:01,346
+Nada más feliz que la esposa
+de un detective novato,
+
+146
+00:12:01,763 --> 00:12:04,850
+y nada más furioso
+que la misma perra diez años más tarde.
+
+147
+00:12:05,475 --> 00:12:07,185
+Tal vez sea porque la llamas "perra".
+
+148
+00:12:07,227 --> 00:12:08,395
+Desciendo de italianos, créeme.
+
+149
+00:12:08,437 --> 00:12:10,230
+A ellas no les gusta que las llamen así...
+
+150
+00:12:10,272 --> 00:12:14,109
+¿Qué quieres enseñarme
+sobre mujeres, mocoso? Carajo.
+
+151
+00:12:14,151 --> 00:12:16,445
+Te lo dije a ti,
+no se lo digo a las mujeres.
+
+152
+00:12:16,486 --> 00:12:19,197
+No se lo digo en la cara.
+No soy un rapero.
+
+153
+00:12:19,239 --> 00:12:21,658
+No nos conocemos,
+pero ya me atacas. Gracias.
+
+154
+00:12:21,700 --> 00:12:25,412
+Solo digo que los delitos se dan más
+los fines de semana y feriados,
+
+155
+00:12:25,454 --> 00:12:28,707
+así que la esposa de un policía
+debería entenderlo.
+
+156
+00:12:29,708 --> 00:12:30,750
+Pero no.
+
+157
+00:12:30,792 --> 00:12:32,794
+Un día, tu esposa se enojará
+
+158
+00:12:32,836 --> 00:12:35,589
+porque no pudiste ir
+al cumpleaños de su hermana.
+
+159
+00:12:36,256 --> 00:12:40,969
+Aunque les des 600 martes,
+nunca equivalen a tres sábados.
+
+160
+00:12:47,893 --> 00:12:50,479
+Supongo que estás divorciado.
+
+161
+00:12:51,813 --> 00:12:55,692
+Divorciado, no, todavía no.
+Estoy divorciándome.
+
+162
+00:12:56,276 --> 00:12:59,196
+Todavía peor. Como una quimioterapia.
+
+163
+00:12:59,237 --> 00:13:00,405
+Carajo. Lo siento.
+
+164
+00:13:01,239 --> 00:13:04,701
+¿Por qué? Somos policías.
+Es la vida que elegimos.
+
+165
+00:13:04,743 --> 00:13:10,373
+La tasa más alta de divorcios,
+suicidios y violencia familiar.
+
+166
+00:13:10,415 --> 00:13:12,751
+Cuando decidiste ser policía,
+
+167
+00:13:12,792 --> 00:13:16,505
+prácticamente te estabas asegurando
+una muerte en soledad.
+
+168
+00:13:19,341 --> 00:13:21,801
+Mi esposa y yo vamos a terapia.
+
+169
+00:13:21,843 --> 00:13:25,263
+Ella me pidió que trabajara
+con la comunicación.
+
+170
+00:13:25,305 --> 00:13:27,015
+¿Terapia? Qué lindo, sí.
+
+171
+00:13:27,849 --> 00:13:30,018
+Sí, mi esposa se revolcó con el terapeuta.
+
+172
+00:13:30,060 --> 00:13:31,394
+Carajo, ¿en serio?
+
+173
+00:13:31,436 --> 00:13:32,896
+-Sí.
+-Por Dios.
+
+174
+00:13:34,189 --> 00:13:35,607
+Las mujeres también son infieles.
+
+175
+00:13:37,067 --> 00:13:39,611
+Duele. Maldita sea, sí que duele.
+
+176
+00:13:40,529 --> 00:13:45,450
+Las mujeres son infieles,
+pero ellas lo hacen de día.
+
+177
+00:13:46,409 --> 00:13:49,663
+Cuando es de día,
+es más fácil salirte con la tuya.
+
+178
+00:13:49,704 --> 00:13:53,041
+Así es. Antes de la noche,
+puedes montar la pija un buen rato.
+
+179
+00:13:55,502 --> 00:13:59,381
+Carajo, hasta descubrí
+que el pilates no existe.
+
+180
+00:14:00,298 --> 00:14:01,383
+¿En serio?
+
+181
+00:14:02,425 --> 00:14:03,885
+A Emma le encanta el pilates.
+
+182
+00:14:03,927 --> 00:14:07,264
+Me imagino. Pero no te preocupes.
+
+183
+00:14:07,847 --> 00:14:11,643
+Vas a estar bien.
+No vas a separarte nunca.
+
+184
+00:14:16,106 --> 00:14:17,232
+¿Qué tenemos?
+
+185
+00:14:17,649 --> 00:14:18,733
+Ve y fíjate.
+
+186
+00:14:21,069 --> 00:14:22,362
+Cuidado.
+
+187
+00:14:32,789 --> 00:14:35,250
+Si vas a vomitar,
+no salpiques las pruebas.
+
+188
+00:14:36,585 --> 00:14:39,170
+¿Bromeas? Sueño con esto
+desde que tenía 12 años.
+
+189
+00:14:43,425 --> 00:14:45,552
+¿Sueles ver televisores
+en las vías del metro?
+
+190
+00:14:46,803 --> 00:14:48,638
+Aquí abajo se encuentra de todo.
+
+191
+00:14:51,975 --> 00:14:52,976
+Maldita sea.
+
+192
+00:15:02,986 --> 00:15:05,655
+Va a costar identificar a este mendigo.
+
+193
+00:15:07,157 --> 00:15:09,492
+No sé si era un mendigo.
+
+194
+00:15:10,660 --> 00:15:12,912
+No conozco tantos mendigos
+que usen contador de pasos.
+
+195
+00:15:13,913 --> 00:15:17,626
+Esta persona es casada
+
+196
+00:15:19,461 --> 00:15:21,588
+y usa un Fitbit.
+
+197
+00:15:47,030 --> 00:15:48,698
+Acaba de llegar este paquete.
+
+198
+00:15:48,740 --> 00:15:50,325
+-¿Para mí?
+-Sí.
+
+199
+00:16:00,418 --> 00:16:01,461
+¿Qué es eso?
+
+200
+00:16:02,962 --> 00:16:05,674
+REPRODÚCEME
+
+201
+00:16:06,007 --> 00:16:07,342
+"Reprodúceme".
+
+202
+00:16:15,058 --> 00:16:16,476
+-Bien.
+-¿Qué haces?
+
+203
+00:16:19,229 --> 00:16:20,980
+No quiero joder mi computadora.
+
+204
+00:16:24,067 --> 00:16:26,027
+<i>Hola, detective Banks.</i>
+
+205
+00:16:26,069 --> 00:16:28,947
+<i>He llegado para ayudar a reformar</i>
+<i>a la policía de la ciudad</i>
+
+206
+00:16:28,988 --> 00:16:32,617
+<i>y recordarle su juramento</i>
+<i>para con el pueblo.</i>
+
+207
+00:16:32,659 --> 00:16:36,329
+<i>Un oficial de su estación</i>
+<i>se negó a reformarse.</i>
+
+208
+00:16:36,371 --> 00:16:39,165
+<i>No será el último en jugar a mi juego.</i>
+
+209
+00:16:40,500 --> 00:16:42,210
+Si esa espiral es lo que yo creo...
+
+210
+00:16:42,585 --> 00:16:43,628
+¿Jigsaw?
+
+211
+00:16:43,670 --> 00:16:45,422
+¿No estaba muerto ese asesino?
+
+212
+00:16:45,463 --> 00:16:46,881
+Sí, pero si es otro imitador...
+
+213
+00:16:47,382 --> 00:16:48,675
+Va a ser un puto caos.
+
+214
+00:16:49,050 --> 00:16:50,468
+Reconozco ese edificio.
+
+215
+00:16:50,969 --> 00:16:52,470
+<i>Son los tribunales de justicia.</i>
+
+216
+00:16:53,263 --> 00:16:54,514
+Vayamos a ver.
+
+217
+00:17:14,784 --> 00:17:16,035
+¿Qué hacen aquí?
+
+218
+00:17:16,077 --> 00:17:17,787
+Vinimos por si necesitaban refuerzos.
+
+219
+00:17:17,829 --> 00:17:19,831
+Vete a la mierda, Fitch. No es tu caso.
+
+220
+00:17:21,040 --> 00:17:22,292
+Oye, Zeke.
+
+221
+00:17:30,717 --> 00:17:32,010
+¿Qué tenemos aquí?
+
+222
+00:17:42,937 --> 00:17:44,230
+¿Qué carajo es eso?
+
+223
+00:17:45,440 --> 00:17:46,691
+¿Es una lengua?
+
+224
+00:17:51,196 --> 00:17:52,822
+Mierda.
+
+225
+00:18:00,705 --> 00:18:02,874
+4-5-3... ¿Quién es 4-5-3?
+
+226
+00:18:08,129 --> 00:18:09,214
+¡Acérquense!
+
+227
+00:18:10,548 --> 00:18:12,133
+Les diré lo que sabemos.
+
+228
+00:18:12,509 --> 00:18:14,385
+Los registros dentales
+confirman que es Boz.
+
+229
+00:18:15,178 --> 00:18:16,262
+Lo siento, muchachos.
+
+230
+00:18:17,388 --> 00:18:20,183
+Pero tenemos que atrapar
+al hijo de puta que hizo esto.
+
+231
+00:18:21,017 --> 00:18:22,977
+El conductor del tren dice
+que no vio mucho.
+
+232
+00:18:23,019 --> 00:18:25,814
+Solo vio a Boz colgando en el aire
+justo antes de atropellarlo.
+
+233
+00:18:25,855 --> 00:18:28,316
+Cree que perdía mucha sangre por la boca.
+
+234
+00:18:28,358 --> 00:18:30,610
+El paquete lo enviaron
+con un repartidor
+
+235
+00:18:30,652 --> 00:18:33,196
+que lo recogió en la entrada
+de un edificio en Anglin Drive.
+
+236
+00:18:33,238 --> 00:18:34,489
+¿Y las espirales?
+
+237
+00:18:34,531 --> 00:18:36,449
+Obviamente, es un imitador de Jigsaw,
+
+238
+00:18:36,491 --> 00:18:38,535
+así que debemos concentrarnos en eso.
+
+239
+00:18:38,576 --> 00:18:40,870
+Claro, Fitch, pero quiero
+que te ocupes de las pruebas.
+
+240
+00:18:40,912 --> 00:18:43,581
+Kraus, habla con el FBI,
+pídeles lo que tengan.
+
+241
+00:18:43,623 --> 00:18:45,583
+Archivos, videos viejos, todo.
+
+242
+00:18:46,209 --> 00:18:47,335
+¿Tenemos imágenes de la calle?
+
+243
+00:18:47,377 --> 00:18:49,087
+Estamos en eso.
+Los del Laboratorio Digital
+
+244
+00:18:49,128 --> 00:18:50,839
+rastrearon los movimientos
+con el Fitbit.
+
+245
+00:18:50,880 --> 00:18:52,966
+El último sitio donde aparece Boz
+es Stuart's Point,
+
+246
+00:18:53,007 --> 00:18:55,218
+con fecha y hora
+de los fuegos artificiales.
+
+247
+00:18:55,260 --> 00:18:57,554
+Alguien tiene que avisarle
+a Kara, la esposa, que...
+
+248
+00:18:57,595 --> 00:18:58,596
+Sí, ya la llamé.
+
+249
+00:19:00,807 --> 00:19:02,559
+¿Tú llamaste a Kara?
+
+250
+00:19:02,600 --> 00:19:03,685
+Sí.
+
+251
+00:19:04,435 --> 00:19:06,396
+-¿Conoces a Kara?
+-No.
+
+252
+00:19:06,437 --> 00:19:09,190
+¿Hablaste con ella?
+¿O le mandaste un mensaje de texto?
+
+253
+00:19:09,232 --> 00:19:11,359
+A que adivino. Le mandaste un emoji.
+
+254
+00:19:11,901 --> 00:19:13,570
+¿Existe el emoji de esposo muerto?
+
+255
+00:19:13,611 --> 00:19:15,071
+Hablé con ella, idiota.
+
+256
+00:19:15,113 --> 00:19:18,032
+Teníamos que avisarle
+antes de que se filtrara a la prensa.
+
+257
+00:19:18,950 --> 00:19:20,118
+Bien, O'Brien irá a Point...
+
+258
+00:19:20,159 --> 00:19:21,160
+¿O'Brien?
+
+259
+00:19:22,370 --> 00:19:23,538
+Este caso es mío.
+
+260
+00:19:24,706 --> 00:19:27,000
+El novato y yo llegamos primero.
+
+261
+00:19:28,167 --> 00:19:29,168
+Banks...
+
+262
+00:19:29,961 --> 00:19:31,546
+Perdón, ¿no es así el protocolo?
+
+263
+00:19:32,672 --> 00:19:34,340
+¿Ahora eres del equipo otra vez, Zeke?
+
+264
+00:19:39,387 --> 00:19:40,388
+Vete a la mierda.
+
+265
+00:19:41,014 --> 00:19:42,515
+No, tú vete a la mierda.
+
+266
+00:19:42,557 --> 00:19:43,683
+Vamos, Zeke...
+
+267
+00:19:43,725 --> 00:19:47,437
+Cuando todos ustedes
+me trataban como mierda
+
+268
+00:19:47,478 --> 00:19:53,109
+y me atacaban por la espalda,
+¡Boz era mi amigo!
+
+269
+00:19:54,569 --> 00:19:56,446
+Boz jugaba con mi hijo.
+
+270
+00:19:56,487 --> 00:19:58,615
+Íbamos a los partidos, carajo.
+
+271
+00:19:59,699 --> 00:20:03,578
+Así que vete tú a la mierda.
+
+272
+00:20:06,122 --> 00:20:07,457
+Pendejos de mierda...
+
+273
+00:20:07,498 --> 00:20:11,628
+¡Zeke! ¡Espera, carajo!
+
+274
+00:20:15,048 --> 00:20:16,883
+¡Entra! ¡Ya mismo!
+
+275
+00:20:19,177 --> 00:20:20,595
+CABALLEROS
+
+276
+00:20:21,387 --> 00:20:23,181
+¡Abróchate y sal!
+
+277
+00:20:23,222 --> 00:20:24,432
+Bueno, capitana.
+
+278
+00:20:29,312 --> 00:20:31,981
+Viejo, lávate las manos.
+
+279
+00:20:32,649 --> 00:20:34,692
+Ya sé por qué quieres el caso.
+
+280
+00:20:34,734 --> 00:20:37,570
+Boz también era amigo mío,
+pero no puedes solo.
+
+281
+00:20:37,612 --> 00:20:40,239
+Necesito que todo el departamento
+trabaje en conjunto.
+
+282
+00:20:40,281 --> 00:20:42,367
+No quiero hacerlo solo, ¿de acuerdo?
+
+283
+00:20:42,408 --> 00:20:46,496
+Boz era como mi hermano.
+Tienes que dejarme a la cabeza.
+
+284
+00:20:50,875 --> 00:20:53,086
+Tienes que dejarme atrapar
+a este hijo de puta.
+
+285
+00:20:58,132 --> 00:21:00,969
+De acuerdo, cambio de planes.
+
+286
+00:21:03,096 --> 00:21:04,305
+Banks quedará a la cabeza.
+
+287
+00:21:05,890 --> 00:21:06,891
+Escuchen bien.
+
+288
+00:21:07,642 --> 00:21:10,103
+Sé que algunos opinan que soy un traidor.
+
+289
+00:21:11,437 --> 00:21:13,022
+Algunos opinan que soy un soplón.
+
+290
+00:21:14,774 --> 00:21:17,652
+Algunos están enojados
+porque me cogí a su madre.
+
+291
+00:21:20,571 --> 00:21:26,411
+Boz fue visto por última vez en el desfile
+del 4 de julio en Stuart's Point,
+
+292
+00:21:27,286 --> 00:21:30,707
+así que debe haber
+muchas imágenes de seguridad.
+
+293
+00:21:30,748 --> 00:21:33,251
+Revisen los <i>hashtags</i>
+en las cuentas de Instagram...
+
+294
+00:21:33,292 --> 00:21:34,335
+¡Oigan!
+
+295
+00:21:35,128 --> 00:21:38,339
+Apareció un policía muerto.
+Lo asesinaron brutalmente.
+
+296
+00:21:38,381 --> 00:21:41,384
+Un hermano caído
+al que le arrancaron la lengua.
+
+297
+00:21:41,426 --> 00:21:44,053
+Debemos concentrarnos
+en el caso y resolverlo.
+
+298
+00:21:44,095 --> 00:21:47,932
+Consigan esas imágenes para Banks
+y dejen a un lado lo personal.
+
+299
+00:21:49,225 --> 00:21:50,309
+O'Brien, ¿de acuerdo?
+
+300
+00:21:51,102 --> 00:21:52,395
+No hay problema, capitana.
+
+301
+00:21:53,021 --> 00:21:54,022
+Bien.
+
+302
+00:21:55,356 --> 00:21:56,357
+Vamos.
+
+303
+00:22:05,116 --> 00:22:06,242
+¿Adónde vamos?
+
+304
+00:22:06,284 --> 00:22:08,411
+A dar nuestras condolencias.
+Ponte un traje.
+
+305
+00:22:27,388 --> 00:22:28,389
+Zeke.
+
+306
+00:22:28,973 --> 00:22:30,058
+Kara.
+
+307
+00:22:31,392 --> 00:22:32,477
+Tranquila.
+
+308
+00:22:32,518 --> 00:22:34,896
+Voy a encontrar al que hizo esto.
+
+309
+00:22:34,937 --> 00:22:37,315
+No entiendo... ¿Cómo fue?
+
+310
+00:22:37,815 --> 00:22:39,400
+Kara, tu madre por teléfono.
+
+311
+00:22:39,942 --> 00:22:41,027
+Sí, bueno.
+
+312
+00:22:41,527 --> 00:22:42,528
+Zeke.
+
+313
+00:22:43,404 --> 00:22:44,405
+Lisa.
+
+314
+00:22:47,116 --> 00:22:49,869
+¿Estás bien? Te mandé un mensaje.
+
+315
+00:22:49,911 --> 00:22:50,995
+Sí, lo recibí.
+
+316
+00:22:52,080 --> 00:22:53,289
+¿Brian está aquí?
+
+317
+00:22:53,956 --> 00:22:55,541
+No, se quedó con mi hermana.
+
+318
+00:22:55,583 --> 00:22:59,462
+Tu hermana.
+¿O sea que Rhonda ve a mi hijo y yo no?
+
+319
+00:23:01,005 --> 00:23:02,423
+¿En serio vamos a discutirlo aquí?
+
+320
+00:23:04,467 --> 00:23:07,053
+No. Hoy no.
+
+321
+00:23:07,762 --> 00:23:08,888
+-Hola, soy William.
+-Basta.
+
+322
+00:23:08,930 --> 00:23:09,931
+El compañero de Zeke, sí...
+
+323
+00:23:19,107 --> 00:23:20,525
+Esperaré afuera.
+
+324
+00:23:20,566 --> 00:23:22,026
+Jamie está con los vecinos.
+
+325
+00:23:22,068 --> 00:23:24,946
+No sé cómo decirle
+lo que le pasó a su papá.
+
+326
+00:23:25,988 --> 00:23:28,866
+No me imagino
+lo que debes estar sufriendo.
+
+327
+00:23:31,828 --> 00:23:37,125
+Sé que es mal momento,
+pero debo hacerte unas preguntas.
+
+328
+00:23:39,168 --> 00:23:43,840
+En estas semanas, ¿notaste algo inusual?
+
+329
+00:23:43,881 --> 00:23:48,344
+¿Te comentó algo Boz?
+¿Lo notaste nervioso?
+
+330
+00:23:50,179 --> 00:23:51,764
+Era policía, Zeke.
+
+331
+00:23:51,806 --> 00:23:53,558
+¿Nada fuera de lo común?
+
+332
+00:23:53,599 --> 00:23:54,684
+No.
+
+333
+00:23:55,560 --> 00:23:59,939
+Una noche, la semana pasada,
+vi una camioneta negra afuera.
+
+334
+00:24:00,857 --> 00:24:03,568
+¿Recuerdas la marca?
+¿Range Rover, Escalade, Lincoln?
+
+335
+00:24:03,609 --> 00:24:04,610
+No sé.
+
+336
+00:24:05,319 --> 00:24:08,030
+Se lo dije a Boz, y él salió,
+
+337
+00:24:08,072 --> 00:24:10,074
+se acercó, y no sé,
+
+338
+00:24:10,116 --> 00:24:12,535
+lo escuché gritándole
+a la persona que estaba adentro.
+
+339
+00:24:12,577 --> 00:24:15,663
+¿Tienes idea de qué decían? ¿Oíste algo?
+
+340
+00:24:15,705 --> 00:24:19,125
+No. Si la vuelvo a ver,
+anotaré el número de placa.
+
+341
+00:24:19,167 --> 00:24:21,961
+Si no te molesta, ¿me darías sus aparatos?
+
+342
+00:24:22,003 --> 00:24:25,339
+Necesito ver su iPad, su computadora.
+
+343
+00:24:25,381 --> 00:24:26,465
+Sí.
+
+344
+00:24:26,507 --> 00:24:27,508
+Gracias, Kara.
+
+345
+00:24:32,263 --> 00:24:34,599
+Bien. Debo irme. Cuídense.
+
+346
+00:24:38,227 --> 00:24:39,312
+Zeke.
+
+347
+00:24:40,396 --> 00:24:42,315
+Él sabía que tú eras buen policía.
+
+348
+00:24:42,356 --> 00:24:43,983
+Averigua quién hizo esto.
+
+349
+00:25:28,736 --> 00:25:31,447
+¿Apuntas a tu padre con un arma?
+
+350
+00:25:31,489 --> 00:25:34,075
+¿Estás totalmente loco?
+Te podría haber matado.
+
+351
+00:25:34,116 --> 00:25:36,118
+¿Qué dices? El arma la tengo yo.
+
+352
+00:25:36,160 --> 00:25:38,079
+Te podría haber matado.
+
+353
+00:25:38,537 --> 00:25:39,538
+¿Cómo entraste?
+
+354
+00:25:39,997 --> 00:25:41,874
+¿Te olvidaste quién es el dueño?
+
+355
+00:25:41,916 --> 00:25:45,127
+Sí, pero eso no te da derecho
+de entrar cuando te dé la gana.
+
+356
+00:25:45,169 --> 00:25:46,212
+Los inquilinos tenemos derechos.
+
+357
+00:25:46,254 --> 00:25:48,214
+Si pagas el alquiler,
+tendrás tus derechos.
+
+358
+00:25:51,926 --> 00:25:54,762
+Me enteré de lo de Boz. ¿Estás bien?
+
+359
+00:25:56,681 --> 00:25:58,432
+No, papá, estoy como la mierda.
+
+360
+00:26:00,142 --> 00:26:02,228
+Lo siento. Sé que eran muy amigos.
+
+361
+00:26:04,730 --> 00:26:09,902
+Un imitador de Jigsaw.
+Eso puede ser difícil.
+
+362
+00:26:09,944 --> 00:26:11,237
+-¿Qué dices?
+-Nada.
+
+363
+00:26:11,279 --> 00:26:14,532
+Ser el detective a cargo
+es una gran responsabilidad.
+
+364
+00:26:14,573 --> 00:26:15,783
+¿Tienes algún problema con eso?
+
+365
+00:26:16,492 --> 00:26:18,661
+¿O solo tienes miedo
+de que te haga quedar mal?
+
+366
+00:26:18,703 --> 00:26:20,454
+¿Ves? Ahí está.
+
+367
+00:26:21,872 --> 00:26:23,624
+No se trata de ti.
+
+368
+00:26:23,666 --> 00:26:26,127
+Siempre crees que todo gira en torno a ti.
+
+369
+00:26:26,168 --> 00:26:29,797
+Eso arruinó tu carrera y tu matrimonio.
+
+370
+00:26:29,839 --> 00:26:31,924
+¿Ahora me das consejos de padre?
+
+371
+00:26:31,966 --> 00:26:33,175
+¿De qué estás hablando, Willis?
+
+372
+00:26:33,801 --> 00:26:37,138
+Papá, vivimos en el mismo edificio.
+
+373
+00:26:37,179 --> 00:26:38,931
+El otro día te vi en la puerta,
+
+374
+00:26:38,973 --> 00:26:42,351
+y me saludaste
+como a un negro cualquiera.
+
+375
+00:26:42,393 --> 00:26:44,854
+Hace más de un año que no comemos juntos.
+
+376
+00:26:44,895 --> 00:26:46,522
+¿Que no comemos juntos?
+
+377
+00:26:47,398 --> 00:26:48,774
+¿Qué pasa? ¿Tienes hambre?
+
+378
+00:26:48,816 --> 00:26:50,443
+¿Quieres ir a comer pizza?
+
+379
+00:26:51,402 --> 00:26:57,199
+Te digo algo, mi padre iba a trabajar
+y volvía a casa. Eso era todo.
+
+380
+00:26:58,242 --> 00:26:59,744
+Bueno, me voy, hijo.
+
+381
+00:27:00,745 --> 00:27:02,997
+Iré a ver a Kara
+para darle mis condolencias.
+
+382
+00:27:04,248 --> 00:27:05,416
+Vas a estar bien.
+
+383
+00:27:06,000 --> 00:27:09,128
+Ven esta noche. Pediré comida,
+y revisaremos el caso.
+
+384
+00:27:20,431 --> 00:27:22,725
+Que seas el hijo del jefe Marcus Banks...
+
+385
+00:27:22,767 --> 00:27:24,018
+Basta de relacionar todo con mi padre.
+
+386
+00:27:24,060 --> 00:27:27,605
+Hace 12 años entregué a un corrupto.
+
+387
+00:27:28,731 --> 00:27:31,359
+¡Pete! ¿Qué pasó?
+
+388
+00:27:31,400 --> 00:27:32,943
+Sacó un arma y me apuntó.
+
+389
+00:27:35,029 --> 00:27:36,447
+¿El testigo te apuntó con un arma?
+
+390
+00:27:36,906 --> 00:27:40,326
+¡Porque aquí
+no puedo confiar en nadie, carajo!
+
+391
+00:28:01,389 --> 00:28:04,475
+Hace cinco horas
+que estoy mirando esta mierda.
+
+392
+00:28:04,517 --> 00:28:06,268
+Ni siquiera paso tantas horas
+mirando porno.
+
+393
+00:28:07,812 --> 00:28:09,313
+{\an8}ARCHIVO DE CASO
+10210 ¡NUEVO!
+
+394
+00:28:14,318 --> 00:28:16,445
+Listo. ¿Qué sigue?
+
+395
+00:28:16,487 --> 00:28:18,656
+¿Por qué no llamas al Laboratorio Digital
+
+396
+00:28:18,697 --> 00:28:21,992
+a ver si en los registros telefónicos
+de Boz hay alguien con camioneta negra?
+
+397
+00:28:22,451 --> 00:28:24,161
+Mi teléfono murió, ¿tienes un cargador?
+
+398
+00:28:24,203 --> 00:28:25,788
+Murió. ¿Qué eres? ¿Una adolescente?
+
+399
+00:28:25,830 --> 00:28:26,872
+Préstame el teléfono y cállate.
+
+400
+00:28:26,914 --> 00:28:28,749
+-Bueno.
+-Gracias.
+
+401
+00:28:29,875 --> 00:28:32,503
+No me gastes la batería
+mirando <i>Crepúsculo.</i>
+
+402
+00:28:37,550 --> 00:28:39,093
+Qué bueno que te sumaste.
+
+403
+00:28:40,428 --> 00:28:42,221
+¿Creen que se relaciona con John Kramer?
+
+404
+00:28:42,263 --> 00:28:44,640
+Le mandé fotos al FBI, veremos qué dicen.
+
+405
+00:28:46,100 --> 00:28:47,309
+¿Qué sabemos de las cámaras?
+
+406
+00:28:47,351 --> 00:28:50,563
+Dime que los $20 millones gastados
+en el sistema sirvieron para algo.
+
+407
+00:28:50,855 --> 00:28:51,856
+¿Drury?
+
+408
+00:28:53,107 --> 00:28:58,737
+Sí. Ya se revisaron las cámaras
+desde aquí hasta aquí.
+
+409
+00:28:58,779 --> 00:29:00,865
+El sistema de reconocimiento facial
+no detectó nada.
+
+410
+00:29:00,906 --> 00:29:03,325
+{\an8}En esta esquina había dos cámaras rotas.
+
+411
+00:29:04,118 --> 00:29:05,995
+<i>Fitch y Kraus fueron a investigar.</i>
+
+412
+00:29:11,417 --> 00:29:13,502
+Cámara detectora
+
+413
+00:29:18,757 --> 00:29:21,427
+No. Cerrado.
+
+414
+00:30:00,508 --> 00:30:01,592
+Ahí está Boz.
+
+415
+00:30:02,760 --> 00:30:03,969
+¿A quién persigue?
+
+416
+00:30:04,386 --> 00:30:05,804
+Conozco a ese tipo.
+
+417
+00:30:06,222 --> 00:30:09,558
+Es Benny Wrights, un buscavidas.
+
+418
+00:30:09,600 --> 00:30:10,935
+Y está arruinado por las drogas.
+
+419
+00:30:10,976 --> 00:30:13,687
+Para en una panificadora
+incendiada en la calle 12.
+
+420
+00:30:13,729 --> 00:30:15,814
+Anda con un traficante, un tal Speez.
+
+421
+00:30:16,398 --> 00:30:17,441
+¿Le decimos a Zeke?
+
+422
+00:30:17,483 --> 00:30:18,567
+Que se joda.
+
+423
+00:30:19,360 --> 00:30:21,737
+Yo revisaré el edificio,
+tú rastrea a Speez.
+
+424
+00:30:25,199 --> 00:30:27,409
+Oiga, muéstreme esa pistola.
+
+425
+00:30:27,451 --> 00:30:29,787
+La de la izquierda. Sí, vamos.
+
+426
+00:30:34,542 --> 00:30:38,796
+En nombre de la policía,
+gracias por su generosidad.
+
+427
+00:30:45,636 --> 00:30:47,596
+Tengo cosas que hacer. Me voy.
+
+428
+00:30:48,806 --> 00:30:50,015
+¿Qué se trae?
+
+429
+00:30:50,057 --> 00:30:51,767
+Es un pendejo tramposo.
+
+430
+00:30:53,227 --> 00:30:55,187
+-Terminemos por hoy.
+-¿Seguro?
+
+431
+00:30:55,229 --> 00:30:58,440
+Sí. Vete a casa
+a ver a tu esposa y tu hijo.
+
+432
+00:30:58,482 --> 00:30:59,525
+¿Cómo se llama tu hijo?
+
+433
+00:30:59,567 --> 00:31:00,818
+-Charlie.
+-Charlie.
+
+434
+00:31:00,859 --> 00:31:02,611
+Bueno, lo acuesto y vuelvo.
+
+435
+00:31:02,653 --> 00:31:03,904
+No, no voy a estar aquí.
+
+436
+00:31:03,946 --> 00:31:06,073
+Cenaré con mi papá, y revisaremos el caso.
+
+437
+00:31:06,115 --> 00:31:07,241
+Bueno.
+
+438
+00:31:09,243 --> 00:31:10,286
+Oye, William.
+
+439
+00:31:10,327 --> 00:31:11,412
+¿Sí?
+
+440
+00:31:12,955 --> 00:31:14,290
+Buen trabajo el de hoy.
+
+441
+00:31:16,292 --> 00:31:17,293
+Gracias.
+
+442
+00:31:18,419 --> 00:31:20,045
+-Hasta mañana.
+-Sí.
+
+443
+00:31:26,927 --> 00:31:29,930
+PANIFICADORA
+
+444
+00:31:47,197 --> 00:31:48,282
+¿Benny?
+
+445
+00:32:01,086 --> 00:32:02,421
+Despierta, Benny.
+
+446
+00:32:11,722 --> 00:32:13,307
+Arriba, amigo.
+
+447
+00:32:16,310 --> 00:32:18,854
+Benny, vamos. Despierta.
+
+448
+00:32:21,231 --> 00:32:22,524
+Vamos, Benny, despierta.
+
+449
+00:32:26,403 --> 00:32:27,404
+¿Estás bien?
+
+450
+00:32:32,701 --> 00:32:34,703
+Carajo.
+
+451
+00:32:54,181 --> 00:32:56,141
+<i>Soy Deborah Kraus, déjame un mensaje.</i>
+
+452
+00:32:56,183 --> 00:32:57,393
+Kraus, llámame.
+
+453
+00:33:02,439 --> 00:33:05,275
+<i>Teniente Tim O'Brien,</i>
+<i>deje un mensaje, y lo llamaré.</i>
+
+454
+00:33:36,724 --> 00:33:37,725
+¡Auxilio! ¡Auxilio!
+
+455
+00:34:01,749 --> 00:34:02,916
+<i>Hola, detective Fitch.</i>
+
+456
+00:34:04,001 --> 00:34:05,627
+<i>Quiero jugar a un juego.</i>
+
+457
+00:34:12,885 --> 00:34:13,927
+<i>Hola, Zeke.</i>
+
+458
+00:34:13,969 --> 00:34:15,012
+William.
+
+459
+00:34:15,053 --> 00:34:18,015
+<i>¿Qué haces despierto?</i>
+<i>Te dije que te tomaras la noche.</i>
+
+460
+00:34:18,056 --> 00:34:19,975
+No pasa nada, Charlie duerme.
+
+461
+00:34:20,726 --> 00:34:24,271
+Dormía. Estoy esperando a Emma,
+que salió con las amigas.
+
+462
+00:34:24,313 --> 00:34:27,483
+Salió con las amigas. Bien.
+
+463
+00:34:27,524 --> 00:34:30,652
+Ten cuidado con eso,
+podría haber salido con un "amigo".
+
+464
+00:34:30,694 --> 00:34:31,737
+Que te estés divorciando
+
+465
+00:34:31,779 --> 00:34:33,864
+no significa que todos los demás también.
+
+466
+00:34:35,866 --> 00:34:39,036
+Me parece que estás ocupado.
+¿Quieres llamarme después?
+
+467
+00:34:39,077 --> 00:34:41,455
+<i>No es nada. Está aprendiendo</i>
+<i>a dormir solo. Es fatal.</i>
+
+468
+00:34:41,997 --> 00:34:44,541
+Mira, sé que Boz y tú eran amigos.
+
+469
+00:34:44,583 --> 00:34:46,418
+<i>No sé cómo decirte esto.</i>
+
+470
+00:34:46,460 --> 00:34:48,670
+Si tienes algo que decir, dilo.
+
+471
+00:34:49,087 --> 00:34:51,507
+Estuve revisando los legajos policiales,
+como me pediste,
+
+472
+00:34:51,548 --> 00:34:54,218
+y Boz fue acusado más veces
+que nadie de mentir en juicio.
+
+473
+00:34:55,677 --> 00:34:57,805
+Muchísimo más que nadie.
+
+474
+00:34:57,846 --> 00:34:58,847
+<i>Cielos.</i>
+
+475
+00:34:59,681 --> 00:35:01,183
+Los tribunales...
+
+476
+00:35:03,060 --> 00:35:05,479
+Por eso la lengua estaba
+en los tribunales.
+
+477
+00:35:10,150 --> 00:35:11,235
+¿Necesitas algo?
+
+478
+00:35:11,693 --> 00:35:13,111
+¿Usted es Marcus Banks?
+
+479
+00:35:13,153 --> 00:35:15,155
+-No, soy el hijo.
+-Traigo una entrega de Terroni.
+
+480
+00:35:15,197 --> 00:35:16,490
+Bien.
+
+481
+00:35:22,538 --> 00:35:23,622
+¡Papá!
+
+482
+00:35:49,648 --> 00:35:51,525
+Papá, tu comida.
+
+483
+00:36:07,749 --> 00:36:09,167
+¡Hijo de puta!
+
+484
+00:36:10,252 --> 00:36:12,421
+¿Por qué carajo no me llamaste primero?
+
+485
+00:36:12,462 --> 00:36:13,589
+Traté, pero no me atendiste.
+
+486
+00:36:13,630 --> 00:36:16,258
+¿Por qué carajo no esperaste
+a que te llamara yo?
+
+487
+00:36:17,009 --> 00:36:20,387
+Porque me ibas a disuadir. Dije la verdad.
+
+488
+00:36:20,429 --> 00:36:23,682
+Sal de mi vista, Zeke. ¿Nos dejas solos?
+
+489
+00:36:26,560 --> 00:36:27,603
+NOTICIAS WF95
+
+490
+00:36:27,644 --> 00:36:28,729
+Maldita sea.
+
+491
+00:36:30,814 --> 00:36:33,066
+Nunca debí permitir que fuera policía.
+
+492
+00:36:36,320 --> 00:36:38,614
+Esta mierda se va a salir de control.
+
+493
+00:36:38,655 --> 00:36:42,367
+Entregó a un corrupto. Pete era
+una basura. Zeke quedará como héroe.
+
+494
+00:36:42,409 --> 00:36:45,412
+¿Y los demás policías?
+¿También dirán que es un héroe?
+
+495
+00:36:46,622 --> 00:36:47,873
+Hizo lo que debía hacer.
+
+496
+00:36:47,915 --> 00:36:50,626
+¿Sabes cuánto control de daños
+interno tendré que hacer?
+
+497
+00:36:50,667 --> 00:36:53,921
+Lo resolveremos, como siempre.
+
+498
+00:36:55,047 --> 00:36:58,008
+Jefe Banks, somos del noticiero de WF.
+
+499
+00:37:02,763 --> 00:37:03,764
+¿Está adentro?
+
+500
+00:37:08,685 --> 00:37:13,231
+Perdón, pero su cara
+estaba invadiendo mi propiedad privada.
+
+501
+00:37:13,273 --> 00:37:14,650
+¿Puedo ayudarlo con algo?
+
+502
+00:37:15,484 --> 00:37:16,652
+No.
+
+503
+00:37:16,693 --> 00:37:18,904
+Bueno. Gracias y váyase al carajo.
+
+504
+00:37:27,287 --> 00:37:30,123
+CONSTANTINE - TIENDA DE REGALOS
+
+505
+00:37:44,930 --> 00:37:46,348
+Para el detective Zeke Banks.
+
+506
+00:37:52,980 --> 00:37:54,147
+Banks, un paquete.
+
+507
+00:37:54,648 --> 00:37:56,108
+A mi escritorio.
+
+508
+00:37:56,149 --> 00:37:58,276
+Lo trajo un repartidor.
+Lo retuvimos para interrogarlo.
+
+509
+00:38:16,420 --> 00:38:21,508
+<i>Hola, detective Banks.</i>
+<i>La salvación fue ofrecida y rechazada.</i>
+
+510
+00:38:21,550 --> 00:38:25,012
+Este pendejo se cree Jigsaw.
+Hasta tiene el muñeco.
+
+511
+00:38:25,053 --> 00:38:27,889
+<i>Tengo asuntos pendientes</i>
+<i>con el departamento de policía,</i>
+
+512
+00:38:27,931 --> 00:38:30,058
+<i>y si van a acusar con el dedo...</i>
+
+513
+00:38:30,100 --> 00:38:31,351
+Es el puente de la calle 12.
+
+514
+00:38:31,393 --> 00:38:34,104
+<i>...deberían empezar</i>
+<i>por apuntar a ustedes mismos.</i>
+
+515
+00:38:34,146 --> 00:38:35,647
+Cielos, estamos a dos cuadras.
+
+516
+00:38:35,689 --> 00:38:38,900
+<i>Hasta que se limpien, morirán muchos más.</i>
+
+517
+00:38:55,959 --> 00:38:57,044
+Atrás.
+
+518
+00:38:58,712 --> 00:38:59,796
+Atentos.
+
+519
+00:39:11,433 --> 00:39:12,517
+Alto, muchachos.
+
+520
+00:39:39,377 --> 00:39:40,879
+Qué cabrón retorcido.
+
+521
+00:39:48,178 --> 00:39:49,596
+¿Qué carajo?
+
+522
+00:39:49,638 --> 00:39:51,014
+No...
+
+523
+00:39:57,104 --> 00:39:58,188
+Por Dios.
+
+524
+00:39:58,230 --> 00:39:59,272
+9-8-2.
+
+525
+00:40:00,982 --> 00:40:02,025
+Es Fitch.
+
+526
+00:40:02,067 --> 00:40:03,110
+<i>Aquí el detective Banks</i>
+
+527
+00:40:03,151 --> 00:40:04,528
+solicitando refuerzos.
+
+528
+00:40:04,569 --> 00:40:06,780
+<i>Estoy en la calle Decker.</i>
+<i>¡Solicito refuerzos!</i>
+
+529
+00:40:06,822 --> 00:40:08,240
+-Que se joda.
+<i>-En persecución.</i>
+
+530
+00:40:08,281 --> 00:40:10,408
+¡Solicito refuerzos!
+
+531
+00:40:23,046 --> 00:40:24,631
+-¡Carajo!
+-Maldita sea.
+
+532
+00:40:33,306 --> 00:40:34,933
+Va a estar bien, resista.
+
+533
+00:40:35,392 --> 00:40:37,352
+Está bien, tranquilo. Va a estar bien.
+
+534
+00:40:37,394 --> 00:40:38,687
+-¡Zeke!
+-¡Señor! ¡Por favor!
+
+535
+00:40:38,728 --> 00:40:41,982
+Déjenos hacer nuestro trabajo.
+Vamos, déjenos trabajar.
+
+536
+00:40:42,023 --> 00:40:44,192
+¿Dónde carajo estaban todos?
+
+537
+00:40:45,527 --> 00:40:48,947
+Mi hijo pidió refuerzos
+tres veces en ocho minutos,
+
+538
+00:40:48,989 --> 00:40:50,824
+¿y ninguno pudo venir?
+
+539
+00:40:51,908 --> 00:40:53,910
+¿Nadie? ¿Nada?
+
+540
+00:40:53,952 --> 00:40:56,246
+Silencio. Bien.
+Voy a hacer lo siguiente.
+
+541
+00:40:56,705 --> 00:41:02,043
+Voy a llamar a la central para ver
+quién estaba disponible más cerca,
+
+542
+00:41:02,085 --> 00:41:07,215
+y cuando lo sepa, tomaré esta pistola
+y le dispararé al hijo de puta.
+
+543
+00:41:07,257 --> 00:41:08,341
+¿Está claro?
+
+544
+00:41:09,718 --> 00:41:10,969
+Fitch, ¿eras tú?
+
+545
+00:41:12,012 --> 00:41:13,054
+¿De nuevo jodiendo a mi hijo?
+
+546
+00:41:14,097 --> 00:41:16,141
+¡Maldito seas, hijo de puta!
+
+547
+00:41:16,183 --> 00:41:17,225
+¡Suéltame!
+
+548
+00:41:17,267 --> 00:41:18,810
+Estás perdido, ¿me oíste?
+
+549
+00:41:18,852 --> 00:41:22,189
+¡Estás perdido! Que no te vuelva a ver.
+
+550
+00:41:24,858 --> 00:41:28,278
+Llamen a Kraus y averigüen
+el último paradero de Fitch.
+
+551
+00:41:28,320 --> 00:41:31,573
+NESBITT HERMANOS
+PANIFICADORA
+
+552
+00:41:40,123 --> 00:41:41,499
+<i>Hola, detective Fitch.</i>
+
+553
+00:41:42,459 --> 00:41:47,547
+<i>Quiero jugar a un juego. La marea</i>
+<i>de la justicia sube en torno a usted.</i>
+
+554
+00:41:48,506 --> 00:41:53,220
+<i>En 90 segundos, el agua llegará</i>
+<i>a la altura de los cables de cobre,</i>
+
+555
+00:41:53,261 --> 00:41:57,390
+<i>y si usted sigue en el tanque,</i>
+<i>morirá electrocutado.</i>
+
+556
+00:41:57,432 --> 00:42:00,518
+<i>Salvo que haga el sacrificio</i>
+<i>que lo purificará.</i>
+
+557
+00:42:00,560 --> 00:42:02,270
+Dios...
+
+558
+00:42:02,312 --> 00:42:05,065
+<i>Usted asesinó a un hombre</i>
+<i>porque él lo insultó.</i>
+
+559
+00:42:05,106 --> 00:42:07,567
+<i>Las manos donde las vea, hijo de puta.</i>
+
+560
+00:42:08,193 --> 00:42:10,028
+<i>Dije que ponga las manos donde las vea.</i>
+
+561
+00:42:14,783 --> 00:42:19,037
+<i>Con su dedo apretó el gatillo,</i>
+<i>y eso no puede volver a pasar.</i>
+
+562
+00:42:19,913 --> 00:42:23,667
+<i>Sobrevivir es fácil,</i>
+<i>pero requiere un sacrificio.</i>
+
+563
+00:42:23,708 --> 00:42:26,878
+<i>Si muerde el dispositivo</i>
+<i>que tiene en la boca,</i>
+
+564
+00:42:26,920 --> 00:42:30,173
+<i>encenderá el motor</i>
+<i>que le arrancará los dedos</i>
+
+565
+00:42:31,132 --> 00:42:33,635
+<i>y lo liberará para escapar con vida.</i>
+
+566
+00:42:33,677 --> 00:42:38,640
+<i>Si no reacciona rápido,</i>
+<i>lo espera únicamente esta tumba acuática.</i>
+
+567
+00:42:38,682 --> 00:42:41,059
+<i>Vivir o morir, usted decide.</i>
+
+568
+00:44:22,035 --> 00:44:25,497
+Kraus, ¿se sabe algo más
+sobre el puente donde hallamos los dedos?
+
+569
+00:44:25,538 --> 00:44:26,873
+Sí, ¿por qué ese puente?
+
+570
+00:44:27,415 --> 00:44:30,835
+Porque ahí le disparó a ese muchacho,
+Jimmy Lincoln.
+
+571
+00:44:30,877 --> 00:44:32,796
+¿Cómo llegaron a este lugar?
+
+572
+00:44:33,671 --> 00:44:37,384
+Por Benny Wrights,
+el último que vio a Boz el 4 de julio.
+
+573
+00:44:37,425 --> 00:44:38,968
+¿Cómo sabes que vio a Boz?
+
+574
+00:44:39,719 --> 00:44:42,138
+Por la cámara de una casa de empeños
+en Stuart Point.
+
+575
+00:44:42,180 --> 00:44:43,431
+Y no me dijeron nada.
+
+576
+00:44:45,433 --> 00:44:46,643
+¿Quién carajo hizo esto?
+
+577
+00:44:47,227 --> 00:44:49,312
+Alguien que quiere ajustar cuentas
+con la policía.
+
+578
+00:44:50,980 --> 00:44:53,441
+O tal vez con Fitch solamente.
+
+579
+00:44:53,483 --> 00:44:54,859
+¿Insinúas algo, Drury?
+
+580
+00:44:55,527 --> 00:44:58,947
+Ya sabes.
+Dudo que vayas a llorar por Fitch.
+
+581
+00:44:58,988 --> 00:45:00,115
+Bueno, vamos. Ven, Zeke.
+
+582
+00:45:00,156 --> 00:45:01,533
+Pendejo de mierda.
+
+583
+00:45:01,574 --> 00:45:02,992
+Ignóralo.
+
+584
+00:45:04,285 --> 00:45:05,412
+¿Alguna información?
+
+585
+00:45:06,204 --> 00:45:11,543
+Un nombre. Benny... Wrights.
+El último que vio a Boz.
+
+586
+00:45:11,584 --> 00:45:14,379
+Bien, encuéntralo. Tienes horas, no días.
+
+587
+00:45:16,297 --> 00:45:18,466
+Aquí compra Benny las metanfetaminas.
+
+588
+00:45:19,801 --> 00:45:21,010
+¿Sabes lo que es eso?
+
+589
+00:45:22,178 --> 00:45:23,179
+¿Es un examen?
+
+590
+00:45:24,597 --> 00:45:25,682
+Solo una pregunta.
+
+591
+00:45:26,141 --> 00:45:29,102
+Es una casa de meta.
+Pones dinero en el cubo, y baja la droga.
+
+592
+00:45:29,144 --> 00:45:31,354
+Alguien miró <i>The Wire.</i>
+
+593
+00:45:32,272 --> 00:45:35,692
+Esto parece <i>La fortaleza del vicio.</i>
+
+594
+00:45:43,741 --> 00:45:44,951
+¿No necesitamos una orden?
+
+595
+00:45:46,119 --> 00:45:47,454
+¿Qué dices?
+
+596
+00:45:49,497 --> 00:45:50,582
+Zeke...
+
+597
+00:45:52,041 --> 00:45:53,460
+¡Oye, amigo!
+
+598
+00:45:54,127 --> 00:45:55,628
+¡Mi chica y yo queremos un poco!
+
+599
+00:45:55,670 --> 00:45:57,881
+Es nuestro aniversario, queremos festejar
+
+600
+00:45:57,922 --> 00:45:59,090
+y hacer algo especial.
+
+601
+00:45:59,132 --> 00:46:01,593
+¿Me das una de cinco? ¿Quieres este iPad?
+
+602
+00:46:01,634 --> 00:46:04,095
+Tiene de todo.
+
+603
+00:46:04,137 --> 00:46:07,265
+Tengo las claves, Netflix, Hulu,
+
+604
+00:46:07,307 --> 00:46:10,685
+Uber Eats, Postmates. Mucha comida.
+
+605
+00:46:10,727 --> 00:46:12,812
+-Muéstrame.
+-Viejo, vete a la mierda.
+
+606
+00:46:12,854 --> 00:46:14,105
+¿Me ves cara de hambriento?
+
+607
+00:46:14,147 --> 00:46:16,441
+Tiene de todo, pero no entra.
+
+608
+00:46:16,483 --> 00:46:17,525
+¿Por qué no bajas?
+
+609
+00:46:17,567 --> 00:46:20,278
+¡Vete a la mierda!
+¡Vuelve cuando tengas dinero!
+
+610
+00:46:20,320 --> 00:46:22,697
+Bueno. Necesito dinero.
+
+611
+00:46:22,739 --> 00:46:24,949
+No, ¡espera! Tengo, tengo dinero.
+
+612
+00:46:24,991 --> 00:46:28,161
+Tengo dinero, espera un segundo.
+Un segundo, ¿sí?
+
+613
+00:46:29,746 --> 00:46:34,417
+Bien, baja eso, amigo. Vamos, de una vez.
+
+614
+00:46:37,003 --> 00:46:38,004
+¡Estoy desesperado!
+
+615
+00:46:40,215 --> 00:46:41,257
+Zeke, ¿qué carajo?
+
+616
+00:46:41,299 --> 00:46:42,425
+Son 10 segundos, ¡vamos!
+
+617
+00:46:42,467 --> 00:46:43,551
+Por Dios...
+
+618
+00:46:48,556 --> 00:46:49,641
+¿Qué carajo?
+
+619
+00:46:50,183 --> 00:46:52,143
+-¡Vamos!
+-Déjame pasar.
+
+620
+00:46:52,185 --> 00:46:55,146
+¡Abran paso! ¡Policía!
+
+621
+00:46:55,188 --> 00:46:56,189
+¡La policía!
+
+622
+00:46:56,231 --> 00:46:58,900
+-¡Entró la policía!
+-¡Muévanse! ¡Vamos!
+
+623
+00:46:58,942 --> 00:47:00,026
+¡Vamos! Abran paso.
+
+624
+00:47:00,068 --> 00:47:01,236
+Policía de mierda.
+
+625
+00:47:04,656 --> 00:47:06,533
+¡Mierda! ¡El perro!
+
+626
+00:47:06,574 --> 00:47:08,743
+-Vete a la mierda.
+-¡Controla a tu perro!
+
+627
+00:47:10,078 --> 00:47:11,704
+-¡Ya!
+-Pórtate bien.
+
+628
+00:47:13,122 --> 00:47:14,207
+Por Dios.
+
+629
+00:47:14,749 --> 00:47:16,334
+Carajo.
+
+630
+00:47:21,881 --> 00:47:23,925
+-¿Qué carajo pasa?
+-Adentro. Vuelve adentro.
+
+631
+00:47:26,553 --> 00:47:27,804
+¡Esconde todo!
+
+632
+00:47:35,770 --> 00:47:36,896
+¡Vamos!
+
+633
+00:47:37,772 --> 00:47:38,773
+¡Carajo!
+
+634
+00:47:49,826 --> 00:47:51,035
+¡Mi puta pierna!
+
+635
+00:47:51,077 --> 00:47:52,912
+¿Por qué haces esto tan difícil?
+
+636
+00:47:52,954 --> 00:47:55,373
+-¿Y si quería drogarme en serio?
+-Hijo de puta.
+
+637
+00:47:55,415 --> 00:47:58,585
+¡Tienes que facilitarle
+las cosas al cliente!
+
+638
+00:47:58,626 --> 00:47:59,627
+¡Mi pierna, carajo!
+
+639
+00:48:01,296 --> 00:48:04,257
+Esa pierna está jodida.
+
+640
+00:48:04,924 --> 00:48:05,967
+¡Oye!
+
+641
+00:48:06,009 --> 00:48:08,386
+Una foto para Instagram. Un segundo...
+
+642
+00:48:08,428 --> 00:48:09,971
+-¿Qué carajo...?
+-Un segundo.
+
+643
+00:48:10,555 --> 00:48:11,848
+Amigo.
+
+644
+00:48:11,889 --> 00:48:14,601
+¡Ahí va! ¿Te etiqueto?
+
+645
+00:48:14,642 --> 00:48:15,727
+Vete a la mierda.
+
+646
+00:48:15,768 --> 00:48:17,729
+-¿Te etiqueto, hijo de puta?
+-Vete a la mierda.
+
+647
+00:48:19,480 --> 00:48:20,815
+¿Viste a este hombre?
+
+648
+00:48:20,857 --> 00:48:22,483
+¡No te diré un carajo!
+
+649
+00:48:22,525 --> 00:48:24,569
+¿Por? ¿Te preocupa
+ese hueso que se te asoma?
+
+650
+00:48:25,403 --> 00:48:27,155
+¿Me dejas esterilizarlo?
+
+651
+00:48:27,196 --> 00:48:31,409
+¡No! ¡Carajo!
+
+652
+00:48:35,705 --> 00:48:37,290
+¡Es Benny! ¡Basta, por favor!
+
+653
+00:48:37,957 --> 00:48:39,584
+¡Todos conocen a ese pendejo!
+¡Benny Wrights!
+
+654
+00:48:42,337 --> 00:48:44,255
+Uno de mis mejores clientes.
+
+655
+00:48:44,297 --> 00:48:45,632
+¿Cuándo lo viste por última vez?
+
+656
+00:48:46,591 --> 00:48:48,092
+Hace dos días que no lo veo.
+
+657
+00:48:48,134 --> 00:48:51,012
+En la calle se dice
+que tuvo una sobredosis.
+
+658
+00:48:53,306 --> 00:48:54,307
+Que se pudra este soplón.
+
+659
+00:48:54,349 --> 00:48:55,433
+¡Carajo!
+
+660
+00:48:59,604 --> 00:49:00,897
+{\an8}Eso fue una pérdida de tiempo.
+
+661
+00:49:01,439 --> 00:49:03,107
+Sabemos que Benny está muerto.
+
+662
+00:49:04,192 --> 00:49:06,653
+Nadie pasa dos días sin metanfetaminas.
+
+663
+00:49:08,363 --> 00:49:10,406
+Además, ¿ves ese aparato?
+
+664
+00:49:10,448 --> 00:49:12,992
+El que lo diseñó
+no tiene los dientes podridos.
+
+665
+00:49:13,034 --> 00:49:15,745
+¿Qué opinas de la teoría de Jigsaw?
+
+666
+00:49:15,787 --> 00:49:18,122
+¿Será uno de esos discípulos?
+¿Cómo se llaman?
+
+667
+00:49:18,164 --> 00:49:19,957
+John Kramer no atacaba a policías.
+
+668
+00:49:20,875 --> 00:49:24,587
+El que hizo esto tiene otro móvil,
+algo personal.
+
+669
+00:49:24,629 --> 00:49:28,007
+Y no sigue órdenes de nadie,
+mucho menos de un fantasma.
+
+670
+00:49:28,549 --> 00:49:33,137
+Fantasma o no, alguien mueve los hilos.
+
+671
+00:49:34,013 --> 00:49:35,682
+¿Crees que te mandó las cajas
+
+672
+00:49:35,723 --> 00:49:38,393
+porque estás a cargo del caso
+o solo porque eres tú?
+
+673
+00:49:38,768 --> 00:49:39,811
+No sé.
+
+674
+00:49:39,852 --> 00:49:43,398
+¿Tienes enemigos? ¿Que no sean policías?
+
+675
+00:49:45,441 --> 00:49:47,902
+No sé por qué
+ella no me da otra oportunidad.
+
+676
+00:49:47,944 --> 00:49:51,948
+No sé, quizá porque la golpeas
+cuando bebes demasiado.
+
+677
+00:49:51,989 --> 00:49:53,074
+¿Nunca se te ocurrió?
+
+678
+00:49:53,116 --> 00:49:56,369
+Qué severo. ¿Quién rayos es este tipo?
+
+679
+00:49:57,161 --> 00:50:02,917
+Un expolicía. Como su compañero lo delató,
+tuvo que cumplir nueve años de prisión.
+
+680
+00:50:03,710 --> 00:50:07,171
+El sistema lo vomitó, y terminó aquí.
+
+681
+00:50:10,967 --> 00:50:11,968
+Hola, Pete.
+
+682
+00:50:17,890 --> 00:50:18,975
+Zeke.
+
+683
+00:50:20,560 --> 00:50:24,856
+La última persona que esperaba ver aquí.
+¿Quieres dejar el alcohol?
+
+684
+00:50:24,897 --> 00:50:26,983
+El alcohol no es mi problema.
+
+685
+00:50:27,024 --> 00:50:28,985
+El vaso y la botella matan.
+
+686
+00:50:29,944 --> 00:50:31,028
+¿Cómo estás, Pete?
+
+687
+00:50:31,946 --> 00:50:33,948
+Llevo 18 meses sin tomar,
+vivo bajo una iglesia.
+
+688
+00:50:33,990 --> 00:50:35,241
+¿Quién puede pedir más?
+
+689
+00:50:36,784 --> 00:50:37,869
+¿Quién es él?
+
+690
+00:50:39,203 --> 00:50:41,080
+Detective Schenk.
+Trabajamos juntos en un caso.
+
+691
+00:50:41,122 --> 00:50:42,165
+¿Trabajan juntos?
+
+692
+00:50:42,206 --> 00:50:45,543
+Que no te pesque cruzando la calle
+en rojo, o te apuñalará por la espalda.
+
+693
+00:50:45,585 --> 00:50:48,588
+No olvides que tú me diste el puñal, Pete.
+
+694
+00:50:48,629 --> 00:50:50,006
+Tienes razón.
+
+695
+00:50:50,715 --> 00:50:52,175
+¿Viste a este policía
+
+696
+00:50:52,216 --> 00:50:53,426
+arrojando del techo a la víctima?
+
+697
+00:50:53,926 --> 00:50:58,473
+¿Lo viste con tus propios ojos?
+¿Puedes identificar al policía?
+
+698
+00:50:58,514 --> 00:51:00,808
+Lleva demasiados años
+oprimiendo a esta comunidad.
+
+699
+00:51:02,226 --> 00:51:07,064
+No podemos permitirlo.
+Declararé como testigo, oficial Dunleavy.
+
+700
+00:51:13,821 --> 00:51:16,783
+¡Pete! ¿Qué pasó?
+
+701
+00:51:17,825 --> 00:51:19,035
+Sacó un arma y me apuntó.
+
+702
+00:51:20,995 --> 00:51:22,663
+¿El testigo te apuntó con un arma?
+
+703
+00:51:24,081 --> 00:51:27,877
+Estuve muchos años enojado,
+pero ahora asumo la responsabilidad.
+
+704
+00:51:27,919 --> 00:51:29,796
+Jamás debí apretar el gatillo.
+
+705
+00:51:31,756 --> 00:51:33,341
+Ese tipo tenía una familia.
+
+706
+00:51:33,382 --> 00:51:35,259
+Todo era una locura en esa época.
+
+707
+00:51:36,052 --> 00:51:37,804
+Trabajábamos según el artículo 8.
+
+708
+00:51:39,889 --> 00:51:41,098
+Estábamos fuera de control.
+
+709
+00:51:41,140 --> 00:51:44,227
+Teníamos libertad
+para reprimir a los delincuentes.
+
+710
+00:51:44,852 --> 00:51:47,104
+¿Dónde estabas el 4 de julio
+a las 9:30 p. m?
+
+711
+00:51:47,897 --> 00:51:51,859
+¿En serio? ¿A eso viniste?
+
+712
+00:51:51,901 --> 00:51:53,486
+A eso vine.
+
+713
+00:51:54,195 --> 00:52:00,159
+Uno llegó borracho a la reunión y quiso
+golpear a un padrino. Entonces, le pegué.
+
+714
+00:52:00,201 --> 00:52:01,410
+Lo desmayé de un golpe.
+
+715
+00:52:02,328 --> 00:52:04,330
+Y vino la policía.
+Estoy en libertad condicional,
+
+716
+00:52:04,372 --> 00:52:05,832
+pero por suerte, vino O'Brien.
+
+717
+00:52:06,541 --> 00:52:09,168
+Lo dejó pasar porque, ya sabes...
+
+718
+00:52:11,879 --> 00:52:12,964
+Por lealtad.
+
+719
+00:52:13,965 --> 00:52:15,049
+Lealtad.
+
+720
+00:52:16,259 --> 00:52:17,260
+Cuídate, Pete.
+
+721
+00:52:18,636 --> 00:52:20,263
+Dios te ama, Zeke.
+
+722
+00:52:22,223 --> 00:52:23,683
+Más que a ti.
+
+723
+00:52:29,856 --> 00:52:31,274
+<i>No puedo creer que ese tipo fuera policía.</i>
+
+724
+00:52:31,899 --> 00:52:33,901
+Él mató a un inocente,
+y ¿tú lo traicionaste?
+
+725
+00:52:33,943 --> 00:52:36,946
+Hay un código,
+y más vale que aprendas a respetarlo.
+
+726
+00:52:36,988 --> 00:52:39,532
+Si no, pasarás el resto de tu vida
+cuidándote la espalda.
+
+727
+00:52:40,324 --> 00:52:41,325
+Entendido.
+
+728
+00:52:42,577 --> 00:52:44,036
+Tal vez sea bueno
+que nos hayan juntado.
+
+729
+00:52:48,457 --> 00:52:49,917
+<i>Deje su mensaje.</i>
+
+730
+00:52:49,959 --> 00:52:51,544
+Sí, papá. Estoy en tu casa.
+
+731
+00:52:51,586 --> 00:52:54,839
+Vine anoche. Parece que no dormiste acá.
+
+732
+00:52:59,927 --> 00:53:01,137
+Bueno, llámame.
+
+733
+00:53:16,485 --> 00:53:18,905
+<i>Te comunicaste con William,</i>
+<i>deja un mensaje.</i>
+
+734
+00:53:19,405 --> 00:53:22,742
+Schenk, son las 9:00 a. m.
+¿Dónde carajo estás? Llámame.
+
+735
+00:53:23,659 --> 00:53:25,161
+Solo dígame qué pasó, ¿de acuerdo?
+
+736
+00:53:25,202 --> 00:53:28,247
+¡Oiga!
+
+737
+00:53:28,289 --> 00:53:29,624
+¡Deje esa caja en el piso!
+
+738
+00:53:29,665 --> 00:53:33,502
+¡En el piso! ¡Arriba las manos!
+
+739
+00:53:35,504 --> 00:53:36,589
+¡No se mueva!
+
+740
+00:53:39,592 --> 00:53:40,593
+Llévenselo de aquí.
+
+741
+00:53:41,469 --> 00:53:42,678
+Llévenlo a Detención.
+
+742
+00:53:44,722 --> 00:53:46,682
+Lo siento, Banks. Pasó volando.
+
+743
+00:53:50,937 --> 00:53:53,689
+De ninguna manera.
+Llamaré a la Brigada de Explosivos.
+
+744
+00:53:53,731 --> 00:53:55,900
+Angie, tú eres la que manda.
+
+745
+00:53:55,942 --> 00:53:57,526
+Tenemos dos policías muertos.
+No hay tiempo.
+
+746
+00:53:59,278 --> 00:54:00,363
+Todos afuera.
+
+747
+00:54:00,988 --> 00:54:02,865
+¡Todos afuera!
+
+748
+00:54:03,783 --> 00:54:04,909
+¡Todos afuera!
+
+749
+00:54:25,888 --> 00:54:27,181
+¿Eso es piel?
+
+750
+00:54:28,140 --> 00:54:31,310
+"¿Le estoy erizando la piel,
+detective Banks?
+
+751
+00:54:31,352 --> 00:54:35,898
+"Cuidado, mientras usted
+busca más cuerpos,
+
+752
+00:54:36,774 --> 00:54:38,901
+"yo me quedo con su cabeza".
+
+753
+00:54:38,943 --> 00:54:39,944
+"Yo me quedo con su cabeza".
+
+754
+00:54:40,736 --> 00:54:44,198
+"¿Le estoy erizando la piel...?
+
+755
+00:54:44,240 --> 00:54:48,160
+"¿Le estoy erizando la piel...?".
+
+756
+00:54:52,498 --> 00:54:55,710
+...familia. Mi esposa, Emma.
+Y mi hijo, Charlie.
+
+757
+00:55:03,718 --> 00:55:05,011
+¿Qué carajo es eso?
+
+758
+00:55:07,263 --> 00:55:08,723
+Capitana, aquí abajo hay algo.
+
+759
+00:55:17,773 --> 00:55:19,734
+Pinturas Constantine.
+
+760
+00:55:39,754 --> 00:55:40,796
+Gracias, sí.
+
+761
+00:55:40,838 --> 00:55:41,922
+Síganme.
+
+762
+00:55:48,846 --> 00:55:50,264
+¿Cómo conoces este lugar?
+
+763
+00:55:51,557 --> 00:55:53,225
+Zeke, ¿cómo conoces este lugar?
+
+764
+00:55:53,976 --> 00:55:55,770
+Mi papá me traía.
+
+765
+00:55:56,729 --> 00:55:58,230
+Cuidado, señores.
+
+766
+00:55:58,272 --> 00:55:59,732
+No siempre fue una carnicería.
+
+767
+00:56:00,649 --> 00:56:03,527
+Antes era Trenes Constantine.
+
+768
+00:56:04,820 --> 00:56:06,489
+Una tienda de coleccionistas.
+
+769
+00:56:21,754 --> 00:56:22,797
+Por Dios...
+
+770
+00:56:43,818 --> 00:56:44,902
+¿Hallaron algo?
+
+771
+00:56:45,194 --> 00:56:47,113
+Estamos analizando la grabación.
+
+772
+00:56:47,154 --> 00:56:50,991
+<i>Hola, detective Schenk,</i>
+<i>quiero jugar a un juego.</i>
+
+773
+00:56:51,033 --> 00:56:54,411
+<i>Usted encabezó su clase</i>
+<i>en la academia de policía.</i>
+
+774
+00:56:54,995 --> 00:56:56,789
+Claramente lo desollaron.
+
+775
+00:56:58,082 --> 00:56:59,125
+<i>Post mortem.</i>
+
+776
+00:56:59,166 --> 00:57:01,335
+{\an8}Gracias a tu papá decidí dedicarme a esto.
+
+777
+00:57:01,377 --> 00:57:05,297
+{\an8}...primero marcó el cuerpo
+para retirar la piel en franjas grandes,
+
+778
+00:57:05,339 --> 00:57:08,300
+{\an8}los brazos, el cuello,
+retirando la piel...
+
+779
+00:57:10,219 --> 00:57:11,804
+Tal vez sea bueno
+que nos hayan juntado.
+
+780
+00:57:12,555 --> 00:57:15,432
+Hasta hay heridas defensivas,
+trató de resistirse,
+
+781
+00:57:15,474 --> 00:57:17,143
+lo que explica los cortes más profundos.
+
+782
+00:57:25,442 --> 00:57:28,654
+Capitana, por aquí.
+¿Es un asesino serial de policías?
+
+783
+00:57:28,696 --> 00:57:29,822
+¿La víctima hallada es un policía?
+
+784
+00:57:29,864 --> 00:57:32,867
+Sin comentarios. El director Hart
+hará declaraciones esta noche.
+
+785
+00:57:35,828 --> 00:57:39,707
+Tratemos de preservar su identidad
+hasta que le digamos a la esposa.
+
+786
+00:57:42,126 --> 00:57:45,504
+<i>"¿Le estoy erizando la piel,</i>
+<i>detective Banks?".</i>
+
+787
+00:58:01,187 --> 00:58:02,521
+Marcus Banks
+Hola, Angie...
+
+788
+00:58:02,563 --> 00:58:05,941
+Tengo una corazonada, revisa
+el archivo 9246 en casos sin resolver
+
+789
+00:58:09,486 --> 00:58:10,571
+Oye, O'Brien.
+
+790
+00:58:10,863 --> 00:58:11,864
+¿Sí, jefa?
+
+791
+00:58:11,906 --> 00:58:12,907
+¿Has visto a Zeke?
+
+792
+00:58:14,033 --> 00:58:15,659
+No, hace rato que no.
+
+793
+00:58:15,701 --> 00:58:17,119
+Voy a la sala de archivos.
+
+794
+00:58:17,161 --> 00:58:18,704
+Entendido, capitana.
+
+795
+00:58:22,124 --> 00:58:25,544
+<i>Todas las unidades disponibles,</i>
+<i>a la calle 3 y Beaman.</i>
+
+796
+00:58:25,586 --> 00:58:27,463
+<i>Presentarse en calle 3 y Beaman.</i>
+
+797
+00:58:44,897 --> 00:58:45,898
+¿Qué tenemos?
+
+798
+00:58:45,940 --> 00:58:49,360
+Estaba haciendo una multa,
+y un tipo con máscara de cerdo
+
+799
+00:58:49,401 --> 00:58:50,486
+se me acercó con un cuchillo.
+
+800
+00:58:50,527 --> 00:58:52,363
+¿Te cortó el brazo y se fue?
+
+801
+00:58:52,404 --> 00:58:55,491
+Me resistí lo más que pude,
+y él se fue corriendo.
+
+802
+00:58:55,532 --> 00:58:57,785
+¿Tenía algún motivo para atacarte?
+
+803
+00:58:58,702 --> 00:59:01,372
+No, solo molestar a la policía.
+
+804
+00:59:02,122 --> 00:59:06,085
+"Cuidado, mientras usted
+busca más cuerpos,
+
+805
+00:59:06,126 --> 00:59:07,544
+"yo me quedo con su cabeza".
+
+806
+00:59:07,586 --> 00:59:09,922
+Angie, ahora la cabeza eres tú.
+
+807
+00:59:10,130 --> 00:59:11,131
+Angie...
+
+808
+00:59:11,799 --> 00:59:12,883
+¡Carajo!
+
+809
+00:59:12,925 --> 00:59:14,510
+¡Angie! ¡Atiende!
+
+810
+00:59:22,101 --> 00:59:25,229
+<i>Soy la capitana Angie Garza,</i>
+<i>deje su mensaje después de la señal.</i>
+
+811
+00:59:31,068 --> 00:59:35,030
+Angie, ¡vete a la oficina!
+Eres la próxima.
+
+812
+00:59:42,496 --> 00:59:44,456
+Carajo.
+
+813
+00:59:47,209 --> 00:59:48,294
+¡Mierda!
+
+814
+00:59:49,295 --> 00:59:52,172
+¡Oigan!
+
+815
+01:00:02,850 --> 01:00:06,353
+¿Hola? ¡Hola! ¡Carajo!
+
+816
+01:01:08,248 --> 01:01:10,167
+¡Auxilio! ¡Auxilio!
+
+817
+01:01:13,087 --> 01:01:16,090
+<i>Hola, capitana Garza.</i>
+<i>Quiero jugar a un juego.</i>
+
+818
+01:01:16,131 --> 01:01:18,842
+<i>Usted ha estado encubriendo</i>
+<i>la corrupción en su departamento,</i>
+
+819
+01:01:18,884 --> 01:01:21,553
+<i>sin arriesgar la cabeza por los inocentes.</i>
+
+820
+01:01:21,595 --> 01:01:24,014
+<i>Ahora la que quedará cubierta es usted.</i>
+
+821
+01:01:24,056 --> 01:01:29,019
+<i>En unos segundos, caerá cera hirviendo</i>
+<i>del caño que está encima suyo.</i>
+
+822
+01:01:29,061 --> 01:01:32,147
+<i>La única forma de evitar</i>
+<i>que acabe asfixiándola</i>
+
+823
+01:01:32,189 --> 01:01:34,066
+<i>será cortarse la médula espinal</i>
+
+824
+01:01:34,108 --> 01:01:37,694
+<i>con la hoja afilada que tiene</i>
+<i>bajo la cabeza y detener la cera.</i>
+
+825
+01:01:37,736 --> 01:01:40,823
+<i>No puede escapar, pero puede sobrevivir.</i>
+
+826
+01:01:40,864 --> 01:01:42,741
+<i>Vivir o morir, usted decide.</i>
+
+827
+01:01:44,451 --> 01:01:45,869
+¡Vete a la mierda!
+
+828
+01:01:54,378 --> 01:01:57,256
+¡Angie!
+
+829
+01:01:57,881 --> 01:01:59,299
+¡Déjenme pasar, carajo!
+
+830
+01:02:15,941 --> 01:02:17,317
+¿Cómo es que nadie atiende el teléfono?
+
+831
+01:02:17,359 --> 01:02:19,695
+Atacaron a un oficial, esto es un caos.
+
+832
+01:02:19,736 --> 01:02:22,823
+¡Angie!
+
+833
+01:02:26,869 --> 01:02:27,870
+¿Angie?
+
+834
+01:02:28,745 --> 01:02:29,997
+Zeke, ¿qué pasa?
+
+835
+01:02:30,497 --> 01:02:32,374
+-¡La atrapó!
+-¿Quién la atrapó?
+
+836
+01:02:32,416 --> 01:02:34,376
+¡El asesino atrapó a Angie!
+
+837
+01:02:34,418 --> 01:02:37,004
+No sabes. El asesino atacó
+a un policía en la 3 y Beaman.
+
+838
+01:02:37,045 --> 01:02:40,799
+Fue una distracción
+para sacarnos de la central.
+
+839
+01:02:40,841 --> 01:02:42,676
+¡Ella está en el sótano!
+
+840
+01:02:53,479 --> 01:02:54,521
+¿Encontraste a Angie?
+
+841
+01:02:54,563 --> 01:02:56,398
+¡En el sótano!
+
+842
+01:02:56,440 --> 01:02:59,902
+<i>Capitana Angie Garza,</i>
+<i>comunicarse con mesa de entradas.</i>
+
+843
+01:03:15,209 --> 01:03:16,251
+¡Abre!
+
+844
+01:03:17,085 --> 01:03:18,462
+¡Rápido!
+
+845
+01:03:19,421 --> 01:03:20,881
+¡Angie!
+
+846
+01:03:22,174 --> 01:03:23,300
+¡Abre!
+
+847
+01:03:23,342 --> 01:03:24,426
+Bueno...
+
+848
+01:03:28,889 --> 01:03:29,890
+¡Carajo!
+
+849
+01:03:31,975 --> 01:03:35,354
+No es nada. Va a estar todo bien.
+
+850
+01:03:35,812 --> 01:03:36,897
+Dios mío.
+
+851
+01:03:41,527 --> 01:03:42,819
+No es nada.
+
+852
+01:03:43,820 --> 01:03:44,821
+No es nada.
+
+853
+01:04:43,714 --> 01:04:44,715
+Clausúrenlo.
+
+854
+01:04:45,048 --> 01:04:46,091
+¿Me entienden?
+
+855
+01:04:46,133 --> 01:04:48,260
+Clausuren el edificio, que no salga nadie.
+
+856
+01:04:49,052 --> 01:04:52,973
+Necesito los videos de las cámaras
+en el depósito de pruebas.
+
+857
+01:04:53,849 --> 01:04:54,933
+Bueno, aquí...
+
+858
+01:04:54,975 --> 01:04:58,854
+Aquí se ve cuando llamaron,
+pero luego nada hasta que entras tú.
+
+859
+01:04:58,895 --> 01:05:04,234
+{\an8}Ahí se ve, salta directamente
+de las 13:11 a las 13:24. ¿Una falla?
+
+860
+01:05:04,276 --> 01:05:06,278
+No, no es una falla. Mira.
+
+861
+01:05:06,320 --> 01:05:09,281
+En el primer cuadro,
+la puerta está abierta. Luego, no.
+
+862
+01:05:09,323 --> 01:05:10,657
+Faltan 13 minutos.
+
+863
+01:05:10,699 --> 01:05:13,702
+¿El acceso a los videos se da
+por el sistema informático?
+
+864
+01:05:13,744 --> 01:05:15,454
+Sí, con número de placa y clave.
+
+865
+01:05:15,495 --> 01:05:17,039
+No sé quién borró el video,
+
+866
+01:05:17,080 --> 01:05:19,958
+pero sí quién entró al servidor
+en estas 24 horas.
+
+867
+01:05:20,667 --> 01:05:24,254
+O'Brien, Tupper, Nicholazi...
+
+868
+01:05:24,296 --> 01:05:27,007
+Espera. ¿Quién tiene la placa 2-1-3?
+
+869
+01:05:27,674 --> 01:05:29,551
+Pete Dunleavy, mi excompañero.
+
+870
+01:05:29,593 --> 01:05:31,637
+¿Dunleavy? No debería tener acceso.
+
+871
+01:05:31,678 --> 01:05:33,889
+¿Cuánto hace que ya no trabaja aquí?
+
+872
+01:05:35,140 --> 01:05:36,183
+¿Adónde vas?
+
+873
+01:05:36,224 --> 01:05:37,225
+A visitar a Pete.
+
+874
+01:05:37,726 --> 01:05:39,561
+Zeke, ¡no es el único!
+
+875
+01:05:40,145 --> 01:05:41,772
+Tu padre también tenía acceso.
+
+876
+01:05:41,813 --> 01:05:45,233
+El cuerpo de Schenk apareció
+donde él te llevaba de niño.
+
+877
+01:05:45,692 --> 01:05:47,611
+¿Cuándo fue la última vez
+que viste a tu padre?
+
+878
+01:05:49,905 --> 01:05:50,947
+Esta mañana.
+
+879
+01:05:50,989 --> 01:05:52,074
+Mentira.
+
+880
+01:05:53,367 --> 01:05:54,451
+¡Hijo de puta!
+
+881
+01:05:54,826 --> 01:05:56,953
+-¿Qué carajo, Zeke?
+-¡Vete a la mierda!
+
+882
+01:05:56,995 --> 01:05:58,830
+¡Vete a la mierda!
+¡Vete de aquí, carajo!
+
+883
+01:05:58,872 --> 01:06:02,125
+¡Llévenselo! ¡Vete a la mierda!
+¡Estás demasiado cerca!
+
+884
+01:06:02,167 --> 01:06:04,211
+Estás demasiado cerca de todo esto, Zeke.
+
+885
+01:06:16,973 --> 01:06:17,974
+¡Pete!
+
+886
+01:06:19,226 --> 01:06:20,227
+¡Pete!
+
+887
+01:06:21,478 --> 01:06:22,479
+¡Pete!
+
+888
+01:06:29,569 --> 01:06:30,570
+<i>Deje su mensaje.</i>
+
+889
+01:06:31,780 --> 01:06:36,660
+Papá, te llamé tres veces.
+Por favor, llámame.
+
+890
+01:06:37,285 --> 01:06:40,831
+Me hacen preguntas,
+y me harté de poner excusas.
+
+891
+01:06:40,872 --> 01:06:43,250
+¿Tienes algo que decirme? ¡Carajo!
+
+892
+01:06:47,629 --> 01:06:51,049
+SALIDA
+
+893
+01:07:42,809 --> 01:07:45,437
+¿QUIERE JUGAR A UN JUEGO, JEFE BANKS?
+
+894
+01:07:49,816 --> 01:07:51,777
+¿Quieres jugar, hijo de puta?
+
+895
+01:07:52,986 --> 01:07:54,988
+Muy bien, voy a jugar.
+
+896
+01:09:35,797 --> 01:09:36,798
+¿Estás bien?
+
+897
+01:09:40,093 --> 01:09:41,261
+¡Oye!
+
+898
+01:09:48,351 --> 01:09:49,769
+¡Auxilio!
+
+899
+01:11:26,241 --> 01:11:27,242
+¿Pete?
+
+900
+01:11:28,910 --> 01:11:30,370
+Pete, despierta.
+
+901
+01:11:30,704 --> 01:11:31,788
+¡Pete!
+
+902
+01:11:35,834 --> 01:11:37,210
+¿Qué...? ¿Zeke?
+
+903
+01:11:37,669 --> 01:11:38,795
+Carajo.
+
+904
+01:11:39,921 --> 01:11:41,464
+Bájame de aquí, Zeke.
+
+905
+01:11:42,007 --> 01:11:43,049
+¡Vamos!
+
+906
+01:11:43,091 --> 01:11:44,551
+Tú hackeaste la computadora.
+
+907
+01:11:45,969 --> 01:11:48,263
+Borraste los videos de seguridad.
+
+908
+01:11:48,304 --> 01:11:49,889
+No sé de qué carajo hablas, Zeke.
+
+909
+01:11:49,931 --> 01:11:51,725
+-¿Mataste a Angie?
+-¿Qué?
+
+910
+01:11:51,766 --> 01:11:53,101
+¿Mataste a Boz?
+
+911
+01:11:53,143 --> 01:11:55,061
+-¿De qué mierda hablas?
+-¿Mataste a Boz?
+
+912
+01:11:55,603 --> 01:11:57,522
+¿A Boz? Carajo...
+
+913
+01:11:57,564 --> 01:12:00,025
+¿Qué mierda te pasa, Zeke?
+¡Bájame de aquí!
+
+914
+01:12:00,066 --> 01:12:02,652
+¿Esto es una venganza retorcida, Zeke?
+
+915
+01:12:02,694 --> 01:12:04,738
+¿No te alcanzó con mandarme preso?
+
+916
+01:12:04,779 --> 01:12:06,197
+¡Bájame de aquí, carajo!
+
+917
+01:12:15,790 --> 01:12:19,085
+<i>Hola, detective Banks,</i>
+<i>quiero jugar a un juego.</i>
+
+918
+01:12:19,711 --> 01:12:25,425
+<i>Cuando Peter Dunleavy mató a un inocente,</i>
+<i>hizo añicos la carrera de usted.</i>
+
+919
+01:12:25,467 --> 01:12:29,637
+<i>¿Puede quedarse a un lado</i>
+<i>mientras por fin se hace justicia?</i>
+
+920
+01:12:30,221 --> 01:12:31,931
+<i>Hay una manera de salvarlo,</i>
+
+921
+01:12:31,973 --> 01:12:36,019
+<i>o puede dejarlo encerrado</i>
+<i>y tirar la llave.</i>
+
+922
+01:12:36,061 --> 01:12:37,812
+<i>Usted decide.</i>
+
+923
+01:12:38,438 --> 01:12:40,231
+¿"Tirar la llave"? ¿Qué carajo dice?
+
+924
+01:12:54,037 --> 01:12:55,914
+Sácame de aquí de una vez.
+
+925
+01:12:57,749 --> 01:12:58,750
+¡Zeke!
+
+926
+01:12:59,959 --> 01:13:02,545
+Carajo.
+
+927
+01:13:07,592 --> 01:13:08,676
+Vamos, Zeke.
+
+928
+01:13:10,428 --> 01:13:11,638
+¡Sácame de aquí, Zeke!
+
+929
+01:13:18,895 --> 01:13:20,021
+¡Mierda!
+
+930
+01:13:26,194 --> 01:13:27,695
+¡Zeke! ¡Ayúdame!
+
+931
+01:13:33,284 --> 01:13:34,285
+¿Zeke?
+
+932
+01:13:36,162 --> 01:13:37,705
+Bájame, vamos, viejo.
+
+933
+01:13:57,725 --> 01:13:58,726
+¡Zeke!
+
+934
+01:14:03,690 --> 01:14:05,066
+¡Zeke!
+
+935
+01:14:05,942 --> 01:14:09,904
+<i>...o puede dejarlo encerrado</i>
+<i>y tirar la llave.</i>
+
+936
+01:14:10,905 --> 01:14:11,906
+¡Pete!
+
+937
+01:14:29,215 --> 01:14:30,258
+¡Ya voy, Pete!
+
+938
+01:14:45,523 --> 01:14:46,524
+Mierda.
+
+939
+01:14:47,859 --> 01:14:49,986
+Carajo. Te tengo.
+
+940
+01:14:54,073 --> 01:14:55,074
+Vamos, Pete.
+
+941
+01:15:00,705 --> 01:15:01,789
+¡Pete!
+
+942
+01:15:02,498 --> 01:15:03,583
+¡Pete!
+
+943
+01:16:10,942 --> 01:16:13,611
+Hijo de puta desleal.
+
+944
+01:16:17,865 --> 01:16:21,411
+He sido leal contigo
+desde el día en que te conocí,
+
+945
+01:16:22,495 --> 01:16:23,705
+hace 15 años.
+
+946
+01:16:24,747 --> 01:16:27,083
+Cuando tu compañero mató a mi padre.
+
+947
+01:16:30,003 --> 01:16:31,629
+Dime, Charlie.
+
+948
+01:16:32,171 --> 01:16:34,716
+¿Viste a este policía
+arrojando del techo a la víctima?
+
+949
+01:16:34,757 --> 01:16:37,010
+¿Puedes identificar al policía?
+
+950
+01:16:37,051 --> 01:16:38,761
+Declararé, oficial Dunleavy.
+
+951
+01:16:39,387 --> 01:16:40,471
+Declararé.
+
+952
+01:16:49,605 --> 01:16:52,442
+¡Pete! ¿Qué pasó?
+
+953
+01:16:53,318 --> 01:16:54,360
+Sacó un arma y me apuntó.
+
+954
+01:16:54,402 --> 01:16:56,237
+¿El testigo te apuntó con un arma?
+
+955
+01:17:01,993 --> 01:17:04,162
+Pete mató a Charlie Emmerson.
+
+956
+01:17:04,203 --> 01:17:06,247
+¿Qué? ¿Creíste que usaría mi nombre real?
+
+957
+01:17:06,289 --> 01:17:09,959
+¿Tienes idea de cuánto costó
+que me asignaran a la central
+
+958
+01:17:10,001 --> 01:17:12,086
+como compañero tuyo?
+
+959
+01:17:15,506 --> 01:17:18,259
+¿Qué hay de tu familia? ¿Tu hijo?
+
+960
+01:17:18,301 --> 01:17:20,011
+Mi hijo, Charlie.
+
+961
+01:17:22,513 --> 01:17:23,598
+No tengo un hijo.
+
+962
+01:17:25,933 --> 01:17:26,934
+Charlie duerme.
+
+963
+01:17:27,560 --> 01:17:28,686
+Dormía.
+
+964
+01:17:28,728 --> 01:17:31,189
+<i>Cuando Benny Wrights llevó a Boz</i>
+<i>a los túneles del metro,</i>
+
+965
+01:17:35,026 --> 01:17:36,736
+tatué el nombre de mi papá en su brazo.
+
+966
+01:17:39,530 --> 01:17:41,074
+¿Dónde está mi padre?
+
+967
+01:17:41,115 --> 01:17:42,492
+Lo verás pronto.
+
+968
+01:17:42,533 --> 01:17:44,369
+¿Dónde carajo está mi padre?
+
+969
+01:17:44,410 --> 01:17:47,246
+Yo no le pedí que viniera. Fuiste tú.
+
+970
+01:17:47,288 --> 01:17:48,623
+-Préstame el teléfono y cállate.
+-Bueno.
+
+971
+01:17:49,457 --> 01:17:50,541
+Gracias.
+
+972
+01:17:50,583 --> 01:17:52,710
+No me gastes la batería
+mirando <i>Crepúsculo.</i>
+
+973
+01:17:52,752 --> 01:17:57,173
+Papá, ya sé quién es. Te espero
+en la fábrica de jabón de la calle 11.
+
+974
+01:17:57,215 --> 01:17:58,716
+Enviado
+
+975
+01:17:59,509 --> 01:18:00,551
+Bloquear Contacto
+
+976
+01:18:00,593 --> 01:18:02,428
+Papá
+Enseguida voy. Cuídate.
+
+977
+01:18:13,064 --> 01:18:15,108
+¿Dónde lo tienes?
+
+978
+01:18:15,149 --> 01:18:16,234
+¿No quieres escuchar mi oferta?
+
+979
+01:18:16,567 --> 01:18:17,652
+¿Tengo alternativa?
+
+980
+01:18:18,694 --> 01:18:19,821
+Quiero que seamos compañeros.
+
+981
+01:18:21,239 --> 01:18:25,493
+Tomaste posición contra un corrupto,
+¿y qué conseguiste?
+
+982
+01:18:27,912 --> 01:18:31,624
+Pasaste el resto de tu vida solo,
+cuidándote la espalda.
+
+983
+01:18:31,666 --> 01:18:34,669
+Recibiendo los casos de todos
+los indigentes que aparecían muertos.
+
+984
+01:18:34,710 --> 01:18:37,547
+Seamos realistas, algunos de ellos
+son directamente malvados.
+
+985
+01:18:38,131 --> 01:18:40,049
+Fitch no acudió como refuerzo.
+
+986
+01:18:40,091 --> 01:18:41,134
+Que se joda.
+
+987
+01:18:42,844 --> 01:18:44,137
+No repetirá ese error.
+
+988
+01:18:46,514 --> 01:18:48,766
+<i>Y Boz, siempre mintiendo bajo juramento...</i>
+
+989
+01:18:50,560 --> 01:18:52,562
+Pero tú eres distinto.
+
+990
+01:18:52,603 --> 01:18:54,105
+Eres de los buenos.
+
+991
+01:18:55,356 --> 01:18:57,316
+Por eso quiero que formemos
+un equipo para esto.
+
+992
+01:18:57,358 --> 01:18:59,944
+Tú detectas a los corruptos,
+y yo me ocupo de lo demás.
+
+993
+01:19:00,736 --> 01:19:03,489
+¿Quieres que te ayude a matar policías?
+
+994
+01:19:03,531 --> 01:19:04,907
+No, ni loco.
+
+995
+01:19:04,949 --> 01:19:06,325
+Solo policías malos.
+
+996
+01:19:07,034 --> 01:19:09,537
+John Kramer tenía razón. La espiral.
+
+997
+01:19:10,455 --> 01:19:14,167
+Un símbolo de cambio,
+evolución y progreso.
+
+998
+01:19:14,792 --> 01:19:18,421
+¿Por qué limitarlo a una sola persona
+si puedes aplicarlo a todo el sistema?
+
+999
+01:19:18,463 --> 01:19:20,715
+Te dispararon por hacer lo que debías.
+
+1000
+01:19:21,257 --> 01:19:24,093
+Pero, la verdad, estos policías
+no van a limpiarse solos.
+
+1001
+01:19:24,135 --> 01:19:28,431
+Ahora, si tomamos una lengua por aquí,
+unos huesos por allá, van a entender.
+
+1002
+01:19:29,056 --> 01:19:32,185
+Arreglaremos a una institución arruinada.
+¿De acuerdo?
+
+1003
+01:19:32,226 --> 01:19:33,311
+Tú y yo.
+
+1004
+01:19:33,644 --> 01:19:34,645
+De acuerdo.
+
+1005
+01:19:35,897 --> 01:19:36,898
+De acuerdo.
+
+1006
+01:19:37,857 --> 01:19:38,900
+Hagámoslo.
+
+1007
+01:19:38,941 --> 01:19:41,861
+Quiero confiar en ti, de veras.
+
+1008
+01:19:42,403 --> 01:19:45,781
+Participaré, pero libera a mi papá.
+
+1009
+01:19:50,786 --> 01:19:51,871
+Un segundo.
+
+1010
+01:19:52,872 --> 01:19:55,208
+<i>9-1-1, ¿cuál es su emergencia?</i>
+
+1011
+01:19:55,249 --> 01:19:58,336
+Hola, estoy en la fábrica abandonada
+de la calle Madigan.
+
+1012
+01:19:58,377 --> 01:20:01,923
+Hay un loco con una pistola,
+disparando a todos lados. ¡Apúrense!
+
+1013
+01:20:01,964 --> 01:20:03,591
+¿Qué carajo fue eso?
+
+1014
+01:20:03,633 --> 01:20:05,468
+Apúrate, Zeke. Vienen los de SWAT.
+
+1015
+01:20:05,510 --> 01:20:08,012
+Quiero creerte, en serio.
+
+1016
+01:20:10,515 --> 01:20:11,599
+Quiero confiar en ti.
+
+1017
+01:20:12,767 --> 01:20:14,185
+Toma esto, lo vas a necesitar.
+
+1018
+01:20:14,435 --> 01:20:15,436
+Vamos.
+
+1019
+01:20:17,313 --> 01:20:18,814
+Vayamos a ver a tu papá.
+
+1020
+01:20:27,240 --> 01:20:28,366
+Llegó la hora de tu examen final.
+
+1021
+01:20:40,670 --> 01:20:41,754
+Papá.
+
+1022
+01:20:42,046 --> 01:20:43,089
+Ezekiel.
+
+1023
+01:20:43,130 --> 01:20:44,549
+¡Carajo! ¡Bájalo!
+
+1024
+01:20:50,304 --> 01:20:51,389
+Mierda.
+
+1025
+01:20:54,308 --> 01:20:55,393
+Te tengo, papá.
+
+1026
+01:20:55,434 --> 01:20:56,978
+Zeke. Ayúdame, hijo.
+
+1027
+01:21:00,481 --> 01:21:01,899
+No te preocupes.
+
+1028
+01:21:01,941 --> 01:21:04,944
+No te dejaré morir. Te voy a bajar.
+
+1029
+01:21:08,489 --> 01:21:10,324
+Está todo bien, solo sujétate.
+
+1030
+01:21:10,366 --> 01:21:12,493
+Dispárale ya a ese hijo de puta.
+
+1031
+01:21:14,161 --> 01:21:16,956
+¡Bájalo! ¡Bájalo ya!
+
+1032
+01:21:18,457 --> 01:21:19,542
+¿No éramos compañeros?
+
+1033
+01:21:20,251 --> 01:21:21,961
+¿Me vas a disparar, Zeke?
+
+1034
+01:21:22,503 --> 01:21:23,879
+¿Con tu única bala?
+
+1035
+01:21:23,921 --> 01:21:26,257
+Mala idea. Matarás a tu papá.
+
+1036
+01:21:28,926 --> 01:21:30,511
+Él me disparó una vez.
+
+1037
+01:21:31,304 --> 01:21:32,346
+Y erró.
+
+1038
+01:21:32,388 --> 01:21:35,725
+Yo desperdicié cuatro.
+O sea que te queda una, Zeke.
+
+1039
+01:21:37,476 --> 01:21:41,606
+Ya llegó la policía.
+Eso nos da cuatro minutos.
+
+1040
+01:21:41,647 --> 01:21:44,150
+¿Sabes que el cuerpo tiene
+cinco litros y medio de sangre?
+
+1041
+01:21:48,529 --> 01:21:50,698
+Al ritmo que está sangrando tu papá,
+
+1042
+01:21:50,740 --> 01:21:53,659
+en tres minutos, esos frascos se llenarán,
+
+1043
+01:21:53,701 --> 01:21:55,411
+y tu padre morirá.
+
+1044
+01:21:56,579 --> 01:22:01,500
+Lo único que lo librará es la bala
+de esa pistola disparada a aquel blanco.
+
+1045
+01:22:02,126 --> 01:22:04,337
+Como sea, mi salida es infalible.
+
+1046
+01:22:06,130 --> 01:22:07,131
+No eres Jigsaw.
+
+1047
+01:22:07,882 --> 01:22:08,883
+Ese es el juego.
+
+1048
+01:22:10,092 --> 01:22:12,428
+Si me disparas, pierden ambos.
+
+1049
+01:22:12,803 --> 01:22:14,847
+Si tiras al blanco, ganamos ambos.
+
+1050
+01:22:15,556 --> 01:22:16,599
+¿Quieres jugar?
+
+1051
+01:22:16,641 --> 01:22:19,310
+Estoy muriendo, Zeke. Acábalo ya.
+
+1052
+01:22:20,519 --> 01:22:24,065
+<i>-En este pasillo.</i>
+<i>-Entendido. Entrada sudoeste.</i>
+
+1053
+01:22:25,483 --> 01:22:26,651
+<i>Entrando por lado sur.</i>
+
+1054
+01:22:28,944 --> 01:22:30,696
+<i>Nada por aquí. Avancen.</i>
+
+1055
+01:22:30,738 --> 01:22:31,906
+Necesito que te comprometas.
+
+1056
+01:22:32,365 --> 01:22:35,701
+Dunleavy nos arruinó a ambos.
+¿Trataste de ayudar a ese cretino?
+
+1057
+01:22:35,743 --> 01:22:37,453
+-¡Zeke!
+-¡Pete!
+
+1058
+01:22:38,079 --> 01:22:39,330
+Ese examen no lo aprobaste.
+
+1059
+01:22:39,872 --> 01:22:41,374
+Ahora necesito que elijas
+de qué lado estás.
+
+1060
+01:22:42,083 --> 01:22:45,336
+¿Del hombre que corrompió a la policía?
+¿O el que intenta salvarla?
+
+1061
+01:22:46,045 --> 01:22:47,129
+¿Quiere contarle, jefe?
+
+1062
+01:22:49,674 --> 01:22:50,841
+¿Qué cosa?
+
+1063
+01:22:50,883 --> 01:22:54,261
+Toda la mierda
+que hizo gracias al artículo 8.
+
+1064
+01:22:55,388 --> 01:22:56,430
+¿De qué habla?
+
+1065
+01:22:56,472 --> 01:22:58,474
+-Se acaba el tiempo.
+-¿De qué habla?
+
+1066
+01:22:58,516 --> 01:23:01,644
+Estaban muriendo inocentes.
+
+1067
+01:23:01,686 --> 01:23:04,897
+Hicimos lo necesario
+para limpiar las calles.
+
+1068
+01:23:05,189 --> 01:23:07,566
+Todo era una locura en esa época.
+
+1069
+01:23:07,608 --> 01:23:10,611
+Trabajábamos según el artículo 8.
+Estábamos fuera de control.
+
+1070
+01:23:12,697 --> 01:23:14,657
+La tasa de homicidios bajó un montón.
+
+1071
+01:23:15,116 --> 01:23:16,117
+Eso es puro cuento.
+
+1072
+01:23:16,784 --> 01:23:18,244
+La gente volvió a sentirse segura.
+
+1073
+01:23:18,285 --> 01:23:21,080
+Las calles se limpiaron
+porque la policía se ensució.
+
+1074
+01:23:21,122 --> 01:23:22,707
+Y tu padre controlaba todo eso.
+
+1075
+01:23:22,748 --> 01:23:25,835
+Gente inocente murió asesinada,
+todo en nombre de la justicia.
+
+1076
+01:23:25,876 --> 01:23:29,130
+El artículo 8 fue una de las normas
+policiales más corruptas que hubo.
+
+1077
+01:23:29,171 --> 01:23:30,798
+Adivina quién era
+la mano derecha de tu papá.
+
+1078
+01:23:30,840 --> 01:23:32,675
+Fue una mujer, todo ese tiempo.
+
+1079
+01:23:32,717 --> 01:23:35,428
+Lo resolveremos, como siempre.
+
+1080
+01:23:35,803 --> 01:23:36,846
+¿Angie?
+
+1081
+01:23:36,887 --> 01:23:38,013
+¡Angie!
+
+1082
+01:23:38,055 --> 01:23:39,223
+Era Angie.
+
+1083
+01:23:39,598 --> 01:23:40,808
+No es tan sorprendente.
+
+1084
+01:23:40,850 --> 01:23:44,687
+¿Crees que llegó a capitana a los 35
+por su reputación estelar? Vamos.
+
+1085
+01:23:44,729 --> 01:23:47,732
+Dispárale a ese pendejo, Ezekiel. Ya.
+
+1086
+01:23:47,773 --> 01:23:49,483
+Sí, claro, porque eso hace la policía.
+
+1087
+01:23:49,525 --> 01:23:50,735
+Dispara primero y pregunta después.
+
+1088
+01:23:54,196 --> 01:23:57,116
+Tú viste morir a mi padre,
+yo intento salvar al tuyo.
+
+1089
+01:23:57,158 --> 01:24:00,327
+Si queremos tenernos confianza,
+debes hacer esto.
+
+1090
+01:24:01,787 --> 01:24:02,788
+Ezekiel...
+
+1091
+01:24:03,330 --> 01:24:06,751
+Siempre hiciste lo que debías.
+Hazlo ahora.
+
+1092
+01:24:07,418 --> 01:24:09,086
+Este pendejo está matando policías.
+
+1093
+01:24:10,796 --> 01:24:12,131
+Todavía debes decidir.
+
+1094
+01:24:12,673 --> 01:24:15,843
+O me matas, o...
+
+1095
+01:24:16,302 --> 01:24:17,428
+O salvas a tu papá.
+
+1096
+01:24:19,221 --> 01:24:20,347
+El tiempo corre, amigo.
+
+1097
+01:24:20,890 --> 01:24:22,057
+Piensa rápido.
+
+1098
+01:24:22,933 --> 01:24:24,018
+Se acerca la caballería.
+
+1099
+01:24:24,435 --> 01:24:28,022
+Pero no llegará a ayudar a tu papá.
+Solo tú puedes salvarlo.
+
+1100
+01:24:36,113 --> 01:24:37,573
+¿Papá?
+
+1101
+01:24:38,824 --> 01:24:39,825
+¡Oí disparos!
+
+1102
+01:24:49,668 --> 01:24:51,003
+Zeke.
+
+1103
+01:24:51,962 --> 01:24:53,005
+Tranquilo.
+
+1104
+01:24:53,047 --> 01:24:56,509
+Se está escapando.
+
+1105
+01:24:56,550 --> 01:24:58,594
+No dejes que se escape.
+
+1106
+01:24:59,178 --> 01:25:01,305
+¡Ve!
+
+1107
+01:25:18,781 --> 01:25:20,991
+Alto. No entren.
+
+1108
+01:25:21,325 --> 01:25:22,409
+No entren...
+
+1109
+01:25:37,341 --> 01:25:38,342
+Dios mío...
+
+1110
+01:25:40,177 --> 01:25:43,180
+El que hizo esto tiene otro móvil,
+algo personal.
+
+1111
+01:25:43,222 --> 01:25:44,515
+El que hizo esto
+
+1112
+01:25:47,226 --> 01:25:48,310
+mueve los hilos.
+
+1113
+01:25:52,022 --> 01:25:54,149
+{\an8}Todo esto es gracias a tu papá.
+
+1114
+01:25:54,191 --> 01:25:55,943
+Por él decidí dedicarme a esto.
+
+1115
+01:25:55,985 --> 01:25:57,862
+Sueño con esto
+desde que tenía 12 años.
+
+1116
+01:26:04,827 --> 01:26:06,704
+¿Qué mierda pasa?
+
+1117
+01:26:10,708 --> 01:26:11,750
+¡Adelante!
+
+1118
+01:26:13,460 --> 01:26:14,962
+¡Al piso!
+
+1119
+01:26:15,004 --> 01:26:16,046
+¡Arriba las manos!
+
+1120
+01:26:16,922 --> 01:26:18,090
+¡No! ¡Paren!
+
+1121
+01:26:18,132 --> 01:26:19,258
+¡No! ¡Por Dios!
+
+1122
+01:26:19,300 --> 01:26:20,551
+-¡Alto!
+-¡No!
+
+1123
+01:26:24,305 --> 01:26:25,347
+¡No!
+
+1124
+01:26:25,389 --> 01:26:26,640
+¡Bájala!
+
+1125
+01:26:27,975 --> 01:26:29,435
+¡Deja el arma!
+
+1126
+01:26:29,476 --> 01:26:30,561
+¡Fuego!
+
+1127
+01:26:53,417 --> 01:26:56,378
+¡No!
+
