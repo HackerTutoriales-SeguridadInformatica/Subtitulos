@@ -1,0 +1,6143 @@
+﻿1
+00:00:08,167 --> 00:00:11,083
+PRESENTA
+
+2
+00:00:20,167 --> 00:00:23,833
+JUNTOS.
+
+3
+00:00:31,958 --> 00:00:33,875
+Falta un minuto, señor.
+
+4
+00:00:33,958 --> 00:00:35,250
+Lo felicito de nuevo.
+
+5
+00:00:35,333 --> 00:00:39,917
+- ¿Sabes algo de mi hija Betty?
+- No. Intentamos llamarla varias veces.
+
+6
+00:00:40,000 --> 00:00:41,083
+Está bien.
+
+7
+00:00:41,167 --> 00:00:42,500
+Gracias.
+
+8
+00:00:44,167 --> 00:00:48,333
+<i>Muy bien, Nuevo Hampshire, ya falta poco.</i>
+
+9
+00:00:48,417 --> 00:00:50,958
+<i>¿Están listos?</i>
+
+10
+00:00:52,375 --> 00:00:58,000
+¡Listos para Ross!
+
+11
+00:00:58,083 --> 00:01:00,458
+¡Listos para Ross!
+
+12
+00:01:00,542 --> 00:01:05,875
+<i>Señoras y señores, el próximo presidente
+de los Estados Unidos de América,</i>
+
+13
+00:01:05,958 --> 00:01:08,250
+<i>¡Thaddeus Ross!</i>
+
+14
+00:01:28,583 --> 00:01:29,750
+Gracias.
+
+15
+00:01:31,833 --> 00:01:35,417
+Esta noche, Estados Unidos se pronunció
+
+16
+00:01:35,500 --> 00:01:40,333
+en una de las elecciones
+más importantes de nuestras vidas.
+
+17
+00:01:40,417 --> 00:01:44,542
+Somos conscientes
+de la urgencia de la situación actual.
+
+18
+00:01:44,625 --> 00:01:49,208
+Desde la desaparición de media humanidad
+
+19
+00:01:49,292 --> 00:01:53,750
+al surgimiento de una masa celestial
+en el océano Índico,
+
+20
+00:01:53,833 --> 00:01:58,250
+las amenazas que enfrentamos
+no tienen visos de disminuir.
+
+21
+00:01:58,333 --> 00:02:04,333
+¡Pero solo podemos superarlas juntos!
+
+22
+00:02:05,375 --> 00:02:09,083
+{\an8}<i>En su discurso de aceptación,
+el presidente Ross abogó por la unidad,</i>
+
+23
+00:02:09,167 --> 00:02:10,750
+{\an8}DE GENERAL A PRESIDENTE ELECTO
+
+24
+00:02:10,833 --> 00:02:12,250
+{\an8}<i>pero su pasado dice otra cosa,</i>
+
+25
+00:02:12,333 --> 00:02:14,875
+{\an8}<i>especialmente con héroes
+como el Capitán América.</i>
+
+26
+00:02:14,958 --> 00:02:17,458
+<i>Al ser dos líderes importantes,</i>
+
+27
+00:02:17,542 --> 00:02:21,833
+<i>algunos se preguntan
+si superarán su turbulento pasado</i>
+
+28
+00:02:21,917 --> 00:02:23,583
+<i>para afrontar los futuros retos.</i>
+
+29
+00:02:23,667 --> 00:02:26,167
+<i>- Como general de cuatro estrellas…</i>
+- Aquí tienes, Cap.
+
+30
+00:02:27,250 --> 00:02:29,208
+Guarda tu dinero. Invita la casa.
+
+31
+00:02:30,417 --> 00:02:31,542
+Gracias, Charlie.
+
+32
+00:02:32,042 --> 00:02:36,000
+<i>…que hizo que le dieran
+el apodo de "el cazador de Hulk".</i>
+
+33
+00:02:36,083 --> 00:02:38,958
+<i>Tras la destrucción de Harlem
+por Hulk y la Abominación,</i>
+
+34
+00:02:39,042 --> 00:02:43,292
+{\an8}<i>criticaron a Ross por lo que llamaron
+"un estallido injustificado"</i>
+
+35
+00:02:43,375 --> 00:02:45,375
+{\an8}<i>durante una rueda de prensa.</i>
+
+36
+00:02:45,458 --> 00:02:48,292
+{\an8}<i>Muchos lo culparon
+por los daños colaterales,</i>
+
+37
+00:02:48,375 --> 00:02:53,208
+{\an8}<i>y creen que su implacable persecución
+del Hulk de Banner provocó los desmanes.</i>
+
+38
+00:02:53,292 --> 00:02:57,292
+{\an8}<i>Y también ocasionó el distanciamiento
+del presidente electo con su hija,</i>
+
+39
+00:02:57,375 --> 00:03:00,292
+{\an8}<i>la doctora Betty Ross,
+exnovia de Bruce Banner.</i>
+
+40
+00:03:00,375 --> 00:03:03,875
+<i>Pero sorpresivamente,
+logró cambiar la narrativa</i>
+
+41
+00:03:03,958 --> 00:03:09,458
+<i>y silenciar a sus críticos más duros
+al detener al creador de la Abominación.</i>
+
+42
+00:03:20,417 --> 00:03:25,792
+UN NUEVO MUNDO
+
+43
+00:03:29,167 --> 00:03:31,042
+CINCO MESES DESPUÉS
+
+44
+00:03:38,417 --> 00:03:39,417
+{\an8}¿Qué pasa abajo?
+
+45
+00:03:39,500 --> 00:03:42,583
+{\an8}Mercenarios de SERPIENTE
+trajeron un paquete hace 60 min.
+
+46
+00:03:43,042 --> 00:03:46,167
+Se lo darán al comprador.
+¿Sabemos qué llevan?
+
+47
+00:03:46,250 --> 00:03:49,833
+- Es clasificado por la Casa Blanca.
+- Claro que sí.
+
+48
+00:03:50,333 --> 00:03:52,042
+¿Y Águila Uno? Ya podemos atacar.
+
+49
+00:03:52,125 --> 00:03:55,000
+Está ingresando
+al espacio aéreo del objetivo.
+
+50
+00:03:58,500 --> 00:04:03,167
+- Sube las entradas secretas al recinto.
+- ¿Secretas? Debes ser nuevo.
+
+51
+00:04:14,833 --> 00:04:15,833
+Esperen.
+
+52
+00:04:33,167 --> 00:04:35,500
+- Los SEAL llegarán en seis minutos.
+- Recibido.
+
+53
+00:04:53,458 --> 00:04:55,125
+¿Cómo diablos hizo eso?
+
+54
+00:04:55,208 --> 00:04:57,708
+Los wakandianos le dieron
+el equipo por ayudarles.
+
+55
+00:04:57,792 --> 00:05:00,583
+Dicen que hasta el envoltorio
+era de vibranio.
+
+56
+00:05:02,042 --> 00:05:04,000
+No. Bromeo. Vamos.
+
+57
+00:05:08,208 --> 00:05:11,042
+Joaquín, Redwing halló
+a los rehenes adentro.
+
+58
+00:05:11,125 --> 00:05:13,875
+- Entraré.
+- Negativo. Lo prioritario es el paquete.
+
+59
+00:05:13,958 --> 00:05:15,583
+<i>Que lo rastreen los SEAL.</i>
+
+60
+00:05:15,667 --> 00:05:17,125
+Rescataré a los rehenes.
+
+61
+00:05:18,000 --> 00:05:20,042
+Redwing, envíales un escaneo del edificio.
+
+62
+00:05:22,333 --> 00:05:23,333
+¿Qué pasa?
+
+63
+00:05:23,417 --> 00:05:25,417
+Es Sidewinder, jefe de SERPIENTE.
+
+64
+00:05:25,500 --> 00:05:27,000
+No debería estar aquí.
+
+65
+00:05:27,333 --> 00:05:29,958
+{\an8}SOCIEDAD SERPIENTE
+
+66
+00:05:36,667 --> 00:05:38,875
+Está rezando, padre.
+
+67
+00:06:11,792 --> 00:06:12,875
+Liquídenlos.
+
+68
+00:06:13,792 --> 00:06:15,792
+- ¡No!
+- Mátenlos de a uno.
+
+69
+00:06:17,917 --> 00:06:21,708
+<i>- Llegó el Capitán América. ¿Me recibe?</i>
+- ¡Váyanse!
+
+70
+00:06:26,083 --> 00:06:27,750
+Llévense el paquete.
+
+71
+00:06:59,250 --> 00:07:00,917
+SERPIENTE se lleva el contenedor.
+
+72
+00:07:01,000 --> 00:07:02,750
+¡Estoy un poco ocupado ahora!
+
+73
+00:07:29,708 --> 00:07:31,917
+Redwing, a mi señal.
+
+74
+00:07:35,125 --> 00:07:36,125
+Detente.
+
+75
+00:07:38,042 --> 00:07:39,917
+¡Atrás! O les dispararemos.
+
+76
+00:07:54,917 --> 00:07:58,708
+SERPIENTE se lleva el contenedor,
+y Sidewinder va a la capilla.
+
+77
+00:07:59,958 --> 00:08:03,208
+- Sé qué intentas hacer.
+- No puedes estar en dos sitios.
+
+78
+00:08:04,375 --> 00:08:05,750
+Bueno, por esta vez.
+
+79
+00:08:05,833 --> 00:08:07,083
+<i>Pero que no te maten.</i>
+
+80
+00:08:07,167 --> 00:08:08,083
+No moriré.
+
+81
+00:08:18,250 --> 00:08:21,458
+El comprador no vino.
+Necesitas mejores clientes.
+
+82
+00:08:21,542 --> 00:08:25,458
+Descuida. Hallaré
+al que me hizo perder el tiempo.
+
+83
+00:08:25,542 --> 00:08:27,250
+Tú tienes problemas peores.
+
+84
+00:08:52,875 --> 00:08:55,708
+El Capitán América que soñaba matar
+era más grande que tú.
+
+85
+00:08:55,792 --> 00:08:57,500
+Me alegra decepcionarte.
+
+86
+00:09:00,875 --> 00:09:02,708
+Seguro que te rompes fácil.
+
+87
+00:09:03,417 --> 00:09:04,542
+No tan fácil.
+
+88
+00:09:17,417 --> 00:09:18,542
+No tan difícil.
+
+89
+00:09:18,625 --> 00:09:21,292
+Se te rompió la costilla.
+¿Quieres descansar?
+
+90
+00:09:21,375 --> 00:09:23,500
+No, terminemos con esto.
+
+91
+00:09:23,583 --> 00:09:25,417
+Tengo cosas que hacer hoy.
+
+92
+00:09:44,917 --> 00:09:45,917
+Maldición.
+
+93
+00:09:46,000 --> 00:09:47,125
+Nadie lo vio.
+
+94
+00:09:49,167 --> 00:09:51,083
+El paquete está asegurado, Sam.
+
+95
+00:09:57,667 --> 00:09:59,583
+Añadiré tu estrella a mi colección.
+
+96
+00:10:10,125 --> 00:10:11,542
+¿Quieres descansar?
+
+97
+00:10:16,125 --> 00:10:17,250
+Eso pensé.
+
+98
+00:10:32,375 --> 00:10:33,792
+Guárdanos algo, Cap.
+
+99
+00:10:34,833 --> 00:10:36,917
+Tiene un brazo roto, sé amable.
+
+100
+00:10:43,125 --> 00:10:44,333
+7-3-1950 - 21-7-1993
+
+101
+00:10:44,417 --> 00:10:48,958
+"Mantén la cara hacia el sol
+y las sombras caerán detrás de ti".
+
+102
+00:10:49,583 --> 00:10:51,333
+La frase fue idea de Betty.
+
+103
+00:10:51,958 --> 00:10:53,875
+¿Aún no le habla?
+
+104
+00:10:53,958 --> 00:10:54,958
+No.
+
+105
+00:10:55,042 --> 00:10:57,292
+No cree que haya cambiado.
+
+106
+00:10:57,792 --> 00:10:59,333
+Cambiado en serio.
+
+107
+00:11:01,583 --> 00:11:03,667
+No creo que me dé otra oportunidad.
+
+108
+00:11:04,917 --> 00:11:07,542
+Voy a cumplir
+mis primeros cien días, Leila.
+
+109
+00:11:09,125 --> 00:11:10,625
+Me van a definir.
+
+110
+00:11:12,458 --> 00:11:14,292
+Este tratado debe funcionar.
+
+111
+00:11:19,208 --> 00:11:22,167
+- Hola.
+<i>- Sr. Presidente, la misión fue un éxito.</i>
+
+112
+00:11:22,708 --> 00:11:26,708
+- Bien. Ponme al corriente.
+<i>- Cap y los SEAL salvaron a los rehenes.</i>
+
+113
+00:11:26,792 --> 00:11:29,417
+<i>Paquete asegurado, va a EE. UU.</i>
+
+114
+00:11:30,125 --> 00:11:32,792
+- ¿Cómo está tu hermano?
+- Vaya, lo recuerdas.
+
+115
+00:11:32,875 --> 00:11:34,458
+- Está en la Fuerza Aérea.
+- Sí.
+
+116
+00:11:34,542 --> 00:11:37,833
+Probablemente gracias a ti.
+Trato de no reprochárselo.
+
+117
+00:11:38,708 --> 00:11:41,083
+- Qué lugar raro para una entrega.
+- Ajá.
+
+118
+00:11:41,167 --> 00:11:43,000
+Muy abierto, poco protegido.
+
+119
+00:11:43,708 --> 00:11:47,333
+- ¿Crees que el comprador pensaba venir?
+- ¿Engañaron a SERPIENTE?
+
+120
+00:11:47,417 --> 00:11:48,417
+¿Qué dicen ellos?
+
+121
+00:11:48,500 --> 00:11:50,750
+Lo mismo. El contrato fue anónimo.
+
+122
+00:11:50,833 --> 00:11:53,958
+Cincuenta millones por robar
+el contenedor camino a Japón.
+
+123
+00:11:54,042 --> 00:11:55,708
+Y se reúnen aquí con el comprador.
+
+124
+00:11:59,375 --> 00:12:02,083
+Avísanos si hallas pistas de Sidewinder.
+
+125
+00:12:02,167 --> 00:12:03,583
+- Buen trabajo.
+- Gracias.
+
+126
+00:12:08,125 --> 00:12:10,875
+Notarás que no morí,
+
+127
+00:12:10,958 --> 00:12:13,000
+y dicen que lo hice con estilo.
+
+128
+00:12:13,083 --> 00:12:14,167
+¿Quién lo dice?
+
+129
+00:12:14,667 --> 00:12:15,833
+- La gente.
+- ¿Quiénes?
+
+130
+00:12:15,917 --> 00:12:16,875
+Todos.
+
+131
+00:12:16,958 --> 00:12:18,458
+Todos lo dicen.
+
+132
+00:12:19,000 --> 00:12:21,375
+Hago parecer nuevo
+a tu viejo equipo. Mira.
+
+133
+00:12:21,458 --> 00:12:23,875
+Tienes las grebas al revés.
+
+134
+00:12:23,958 --> 00:12:25,208
+Bromeo.
+
+135
+00:12:25,292 --> 00:12:26,750
+Te ves bien, amigo.
+
+136
+00:12:26,833 --> 00:12:28,083
+Me parece justo.
+
+137
+00:12:28,583 --> 00:12:31,792
+- Entonces, ¿me presentarás a Ant-Man?
+- No.
+
+138
+00:12:32,833 --> 00:12:35,083
+Al menos enséñame tu patada voladora.
+
+139
+00:12:35,167 --> 00:12:40,167
+- Si voy a ser Falcon, debo saberlo todo.
+- No estás preparado para eso.
+
+140
+00:12:40,250 --> 00:12:43,125
+Pero tengo a alguien
+que te enseñará desde cero.
+
+141
+00:12:43,208 --> 00:12:44,208
+Por supuesto.
+
+142
+00:12:44,292 --> 00:12:46,167
+No es muy sociable.
+
+143
+00:12:46,250 --> 00:12:49,208
+Debes aprender a cerrar el pico.
+¿Puedes hacerlo?
+
+144
+00:12:51,458 --> 00:12:53,375
+¡Me va a adorar! ¿Bromeas?
+
+145
+00:12:53,458 --> 00:12:55,833
+- ¡Respuesta incorrecta!
+- Me adorará.
+
+146
+00:12:59,917 --> 00:13:02,708
+BALTIMORE, MARYLAND
+
+147
+00:13:02,792 --> 00:13:05,167
+- ¿Qué tal, Clásico?
+- ¿Quién es el niño bonito?
+
+148
+00:13:05,250 --> 00:13:08,042
+¿No le hablaste de mí al abuelo?
+Soy el nuevo Falcon.
+
+149
+00:13:08,125 --> 00:13:09,750
+- No lo eres.
+- Sí, lo soy.
+
+150
+00:13:09,833 --> 00:13:11,625
+Es Joaquín Torres.
+
+151
+00:13:11,708 --> 00:13:15,292
+Llevo trabajando con él tres años.
+Aún no sé cómo hacerlo callar.
+
+152
+00:13:15,375 --> 00:13:17,667
+¿Qué hacemos aquí? ¿Ortopedia?
+
+153
+00:13:18,333 --> 00:13:20,750
+¿Rehabilitación tras romperte la cadera?
+
+154
+00:13:26,750 --> 00:13:28,125
+Mierda.
+
+155
+00:13:28,208 --> 00:13:29,583
+Es Isaiah Bradley.
+
+156
+00:13:29,667 --> 00:13:31,833
+¿El famoso Isaiah Bradley?
+
+157
+00:13:32,500 --> 00:13:35,083
+¿Me trajiste con el Cap olvidado?
+Debiste avisarme.
+
+158
+00:13:35,167 --> 00:13:37,125
+Es un placer conocerte.
+
+159
+00:13:37,208 --> 00:13:39,792
+Tus misiones en Corea son legendarias.
+
+160
+00:13:39,875 --> 00:13:41,333
+¿Y luego? ¿Te retiraste?
+
+161
+00:13:41,417 --> 00:13:44,250
+El mundo cambió.
+Nos vendría bien otro supersoldado.
+
+162
+00:13:44,333 --> 00:13:47,792
+El Gobierno de EE. UU.
+me encarceló durante 30 años.
+
+163
+00:13:47,875 --> 00:13:50,917
+Experimentaron conmigo durante décadas.
+
+164
+00:13:51,625 --> 00:13:53,333
+Vaya, eso es una mierda.
+
+165
+00:13:53,417 --> 00:13:54,625
+¿Empezamos?
+
+166
+00:13:54,708 --> 00:13:55,542
+Hagámoslo.
+
+167
+00:13:55,625 --> 00:13:57,208
+Sin alas de vibranio,
+
+168
+00:13:58,375 --> 00:14:01,458
+escudo ni suero del supersoldado.
+
+169
+00:14:03,167 --> 00:14:05,417
+Quiero ver si aguanta tres golpes.
+
+170
+00:14:05,500 --> 00:14:07,417
+¡Toma esas banderas, Sam!
+
+171
+00:14:08,417 --> 00:14:09,708
+¡Cappy Cap!
+
+172
+00:14:15,958 --> 00:14:17,083
+Esa es una.
+
+173
+00:14:17,958 --> 00:14:19,167
+¡Vamos por más!
+
+174
+00:14:19,875 --> 00:14:21,083
+Ortopedia.
+
+175
+00:14:25,750 --> 00:14:27,000
+Ya van dos.
+
+176
+00:14:34,208 --> 00:14:36,583
+Perdón. ¿Qué decías?
+
+177
+00:14:37,083 --> 00:14:39,042
+¿Ves? No es muy sociable.
+
+178
+00:14:39,125 --> 00:14:42,125
+- En una pelea, el último golpe…
+- Es el que importa.
+
+179
+00:14:42,208 --> 00:14:43,917
+Lo sé. Cállate, pero gracias.
+
+180
+00:14:44,000 --> 00:14:45,708
+Listo. Ahora yo. Estoy listo.
+
+181
+00:14:46,208 --> 00:14:49,292
+El Capitán América no se toma
+cinco minutos. Vamos.
+
+182
+00:14:50,250 --> 00:14:51,792
+Debo atender.
+
+183
+00:14:52,625 --> 00:14:53,958
+No tomaré los cinco.
+
+184
+00:14:57,542 --> 00:15:00,083
+- ¿Aún tienes puesto el plástico?
+- ¡No!
+
+185
+00:15:01,667 --> 00:15:03,375
+Quizá no quería sacarlo.
+
+186
+00:15:04,292 --> 00:15:05,917
+¿Te agrando el texto?
+
+187
+00:15:06,000 --> 00:15:07,583
+¿Así puedes leerlo?
+
+188
+00:15:07,667 --> 00:15:09,292
+Sí, esperaré al presidente.
+
+189
+00:15:17,917 --> 00:15:19,000
+¿Adónde vas?
+
+190
+00:15:19,083 --> 00:15:20,833
+ENTRENAMIENTO
+
+191
+00:15:22,292 --> 00:15:23,375
+¿Lo hablamos?
+
+192
+00:15:27,125 --> 00:15:30,250
+No me parece bien.
+
+193
+00:15:30,333 --> 00:15:33,667
+Que el Capitán América trabaje
+para el presidente.
+
+194
+00:15:34,333 --> 00:15:36,875
+¿El presidente del país
+que te robó la vida?
+
+195
+00:15:36,958 --> 00:15:38,042
+No es solo eso.
+
+196
+00:15:38,583 --> 00:15:41,875
+Hablamos de Thaddeus "Thunderbolt" Ross.
+
+197
+00:15:41,958 --> 00:15:43,833
+Se ganó ese apodo por su violencia.
+
+198
+00:15:43,917 --> 00:15:46,042
+Lo sé, Isaiah, de primera mano.
+
+199
+00:15:46,125 --> 00:15:51,000
+Me encerró en la Balsa. Nos persiguió
+durante años a Steve, a Natasha y a mí.
+
+200
+00:15:51,083 --> 00:15:52,375
+¿Por qué trabajas para él?
+
+201
+00:15:53,125 --> 00:15:57,625
+Mientras lo hagas, el Capitán América
+representa a la gente como él.
+
+202
+00:15:58,167 --> 00:16:00,500
+No tienes por qué trabajar
+para el gobierno.
+
+203
+00:16:00,583 --> 00:16:02,250
+¿Ves lo que pasa ahí afuera?
+
+204
+00:16:02,958 --> 00:16:04,708
+El país está sin rumbo.
+
+205
+00:16:05,333 --> 00:16:08,208
+Estar al lado del presidente,
+aunque sea Ross,
+
+206
+00:16:09,125 --> 00:16:10,792
+le da esperanza a la gente.
+
+207
+00:16:11,875 --> 00:16:15,167
+Dame algo de crédito.
+Tengo una amiga en la Casa Blanca.
+
+208
+00:16:15,250 --> 00:16:18,125
+Me avisará si Ross hace algo malo.
+
+209
+00:16:20,625 --> 00:16:22,667
+Esto no significa que me olvidé de ti.
+
+210
+00:16:24,125 --> 00:16:25,250
+Sé lo que haces.
+
+211
+00:16:25,333 --> 00:16:26,750
+¿Qué?
+
+212
+00:16:26,833 --> 00:16:29,250
+Haces tu terapia de mierda conmigo.
+
+213
+00:16:30,917 --> 00:16:32,042
+Confía en mí.
+
+214
+00:16:32,125 --> 00:16:34,417
+Soy consciente de cómo es todo esto.
+
+215
+00:16:34,500 --> 00:16:37,292
+Sé que Ross no va a cambiar nunca,
+
+216
+00:16:38,583 --> 00:16:40,417
+pero es el presidente.
+
+217
+00:16:41,583 --> 00:16:44,667
+¿Me vas a decir qué quería
+o tengo que adivinar?
+
+218
+00:16:46,333 --> 00:16:51,000
+Nos invitó a Joaquín y a mí
+a la Casa Blanca. Le puse una condición.
+
+219
+00:16:51,083 --> 00:16:53,875
+Que te invitara también a ti.
+
+220
+00:16:55,000 --> 00:16:59,542
+Sabía que te negarías,
+pero sería importante para mí que fueras.
+
+221
+00:17:00,750 --> 00:17:01,792
+Debemos…
+
+222
+00:17:02,583 --> 00:17:03,917
+conseguirte un traje.
+
+223
+00:17:04,666 --> 00:17:05,916
+Ya tengo uno.
+
+224
+00:17:06,000 --> 00:17:07,250
+¿En serio?
+
+225
+00:17:07,750 --> 00:17:10,291
+¿Por qué siempre usas
+este conjunto gastado?
+
+226
+00:17:12,375 --> 00:17:14,083
+¿Vas a venir o qué?
+
+227
+00:17:21,500 --> 00:17:23,166
+<i>A esto me refería, Isaiah.</i>
+
+228
+00:17:23,250 --> 00:17:25,875
+Ya te ves bien
+para ir a la Casa Blanca. Mira.
+
+229
+00:17:25,958 --> 00:17:27,291
+- Te ves bien, Clásico.
+- Vaya.
+
+230
+00:17:27,375 --> 00:17:30,708
+Dije que te haría quitarte ese conjunto.
+Mírate ahora.
+
+231
+00:17:30,792 --> 00:17:33,167
+No sabía que hacían
+ropa barata de esa talla.
+
+232
+00:17:34,625 --> 00:17:38,292
+- Me casé con Faith con este traje.
+- Bueno, está bien.
+
+233
+00:17:38,375 --> 00:17:39,625
+Estaría orgullosa.
+
+234
+00:17:39,708 --> 00:17:41,042
+Eso espero.
+
+235
+00:17:42,417 --> 00:17:44,625
+Es raro entrar en la boca del lobo.
+
+236
+00:17:44,708 --> 00:17:45,792
+El presidente invita…
+
+237
+00:17:45,875 --> 00:17:47,625
+- No debe ser fácil.
+- No lo es.
+
+238
+00:17:47,708 --> 00:17:51,333
+Por eso debemos celebrarlo.
+No me importa si manda Ross.
+
+239
+00:17:51,417 --> 00:17:53,542
+¡Somos invitados de honor
+en la Casa Blanca!
+
+240
+00:17:53,625 --> 00:17:54,875
+- ¿Cuándo pasa eso?
+- Sí.
+
+241
+00:17:54,958 --> 00:17:57,667
+- Y nos enviaron una limusina.
+- ¿Qué?
+
+242
+00:17:57,750 --> 00:17:59,417
+Y nos vemos bien.
+
+243
+00:17:59,500 --> 00:18:00,333
+- Sí.
+- ¿Qué?
+
+244
+00:18:00,417 --> 00:18:02,417
+Anciano, estás perfumado.
+
+245
+00:18:02,500 --> 00:18:03,542
+¿Qué?
+
+246
+00:18:03,625 --> 00:18:05,333
+Tu traje es elegante.
+
+247
+00:18:05,583 --> 00:18:07,833
+Y tenemos bebida de la buena.
+
+248
+00:18:07,917 --> 00:18:09,208
+Divirtámonos.
+
+249
+00:18:14,292 --> 00:18:17,667
+CUMBRE MUNDIAL
+DE LA ISLA CELESTIAL
+
+250
+00:18:20,708 --> 00:18:22,000
+¡Capitán América! ¡Aquí!
+
+251
+00:18:22,083 --> 00:18:23,875
+Capitán, de este lado.
+
+252
+00:18:24,417 --> 00:18:26,250
+- ¡Mire aquí!
+- Sr. Bradley.
+
+253
+00:18:26,333 --> 00:18:27,333
+¡Por aquí!
+
+254
+00:18:27,417 --> 00:18:28,417
+Isaiah.
+
+255
+00:18:36,625 --> 00:18:40,375
+Vaya, ¡miren esto!
+
+256
+00:18:42,417 --> 00:18:44,125
+Saquémonos una foto.
+
+257
+00:18:44,208 --> 00:18:45,208
+Hagámoslo.
+
+258
+00:18:47,292 --> 00:18:48,792
+Tres amigos a las tres.
+
+259
+00:18:52,917 --> 00:18:54,625
+Será mi fondo de pantalla. Vean.
+
+260
+00:18:54,708 --> 00:18:55,750
+- Salió bien.
+- ¿Bien?
+
+261
+00:18:55,833 --> 00:18:56,667
+¿Me la envías?
+
+262
+00:18:56,750 --> 00:18:58,292
+Sí, lo haré con AirDrop.
+
+263
+00:18:58,375 --> 00:19:00,292
+Sabes qué es AirDrop, ¿verdad?
+
+264
+00:19:00,375 --> 00:19:02,375
+Claro que sé qué es.
+
+265
+00:19:02,458 --> 00:19:03,583
+¿Qué es AirDrop?
+
+266
+00:19:04,792 --> 00:19:05,792
+<i>Deberías tenerlo.</i>
+
+267
+00:19:05,875 --> 00:19:07,292
+<i>Dale a "Aceptar".</i>
+
+268
+00:19:07,375 --> 00:19:10,292
+<i>- Ya está.
+- Perdón, caballeros.</i>
+
+269
+00:19:10,375 --> 00:19:14,583
+- El presidente quiere ver al Sr. Wilson.
+- Nos vemos adentro.
+
+270
+00:19:15,792 --> 00:19:16,667
+- Hola.
+- Hola.
+
+271
+00:19:16,750 --> 00:19:20,167
+- Mantén la mente abierta, Sam.
+- ¿En qué me voy a meter?
+
+272
+00:19:20,250 --> 00:19:22,667
+Esta no es la foto que tomaste.
+
+273
+00:19:22,750 --> 00:19:24,042
+Te envié otra foto.
+
+274
+00:19:24,125 --> 00:19:25,083
+Dios mío.
+
+275
+00:19:25,792 --> 00:19:28,500
+Muy buena observación.
+Lo tendré en cuenta.
+
+276
+00:19:29,667 --> 00:19:30,750
+Wilson.
+
+277
+00:19:31,875 --> 00:19:33,625
+Amigos, ¿nos dejan la sala?
+
+278
+00:19:38,958 --> 00:19:39,792
+Gracias.
+
+279
+00:19:40,792 --> 00:19:42,250
+Órdenes de la doctora.
+
+280
+00:19:42,792 --> 00:19:45,667
+No es un cigarro,
+pero es mejor que un chicle.
+
+281
+00:19:46,875 --> 00:19:49,500
+Gracias por venir.
+Bienvenido a la Casa Blanca.
+
+282
+00:19:49,583 --> 00:19:51,250
+Gracias por invitarnos.
+
+283
+00:19:51,333 --> 00:19:54,750
+Debo admitir que aún
+me estoy acostumbrando al nuevo <i>look.</i>
+
+284
+00:19:55,542 --> 00:20:00,125
+Sí, me dijeron que pierda
+el bigote o la elección.
+
+285
+00:20:02,167 --> 00:20:04,208
+Gracias por ayudarnos en México.
+
+286
+00:20:04,292 --> 00:20:08,458
+Puede que recuperar ese contenedor
+haya salvado este tratado.
+
+287
+00:20:08,542 --> 00:20:10,417
+Solo hacía mi trabajo, señor.
+
+288
+00:20:10,500 --> 00:20:16,125
+No siempre coincidimos sobre la libertad
+que merecen los individuos alterados.
+
+289
+00:20:16,208 --> 00:20:20,042
+Pero lo que lograste
+me dio razones para reconsiderarlo.
+
+290
+00:20:21,208 --> 00:20:25,250
+Por eso quiero que tú, el Capitán América,
+
+291
+00:20:25,333 --> 00:20:28,417
+me ayudes a volver a formar
+a los Vengadores.
+
+292
+00:20:29,833 --> 00:20:31,542
+- ¿Los Vengadores?
+- Sí, señor.
+
+293
+00:20:35,875 --> 00:20:38,167
+Con el debido respeto, señor,
+
+294
+00:20:38,250 --> 00:20:42,083
+cuando aprobó los Acuerdos de Sokovia,
+destrozó a los Vengadores.
+
+295
+00:20:42,167 --> 00:20:46,000
+- ¿Por qué cambió de opinión?
+- Ahora represento a todo el país.
+
+296
+00:20:47,792 --> 00:20:51,875
+La mitad de los estadounidenses
+ni existirían sin los Vengadores.
+
+297
+00:20:53,458 --> 00:20:54,958
+El país los necesita.
+
+298
+00:20:56,042 --> 00:21:01,667
+Y cuando no coincidamos
+en cómo manejar algo, ¿qué pasará?
+
+299
+00:21:02,250 --> 00:21:03,542
+Lo resolveremos.
+
+300
+00:21:05,792 --> 00:21:07,833
+No tienes que responderme ahora.
+
+301
+00:21:08,458 --> 00:21:09,917
+Piénsalo.
+
+302
+00:21:16,333 --> 00:21:17,708
+Primer ministro Ozaki.
+
+303
+00:21:17,792 --> 00:21:19,333
+- Me alegra verlo.
+- Y a Ud.
+
+304
+00:21:19,417 --> 00:21:20,625
+Gracias por venir.
+
+305
+00:21:23,458 --> 00:21:24,500
+Aquí estamos.
+
+306
+00:21:24,583 --> 00:21:27,167
+Sam Wilson, el primer ministro Ozaki.
+
+307
+00:21:30,542 --> 00:21:31,542
+No está mal.
+
+308
+00:21:32,333 --> 00:21:33,458
+¿Quiere una foto?
+
+309
+00:21:33,542 --> 00:21:34,458
+Claro.
+
+310
+00:21:34,542 --> 00:21:35,750
+Sam, por favor.
+
+311
+00:21:37,875 --> 00:21:39,208
+Acérquense un poco.
+
+312
+00:21:41,417 --> 00:21:43,083
+- Gracias, caballeros.
+- Gracias.
+
+313
+00:21:43,167 --> 00:21:44,208
+Gracias.
+
+314
+00:21:46,708 --> 00:21:50,708
+Colabora conmigo, Sam.
+Le mostraremos al mundo un camino mejor.
+
+315
+00:21:57,042 --> 00:21:58,750
+Fue inesperado.
+
+316
+00:21:58,833 --> 00:22:00,458
+Quizá sea una oportunidad.
+
+317
+00:22:06,500 --> 00:22:07,458
+¿Y?
+
+318
+00:22:07,875 --> 00:22:08,750
+¿Cómo te fue?
+
+319
+00:22:08,833 --> 00:22:10,875
+Me pidió reiniciar a los Vengadores.
+
+320
+00:22:11,750 --> 00:22:13,083
+Espera, ¿en serio?
+
+321
+00:22:13,167 --> 00:22:14,708
+- Es grandioso.
+- No lo sé.
+
+322
+00:22:15,708 --> 00:22:17,292
+Trabajaríamos para él.
+
+323
+00:22:17,375 --> 00:22:18,375
+<i>Señoras y señores,</i>
+
+324
+00:22:18,458 --> 00:22:22,125
+<i>el presidente de Estados Unidos,
+Thaddeus Ross.</i>
+
+325
+00:22:22,208 --> 00:22:24,667
+Buenas noches a todos.
+
+326
+00:22:26,250 --> 00:22:28,250
+Para mí es un gran privilegio recibirlos
+
+327
+00:22:28,333 --> 00:22:29,458
+CUMBRE MUNDIAL
+DE LA ISLA CELESTIAL
+
+328
+00:22:29,542 --> 00:22:32,208
+en la Casa Blanca esta noche histórica.
+
+329
+00:22:32,292 --> 00:22:36,667
+Cuando surgió la masa celestial
+en el océano Índico,
+
+330
+00:22:36,750 --> 00:22:37,750
+{\an8}LUGAR: OCÉANO ÍNDICO
+
+331
+00:22:37,833 --> 00:22:40,500
+{\an8}hicimos lo de siempre.
+
+332
+00:22:40,583 --> 00:22:42,583
+Lo disputamos.
+
+333
+00:22:42,667 --> 00:22:46,125
+Los países se apresuraron
+a reclamarla como propia,
+
+334
+00:22:46,208 --> 00:22:50,000
+creando centros de investigación
+para explotar sus recursos.
+
+335
+00:22:50,083 --> 00:22:51,083
+REFINERÍA
+
+336
+00:22:52,250 --> 00:22:54,250
+En esa isla hallamos
+
+337
+00:22:54,333 --> 00:22:57,458
+nada menos
+que el descubrimiento del milenio.
+
+338
+00:22:58,375 --> 00:23:02,000
+Sus potenciales aplicaciones
+en tecnología, medicina
+
+339
+00:23:02,083 --> 00:23:04,833
+y defensa son incalculables.
+
+340
+00:23:05,667 --> 00:23:09,625
+Es aún más indestructible que el vibranio.
+
+341
+00:23:10,583 --> 00:23:14,000
+Y no lo controla una nación aislacionista.
+
+342
+00:23:15,375 --> 00:23:16,875
+Señoras y señores,
+
+343
+00:23:16,958 --> 00:23:18,500
+les presento
+
+344
+00:23:19,292 --> 00:23:20,167
+el adamantium.
+
+345
+00:23:20,875 --> 00:23:21,792
+ADAMANTIUM
+LO MÁS VERSÁTIL
+
+346
+00:23:21,875 --> 00:23:23,375
+MUESTRA EN BRUTO
+
+347
+00:23:24,875 --> 00:23:28,333
+La primera y única muestra refinada
+
+348
+00:23:28,417 --> 00:23:30,708
+fue robada de una mina japonesa.
+
+349
+00:23:30,792 --> 00:23:35,333
+Pero, afortunadamente,
+la recuperamos y está en un lugar seguro.
+
+350
+00:23:35,417 --> 00:23:40,250
+Y debemos agradecérselo
+a dos hombres increíblemente valientes.
+
+351
+00:23:40,333 --> 00:23:44,958
+A Joaquín Torres y a nuestro propio
+Capitán América, Sam Wilson.
+
+352
+00:23:56,167 --> 00:23:59,500
+Lo que hagamos con este descubrimiento
+
+353
+00:24:00,000 --> 00:24:03,167
+va a determinar
+cómo nos juzgará la historia.
+
+354
+00:24:03,583 --> 00:24:05,208
+De ratificar este tratado,
+
+355
+00:24:05,292 --> 00:24:08,750
+podremos producir juntos
+suficiente adamantium
+
+356
+00:24:08,833 --> 00:24:13,083
+para distribuirlo de manera justa
+y equitativa por todo el mundo.
+
+357
+00:24:13,167 --> 00:24:15,500
+<i>Soy el Sr. Azul</i>
+
+358
+00:24:15,583 --> 00:24:16,917
+Siéntese, señor.
+
+359
+00:24:20,208 --> 00:24:22,000
+¡Isaiah! ¿Qué haces?
+
+360
+00:24:30,458 --> 00:24:31,458
+¡Sam!
+
+361
+00:24:38,042 --> 00:24:39,458
+- ¿Está herido, Sr.?
+- No.
+
+362
+00:24:39,542 --> 00:24:41,167
+¡Váyanse!
+
+363
+00:25:02,083 --> 00:25:03,958
+Sr. Presidente, acompáñeme.
+
+364
+00:25:35,833 --> 00:25:36,833
+Mierda.
+
+365
+00:25:51,500 --> 00:25:52,500
+¡Isaiah!
+
+366
+00:26:09,833 --> 00:26:11,833
+- ¡Al suelo! ¡Ya!
+- No se mueva.
+
+367
+00:26:16,542 --> 00:26:17,958
+¿Qué sucede?
+
+368
+00:26:18,625 --> 00:26:21,333
+No lo sé. Pero debes detenerte.
+
+369
+00:26:24,292 --> 00:26:25,792
+- ¡Alto!
+- ¡No!
+
+370
+00:26:29,792 --> 00:26:32,833
+No puedo volver a la cárcel, Sam.
+
+371
+00:26:32,917 --> 00:26:35,333
+Si huyes, te va a pasar algo peor.
+
+372
+00:26:39,333 --> 00:26:41,000
+Por favor, Isaiah.
+
+373
+00:26:56,167 --> 00:26:57,417
+¡Tengan cuidado!
+
+374
+00:26:57,500 --> 00:26:59,917
+Tengan cuidado con mi traje.
+
+375
+00:27:00,000 --> 00:27:03,042
+Por favor, tengan cuidado con mi traje.
+
+376
+00:27:17,000 --> 00:27:18,583
+No puede entrar, Cap.
+
+377
+00:27:19,917 --> 00:27:21,208
+¡Oye!
+
+378
+00:27:21,292 --> 00:27:22,542
+¡Sam!
+
+379
+00:27:22,625 --> 00:27:24,167
+Señor, no puede…
+
+380
+00:27:26,042 --> 00:27:26,875
+¡Señor!
+
+381
+00:27:27,417 --> 00:27:29,583
+- Perdón, Sr. Presidente.
+- Oye.
+
+382
+00:27:29,667 --> 00:27:30,875
+Él se queda.
+
+383
+00:27:30,958 --> 00:27:32,417
+Todos los demás, fuera.
+
+384
+00:27:36,583 --> 00:27:39,042
+TIROTEO EN LA CASA BLANCA
+SUPERSOLDADO ARRESTADO
+
+385
+00:27:39,125 --> 00:27:40,792
+Ud. también, agente Taylor.
+
+386
+00:27:47,417 --> 00:27:48,583
+¿Estás bien?
+
+387
+00:27:49,417 --> 00:27:51,250
+Yo debería preguntárselo.
+
+388
+00:27:51,333 --> 00:27:53,458
+Ya me dispararon otras veces.
+
+389
+00:27:53,542 --> 00:27:55,125
+Sé lo que puede parecer…
+
+390
+00:27:57,583 --> 00:27:58,833
+¿Nos dejas un minuto?
+
+391
+00:28:00,792 --> 00:28:01,667
+Ella se queda.
+
+392
+00:28:03,625 --> 00:28:07,125
+Ella es Ruth Bat-Seraph,
+mi asesora de seguridad.
+
+393
+00:28:10,083 --> 00:28:12,250
+Isaiah no pudo haberlo hecho.
+
+394
+00:28:12,333 --> 00:28:14,042
+- Pero lo hizo.
+- Quizá lo controlaron.
+
+395
+00:28:14,125 --> 00:28:17,750
+Defiendes a alguien que intentó
+matar al presidente frente…
+
+396
+00:28:17,833 --> 00:28:20,583
+- No sabemos qué pasó.
+- Ya basta.
+
+397
+00:28:22,750 --> 00:28:23,625
+¿Qué sabemos?
+
+398
+00:28:24,125 --> 00:28:26,792
+Hubo cinco tiradores. Uno fue Isaiah.
+
+399
+00:28:26,875 --> 00:28:31,583
+Los otros eran del servicio secreto
+y militares. Fue un ataque coordinado.
+
+400
+00:28:37,542 --> 00:28:38,542
+¿Qué más sabes?
+
+401
+00:28:39,208 --> 00:28:42,167
+La canción previa al tiroteo
+fue una señal para atacar.
+
+402
+00:28:42,250 --> 00:28:44,042
+Isaiah parecía fuera de control.
+
+403
+00:28:44,125 --> 00:28:45,708
+No sabía dónde estaba.
+
+404
+00:28:45,792 --> 00:28:47,542
+¿Qué sugieres?
+
+405
+00:28:47,625 --> 00:28:48,875
+Déjeme investigar.
+
+406
+00:28:49,958 --> 00:28:52,208
+¿No estás muy involucrado en esto?
+
+407
+00:28:52,292 --> 00:28:54,292
+Su círculo íntimo es vulnerable.
+
+408
+00:28:54,375 --> 00:28:56,458
+Ahora puede haber otro ataque.
+
+409
+00:28:56,542 --> 00:29:00,917
+¿Qué puedes ofrecer que nuestro aparato
+de inteligencia y defensa no pueda?
+
+410
+00:29:01,000 --> 00:29:02,542
+No esperaré a que Isaiah…
+
+411
+00:29:02,625 --> 00:29:06,208
+Sé lo importante que es Bradley para ti.
+
+412
+00:29:06,292 --> 00:29:08,125
+Pero considera cómo se verá.
+
+413
+00:29:09,417 --> 00:29:14,542
+El Capitán América conduce
+una investigación personal de un amigo
+
+414
+00:29:14,625 --> 00:29:16,625
+que quiso asesinar al presidente.
+
+415
+00:29:16,708 --> 00:29:19,667
+Isaiah sacrificó todo por este país.
+
+416
+00:29:19,750 --> 00:29:23,417
+Es un soldado. Un patriota.
+No tenía razones para hacerlo.
+
+417
+00:29:23,500 --> 00:29:25,292
+Tenía razones de sobra.
+
+418
+00:29:25,375 --> 00:29:30,167
+Estuvo preso por rescatar a sus hombres,
+experimentaron con él durante 30 años.
+
+419
+00:29:30,250 --> 00:29:32,833
+Lo que le hicieron
+enloquecería a cualquiera.
+
+420
+00:29:33,583 --> 00:29:36,542
+Me invitó
+para que trabajemos juntos. Hagámoslo.
+
+421
+00:29:36,625 --> 00:29:40,500
+Me temo que esa oferta expiró
+cuando tu amigo intentó matarme.
+
+422
+00:29:45,125 --> 00:29:49,500
+Sam, no deberías meterte
+en estas situaciones.
+
+423
+00:29:50,292 --> 00:29:53,083
+No eres Steve Rogers.
+
+424
+00:29:55,708 --> 00:29:59,333
+Ruth, tienes toda mi autoridad
+para terminar con esto.
+
+425
+00:30:00,333 --> 00:30:02,875
+Antes de que peligre más este tratado.
+
+426
+00:30:06,458 --> 00:30:07,458
+¿Eso es todo?
+
+427
+00:30:08,917 --> 00:30:11,625
+- ¿Mi trabajo terminó?
+- Así es.
+
+428
+00:30:11,708 --> 00:30:13,708
+Esto es ridículo, y lo sabe.
+
+429
+00:30:13,792 --> 00:30:15,167
+Es política.
+
+430
+00:30:15,917 --> 00:30:17,875
+Mejor espabílate, hijo.
+
+431
+00:30:20,208 --> 00:30:21,875
+¿A quién llama "hijo"?
+
+432
+00:30:21,958 --> 00:30:25,083
+- ¿Qué haces, Sam?
+- Voy a limpiar el nombre de Isaiah.
+
+433
+00:30:25,167 --> 00:30:26,708
+Irrumpir ahí no lo ayudará.
+
+434
+00:30:26,792 --> 00:30:28,750
+- Necesitas que Ross te apoye.
+- ¿Él?
+
+435
+00:30:29,333 --> 00:30:32,167
+Abre los ojos. Le ofrecí ayuda y me echó.
+
+436
+00:30:32,250 --> 00:30:34,958
+Ross está de su propio lado. Como siempre.
+
+437
+00:30:35,042 --> 00:30:37,083
+No te das cuenta o no quieres.
+
+438
+00:30:37,167 --> 00:30:38,000
+Oye.
+
+439
+00:30:39,125 --> 00:30:40,167
+No seas así.
+
+440
+00:30:40,250 --> 00:30:43,583
+- ¿Así cómo?
+- Alguien que hace todo por las malas.
+
+441
+00:30:49,917 --> 00:30:51,667
+Parece que soy así.
+
+442
+00:31:14,792 --> 00:31:17,042
+<i>La nación permanece en alerta máxima.</i>
+
+443
+00:31:17,125 --> 00:31:19,000
+<i>El Depto. de Justicia señaló</i>
+
+444
+00:31:19,083 --> 00:31:22,958
+<i>que procesarán a Isaiah Bradley
+y le pueden dar pena de muerte.</i>
+
+445
+00:31:23,042 --> 00:31:24,750
+Solo cinco minutos, Cap.
+
+446
+00:31:27,708 --> 00:31:31,250
+- Podrían iniciarme un consejo de guerra.
+- Gracias, Payumo.
+
+447
+00:31:31,333 --> 00:31:32,333
+De nada, señor.
+
+448
+00:31:58,833 --> 00:32:00,417
+¿Cómo lo llevas?
+
+449
+00:32:01,250 --> 00:32:03,125
+Nada bien, hermano Sam.
+
+450
+00:32:04,333 --> 00:32:05,333
+Isaiah.
+
+451
+00:32:06,417 --> 00:32:09,750
+Mírame a los ojos.
+Dime que no conspiraste para matar a Ross.
+
+452
+00:32:09,833 --> 00:32:10,917
+Claro que no.
+
+453
+00:32:11,000 --> 00:32:13,667
+¿Qué te pasó
+para dispararle al presidente?
+
+454
+00:32:13,750 --> 00:32:16,500
+- No sé.
+- Debes darme más detalles.
+
+455
+00:32:17,542 --> 00:32:19,375
+¿Recuerdas algo?
+
+456
+00:32:19,917 --> 00:32:23,792
+Me corté el pelo, recogí
+mi traje de la tintorería y fui a verte.
+
+457
+00:32:25,458 --> 00:32:27,167
+Subimos a la limusina
+
+458
+00:32:28,833 --> 00:32:30,375
+y nos sacamos una foto.
+
+459
+00:32:30,458 --> 00:32:33,958
+Pero mi teléfono andaba mal.
+
+460
+00:32:34,042 --> 00:32:37,667
+Y fuimos a la Sala Este.
+
+461
+00:32:39,208 --> 00:32:42,833
+Primero estaba sentado ahí,
+y luego, parado en el parque.
+
+462
+00:32:44,750 --> 00:32:48,917
+Debí quedarme en casa
+y ocuparme de mis asuntos.
+
+463
+00:32:49,000 --> 00:32:51,458
+No es tu culpa.
+Hay alguien detrás de esto.
+
+464
+00:32:51,542 --> 00:32:55,667
+Sam, lo último que quiero
+es que esto te afecte.
+
+465
+00:33:03,542 --> 00:33:04,750
+Además…
+
+466
+00:33:09,708 --> 00:33:13,083
+Esta vez no tengo escapatoria.
+
+467
+00:33:14,958 --> 00:33:16,667
+Voy a morir aquí dentro.
+
+468
+00:33:16,750 --> 00:33:18,458
+No, no vas a morir aquí.
+
+469
+00:33:18,542 --> 00:33:19,792
+Voy a sacarte.
+
+470
+00:33:24,375 --> 00:33:26,625
+- ¿Quieres ayudarme?
+- Claro.
+
+471
+00:33:28,875 --> 00:33:30,208
+No regreses.
+
+472
+00:33:35,292 --> 00:33:36,292
+Guardia.
+
+473
+00:33:54,292 --> 00:33:59,375
+Sargento Payumo, deme una copia
+de esa charla. Quiero echar otro vistazo.
+
+474
+00:33:59,458 --> 00:34:00,500
+Sí, señora.
+
+475
+00:34:00,583 --> 00:34:02,542
+Y buen trabajo con Wilson.
+
+476
+00:34:02,625 --> 00:34:05,000
+Avíseme si lo visita otra vez.
+
+477
+00:34:05,083 --> 00:34:06,083
+Entendido.
+
+478
+00:34:09,333 --> 00:34:10,292
+<i>¿Entraste?</i>
+
+479
+00:34:10,375 --> 00:34:12,417
+<i>Cometí traición y espionaje,</i>
+
+480
+00:34:12,500 --> 00:34:15,750
+pero entré al circuito cerrado de TV
+de la Casa Blanca.
+
+481
+00:34:15,833 --> 00:34:19,042
+- ¿Qué busco?
+<i>- Cuando Isaiah estalló en la Casa Blanca,</i>
+
+482
+00:34:19,125 --> 00:34:23,208
+me recordó a un amigo. Lo controlaban
+con palabras desencadenantes.
+
+483
+00:34:23,292 --> 00:34:25,417
+¿Viste a algún extraño hablándole?
+
+484
+00:34:25,500 --> 00:34:30,333
+<i>No, llegamos allí, sacamos una foto,
+se la envié por AirDrop, nada raro.</i>
+
+485
+00:34:30,417 --> 00:34:32,583
+Dijo que su teléfono andaba mal.
+
+486
+00:34:32,667 --> 00:34:33,750
+Vaya.
+
+487
+00:34:33,833 --> 00:34:35,042
+Creo que hallé algo.
+
+488
+00:34:36,333 --> 00:34:37,708
+<i>¿Qué es?</i>
+
+489
+00:34:37,792 --> 00:34:40,042
+Su teléfono parece que parpadeara.
+
+490
+00:34:42,625 --> 00:34:45,667
+Mierda, le pasa lo mismo
+a otro de los tiradores.
+
+491
+00:34:46,375 --> 00:34:48,833
+{\an8}CNEL. HUNTER BARCROFT
+EJÉRCITO DE EE. UU.
+
+492
+00:35:05,333 --> 00:35:07,875
+INVITADO: ISAIAH BRADLEY
+
+493
+00:35:08,417 --> 00:35:10,292
+¿Qué diablos pasa?
+
+494
+00:35:14,667 --> 00:35:18,708
+Alcaide Cooper, habla Ross.
+¿El detenido está seguro?
+
+495
+00:35:18,792 --> 00:35:21,833
+Le confirmo
+que el detenido está en su celda.
+
+496
+00:35:21,917 --> 00:35:23,458
+¿Puede ver al desgraciado?
+
+497
+00:35:23,542 --> 00:35:24,500
+<i>¿En persona?</i>
+
+498
+00:35:24,583 --> 00:35:26,292
+Lo estoy viendo ahora mismo.
+
+499
+00:35:26,375 --> 00:35:27,500
+Gracias, Cooper.
+
+500
+00:35:29,208 --> 00:35:30,958
+Gracias, Sr. Presidente.
+
+501
+00:35:37,292 --> 00:35:39,500
+Sigo pensando en lo de México.
+
+502
+00:35:39,583 --> 00:35:42,042
+Fuimos a la Casa Blanca
+porque el comprador faltó.
+
+503
+00:35:43,125 --> 00:35:46,708
+¿Por qué contratar a SERPIENTE
+si no vas a recoger el botín?
+
+504
+00:35:46,792 --> 00:35:51,125
+- Esperarían al Capitán América.
+<i>- ¿Y si el comprador quería que yo fuera?</i>
+
+505
+00:35:51,208 --> 00:35:54,125
+- ¿Y si nos quería en la Casa Blanca?
+<i>- ¿Cómo sabría</i>
+
+506
+00:35:54,208 --> 00:35:57,833
+que nos invitarían,
+o que tú invitarías a Isaiah?
+
+507
+00:35:57,917 --> 00:35:59,875
+<i>El comprador debe vigilarnos.</i>
+
+508
+00:36:00,417 --> 00:36:01,833
+Otra cosa.
+
+509
+00:36:01,917 --> 00:36:07,875
+Averigua todo sobre Ruth Bat-Seraph,
+la asesora de seguridad de Ross.
+
+510
+00:36:07,958 --> 00:36:08,792
+<i>Entendido.</i>
+
+511
+00:36:09,333 --> 00:36:10,417
+Luego te llamo.
+
+512
+00:36:41,667 --> 00:36:45,625
+Objetivo eliminado.
+Espero para ver la prueba de su muerte.
+
+513
+00:37:10,792 --> 00:37:14,250
+No creo que vinieras desde México
+solo para volar mi auto.
+
+514
+00:37:14,333 --> 00:37:16,333
+Te reconciliaste con el comprador.
+
+515
+00:37:17,958 --> 00:37:21,042
+Llámalo. Déjame ver si puedo resolverlo.
+
+516
+00:37:21,125 --> 00:37:23,167
+¿"Resolverlo"?
+
+517
+00:37:25,333 --> 00:37:26,958
+El comprador me dijo todo.
+
+518
+00:37:27,750 --> 00:37:31,500
+Mencionó que si sobrevivías a la granada,
+
+519
+00:37:31,583 --> 00:37:37,417
+había un 77 % de posibilidades
+de que intentaras convencerme.
+
+520
+00:37:39,250 --> 00:37:40,250
+Mira eso.
+
+521
+00:38:12,458 --> 00:38:14,875
+El comprador me dijo mucho en realidad.
+
+522
+00:38:14,958 --> 00:38:16,833
+Luego de no aparecer en México,
+
+523
+00:38:16,917 --> 00:38:19,542
+acordó pagarme el doble para matarte.
+
+524
+00:38:19,625 --> 00:38:24,250
+Lo que no sabe es que te mataría gratis.
+
+525
+00:38:24,792 --> 00:38:29,417
+¿Cuántas veces tienes la posibilidad
+de matar al Capitán América?
+
+526
+00:38:31,042 --> 00:38:33,000
+LEJÍA
+
+527
+00:38:41,250 --> 00:38:43,375
+Te desesperas sin tu equipo.
+
+528
+00:38:49,042 --> 00:38:50,500
+No.
+
+529
+00:38:50,583 --> 00:38:52,083
+Solo me vuelvo más malo.
+
+530
+00:39:00,375 --> 00:39:01,250
+Hola.
+
+531
+00:39:01,333 --> 00:39:02,833
+<i>Bien hecho, Capitán.</i>
+
+532
+00:39:02,917 --> 00:39:05,375
+<i>Pero no te va a gustar lo que sigue.</i>
+
+533
+00:39:05,458 --> 00:39:06,625
+<i>¿Quién habla?</i>
+
+534
+00:39:14,875 --> 00:39:17,292
+<i>¿Cómo confiar en usted para liderar</i>
+
+535
+00:39:17,375 --> 00:39:21,042
+<i>si ni siquiera puede mantener
+su casa en orden?</i>
+
+536
+00:39:22,375 --> 00:39:24,208
+Los tiradores están detenidos.
+
+537
+00:39:24,958 --> 00:39:27,583
+Solo pido paciencia.
+
+538
+00:39:27,667 --> 00:39:30,375
+<i>¿Paciencia? ¿Eso pide el cazador de Hulk?</i>
+
+539
+00:39:31,958 --> 00:39:33,375
+Eso fue hace mucho.
+
+540
+00:39:33,458 --> 00:39:38,917
+<i>Sr. Presidente,
+ayer casi me matan en su casa.</i>
+
+541
+00:39:39,000 --> 00:39:42,458
+<i>Y hoy, sigue encerrado en su búnker.</i>
+
+542
+00:39:42,542 --> 00:39:45,833
+<i>No está en posición de pedir nada.</i>
+
+543
+00:39:45,917 --> 00:39:46,917
+<i>Coincido.</i>
+
+544
+00:39:47,000 --> 00:39:49,833
+<i>Deberíamos seguir
+esta charla en otro momento.</i>
+
+545
+00:39:49,917 --> 00:39:51,792
+Esperen, caballeros.
+
+546
+00:39:51,875 --> 00:39:53,083
+Por favor.
+
+547
+00:39:53,625 --> 00:39:56,708
+El tratado es muy importante
+para dejar que fracase.
+
+548
+00:39:56,792 --> 00:39:59,458
+Le hicimos una promesa a nuestro pueblo.
+
+549
+00:39:59,542 --> 00:40:01,708
+Al mundo.
+
+550
+00:40:02,833 --> 00:40:04,333
+Debemos salir airosos.
+
+551
+00:40:05,958 --> 00:40:08,208
+<i>Necesitamos a Japón para proceder.</i>
+
+552
+00:40:08,292 --> 00:40:12,667
+<i>Y la ausencia
+del primer ministro Ozaki lo dice todo.</i>
+
+553
+00:40:12,750 --> 00:40:17,125
+Haré que Japón vuelva a la negociación.
+Ozaki y yo nos conocemos hace mucho.
+
+554
+00:40:17,958 --> 00:40:19,917
+Quiere que lo reelijan.
+
+555
+00:40:20,000 --> 00:40:22,917
+Necesita afirmar
+su liderazgo con este tratado.
+
+556
+00:40:23,667 --> 00:40:27,417
+<i>Bueno, Sr. Presidente, tendremos paciencia</i>
+
+557
+00:40:27,500 --> 00:40:30,250
+<i>mientras trata de que Japón se sume.</i>
+
+558
+00:40:30,333 --> 00:40:36,083
+<i>Pero si no lo hace,
+tomaremos medidas por nuestra cuenta.</i>
+
+559
+00:40:41,000 --> 00:40:42,417
+Debo salir de aquí.
+
+560
+00:40:42,500 --> 00:40:44,833
+- Siéntense.
+- Aún no revisamos todo.
+
+561
+00:40:45,708 --> 00:40:47,625
+Cuanto más tiempo me quede aquí,
+
+562
+00:40:48,375 --> 00:40:49,833
+más débil pareceré.
+
+563
+00:41:00,083 --> 00:41:01,250
+¿Qué te pasó?
+
+564
+00:41:02,958 --> 00:41:05,125
+Me localizó Sidewinder.
+
+565
+00:41:05,208 --> 00:41:07,125
+Al parecer, hizo más que eso.
+
+566
+00:41:08,292 --> 00:41:09,833
+La policía ya lo arrestó.
+
+567
+00:41:12,583 --> 00:41:14,500
+- Mierda, ¿estás bien?
+- Lo estaré.
+
+568
+00:41:14,583 --> 00:41:16,417
+Localiza la última llamada.
+
+569
+00:41:17,708 --> 00:41:18,708
+De acuerdo.
+
+570
+00:41:25,000 --> 00:41:28,333
+Escucha esto.
+La asesora de Ross, Ruth Bat-Seraph,
+
+571
+00:41:28,417 --> 00:41:32,625
+nació en Israel y se entrenó
+en la Habitación Roja. Fue viuda negra.
+
+572
+00:41:32,708 --> 00:41:34,792
+Entonces, no te metas en su camino.
+
+573
+00:41:34,875 --> 00:41:35,792
+Créeme.
+
+574
+00:41:35,875 --> 00:41:36,958
+Sí.
+
+575
+00:41:43,875 --> 00:41:45,042
+Esto es raro.
+
+576
+00:41:45,125 --> 00:41:48,417
+Isaiah tenía a Ross en la mira.
+
+577
+00:41:48,958 --> 00:41:50,208
+No podía fallar.
+
+578
+00:41:50,292 --> 00:41:51,250
+No lo entiendo.
+
+579
+00:41:51,333 --> 00:41:53,667
+¿Por qué molestarse para no matarlo?
+
+580
+00:41:54,208 --> 00:41:55,167
+No lo sé.
+
+581
+00:41:56,250 --> 00:41:59,375
+Mierda. Localicé
+la última llamada de Sidewinder.
+
+582
+00:41:59,958 --> 00:42:02,917
+En medio de la nada, Virginia Occidental.
+Cerca de un bosque.
+
+583
+00:42:03,000 --> 00:42:04,333
+CAMPAMENTO ECO UNO
+
+584
+00:42:04,958 --> 00:42:08,000
+La base de datos solo muestra un nombre:
+campamento Eco Uno.
+
+585
+00:42:09,417 --> 00:42:13,333
+Sin imágenes satelitales.
+Alejado del tráfico aéreo.
+
+586
+00:42:14,375 --> 00:42:16,667
+Sin infraestructura en la zona.
+
+587
+00:42:17,208 --> 00:42:18,625
+- ¿Crees que es militar?
+- Sí.
+
+588
+00:42:18,708 --> 00:42:20,917
+Te envían ahí, y no sales más.
+
+589
+00:42:28,833 --> 00:42:30,625
+Ross dijo que no me metiera.
+
+590
+00:42:31,417 --> 00:42:33,625
+Solo es el presidente de EE. UU.
+
+591
+00:42:48,167 --> 00:42:49,792
+No tienes que acompañarme.
+
+592
+00:42:50,792 --> 00:42:52,917
+Obvio. Es lo que lo hace tan noble.
+
+593
+00:42:54,958 --> 00:42:58,167
+Empaca todo lo que puedas.
+No sé cuándo volveremos.
+
+594
+00:42:59,458 --> 00:43:01,750
+¿Quieres decir ya mismo?
+
+595
+00:43:01,833 --> 00:43:03,000
+Sí.
+
+596
+00:43:03,958 --> 00:43:05,583
+Mierda. Está bien.
+
+597
+00:43:05,667 --> 00:43:08,917
+Virginia Occidental queda lejos,
+necesitaremos bocadillos.
+
+598
+00:43:09,000 --> 00:43:10,583
+¿Por qué te invité?
+
+599
+00:43:10,667 --> 00:43:12,083
+¿Qué? Espera.
+
+600
+00:43:15,083 --> 00:43:16,083
+¡Espera!
+
+601
+00:43:16,583 --> 00:43:17,917
+Ruth Bat-Seraph.
+
+602
+00:43:18,000 --> 00:43:20,125
+Isaiah Bradley está en la celda 14.
+
+603
+00:43:20,208 --> 00:43:22,083
+- Los otros, en la 15.
+- Bien.
+
+604
+00:43:22,167 --> 00:43:23,292
+¿Necesita escolta?
+
+605
+00:43:24,125 --> 00:43:25,542
+Creo que estaré bien.
+
+606
+00:43:25,625 --> 00:43:27,125
+- Gracias.
+- Sí, señora.
+
+607
+00:43:35,000 --> 00:43:36,625
+Quisiera hablarles de a uno.
+
+608
+00:43:36,708 --> 00:43:38,542
+Puede… ¿Disculpe?
+
+609
+00:43:38,625 --> 00:43:40,958
+Payumo. A usted le hablo. Oiga.
+
+610
+00:43:43,208 --> 00:43:44,833
+¡Alto! ¡Suelte el arma!
+
+611
+00:43:46,833 --> 00:43:48,542
+¿Qué hace, Payumo?
+
+612
+00:43:49,083 --> 00:43:50,333
+Suéltela.
+
+613
+00:44:00,667 --> 00:44:06,042
+<i>Soy el Sr. Azul</i>
+
+614
+00:44:06,125 --> 00:44:07,625
+<i>Cuando dices…</i>
+
+615
+00:44:07,708 --> 00:44:11,125
+ESTADOS UNIDOS DE AMÉRICA
+
+616
+00:44:11,208 --> 00:44:13,875
+<i>Aumenta la velocidad y la resistencia.</i>
+
+617
+00:44:13,958 --> 00:44:16,167
+<i>O haz lo necesario para conseguirlo.</i>
+
+618
+00:44:16,792 --> 00:44:19,375
+<i>Quédate en tu carril. Allá vamos.</i>
+
+619
+00:44:20,375 --> 00:44:21,375
+<i>¡A la tercera!</i>
+
+620
+00:44:21,458 --> 00:44:23,458
+<i>Mira el premio. Mira el objetivo, cariño.</i>
+
+621
+00:44:24,083 --> 00:44:25,542
+<i>- No pienses en rapidez.</i>
+- Basta.
+
+622
+00:44:25,625 --> 00:44:27,292
+<i>Sino en dirección e intención.</i>
+
+623
+00:44:27,792 --> 00:44:29,833
+Si la doctora Eccles pregunta,
+
+624
+00:44:30,542 --> 00:44:34,958
+dile que hice los ocho km.
+
+625
+00:44:37,875 --> 00:44:39,208
+Esa mirada.
+
+626
+00:44:40,333 --> 00:44:42,625
+Aterrizaremos en Tokio a las 6:00 a. m.
+
+627
+00:44:44,333 --> 00:44:47,208
+¿Sigues pensando que es mala idea?
+
+628
+00:44:47,292 --> 00:44:50,750
+El que organizó el ataque
+en la Casa Blanca sigue libre.
+
+629
+00:44:50,833 --> 00:44:54,208
+Los vuelos internacionales
+conllevan riesgos imprevisibles.
+
+630
+00:44:55,167 --> 00:44:57,833
+Apenas logramos convencer al Congreso.
+
+631
+00:44:58,792 --> 00:45:03,417
+Si perdemos los aliados internacionales,
+este tratado está frito.
+
+632
+00:45:05,042 --> 00:45:06,583
+Debo hacer que funcione.
+
+633
+00:45:08,333 --> 00:45:11,458
+Casi cinco km.
+Se lo diré a la doctora Eccles.
+
+634
+00:45:11,958 --> 00:45:13,000
+Ocho.
+
+635
+00:45:13,083 --> 00:45:14,833
+- Ocho.
+- Ocho.
+
+636
+00:45:14,917 --> 00:45:16,250
+¿Vemos dónde está Wilson?
+
+637
+00:45:16,333 --> 00:45:20,000
+Dejó la base hace unas horas con
+Joaquín Torres. Tiraron sus <i>smartphones.</i>
+
+638
+00:45:20,083 --> 00:45:21,458
+Están fuera de radar.
+
+639
+00:45:21,542 --> 00:45:24,667
+No quiero una variable
+que no pueda controlar.
+
+640
+00:45:24,750 --> 00:45:27,167
+Reúne un equipo, recógelo y tráelo.
+
+641
+00:45:27,250 --> 00:45:28,417
+- Sí, señor.
+- Sí.
+
+642
+00:45:29,125 --> 00:45:34,375
+<i>Últimas noticias, el presidente Ross va a
+Japón a un día de que intentaran matarlo</i>…
+
+643
+00:45:34,458 --> 00:45:36,667
+Seguro que siempre jugabas
+a este juego viejo.
+
+644
+00:45:36,750 --> 00:45:39,375
+- Maldita sea. Es difícil.
+- Así es.
+
+645
+00:45:39,458 --> 00:45:42,458
+<i>- La importantísima reunión diplomática</i>…
+- ¿Cuánto falta?
+
+646
+00:45:42,542 --> 00:45:45,583
+<i>…ocurre en medio de las tensiones
+por controlar la Isla Celestial.</i>
+
+647
+00:45:45,667 --> 00:45:48,250
+Llegaremos en una hora.
+
+648
+00:45:54,000 --> 00:45:56,417
+Mierda. Tirotearon la cárcel de Isaiah.
+
+649
+00:45:56,500 --> 00:45:58,125
+¿Está bien?
+
+650
+00:45:58,208 --> 00:45:59,875
+Sí, pero los otros…
+
+651
+00:46:00,333 --> 00:46:01,417
+están muertos.
+
+652
+00:46:01,500 --> 00:46:02,667
+Mierda.
+
+653
+00:46:03,292 --> 00:46:04,292
+¿Regresamos?
+
+654
+00:46:07,000 --> 00:46:08,042
+No.
+
+655
+00:46:08,125 --> 00:46:09,208
+Seguiremos.
+
+656
+00:46:09,292 --> 00:46:12,208
+El comprador es listo,
+pero no mordimos el anzuelo.
+
+657
+00:46:12,292 --> 00:46:17,000
+Solo podemos ayudar a Isaiah sabiendo
+quién está detrás de esto. Y el que sea,
+
+658
+00:46:17,500 --> 00:46:19,458
+no quiere que nos acerquemos.
+
+659
+00:46:19,542 --> 00:46:21,500
+Llamada entrante…
+Alcaide Cooper
+
+660
+00:46:25,250 --> 00:46:26,250
+Cooper.
+
+661
+00:46:26,750 --> 00:46:27,750
+¿Qué sucede?
+
+662
+00:46:27,833 --> 00:46:31,500
+Sr. Presidente, por precaución,
+trasladé al prisionero a…
+
+663
+00:46:34,000 --> 00:46:37,833
+Presidente Ross, extraño sus visitas.
+
+664
+00:46:38,875 --> 00:46:39,833
+Dígame una cosa.
+
+665
+00:46:39,917 --> 00:46:43,542
+<i>¿Se paró a preguntarse
+quién reproduce la música?</i>
+
+666
+00:46:43,625 --> 00:46:44,625
+Eres tú.
+
+667
+00:46:45,792 --> 00:46:47,292
+La Casa Blanca,
+
+668
+00:46:47,375 --> 00:46:48,833
+el intento de asesinato.
+
+669
+00:46:48,917 --> 00:46:50,667
+Es una forma de decirlo.
+
+670
+00:46:50,750 --> 00:46:53,417
+<i>Te ayudé más que nadie.</i>
+
+671
+00:46:53,917 --> 00:46:56,667
+- Solo para lograr lo que quiere.
+<i>- ¿Qué quieres?</i>
+
+672
+00:46:56,750 --> 00:47:00,333
+<i>Recuperar mi vida,
+pero es muy tarde para eso.</i>
+
+673
+00:47:00,417 --> 00:47:01,667
+Entiende…
+
+674
+00:47:01,750 --> 00:47:03,708
+Entiende mi postura.
+
+675
+00:47:03,792 --> 00:47:05,083
+- Yo…
+<i>- La entiendo.</i>
+
+676
+00:47:06,125 --> 00:47:09,292
+<i>Dejó que me pudriera en esta cárcel.</i>
+
+677
+00:47:09,375 --> 00:47:14,125
+<i>Y mi maldición fue ver su traición
+escrita en las probabilidades.</i>
+
+678
+00:47:14,667 --> 00:47:17,500
+Ahora tomo mis propias decisiones.
+
+679
+00:47:17,583 --> 00:47:20,083
+<i>Quedan muchas sorpresas.</i>
+
+680
+00:47:20,167 --> 00:47:21,083
+<i>Cuando termine,</i>
+
+681
+00:47:21,167 --> 00:47:24,125
+todos sabrán cómo es usted en realidad,
+
+682
+00:47:24,208 --> 00:47:27,167
+<i>y Betty lo va a despreciar aún más.</i>
+
+683
+00:47:28,083 --> 00:47:29,417
+<i>Adiós, Sr. Presidente.</i>
+
+684
+00:47:33,167 --> 00:47:34,333
+¿Qué diablos pasa?
+
+685
+00:47:34,875 --> 00:47:36,583
+Lo pondré en aislamiento.
+
+686
+00:47:36,667 --> 00:47:37,500
+Sí.
+
+687
+00:47:38,083 --> 00:47:40,417
+Nadie me va a poner ahí otra vez.
+
+688
+00:47:40,500 --> 00:47:41,875
+Es para protegerlo.
+
+689
+00:47:42,625 --> 00:47:45,625
+Se lo repetiré para su protección,
+
+690
+00:47:45,708 --> 00:47:48,333
+no me meteré otra vez en una caja.
+
+691
+00:47:49,333 --> 00:47:53,708
+- No podré garantizar su seguridad.
+- La seguridad no es tan buena como dicen.
+
+692
+00:47:55,167 --> 00:47:57,375
+¿Aún cree que estoy metido en esto?
+
+693
+00:47:58,542 --> 00:47:59,542
+No lo sé.
+
+694
+00:48:05,708 --> 00:48:06,542
+Sr. Presidente.
+
+695
+00:48:06,625 --> 00:48:10,208
+<i>Deja lo que estés haciendo.
+El campamento Eco Uno está en peligro.</i>
+
+696
+00:48:10,750 --> 00:48:11,917
+Sí, Sr. Presidente.
+
+697
+00:48:17,583 --> 00:48:20,500
+Está entrando al área
+de instrumentos radioastronómicos
+
+698
+00:48:39,875 --> 00:48:40,875
+Es aquí.
+
+699
+00:48:41,708 --> 00:48:42,875
+El campamento Eco Uno.
+
+700
+00:48:45,042 --> 00:48:49,000
+Los radiotelescopios deben ser
+una fachada. Veamos qué hay debajo.
+
+701
+00:48:52,917 --> 00:48:57,250
+Hay cámaras y guardias. Redwing,
+corta la valla y pon el video en bucle.
+
+702
+00:49:02,583 --> 00:49:05,875
+Tenemos 28 segundos
+para pasar a los guardias.
+
+703
+00:49:05,958 --> 00:49:07,667
+Abriremos la puerta manualmente.
+
+704
+00:49:09,583 --> 00:49:11,833
+Tres, dos, uno,
+
+705
+00:49:12,375 --> 00:49:13,208
+vamos.
+
+706
+00:49:27,083 --> 00:49:27,917
+Quince segundos.
+
+707
+00:49:28,000 --> 00:49:29,250
+¡Estoy tratando!
+
+708
+00:49:30,583 --> 00:49:31,833
+¡Mierda!
+
+709
+00:50:19,292 --> 00:50:20,750
+No hay presos.
+
+710
+00:51:09,375 --> 00:51:11,292
+¿Por qué un laboratorio en esta cárcel?
+
+711
+00:51:19,833 --> 00:51:21,292
+¿Qué es este lugar?
+
+712
+00:51:37,542 --> 00:51:40,417
+Samuel Sterns - Máster en Ciencias
+Biología celular y molecular
+
+713
+00:52:34,083 --> 00:52:35,500
+¿Qué diablos es esto?
+
+714
+00:52:35,583 --> 00:52:38,417
+{\an8}Tres píldoras al día
+No exceder la dosis
+
+715
+00:52:42,542 --> 00:52:43,542
+<i>Ozaki-san,</i>
+
+716
+00:52:43,625 --> 00:52:47,083
+quiero asegurarle que EE. UU. sigue
+comprometido a compartir el adamantium
+
+717
+00:52:47,167 --> 00:52:48,292
+TOKIO, JAPÓN
+
+718
+00:52:48,375 --> 00:52:50,208
+con el resto del mundo.
+
+719
+00:52:50,292 --> 00:52:53,625
+Confío en que Japón lo comparta.
+
+720
+00:52:54,167 --> 00:52:56,083
+El mundo necesita este tratado.
+
+721
+00:52:59,500 --> 00:53:01,417
+La diplomacia le debe costar.
+
+722
+00:53:02,208 --> 00:53:06,333
+Alguien de un país habituado
+a tomar lo que quiere por la fuerza.
+
+723
+00:53:07,000 --> 00:53:08,000
+¿Perdón?
+
+724
+00:53:08,083 --> 00:53:10,917
+¿Cómo explicar si no
+que nos robó el adamantium,
+
+725
+00:53:11,000 --> 00:53:14,083
+solo para devolvérnoslo en Washington.
+
+726
+00:53:14,583 --> 00:53:17,583
+Su acusación es infundada
+
+727
+00:53:17,667 --> 00:53:19,625
+e insultante.
+
+728
+00:53:19,708 --> 00:53:24,958
+¿La información que recibió
+y verificó mi equipo de inteligencia
+
+729
+00:53:25,042 --> 00:53:26,750
+es incorrecta entonces?
+
+730
+00:53:39,167 --> 00:53:40,167
+Soy un tonto.
+
+731
+00:53:42,375 --> 00:53:48,333
+Por negociar con alguien tan ingenuo
+que no se da cuenta de que lo engañaron.
+
+732
+00:53:49,208 --> 00:53:50,208
+¿Ingenuo?
+
+733
+00:53:51,625 --> 00:53:53,375
+Si hubiera robado la muestra,
+
+734
+00:53:53,917 --> 00:53:57,750
+¿por qué le ordenaría
+al Capitán América recuperarla?
+
+735
+00:53:57,833 --> 00:54:00,542
+Supongo que nunca sabremos la verdad.
+
+736
+00:54:06,667 --> 00:54:09,708
+Sea cual sea su jueguito,
+Japón no quiere ser parte.
+
+737
+00:54:10,542 --> 00:54:12,208
+No nos ponga a prueba.
+
+738
+00:54:19,625 --> 00:54:24,417
+- Hay datos optogenéticos de mucha gente.
+- No me hagas buscar palabras, Joaquín.
+
+739
+00:54:24,500 --> 00:54:29,000
+Descubrió cómo plantar comandos
+en el subconsciente usando <i>flashes </i>de luz.
+
+740
+00:54:29,542 --> 00:54:32,125
+La canción "Mr. Blue"
+parece ser el disparador.
+
+741
+00:54:32,208 --> 00:54:33,333
+Control mental.
+
+742
+00:54:34,042 --> 00:54:35,042
+Sí.
+
+743
+00:54:35,125 --> 00:54:36,750
+Eso explica lo de Isaiah.
+
+744
+00:54:42,875 --> 00:54:44,750
+<i>Y lo más importante.</i>
+
+745
+00:54:44,833 --> 00:54:49,250
+<i>Arriésguense. Usen
+esos cerebros grandiosos que tienen.</i>
+
+746
+00:54:49,333 --> 00:54:51,458
+No era tan feo, ¿verdad?
+
+747
+00:54:57,875 --> 00:54:59,292
+Samuel Sterns.
+
+748
+00:55:02,458 --> 00:55:05,083
+Se necesita mucho para sorprenderme.
+
+749
+00:55:07,333 --> 00:55:12,917
+Si Isaiah Bradley estaba en peligro, había
+un 89 % de posibilidades de que volvieras,
+
+750
+00:55:13,833 --> 00:55:15,708
+y aun así viniste.
+
+751
+00:55:17,250 --> 00:55:18,333
+Eres el comprador.
+
+752
+00:55:18,417 --> 00:55:19,417
+Así es.
+
+753
+00:55:19,500 --> 00:55:22,042
+Contratar a SERPIENTE
+fue un paso necesario
+
+754
+00:55:22,125 --> 00:55:25,208
+para crear una cadena
+de certezas estadísticas.
+
+755
+00:55:25,292 --> 00:55:30,125
+- Quizá no eres tan listo como crees.
+- Lo soy, en realidad.
+
+756
+00:55:30,208 --> 00:55:33,083
+Mi mente lo ve todo,
+cada resultado probable.
+
+757
+00:55:33,875 --> 00:55:36,792
+Contrataste a SERPIENTE
+para robar el adamantium,
+
+758
+00:55:36,875 --> 00:55:41,375
+tirotear la cumbre de Ross
+que lo anunciaba y ahora esperas aquí.
+
+759
+00:55:42,333 --> 00:55:44,042
+¿Por qué quieres matar a Ross?
+
+760
+00:55:44,125 --> 00:55:48,000
+¿Por qué todos piensan que quiero matarlo?
+
+761
+00:55:48,500 --> 00:55:52,292
+¿Porque me encarceló aquí
+sin juicio previo
+
+762
+00:55:52,375 --> 00:55:56,417
+luego de que los rayos gamma
+deformaran mi estructura cerebral?
+
+763
+00:56:00,500 --> 00:56:01,500
+Maldición.
+
+764
+00:56:02,333 --> 00:56:05,083
+Cuando Ross descubrió
+lo útil que podía serle,
+
+765
+00:56:05,167 --> 00:56:08,208
+me mantuvo 16 años aquí,
+
+766
+00:56:08,292 --> 00:56:11,042
+haciendo que mi mente
+resolviera sus problemas.
+
+767
+00:56:11,125 --> 00:56:14,958
+Mis soluciones le dieron
+el cargo más importante del país.
+
+768
+00:56:16,625 --> 00:56:19,917
+Si quisiera que Ross muriera,
+ya lo habría hecho.
+
+769
+00:56:20,625 --> 00:56:22,000
+Lo que sea que hagas,
+
+770
+00:56:22,500 --> 00:56:25,375
+lastima a mucha gente,
+incluyendo a mi amigo.
+
+771
+00:56:25,458 --> 00:56:28,208
+Te doy una última oportunidad
+para detenerlo.
+
+772
+00:56:28,292 --> 00:56:30,125
+¿Por qué lo proteges?
+
+773
+00:56:30,208 --> 00:56:33,292
+Ross sabe que soy el responsable
+por lo de la Casa Blanca,
+
+774
+00:56:33,375 --> 00:56:36,250
+y aun así deja preso a Isaiah por ello.
+
+775
+00:56:36,333 --> 00:56:37,708
+Nunca cambiará.
+
+776
+00:56:38,333 --> 00:56:40,667
+- Déjame terminar mi trabajo.
+- No puedo.
+
+777
+00:56:46,417 --> 00:56:49,333
+¡No seas aburrido, por favor!
+
+778
+00:56:56,875 --> 00:56:58,417
+¿Crees que nos detendrán?
+
+779
+00:56:58,500 --> 00:57:01,625
+El tiempo suficiente.
+Eres un problema fascinante.
+
+780
+00:57:02,542 --> 00:57:06,958
+Pero pronto vas a estar fuera de esto
+y no me volverás a sorprender.
+
+781
+00:57:08,333 --> 00:57:12,167
+- Esto está mal. Ni es su decisión.
+- Lo sé. Intenta neutralizarlos.
+
+782
+00:58:19,875 --> 00:58:20,875
+Idiota.
+
+783
+00:58:36,458 --> 00:58:38,333
+¡Deténganse!
+
+784
+00:58:40,417 --> 00:58:41,875
+Los arrestaré.
+
+785
+00:58:42,375 --> 00:58:43,833
+Me encargaré de esos dos.
+
+786
+00:58:46,667 --> 00:58:47,708
+Está bien.
+
+787
+00:59:12,583 --> 00:59:16,292
+- ¿Qué diablos hacen aquí?
+- Es lo que debería preguntarte a ti.
+
+788
+00:59:16,792 --> 00:59:17,792
+¿Y Sterns?
+
+789
+00:59:19,417 --> 00:59:23,208
+Si escapó, hay que fijar un perímetro,
+controles de ruta, apoyo aéreo.
+
+790
+00:59:23,292 --> 00:59:24,667
+No puede estar lejos.
+
+791
+00:59:24,750 --> 00:59:25,958
+¿Por qué nos ayudas?
+
+792
+00:59:26,625 --> 00:59:28,792
+Porque tenías razón. Creí que era obvio.
+
+793
+00:59:29,583 --> 00:59:30,750
+- ¡Alto!
+- Está bien.
+
+794
+00:59:30,833 --> 00:59:33,042
+Debemos detener al Capitán América.
+
+795
+00:59:33,125 --> 00:59:36,333
+Ya detuvieron a un Capitán América.
+¿Quieren otro?
+
+796
+00:59:36,417 --> 00:59:39,417
+Lo arresto por invadir
+un área restringida del gobierno.
+
+797
+00:59:40,917 --> 00:59:43,458
+- ¿Tener razón siempre es así?
+- Casi siempre.
+
+798
+00:59:46,042 --> 00:59:48,292
+Tengo autorización. Fue un día agotador.
+
+799
+00:59:48,375 --> 00:59:50,833
+Es una ex viuda negra. Que lo elimine.
+
+800
+00:59:50,917 --> 00:59:53,125
+Son órdenes del mismísimo presidente.
+
+801
+00:59:53,208 --> 00:59:54,542
+Llévenselos de aquí.
+
+802
+00:59:54,625 --> 00:59:55,917
+Entonces, lo llamaremos.
+
+803
+00:59:56,000 --> 00:59:58,000
+<i>Soy el Sr. Azul</i>
+
+804
+00:59:58,083 --> 00:59:58,917
+¡Suéltanos, Ruth!
+
+805
+00:59:59,000 --> 01:00:02,333
+<i>Cuando dices que…</i>
+
+806
+01:00:02,417 --> 01:00:03,708
+- Mierda.
+- Otra vez no.
+
+807
+01:00:03,792 --> 01:00:05,750
+- ¡Corran!
+- Rápido. ¡Corran!
+
+808
+01:00:13,750 --> 01:00:14,708
+¡Vámonos!
+
+809
+01:00:19,708 --> 01:00:23,042
+Sr. Presidente,
+lo que afirma Japón parece ser cierto.
+
+810
+01:00:23,542 --> 01:00:25,875
+Determinaremos el lugar de la brecha.
+
+811
+01:00:26,625 --> 01:00:28,833
+Debemos avisarle al equipo de Ozaki.
+
+812
+01:00:28,917 --> 01:00:30,167
+Debemos detener esto.
+
+813
+01:00:30,250 --> 01:00:31,667
+Necesito estar solo.
+
+814
+01:00:31,750 --> 01:00:33,083
+No hay mucho tiempo.
+
+815
+01:00:33,167 --> 01:00:38,667
+Ozaki envió su armada a la Isla Celestial.
+Quiere quedarse con el adamantium.
+
+816
+01:00:38,750 --> 01:00:41,792
+Francia e India elaboran
+estrategias de ocupación.
+
+817
+01:00:41,875 --> 01:00:44,042
+Sugiero que volvamos enseguida a D. C.
+
+818
+01:00:44,125 --> 01:00:45,250
+No, discrepo.
+
+819
+01:00:45,333 --> 01:00:48,583
+- Perderemos la oportunidad con Ozaki.
+- Hallemos otra solución.
+
+820
+01:00:48,667 --> 01:00:50,375
+No podemos. ¡No!
+
+821
+01:00:50,458 --> 01:00:52,458
+- Pidamos otra reunión.
+- Si llamamos a Ozaki,
+
+822
+01:00:52,542 --> 01:00:54,583
+podríamos perder nuestra oportunidad.
+
+823
+01:00:54,667 --> 01:00:57,958
+No perderemos la oportunidad.
+¡Debemos tener otra reunión!
+
+824
+01:01:11,458 --> 01:01:18,000
+Desplieguen el Grupo de Ataque Cinco
+de inmediato. Dígales que voy para allá.
+
+825
+01:01:18,083 --> 01:01:21,833
+¿En serio hablamos
+de apoderarnos del adamantium de Japón?
+
+826
+01:01:21,917 --> 01:01:24,625
+No volveré a casa con las manos vacías.
+
+827
+01:01:24,708 --> 01:01:29,917
+Si un solo país va a tener el adamantium,
+seremos nosotros.
+
+828
+01:01:34,833 --> 01:01:36,667
+¡Llámelos!
+
+829
+01:01:39,458 --> 01:01:40,667
+¡Taylor!
+
+830
+01:01:40,750 --> 01:01:44,792
+El presidente quiere enviar al Grupo
+de Ataque Cinco a la Isla Celestial.
+
+831
+01:01:44,875 --> 01:01:48,833
+Quiero estar en camino al océano Índico
+en menos de una hora.
+
+832
+01:01:48,917 --> 01:01:52,458
+Sr. Presidente,
+es extremadamente peligroso.
+
+833
+01:01:53,458 --> 01:01:56,208
+- Si estalla la guerra…
+- Fui general en la guerra.
+
+834
+01:01:57,125 --> 01:01:59,333
+Ahora soy presidente en la guerra.
+
+835
+01:02:02,333 --> 01:02:03,917
+Sí, Sr. Presidente.
+
+836
+01:02:19,000 --> 01:02:22,125
+NORFOLK, VIRGINIA
+
+837
+01:02:28,208 --> 01:02:29,333
+¿Qué hacemos aquí?
+
+838
+01:02:29,417 --> 01:02:31,792
+Dijiste que Ross ordenó detenernos,
+
+839
+01:02:31,875 --> 01:02:33,625
+así que pedí un favor.
+
+840
+01:02:34,458 --> 01:02:35,583
+Gracias por esto.
+
+841
+01:02:35,667 --> 01:02:38,333
+De nada, Cap. Los jefes no vienen aquí.
+
+842
+01:02:38,417 --> 01:02:40,000
+La terminal está lista.
+
+843
+01:02:40,917 --> 01:02:43,000
+¿Puedes detener
+el control mental de Sterns?
+
+844
+01:02:43,083 --> 01:02:48,292
+Debo ejecutar un programa que bloquea
+los <i>flashes </i>que envía para controlarlos.
+
+845
+01:02:48,375 --> 01:02:50,458
+¿Y si ya controla a alguien?
+
+846
+01:02:51,375 --> 01:02:52,583
+Buena observación.
+
+847
+01:02:55,833 --> 01:02:57,292
+¿Estás loco?
+
+848
+01:02:57,375 --> 01:03:00,958
+<i>Soy el Sr. Azul</i>
+
+849
+01:03:01,042 --> 01:03:03,583
+<i>Cuando dices que me amas</i>
+
+850
+01:03:03,667 --> 01:03:05,333
+<i>Oh, Sr. Azul</i>
+
+851
+01:03:05,417 --> 01:03:06,583
+Estamos a salvo aquí.
+
+852
+01:03:06,667 --> 01:03:10,333
+¿Alguien de tu confianza
+puede revisarlas y decirme qué tienen?
+
+853
+01:03:10,417 --> 01:03:11,833
+Sí, claro.
+
+854
+01:03:11,917 --> 01:03:13,000
+Me ocuparé de eso.
+
+855
+01:03:13,083 --> 01:03:15,125
+- Gracias. ¿Está aquí?
+- Por ahí.
+
+856
+01:03:16,125 --> 01:03:17,125
+Escucha.
+
+857
+01:03:21,208 --> 01:03:22,833
+<i>Qué raro que sigas en pie.</i>
+
+858
+01:03:23,750 --> 01:03:26,792
+La mayoría no sobrevive
+a un hachazo en las tripas.
+
+859
+01:03:26,875 --> 01:03:29,667
+- Tejido Kevlar, supongo.
+- Ventajas del trabajo.
+
+860
+01:03:30,625 --> 01:03:33,292
+Dijiste que hallarías
+al que te hizo perder el tiempo.
+
+861
+01:03:33,833 --> 01:03:35,042
+Dime qué averiguaste.
+
+862
+01:03:35,125 --> 01:03:36,333
+Samuel Sterns.
+
+863
+01:03:36,417 --> 01:03:38,375
+Es un sujeto macabro, ¿no crees?
+
+864
+01:03:38,458 --> 01:03:40,000
+Vi peores.
+
+865
+01:03:40,083 --> 01:03:41,375
+No sin tus Vengadores.
+
+866
+01:03:43,458 --> 01:03:46,250
+- Total inmunidad y hablaré.
+- Estás loco.
+
+867
+01:03:46,333 --> 01:03:49,042
+¿A quién engañas?
+Viniste porque ya no tienes opciones.
+
+868
+01:03:49,125 --> 01:03:50,833
+Oíste qué les hizo a los tiradores.
+
+869
+01:03:51,333 --> 01:03:53,750
+A Sterns no le gustan los cabos sueltos.
+
+870
+01:03:55,292 --> 01:03:58,792
+Sentencia reducida,
+Allenwood, celda para mí solo.
+
+871
+01:03:59,792 --> 01:04:01,167
+Primero dime qué sabes.
+
+872
+01:04:03,917 --> 01:04:07,875
+Mi antigua unidad encontró a Sterns
+en los restos de Harlem.
+
+873
+01:04:08,750 --> 01:04:12,875
+Se infectó con la sangre de Bruce Banner,
+pero no le dio fuerza.
+
+874
+01:04:12,958 --> 01:04:13,875
+¿Qué le dio?
+
+875
+01:04:13,958 --> 01:04:17,042
+Una mente capaz de cálculos imposibles.
+
+876
+01:04:17,875 --> 01:04:19,708
+Ross, siendo como es,
+
+877
+01:04:19,792 --> 01:04:21,125
+vio una oportunidad.
+
+878
+01:04:21,625 --> 01:04:26,875
+No eliminó la radiación gamma
+de la sangre de Sterns, aumentó la dosis.
+
+879
+01:04:27,667 --> 01:04:30,625
+Convirtió a Sterns
+en su laboratorio de ideas
+
+880
+01:04:31,167 --> 01:04:34,292
+y creó tecnología y armas para el Estado.
+
+881
+01:04:34,833 --> 01:04:35,750
+Santo cielo.
+
+882
+01:04:36,708 --> 01:04:38,792
+¿Por qué aceptó Sterns?
+
+883
+01:04:38,875 --> 01:04:41,458
+El campamento Eco Uno fue el látigo.
+
+884
+01:04:41,542 --> 01:04:44,292
+Imagino que el indulto fue la zanahoria.
+
+885
+01:04:46,417 --> 01:04:50,458
+Ross le dijo a Sterns
+que lo liberaría cuando fuera presidente.
+
+886
+01:04:50,542 --> 01:04:52,958
+Y aun así, aquí estamos.
+
+887
+01:04:55,125 --> 01:04:58,708
+Y Sterns te contrató
+para robar el adamantium de Japón
+
+888
+01:04:58,792 --> 01:05:00,875
+sabiendo que dividiría a ambos países.
+
+889
+01:05:03,625 --> 01:05:06,000
+Nos pagó con fondos negros de la CIA.
+
+890
+01:05:06,083 --> 01:05:08,667
+Rompería el tratado
+e iniciaría una guerra.
+
+891
+01:05:09,167 --> 01:05:11,500
+Y culparían a Ross por el caos.
+
+892
+01:05:12,167 --> 01:05:17,542
+¿Qué crees que alguien del temperamento
+de Ross haría al caer en una trampa?
+
+893
+01:05:19,000 --> 01:05:22,333
+Si escapas de Allenwood, te encontraré.
+
+894
+01:05:22,417 --> 01:05:25,292
+Cuando escape, Capitán,
+
+895
+01:05:25,792 --> 01:05:27,625
+no saldrás vivo.
+
+896
+01:05:29,458 --> 01:05:30,958
+- ¿Lo sabías?
+- Claro que no.
+
+897
+01:05:31,042 --> 01:05:35,458
+Pero Ross ya no es así.
+No hay que definir a nadie por su pasado.
+
+898
+01:05:35,542 --> 01:05:38,208
+Mi hombre necesita 24 horas
+con las pastillas.
+
+899
+01:05:38,292 --> 01:05:41,458
+Bueno. Vayamos a D. C.
+a decirle a Ross qué planea Sterns.
+
+900
+01:05:41,542 --> 01:05:42,875
+No está ahí.
+
+901
+01:05:43,417 --> 01:05:44,917
+Está en el US <i>Milius.</i>
+
+902
+01:05:45,000 --> 01:05:48,792
+Acaban de llegar al Índico.
+Los buques de guerra de Japón están cerca.
+
+903
+01:05:48,875 --> 01:05:51,167
+Mierda. Ponte el traje. Apurémonos.
+
+904
+01:05:57,542 --> 01:05:58,583
+¿Puedo ayudarlo?
+
+905
+01:05:58,667 --> 01:06:00,292
+Hola, almirante.
+
+906
+01:06:00,375 --> 01:06:02,125
+¿Me deja usar su teléfono?
+
+907
+01:06:02,208 --> 01:06:03,500
+¿Quién está en la puerta?
+
+908
+01:06:08,875 --> 01:06:10,750
+Santo cielo.
+
+909
+01:06:10,833 --> 01:06:12,292
+¿Alguna vez viste algo así?
+
+910
+01:06:12,375 --> 01:06:13,583
+No.
+
+911
+01:06:14,542 --> 01:06:16,917
+ISLA CELESTIAL
+
+912
+01:06:40,292 --> 01:06:42,167
+Déjame hablar a mí, así nos hará caso.
+
+913
+01:06:42,250 --> 01:06:44,417
+No lo vi así desde el ejército.
+
+914
+01:06:44,500 --> 01:06:48,625
+Será mejor que se le pase.
+Porque lo que planea Sterns es inminente.
+
+915
+01:06:50,333 --> 01:06:52,792
+Quiero una flota de F-18
+lista para despegar.
+
+916
+01:06:52,875 --> 01:06:55,000
+Si dan vuelta ese barco, quiero…
+
+917
+01:06:56,708 --> 01:06:58,000
+¿Qué hace él aquí?
+
+918
+01:06:58,083 --> 01:07:00,000
+Wilson, te dije que no te metas.
+
+919
+01:07:00,083 --> 01:07:02,375
+- Yo lo traje.
+- ¡Quiero que se vaya!
+
+920
+01:07:02,458 --> 01:07:04,583
+Señor, me pidió que investigara,
+
+921
+01:07:04,667 --> 01:07:07,583
+- y la situación es más comp…
+- No me des excusas.
+
+922
+01:07:07,667 --> 01:07:10,042
+Tenías un trabajo sencillo y fallaste.
+
+923
+01:07:10,125 --> 01:07:11,125
+Sr. Presidente,
+
+924
+01:07:12,208 --> 01:07:17,250
+hallamos información en el campamento Eco
+Uno que hace peligrar millones de vidas.
+
+925
+01:07:17,333 --> 01:07:23,167
+Ambos sabemos que Isaiah es inocente.
+Me alegra que hablemos de esto en público,
+
+926
+01:07:23,250 --> 01:07:24,250
+si quiere.
+
+927
+01:07:31,750 --> 01:07:34,167
+Es una locura. Japón es nuestro…
+
+928
+01:07:35,333 --> 01:07:36,167
+¿Chacal?
+
+929
+01:07:36,250 --> 01:07:37,125
+¿Me recibes, Chacal?
+
+930
+01:07:37,208 --> 01:07:40,917
+<i>Soy el Sr. Azul</i>
+
+931
+01:07:43,417 --> 01:07:44,833
+Sé breve, Wilson.
+
+932
+01:07:46,583 --> 01:07:50,542
+La flota japonesa trata de llegar
+a la isla antes que nosotros.
+
+933
+01:07:50,625 --> 01:07:52,000
+Es lo que él quiere.
+
+934
+01:07:52,083 --> 01:07:55,000
+Sterns estuvo moviendo los hilos de todo.
+
+935
+01:07:55,083 --> 01:07:58,500
+El robo de SERPIENTE del adamantium,
+el ataque a la Casa Blanca,
+
+936
+01:07:58,583 --> 01:08:00,292
+la filtración de la CIA a Japón.
+
+937
+01:08:01,250 --> 01:08:05,333
+Lo enfrenta con Japón para asegurarse
+de que suceda este momento.
+
+938
+01:08:05,417 --> 01:08:07,542
+¿Cómo hizo todo desde la cárcel?
+
+939
+01:08:07,625 --> 01:08:09,208
+Controlando mentes.
+
+940
+01:08:09,292 --> 01:08:12,292
+Creó una tecnología
+para controlarle la mente
+
+941
+01:08:12,375 --> 01:08:13,833
+a quien quiera.
+
+942
+01:08:14,208 --> 01:08:15,833
+Inclusive a usted, quizá.
+
+943
+01:08:21,582 --> 01:08:23,792
+¿Se sintió bien últimamente?
+
+944
+01:08:30,207 --> 01:08:31,707
+Claro que sí.
+
+945
+01:08:31,792 --> 01:08:33,750
+Pero él tiene sus datos. ¿Por qué?
+
+946
+01:08:33,832 --> 01:08:34,875
+No lo sé.
+
+947
+01:08:35,625 --> 01:08:39,167
+Si puede controlar mentes,
+debe poder hackear archivos.
+
+948
+01:08:39,250 --> 01:08:42,292
+Pero sabemos que fue
+varias veces al campamento Eco Uno.
+
+949
+01:08:42,375 --> 01:08:46,832
+Para asegurarme de que un prisionero
+valioso estuviera seguro.
+
+950
+01:08:46,917 --> 01:08:50,125
+Pero le hicieron escáneres,
+ECG, análisis de sangre.
+
+951
+01:08:50,207 --> 01:08:51,250
+Es ridículo.
+
+952
+01:08:51,332 --> 01:08:53,000
+Responda, Sr. Presidente.
+
+953
+01:08:53,082 --> 01:08:56,375
+- ¡No tengo que responderte!
+- ¿Por qué ir a un sitio negro,
+
+954
+01:08:56,457 --> 01:08:58,207
+- en medio de la nada…
+- ¡Para!
+
+955
+01:08:58,292 --> 01:08:59,500
+¡Te ordeno que pares!
+
+956
+01:08:59,582 --> 01:09:01,125
+- …para hacer pruebas?
+- ¡Para!
+
+957
+01:09:01,207 --> 01:09:04,750
+- ¿Por qué?
+- ¡Porque estaba muriéndome, maldita sea!
+
+958
+01:09:09,125 --> 01:09:11,957
+¡Me fallaba el corazón!
+
+959
+01:09:13,832 --> 01:09:16,082
+No había remedio hasta que él lo halló.
+
+960
+01:09:20,875 --> 01:09:24,125
+Estas cosas me mantuvieron vivo.
+
+961
+01:09:25,332 --> 01:09:30,707
+Y a cambio, le di la esperanza
+de que recuperaría su vida.
+
+962
+01:09:31,292 --> 01:09:34,542
+Armó un laboratorio para trabajar.
+
+963
+01:09:35,375 --> 01:09:39,207
+- Intenté que lo trasladaran…
+- No podía quedarse sin las píldoras.
+
+964
+01:09:45,125 --> 01:09:48,875
+Luego de que tu amigo Hulk
+y la Abominación destruyeran Harlem,
+
+965
+01:09:48,957 --> 01:09:51,832
+alguien debía cargar con la culpa.
+
+966
+01:09:52,375 --> 01:09:53,625
+Sterns solo fue
+
+967
+01:09:54,583 --> 01:09:56,333
+un daño colateral.
+
+968
+01:09:59,917 --> 01:10:02,375
+Dediqué toda mi vida
+
+969
+01:10:03,292 --> 01:10:05,125
+a servir a este país.
+
+970
+01:10:09,125 --> 01:10:11,125
+La única persona que importa
+
+971
+01:10:12,625 --> 01:10:14,833
+no parece entenderlo.
+
+972
+01:10:15,625 --> 01:10:22,375
+Betty nunca me perdonó
+por enviar al ejército tras Banner.
+
+973
+01:10:25,083 --> 01:10:27,042
+Tenía que sobrevivir
+
+974
+01:10:31,917 --> 01:10:36,875
+para que mi hija supiera
+que su padre era más que eso.
+
+975
+01:10:37,958 --> 01:10:42,167
+Que soy el mismo
+que la llevaba a ver los cerezos en flor.
+
+976
+01:10:43,542 --> 01:10:45,417
+Ella aún puede verlo, señor.
+
+977
+01:10:47,917 --> 01:10:49,458
+Sé lo que es sentir
+
+978
+01:10:51,833 --> 01:10:54,000
+que tienes algo que demostrar.
+
+979
+01:10:55,542 --> 01:10:57,583
+Todos ven una cosa nada más.
+
+980
+01:10:59,417 --> 01:11:04,625
+Pero cuando demuestras más cualidades
+no es en los momentos fáciles.
+
+981
+01:11:05,375 --> 01:11:07,958
+Es en los momentos como este.
+
+982
+01:11:10,083 --> 01:11:13,083
+Estamos aquí
+por la sed de venganza de Sterns,
+
+983
+01:11:13,167 --> 01:11:15,500
+y no le importa si provoca una guerra.
+
+984
+01:11:15,583 --> 01:11:17,875
+Hacemos exactamente lo que quiere.
+
+985
+01:11:18,417 --> 01:11:22,750
+Dos de nuestros F-18
+acaban de dispararle a la flota japonesa.
+
+986
+01:11:24,375 --> 01:11:25,583
+WHISKEY
+CHACAL
+
+987
+01:11:25,667 --> 01:11:26,875
+Llamen a los pilotos.
+
+988
+01:11:28,750 --> 01:11:31,042
+La flota japonesa tuvo daños mínimos.
+
+989
+01:11:31,667 --> 01:11:33,292
+Sistemas de defensa aérea listos.
+
+990
+01:11:33,375 --> 01:11:35,375
+¿Qué diablos hacen esos pilotos?
+
+991
+01:11:35,458 --> 01:11:36,458
+Que regresen.
+
+992
+01:11:36,542 --> 01:11:39,083
+Lo intentamos.
+Chacal y Whiskey no responden.
+
+993
+01:11:39,167 --> 01:11:43,208
+- Debemos lanzar más aviones.
+- Estamos listos para despegar.
+
+994
+01:11:45,000 --> 01:11:45,833
+Vayan.
+
+995
+01:12:01,167 --> 01:12:03,708
+Sterns los controló
+antes de que apagara el sistema.
+
+996
+01:12:04,500 --> 01:12:06,667
+Debemos hacer aterrizar a los japoneses.
+
+997
+01:12:07,167 --> 01:12:09,250
+No te alejes y que no te maten.
+
+998
+01:12:09,333 --> 01:12:10,917
+No morir, entendido.
+
+999
+01:12:17,042 --> 01:12:18,792
+Regresa a tu flota.
+
+1000
+01:12:18,875 --> 01:12:20,667
+Yamamoto, tenemos compañía.
+
+1001
+01:12:23,542 --> 01:12:25,333
+Hubo un error. No somos el enemigo.
+
+1002
+01:12:37,000 --> 01:12:38,875
+Chacal va hacia los japoneses.
+
+1003
+01:12:40,125 --> 01:12:42,208
+¡Mierda! Acaba de dispararles.
+
+1004
+01:12:42,292 --> 01:12:47,625
+No envíe más cazas, señor. Que Japón
+vea que queremos calmar la situación.
+
+1005
+01:12:50,750 --> 01:12:52,917
+Comando, permiso para contraatacar.
+
+1006
+01:12:53,458 --> 01:12:54,333
+Concedido.
+
+1007
+01:13:02,333 --> 01:13:04,667
+Se acercan seis misiles japoneses.
+
+1008
+01:13:07,542 --> 01:13:08,875
+Lancen los interceptores.
+
+1009
+01:13:21,292 --> 01:13:23,417
+Maldición, pasaron dos.
+
+1010
+01:13:23,500 --> 01:13:25,000
+Toma el de la derecha.
+
+1011
+01:13:31,375 --> 01:13:32,875
+Una ayudita, Redwing.
+
+1012
+01:13:52,708 --> 01:13:55,208
+Convenza a Japón
+de que repliegue a sus aviones.
+
+1013
+01:13:59,292 --> 01:14:02,000
+<i>Es lo esperable
+de una presidencia de Ross.</i>
+
+1014
+01:14:02,083 --> 01:14:05,792
+Sr. Primer Ministro,
+se nos rebelaron dos pilotos.
+
+1015
+01:14:05,875 --> 01:14:08,125
+Detenga sus aviones. Nos manipulan.
+
+1016
+01:14:08,208 --> 01:14:09,042
+<i>Por supuesto.</i>
+
+1017
+01:14:09,583 --> 01:14:10,417
+Usted lo hace.
+
+1018
+01:14:10,500 --> 01:14:12,875
+<i>Esconde a sus asesinos
+detrás del Capitán América.</i>
+
+1019
+01:14:14,083 --> 01:14:17,542
+Él trata de hacerlos aterrizar, señor.
+
+1020
+01:14:17,625 --> 01:14:20,625
+Si esos pilotos no reciben órdenes suyas,
+
+1021
+01:14:20,708 --> 01:14:24,042
+¿a quién obedecen?
+
+1022
+01:14:25,792 --> 01:14:26,875
+<i>Es lo que pensaba.</i>
+
+1023
+01:14:31,125 --> 01:14:32,625
+¿Sr. Presidente?
+
+1024
+01:14:37,708 --> 01:14:39,833
+<i>Ahora estamos haciendo progresos.</i>
+
+1025
+01:14:39,917 --> 01:14:43,500
+<i>Esa furia en el vientre. La rabia.</i>
+
+1026
+01:14:43,583 --> 01:14:46,125
+<i>¿Por qué no la deja salir?</i>
+
+1027
+01:14:46,208 --> 01:14:47,500
+¿Está bien, señor?
+
+1028
+01:14:49,292 --> 01:14:51,667
+Necesito descansar un momento.
+
+1029
+01:14:57,708 --> 01:14:59,417
+Joaquín, Whiskey va hacia ti.
+
+1030
+01:14:59,500 --> 01:15:00,958
+Recibido.
+
+1031
+01:15:08,000 --> 01:15:11,333
+Sam, cuando terminemos,
+¡debes enseñarme tus trucos!
+
+1032
+01:15:18,125 --> 01:15:20,208
+<i>Altura.</i>
+
+1033
+01:15:23,958 --> 01:15:24,833
+<i>Altura.</i>
+
+1034
+01:15:27,250 --> 01:15:28,958
+Whiskey se eyectó. Rescátenlo.
+
+1035
+01:15:29,042 --> 01:15:30,250
+Enviando rescate.
+
+1036
+01:15:30,333 --> 01:15:32,417
+Tienen dos cazas japoneses detrás.
+
+1037
+01:15:32,500 --> 01:15:35,458
+¿Por qué siguen persiguiéndonos?
+Queremos ayudarlos.
+
+1038
+01:15:35,542 --> 01:15:38,167
+Porque Ross no les dice
+quién es el culpable.
+
+1039
+01:15:41,667 --> 01:15:44,125
+Todo ese odio que intenta ocultar,
+
+1040
+01:15:44,667 --> 01:15:48,500
+toda esa maldad, sigue ahí, Ross,
+
+1041
+01:15:49,042 --> 01:15:51,833
+<i>ardiendo lentamente detrás de los ojos.</i>
+
+1042
+01:15:57,667 --> 01:15:59,542
+CAPITÁN AMÉRICA
+SIN RADIO
+
+1043
+01:16:06,792 --> 01:16:08,000
+CHACAL
+
+1044
+01:16:08,625 --> 01:16:10,458
+Joaquín, iré tras Chacal.
+
+1045
+01:16:12,167 --> 01:16:14,417
+Entendido. Los mantendré ocupados.
+
+1046
+01:16:19,625 --> 01:16:21,625
+¿Qué me hiciste, desgraciado?
+
+1047
+01:16:21,708 --> 01:16:25,375
+<i>Lo que acordamos. Quizá un poquito más.</i>
+
+1048
+01:16:25,458 --> 01:16:26,750
+¡Me envenenaste!
+
+1049
+01:16:26,833 --> 01:16:31,208
+Entonces, no tome más píldoras.
+Pero sabemos que seguirá tomándolas.
+
+1050
+01:16:31,292 --> 01:16:35,250
+<i>Deme lo que quiero. Deje de resistirse.</i>
+
+1051
+01:16:35,333 --> 01:16:36,625
+¡No!
+
+1052
+01:16:36,708 --> 01:16:37,667
+CHACAL
+
+1053
+01:17:03,750 --> 01:17:05,042
+CHACAL
+
+1054
+01:17:07,250 --> 01:17:09,583
+Sam, ¡Chacal disparó sus últimos misiles!
+
+1055
+01:17:14,792 --> 01:17:17,125
+¡Eliminé uno! Voy por el otro.
+
+1056
+01:17:17,208 --> 01:17:18,208
+¡Aléjate! ¡Lo haré yo!
+
+1057
+01:17:18,292 --> 01:17:19,458
+- ¡No! Yo lo haré.
+- ¡Vete!
+
+1058
+01:17:19,542 --> 01:17:20,583
+¡Yo me encargo!
+
+1059
+01:17:23,542 --> 01:17:24,875
+¡Joaquín!
+
+1060
+01:17:32,792 --> 01:17:34,417
+¡Cayó Joaquín! Iré tras él.
+
+1061
+01:17:34,500 --> 01:17:37,458
+{\an8}Enviaremos búsqueda y rescate.
+Tú detén a Chacal.
+
+1062
+01:17:37,542 --> 01:17:40,292
+¡Maldita sea! Acabaré con esto ahora.
+
+1063
+01:17:41,042 --> 01:17:42,917
+<i>Ceda a su ira.</i>
+
+1064
+01:17:43,750 --> 01:17:46,875
+{\an8}Mientras hablamos,
+estoy estropeando su legado.
+
+1065
+01:17:46,958 --> 01:17:48,208
+{\an8}Vamos. Casi lo logra.
+
+1066
+01:17:48,292 --> 01:17:49,417
+{\an8}CONFLICTO ENTRE EE. UU. Y JAPÓN
+
+1067
+01:17:49,958 --> 01:17:54,042
+Puede destrozar su flota
+con sus propias manos,
+
+1068
+01:17:54,125 --> 01:17:56,250
+<i>y matar al Capitán América.</i>
+
+1069
+01:18:01,833 --> 01:18:02,708
+Mierda.
+
+1070
+01:18:09,417 --> 01:18:11,917
+<i>Deje salir al monstruo que lleva dentro.</i>
+
+1071
+01:18:20,083 --> 01:18:22,458
+<i>Altitud.</i>
+
+1072
+01:18:23,000 --> 01:18:25,708
+<i>Altitud.</i>
+
+1073
+01:18:26,208 --> 01:18:28,250
+<i>Desate su ira.</i>
+
+1074
+01:18:28,333 --> 01:18:30,042
+<i>Desate su odio.</i>
+
+1075
+01:18:30,125 --> 01:18:31,583
+¡Estabilízalo, Redwing!
+
+1076
+01:18:36,958 --> 01:18:39,292
+<i>Nada puede detenerlo, Ross.</i>
+
+1077
+01:18:39,375 --> 01:18:41,083
+<i>Puede aplastarlos a todos.</i>
+
+1078
+01:18:56,167 --> 01:18:57,333
+¿Sr. Presidente?
+
+1079
+01:18:58,833 --> 01:19:01,292
+¿Está bien, señor?
+
+1080
+01:19:01,375 --> 01:19:03,833
+El Capitán América neutralizó
+a los rebeldes.
+
+1081
+01:19:03,917 --> 01:19:05,917
+Japón retira sus aviones.
+
+1082
+01:19:07,792 --> 01:19:09,542
+Llama a Ozaki.
+
+1083
+01:19:09,625 --> 01:19:11,667
+<i>Podemos arreglar esto.</i>
+
+1084
+01:19:19,250 --> 01:19:21,500
+Comando, el Capitán América
+salvó nuestra flota.
+
+1085
+01:19:22,000 --> 01:19:23,292
+Pilotos de EE. UU. neutralizados.
+
+1086
+01:19:29,125 --> 01:19:32,000
+- ¿Y Joaquín?
+- La evacuación médica lo rescató.
+
+1087
+01:19:32,083 --> 01:19:33,417
+<i>Gracias a Dios.</i>
+
+1088
+01:19:41,875 --> 01:19:45,583
+Evitamos por poco una crisis
+cuando estalló un combate aéreo
+
+1089
+01:19:45,667 --> 01:19:49,458
+entre fuerzas de Japón y EE. UU.
+sobre la Isla Celestial.
+
+1090
+01:19:49,542 --> 01:19:53,500
+Derribaron al capitán Joaquín Torres
+durante el combate,
+
+1091
+01:19:53,583 --> 01:19:57,542
+<i>y ahora está en cirugía
+en el Centro Médico Militar Walter Reed.</i>
+
+1092
+01:19:57,625 --> 01:19:59,542
+<i>Su estado es crítico.</i>
+
+1093
+01:19:59,625 --> 01:20:00,833
+Dame esa pinza.
+
+1094
+01:20:00,917 --> 01:20:02,083
+¡Debo cubrirla!
+
+1095
+01:20:02,625 --> 01:20:03,625
+La presión es estable.
+
+1096
+01:20:03,708 --> 01:20:05,000
+¡Succión!
+
+1097
+01:20:06,417 --> 01:20:08,292
+No veo nada. Más succión.
+
+1098
+01:20:09,083 --> 01:20:10,167
+Retractores.
+
+1099
+01:20:15,042 --> 01:20:16,583
+Es un cuarto privado.
+
+1100
+01:20:18,708 --> 01:20:19,708
+Vete.
+
+1101
+01:20:26,125 --> 01:20:27,167
+Yo también te extrañé.
+
+1102
+01:20:34,000 --> 01:20:38,625
+Odio admitirlo, me alegra que vinieras.
+
+1103
+01:20:45,625 --> 01:20:50,292
+Te veías bien en las noticias
+de las 18:00. Pero luego vi esto.
+
+1104
+01:20:51,500 --> 01:20:53,708
+Los médicos tuvieron que reanimarlo.
+
+1105
+01:20:55,750 --> 01:20:57,000
+No saben si…
+
+1106
+01:21:00,167 --> 01:21:01,583
+No es culpa tuya.
+
+1107
+01:21:02,792 --> 01:21:04,500
+Me hace recordar a Steve.
+
+1108
+01:21:05,958 --> 01:21:08,917
+¿Cuántas invasiones alienígenas
+había detenido?
+
+1109
+01:21:09,000 --> 01:21:10,208
+Dos.
+
+1110
+01:21:10,292 --> 01:21:11,292
+Dos.
+
+1111
+01:21:13,125 --> 01:21:14,167
+Vaya.
+
+1112
+01:21:16,417 --> 01:21:18,875
+¿Cómo pensé que podría seguir su legado?
+
+1113
+01:21:21,917 --> 01:21:26,167
+Debí haber tomado el suero.
+Como Steve, como tú.
+
+1114
+01:21:27,833 --> 01:21:28,833
+¿Por qué?
+
+1115
+01:21:31,958 --> 01:21:35,417
+Porque esto empieza a parecer
+demasiado para mí.
+
+1116
+01:21:37,083 --> 01:21:42,167
+Ross me pidió reiniciar
+a los Vengadores, Buck.
+
+1117
+01:21:42,250 --> 01:21:47,083
+Pero Joaquín está aquí,
+Isaiah está en prisión y Sterns…
+
+1118
+01:21:48,250 --> 01:21:52,250
+Lo tenía. Tuve a Sterns en mis manos.
+
+1119
+01:21:53,375 --> 01:21:54,625
+Y escapó.
+
+1120
+01:21:55,167 --> 01:21:59,000
+Casi nos hace empezar una guerra,
+porque yo no…
+
+1121
+01:22:01,292 --> 01:22:02,958
+Di lo que tengas que decir.
+
+1122
+01:22:08,625 --> 01:22:10,583
+Steve se equivocó conmigo.
+
+1123
+01:22:11,875 --> 01:22:13,208
+No, no fue así.
+
+1124
+01:22:13,292 --> 01:22:19,375
+Te dio ese escudo no porque seas
+el más fuerte, sino porque eres tú.
+
+1125
+01:22:23,625 --> 01:22:28,042
+Crees que, si tuvieras ese suero,
+podrías proteger a tus seres queridos.
+
+1126
+01:22:28,583 --> 01:22:31,000
+Steve lo tenía y no pudo.
+
+1127
+01:22:32,000 --> 01:22:34,542
+Eres un ser humano y haces lo que puedes.
+
+1128
+01:22:35,833 --> 01:22:38,458
+Él le dio a la gente algo en qué creer.
+Pero tú…
+
+1129
+01:22:39,625 --> 01:22:42,000
+les das algo a lo que aspirar.
+
+1130
+01:22:45,958 --> 01:22:50,417
+- ¿Te ayudaron tus escritores de discursos?
+- Sí. El final, un poco. ¿Te gustó?
+
+1131
+01:22:50,500 --> 01:22:52,625
+Estuvo bien. Te doy un 85/100.
+
+1132
+01:22:52,708 --> 01:22:54,958
+- Fue emotivo.
+- Sí, mucho. Lo sentí.
+
+1133
+01:22:55,042 --> 01:22:56,167
+Pero solo lo justo.
+
+1134
+01:22:56,250 --> 01:22:57,125
+Sí.
+
+1135
+01:22:58,667 --> 01:23:03,500
+Debo tomar un avión. Tengo una recaudación
+de fondos para la campaña. Es muy tonto.
+
+1136
+01:23:08,208 --> 01:23:10,000
+Todo saldrá bien.
+
+1137
+01:23:16,167 --> 01:23:17,292
+Gracias, Buck.
+
+1138
+01:23:18,500 --> 01:23:20,083
+Te quiero, amigo.
+
+1139
+01:23:29,625 --> 01:23:31,250
+- ¿Ese era…?
+- Sí.
+
+1140
+01:23:31,833 --> 01:23:35,250
+El futuro congresista
+James Buchanan Barnes.
+
+1141
+01:23:39,375 --> 01:23:44,292
+Es más alto en persona, bonita sonrisa,
+buenos dientes, una gran postura.
+
+1142
+01:23:44,375 --> 01:23:46,792
+Tiene 110 años.
+
+1143
+01:23:47,542 --> 01:23:49,667
+- Puedo aceptarlo.
+<i>- Mientras investigan</i>
+
+1144
+01:23:49,750 --> 01:23:53,167
+<i>el intento de asesinato en la Casa Blanca
+y el tiroteo</i>
+
+1145
+01:23:53,250 --> 01:23:55,333
+<i>en la base conjunta Anacostia-Bolling,</i>
+
+1146
+01:23:55,417 --> 01:23:57,125
+SUPERSOLDADO AISLADO
+
+1147
+01:23:57,208 --> 01:23:59,667
+<i>Isaiah Bradley comparecerá
+ante un juez militar.</i>
+
+1148
+01:23:59,750 --> 01:24:00,833
+Necesito tomar aire.
+
+1149
+01:24:00,917 --> 01:24:03,292
+<i>Es una gran caída en desgracia
+para un hombre</i>
+
+1150
+01:24:03,375 --> 01:24:06,167
+<i>que el Capitán América hizo famoso.</i>
+
+1151
+01:24:06,250 --> 01:24:09,833
+<i>Solo dos años después
+de que lo exoneraran de cargos injustos,</i>
+
+1152
+01:24:09,917 --> 01:24:13,125
+<i>Bradley está recluido
+en régimen de aislamiento</i>
+
+1153
+01:24:13,208 --> 01:24:16,417
+<i>y enfrenta una posible condena a muerte.</i>
+
+1154
+01:24:22,083 --> 01:24:24,292
+MARINA DE EE. UU.
+INSTALACIONES DE ENTRENAMIENTO
+
+1155
+01:24:28,875 --> 01:24:30,458
+Reinicien. Repítanlo.
+
+1156
+01:24:32,542 --> 01:24:35,333
+- Dime.
+<i>- Dunphy, ¿revisaste mi informe?</i>
+
+1157
+01:24:35,417 --> 01:24:36,792
+¿Qué estoy viendo?
+
+1158
+01:24:36,875 --> 01:24:39,833
+<i>Las píldoras están cargadas
+con radiación gamma</i>
+
+1159
+01:24:39,917 --> 01:24:43,375
+<i>diseñada para que la absorba la sangre.
+¿De dónde las sacaste?</i>
+
+1160
+01:24:43,458 --> 01:24:45,125
+Mierda. Debo hacer una llamada.
+
+1161
+01:24:52,708 --> 01:24:56,292
+Este sonido
+te está afectando el equilibrio.
+
+1162
+01:24:57,667 --> 01:25:01,792
+Cuando gire este dial,
+interrumpirá tus latidos.
+
+1163
+01:25:02,625 --> 01:25:07,833
+No me complace tu muerte,
+pero no puedo dejarte llamar al Capitán.
+
+1164
+01:25:07,917 --> 01:25:10,083
+¿Quién eres?
+
+1165
+01:25:11,667 --> 01:25:13,417
+¿No es obvio?
+
+1166
+01:25:14,250 --> 01:25:15,292
+Soy el héroe.
+
+1167
+01:25:38,125 --> 01:25:39,333
+Señor.
+
+1168
+01:25:41,417 --> 01:25:42,750
+Agente Taylor.
+
+1169
+01:25:43,292 --> 01:25:47,625
+Revisamos a los invitados y también
+chequeamos tres veces la rosaleda.
+
+1170
+01:25:48,167 --> 01:25:49,167
+Gracias.
+
+1171
+01:25:50,083 --> 01:25:51,750
+- Nos vemos afuera.
+- Sí.
+
+1172
+01:26:11,875 --> 01:26:12,708
+<i>¿Hola?</i>
+
+1173
+01:26:13,958 --> 01:26:16,458
+Hola.
+
+1174
+01:26:17,792 --> 01:26:19,458
+Yo… ¿Cómo estás?
+
+1175
+01:26:21,667 --> 01:26:25,375
+<i>Lo lamento, debí llamar
+luego del ataque en la Casa Blanca.</i>
+
+1176
+01:26:25,458 --> 01:26:26,792
+<i>¿Estás bien?</i>
+
+1177
+01:26:28,500 --> 01:26:29,708
+Sí.
+
+1178
+01:26:30,250 --> 01:26:32,333
+Me alegra escuchar tu voz.
+
+1179
+01:26:34,417 --> 01:26:36,000
+No creí que contestarías.
+
+1180
+01:26:37,458 --> 01:26:41,792
+Betty, yo… Sé que cometí muchos errores.
+
+1181
+01:26:43,458 --> 01:26:48,583
+Pero estoy tratando de cambiar,
+de ser mejor persona.
+
+1182
+01:26:52,208 --> 01:26:56,542
+¿Podríamos salir a pasear alguna vez?
+
+1183
+01:26:57,375 --> 01:27:02,458
+A ver los cerezos en flor,
+como en los viejos tiempos.
+
+1184
+01:27:06,000 --> 01:27:09,750
+<i>Sí. Estaría bien.</i>
+
+1185
+01:27:11,958 --> 01:27:15,083
+Bueno. Te quiero.
+
+1186
+01:27:16,000 --> 01:27:17,125
+<i>Adiós, papá.</i>
+
+1187
+01:27:37,625 --> 01:27:38,708
+Por favor.
+
+1188
+01:27:39,792 --> 01:27:41,208
+Buenas tardes a todos.
+
+1189
+01:27:44,583 --> 01:27:46,042
+Al asumir la presidencia,
+
+1190
+01:27:46,125 --> 01:27:51,375
+prometí que forjaríamos
+una paz verdadera y duradera.
+
+1191
+01:27:52,458 --> 01:27:56,625
+Hoy, empezamos
+a hacer realidad esa promesa.
+
+1192
+01:27:58,167 --> 01:27:59,708
+Capitán América.…
+
+1193
+01:28:02,583 --> 01:28:07,417
+¿Le darías terapia a un hombre amargado
+que está al límite de su paciencia?
+
+1194
+01:28:08,375 --> 01:28:10,083
+Ese es tu trabajo, ¿no?
+
+1195
+01:28:11,375 --> 01:28:14,667
+Tenemos cinco minutos antes
+de que la PM te saque de aquí.
+
+1196
+01:28:14,750 --> 01:28:18,167
+Arruinaste mi gran final
+en el océano Índico.
+
+1197
+01:28:18,250 --> 01:28:21,333
+Ahora debo entregarme
+para conseguir lo que quiero.
+
+1198
+01:28:21,417 --> 01:28:25,000
+Si quieres que me disculpe,
+será mejor que esperes sentado.
+
+1199
+01:28:25,083 --> 01:28:28,958
+Espero que te des cuenta
+de que ambos queremos lo mismo,
+
+1200
+01:28:29,458 --> 01:28:32,333
+que el mundo vea a Ross tal como es.
+
+1201
+01:28:32,417 --> 01:28:37,042
+Me enorgullece decir
+que al fin firmaremos nuestro tratado.
+
+1202
+01:28:37,542 --> 01:28:39,208
+Responderé unas preguntas.
+
+1203
+01:28:39,750 --> 01:28:42,333
+¿Qué opina de los informes
+que dicen que rompimos
+
+1204
+01:28:42,417 --> 01:28:45,875
+relaciones con Japón
+por su gestión del atentado?
+
+1205
+01:28:45,958 --> 01:28:50,458
+A pesar de las mentiras
+que algunos usaron para enfrentarnos,
+
+1206
+01:28:50,542 --> 01:28:53,583
+nuestros lazos son fuertes.
+
+1207
+01:28:53,667 --> 01:28:56,000
+Mantuviste vivo a Ross durante años.
+
+1208
+01:28:56,833 --> 01:28:59,542
+No lo mataste
+cuando pudiste en la Casa Blanca.
+
+1209
+01:29:00,792 --> 01:29:02,292
+Tal y como yo lo veo,
+
+1210
+01:29:03,500 --> 01:29:06,583
+lo del Índico no fue
+para empezar una guerra.
+
+1211
+01:29:07,958 --> 01:29:09,792
+Querías destruir su legado.
+
+1212
+01:29:10,833 --> 01:29:12,000
+Sí.
+
+1213
+01:29:13,500 --> 01:29:15,292
+Pero no averiguaste cómo.
+
+1214
+01:29:15,375 --> 01:29:16,917
+Con las píldoras.
+
+1215
+01:29:17,000 --> 01:29:20,667
+- También tengo a alguien investigando eso.
+- Ya no.
+
+1216
+01:29:21,542 --> 01:29:25,583
+¿El enfrentamiento del Índico
+fue porque los japoneses descubrieron
+
+1217
+01:29:25,667 --> 01:29:29,125
+que su gobierno le pagó
+al grupo mercenario SERPIENTE
+
+1218
+01:29:29,208 --> 01:29:30,792
+para robar el adamantium?
+
+1219
+01:29:31,792 --> 01:29:33,375
+No les pagamos.
+
+1220
+01:29:33,458 --> 01:29:38,625
+Ross me convirtió en un monstruo.
+Es justo que le haga lo mismo a él.
+
+1221
+01:29:39,667 --> 01:29:40,917
+¿Por qué no sonríes?
+
+1222
+01:29:41,417 --> 01:29:43,292
+- ¡Al suelo!
+- ¡Deténganse!
+
+1223
+01:29:48,625 --> 01:29:53,333
+¿Alguna vez usaste tu gran cerebro para
+pensar que quizá te equivocas con Ross?
+
+1224
+01:29:53,875 --> 01:29:54,875
+¿Apostamos?
+
+1225
+01:29:54,958 --> 01:29:55,833
+Sí.
+
+1226
+01:29:57,375 --> 01:29:59,125
+- ¿Adónde vas?
+- A detener esto.
+
+1227
+01:30:00,333 --> 01:30:01,917
+Al suelo, ahora.
+
+1228
+01:30:03,958 --> 01:30:05,958
+- Tiene derecho a…
+- ¡Capitán América!
+
+1229
+01:30:06,667 --> 01:30:10,375
+Si tengo razón sobre Ross, vas a morir.
+
+1230
+01:30:11,083 --> 01:30:12,500
+¡Vas a morir!
+
+1231
+01:30:13,542 --> 01:30:14,792
+Se entrega el Dr. Samuel Sterns
+
+1232
+01:30:14,875 --> 01:30:17,792
+Sr. Presidente,
+el Dr. Samuel Sterns se entregó.
+
+1233
+01:30:18,375 --> 01:30:20,375
+Dice que prometió indultarlo
+
+1234
+01:30:20,458 --> 01:30:23,208
+si trabajaba
+en proyectos secretos para usted.
+
+1235
+01:30:23,292 --> 01:30:24,333
+Es mentira.
+
+1236
+01:30:24,917 --> 01:30:28,792
+<i>Presidente Ross, extraño sus visitas.</i>
+
+1237
+01:30:28,875 --> 01:30:31,750
+<i>- ¿Qué quieres?
+- Recuperar mi vida,</i>
+
+1238
+01:30:31,833 --> 01:30:33,125
+<i>pero es muy tarde para eso.</i>
+
+1239
+01:30:33,208 --> 01:30:35,000
+- Señor…
+<i>- Te ayudé más que nadie.</i>
+
+1240
+01:30:35,083 --> 01:30:37,708
+Déjame explicarles. Tienen que saberlo.
+
+1241
+01:30:37,792 --> 01:30:39,000
+<i>Entiende mi postura.</i>
+
+1242
+01:30:39,083 --> 01:30:43,167
+<i>La entiendo.
+Dejó que me pudriera en esta cárcel.</i>
+
+1243
+01:30:43,250 --> 01:30:44,667
+¡Déjenme en paz!
+
+1244
+01:30:44,750 --> 01:30:46,542
+- ¡Déjenme!
+- Señor.
+
+1245
+01:30:46,625 --> 01:30:47,958
+No puedo dejarlo.
+
+1246
+01:30:48,042 --> 01:30:49,125
+- ¿No?
+- No puedo…
+
+1247
+01:30:49,208 --> 01:30:50,042
+¿Me dejas?
+
+1248
+01:30:50,125 --> 01:30:53,875
+- ¿Me dejas?
+<i>- Todos sabrán cómo es en realidad,</i>
+
+1249
+01:30:53,958 --> 01:30:56,208
+<i>y Betty lo va a despreciar aún más.</i>
+
+1250
+01:30:56,292 --> 01:30:58,083
+Señor, por favor.
+
+1251
+01:31:00,625 --> 01:31:02,208
+{\an8}EL PRESIDENTE ROSS HABLA AL PAÍS
+
+1252
+01:31:07,708 --> 01:31:08,750
+Señor.
+
+1253
+01:31:15,250 --> 01:31:16,833
+Dios mío.
+
+1254
+01:31:26,708 --> 01:31:29,708
+{\an8}PRESIDENTE DE LOS ESTADOS UNIDOS
+
+1255
+01:31:37,792 --> 01:31:39,417
+¿Desde cuándo son rojos?
+
+1256
+01:31:44,708 --> 01:31:46,083
+¿Presidente Ross?
+
+1257
+01:31:49,500 --> 01:31:50,750
+¿Disparamos, agente Taylor?
+
+1258
+01:32:27,125 --> 01:32:28,875
+Esto es lo que quería Sterns.
+
+1259
+01:32:38,833 --> 01:32:39,875
+Por Dios.
+
+1260
+01:32:45,917 --> 01:32:47,500
+Sam, debo evacuarlos.
+
+1261
+01:32:47,583 --> 01:32:49,458
+<i>Rodeen la Casa Blanca.</i>
+
+1262
+01:33:17,583 --> 01:33:18,583
+No.
+
+1263
+01:33:18,667 --> 01:33:20,333
+¡Retírense!
+
+1264
+01:33:27,125 --> 01:33:28,167
+¡Agáchense!
+
+1265
+01:33:30,667 --> 01:33:32,417
+<i>Llegan los drones, Sam.</i>
+
+1266
+01:34:17,208 --> 01:34:20,708
+Despeja Hains Point, Ruth.
+Haré que Ross vaya allí.
+
+1267
+01:34:20,792 --> 01:34:22,958
+<i>¿Estás loco? Te va a matar.</i>
+
+1268
+01:34:23,042 --> 01:34:24,167
+¡Hazlo!
+
+1269
+01:35:21,250 --> 01:35:22,958
+Aún puede luchar contra esto.
+
+1270
+01:35:23,500 --> 01:35:25,042
+¿Ve dónde está?
+
+1271
+01:35:27,625 --> 01:35:29,083
+¿Recuerda este lugar?
+
+1272
+01:35:30,208 --> 01:35:32,083
+Usted solía venir con Betty.
+
+1273
+01:35:35,375 --> 01:35:36,500
+No funcionó.
+
+1274
+01:35:45,292 --> 01:35:46,292
+Bueno.
+
+1275
+01:35:46,375 --> 01:35:47,458
+¿Me quiere a mí?
+
+1276
+01:35:48,750 --> 01:35:50,125
+¡Venga a atraparme!
+
+1277
+01:37:38,750 --> 01:37:40,750
+¿Sam? ¿Me escuchas?
+
+1278
+01:37:41,458 --> 01:37:42,792
+¿Estás bien, Sam?
+
+1279
+01:37:49,833 --> 01:37:52,000
+Dime que noqueé a ese desgraciado.
+
+1280
+01:37:58,917 --> 01:37:59,917
+Mierda.
+
+1281
+01:38:05,542 --> 01:38:09,250
+- Los refuerzos llegarán en cinco minutos.
+- No, que aguarden.
+
+1282
+01:38:09,333 --> 01:38:10,625
+¿Qué?
+
+1283
+01:38:20,250 --> 01:38:21,750
+Debí tomar ese suero.
+
+1284
+01:38:21,833 --> 01:38:23,750
+Bucky dice tonterías.
+
+1285
+01:38:28,083 --> 01:38:29,500
+Voy a perder esa apuesta.
+
+1286
+01:38:36,792 --> 01:38:37,833
+Ross.
+
+1287
+01:38:37,917 --> 01:38:40,792
+Sabemos que puede noquearme
+de un puñetazo,
+
+1288
+01:38:41,417 --> 01:38:43,167
+pero no creo que quiera.
+
+1289
+01:38:50,875 --> 01:38:53,917
+Sé que hizo cosas terribles.
+
+1290
+01:38:55,833 --> 01:38:57,375
+Puedo estar loco,
+
+1291
+01:38:58,458 --> 01:39:00,583
+pero creo que intenta cambiar.
+
+1292
+01:39:01,625 --> 01:39:03,625
+Es hora de que se lo demuestre al mundo.
+
+1293
+01:39:04,792 --> 01:39:06,333
+A Betty.
+
+1294
+01:40:01,458 --> 01:40:04,000
+El ejército lleva a Sterns
+a una instalación segura.
+
+1295
+01:40:05,458 --> 01:40:06,917
+Debo llevarte al hospital.
+
+1296
+01:40:08,042 --> 01:40:10,042
+Antes debemos ir a otro lugar.
+
+1297
+01:40:10,583 --> 01:40:13,375
+BASE CONJUNTA ANACOSTIA-BOLLING
+WASHINGTON D. C.
+
+1298
+01:40:22,417 --> 01:40:23,875
+Fueron tres, viejo.
+
+1299
+01:40:26,000 --> 01:40:29,708
+- Te dije que te sacaría.
+- ¿Por qué tardaste tanto?
+
+1300
+01:40:34,042 --> 01:40:35,208
+Gracias, Sam.
+
+1301
+01:40:35,750 --> 01:40:37,083
+Te tengo.
+
+1302
+01:40:37,167 --> 01:40:39,000
+Tengo huesos rotos, así que…
+
+1303
+01:40:42,625 --> 01:40:46,042
+Vamos, Sr. Bradley.
+Tenemos que llenar unos papeles,
+
+1304
+01:40:46,125 --> 01:40:47,958
+y luego podrá irse.
+
+1305
+01:40:54,542 --> 01:40:58,417
+{\an8}<i>Siguen las negociaciones sobre la carrera
+armamentística por el nuevo elemento</i>
+
+1306
+01:40:58,500 --> 01:40:59,917
+{\an8}TRATADO DE LA ISLA CELESTIAL
+
+1307
+01:41:00,000 --> 01:41:02,500
+{\an8}<i>al entrar al nuevo mundo del adamantium.</i>
+
+1308
+01:41:02,583 --> 01:41:04,792
+{\an8}Volvemos a la capital,
+
+1309
+01:41:04,875 --> 01:41:06,917
+{\an8}<i>empezaron a restaurar la Casa Blanca,</i>
+
+1310
+01:41:07,000 --> 01:41:10,542
+{\an8}<i>dando un gran paso
+hacia la normalización del país.</i>
+
+1311
+01:41:15,917 --> 01:41:18,125
+LA BALSA
+
+1312
+01:41:29,125 --> 01:41:30,208
+Por aquí.
+
+1313
+01:41:38,375 --> 01:41:42,500
+Sr. Presidente.
+¿Qué tal es su alojamiento?
+
+1314
+01:41:50,042 --> 01:41:51,750
+Es incómodo a propósito.
+
+1315
+01:41:53,167 --> 01:41:55,375
+Oí que la comida tampoco mejoró.
+
+1316
+01:41:55,458 --> 01:41:56,583
+Oíste bien.
+
+1317
+01:41:58,125 --> 01:41:59,292
+¿Bradley salió?
+
+1318
+01:41:59,375 --> 01:42:00,208
+Sí, señor.
+
+1319
+01:42:00,292 --> 01:42:01,500
+Qué bien.
+
+1320
+01:42:02,333 --> 01:42:04,375
+Sobre su análisis de sangre.
+
+1321
+01:42:04,458 --> 01:42:09,000
+Sterns elevó el nivel de radiación gamma
+en esas píldoras con el tiempo.
+
+1322
+01:42:09,083 --> 01:42:12,292
+Con los años, se acumuló en su cuerpo.
+Eso lo llevó a…
+
+1323
+01:42:12,375 --> 01:42:14,042
+A mi pequeño berrinche.
+
+1324
+01:42:14,583 --> 01:42:16,417
+Por lo que debo estar aquí.
+
+1325
+01:42:18,833 --> 01:42:20,875
+Son buenas paredes, sólidas.
+
+1326
+01:42:20,958 --> 01:42:21,958
+Sí.
+
+1327
+01:42:22,708 --> 01:42:23,875
+Pero debo decir
+
+1328
+01:42:24,375 --> 01:42:28,125
+que fue admirable verlo asumir
+la responsabilidad de sus actos.
+
+1329
+01:42:29,042 --> 01:42:32,583
+Renunciar a su cargo.
+Aceptar su sentencia.
+
+1330
+01:42:33,083 --> 01:42:35,000
+El país debía seguir adelante.
+
+1331
+01:42:36,333 --> 01:42:39,458
+Japón decidió mantener el tratado.
+Nosotros también.
+
+1332
+01:42:40,375 --> 01:42:42,500
+Los Acuerdos Ozaki-Ross.
+
+1333
+01:42:43,208 --> 01:42:44,417
+Usted lo logró.
+
+1334
+01:42:44,917 --> 01:42:46,292
+¿Por qué viniste, Sam?
+
+1335
+01:42:47,750 --> 01:42:48,750
+¿Señor?
+
+1336
+01:42:50,583 --> 01:42:53,833
+Todo el tiempo estuvimos
+en lados diferentes de esto.
+
+1337
+01:42:55,625 --> 01:43:00,833
+Si no podemos ver lo bueno en el otro,
+ya perdimos la pelea.
+
+1338
+01:43:02,167 --> 01:43:05,792
+Y quería ver
+que un viejo soldado estuviera bien.
+
+1339
+01:43:07,875 --> 01:43:11,333
+Me encantaría quedarme,
+pero parece que tiene otra visita.
+
+1340
+01:43:20,625 --> 01:43:21,958
+Hola, papá.
+
+1341
+01:43:25,833 --> 01:43:28,875
+Supongo que tendré que posponer ese paseo.
+
+1342
+01:43:30,375 --> 01:43:31,458
+No hay problema.
+
+1343
+01:43:33,667 --> 01:43:35,917
+Podríamos sentarnos a hablar un rato.
+
+1344
+01:43:37,958 --> 01:43:39,042
+Me encantaría.
+
+1345
+01:43:40,833 --> 01:43:41,958
+A mí también.
+
+1346
+01:43:55,625 --> 01:43:57,000
+¿Cómo está el chico hoy?
+
+1347
+01:43:57,083 --> 01:44:00,125
+Aún no está muy espabilado,
+pero está mejorando.
+
+1348
+01:44:01,375 --> 01:44:04,917
+- Los dejo ponerse al día.
+- ¿Adónde vas? ¿A Baltimore?
+
+1349
+01:44:05,458 --> 01:44:06,458
+No.
+
+1350
+01:44:07,292 --> 01:44:10,458
+Invité a Ruth a ver un partido esta noche,
+en primera fila.
+
+1351
+01:44:11,000 --> 01:44:13,250
+Es lo menos que podía hacer por sacarme.
+
+1352
+01:44:13,333 --> 01:44:16,792
+Me alegra que hallaras una amiga
+gruñona como tú para ir a los partidos.
+
+1353
+01:44:19,167 --> 01:44:20,167
+Repítelo.
+
+1354
+01:44:23,542 --> 01:44:26,583
+Bromeo. Caíste.
+
+1355
+01:44:32,083 --> 01:44:34,583
+Falcon despierta.
+
+1356
+01:44:36,375 --> 01:44:38,083
+No iba a dejarte toda la diversión.
+
+1357
+01:44:43,333 --> 01:44:45,375
+Lamento haberlo fastidiado.
+
+1358
+01:44:45,458 --> 01:44:47,417
+¿Fastidiado? No digas tonterías.
+
+1359
+01:44:47,500 --> 01:44:50,750
+Lo hice. Tú nunca metiste la pata como yo.
+
+1360
+01:44:51,833 --> 01:44:56,917
+Nunca te derribaron
+y caíste en picada en el océano Índico.
+
+1361
+01:44:57,583 --> 01:44:59,000
+Siempre lo haces bien.
+
+1362
+01:45:01,208 --> 01:45:02,208
+Sí.
+
+1363
+01:45:04,167 --> 01:45:05,958
+Porque de no ser así…
+
+1364
+01:45:10,375 --> 01:45:14,458
+me siento como si hubiera defraudado
+a todos los demás que luchaban.
+
+1365
+01:45:17,375 --> 01:45:18,917
+Eso sí es estar presionado.
+
+1366
+01:45:21,208 --> 01:45:22,500
+Te pesa.
+
+1367
+01:45:25,875 --> 01:45:28,333
+Hace que te preguntes si alguna vez serás…
+
+1368
+01:45:30,375 --> 01:45:31,667
+suficiente.
+
+1369
+01:45:41,000 --> 01:45:45,625
+Donde me crie,
+solo podía ver héroes en Internet.
+
+1370
+01:45:46,125 --> 01:45:47,458
+O en la TV.
+
+1371
+01:45:49,042 --> 01:45:50,500
+Parecían estar lejos.
+
+1372
+01:45:52,042 --> 01:45:54,375
+Y pensaba que si dejaba Miami,
+
+1373
+01:45:56,083 --> 01:45:57,208
+algún día podría ser…
+
+1374
+01:45:57,292 --> 01:45:59,000
+No digas Ant-Man.
+
+1375
+01:46:02,292 --> 01:46:03,375
+No, viejo.
+
+1376
+01:46:08,000 --> 01:46:09,167
+Quería ser como tú.
+
+1377
+01:46:10,500 --> 01:46:11,500
+Bueno…
+
+1378
+01:46:11,583 --> 01:46:12,667
+Sam Wilson.
+
+1379
+01:46:14,292 --> 01:46:18,333
+Porque ese tipo nunca se va a rendir.
+
+1380
+01:46:20,417 --> 01:46:25,417
+Yo también quiero la presión
+y la responsabilidad de la que hablas.
+
+1381
+01:46:34,958 --> 01:46:36,667
+Es cuestión de sincronización.
+
+1382
+01:46:37,875 --> 01:46:42,792
+Controla tu giro
+y enciende el propulsor antes de patear.
+
+1383
+01:46:47,458 --> 01:46:49,042
+- No.
+- Sí.
+
+1384
+01:46:49,125 --> 01:46:50,542
+No. Eso es…
+
+1385
+01:46:51,083 --> 01:46:52,083
+Eso es todo.
+
+1386
+01:46:53,208 --> 01:46:54,875
+Deberían derribarme más a menudo.
+
+1387
+01:46:54,958 --> 01:46:56,208
+Sí, así será.
+
+1388
+01:46:56,292 --> 01:46:57,458
+Está bien.
+
+1389
+01:46:59,542 --> 01:47:01,333
+Te vas a recuperar completamente.
+
+1390
+01:47:01,833 --> 01:47:03,000
+Lo sé.
+
+1391
+01:47:04,458 --> 01:47:08,042
+Cuando llegue ese momento,
+asegúrate de tener el traje listo,
+
+1392
+01:47:09,083 --> 01:47:10,875
+porque en algo Ross tenía razón.
+
+1393
+01:47:11,833 --> 01:47:14,083
+El mundo necesita a los Vengadores.
+
+1394
+01:47:14,167 --> 01:47:15,917
+- ¿En serio?
+- Sí.
+
+1395
+01:47:16,458 --> 01:47:17,583
+Claro que sí.
+
+1396
+01:47:19,875 --> 01:47:22,875
+No lo había pensado antes,
+pero ahora que lo mencionas…
+
+1397
+01:47:23,417 --> 01:47:24,417
+Vaya.
+
+1398
+01:47:24,500 --> 01:47:26,958
+…como las alas se dañaron, pensaba que…
+
+1399
+01:47:27,042 --> 01:47:27,917
+No.
+
+1400
+01:47:28,458 --> 01:47:30,917
+- No sabes qué iba a decir.
+- Sea lo que sea, no.
+
+1401
+01:47:31,000 --> 01:47:36,167
+Digo que quizá tengas el número
+de los wakandianos y podrías conseguirme…
+
+1402
+01:47:36,250 --> 01:47:39,875
+Ayuda para mejorar las alas.
+
+1403
+01:47:41,167 --> 01:47:43,708
+¿Les pedirás ayuda a los wakandianos?
+
+1404
+01:47:43,792 --> 01:47:44,667
+Sí.
+
+1405
+01:47:44,750 --> 01:47:49,208
+- Eso es lo más típico de Miami que existe.
+- ¿Bromeas? Me van a ayudar, amigo.
+
+1406
+01:48:04,458 --> 01:48:08,250
+BASADA EN LOS CÓMICS DE MARVEL
+
+1407
+01:50:16,167 --> 01:50:23,167
+CAPITÁN AMÉRICA:
+UN NUEVO MUNDO
+
+1408
+01:57:19,458 --> 01:57:21,583
+Te dije que perderías esa apuesta.
+
+1409
+01:57:23,042 --> 01:57:24,875
+¿Sabes qué es lo gracioso?
+
+1410
+01:57:24,958 --> 01:57:27,167
+No quiero oír tus bromas.
+
+1411
+01:57:27,667 --> 01:57:30,167
+Mataste a buena gente
+al tratar de vengarte.
+
+1412
+01:57:30,250 --> 01:57:33,625
+Créeme, no tenemos
+el mismo sentido del humor.
+
+1413
+01:57:34,083 --> 01:57:36,250
+Compartimos el mismo mundo, ¿no?
+
+1414
+01:57:37,000 --> 01:57:39,417
+El que morirías por salvar.
+
+1415
+01:57:41,250 --> 01:57:42,500
+Ya viene.
+
+1416
+01:57:43,167 --> 01:57:47,000
+Lo vi claramente en las probabilidades.
+
+1417
+01:57:48,208 --> 01:57:51,167
+Todos los héroes que protegen este mundo,
+
+1418
+01:57:52,208 --> 01:57:57,542
+¿creen que son los únicos?
+¿Que este es el único mundo?
+
+1419
+01:57:59,042 --> 01:58:04,875
+Veremos qué pasa cuando deban proteger
+este lugar de los otros.
+
+1420
+01:58:10,542 --> 01:58:14,042
+El Capitán América regresará
+
