@@ -1,6 +1,6 @@
 ﻿1
 00:07:59,221 --> 00:08:03,393
-<b>HOPE: EL PRIMER IMPACTO WwW.GDriveDescarga.Com</b>
+<b>HOPE: EL PRIMER IMPACTO</b>
 
 2
 00:08:29,676 --> 00:08:30,860
@@ -128,7 +128,7 @@ la prueba de lo que no se ve.</i>
 
 32
 02:30:05,122 --> 02:30:10,643
-<i>Lo que más deseo... WwW.GDriveDescarga.Com</i>
+<i>Lo que más deseo...  </i>
 
 33
 02:30:10,877 --> 02:30:14,924
@@ -149,5 +149,5 @@ la prueba de lo que no se ve.</i>
 37
 02:32:16,168 --> 02:32:20,016
 <b>HOPE: EL PRIMER IMPACTO</b>
-WwW.GDriveDescarga.Com
+ 
 
