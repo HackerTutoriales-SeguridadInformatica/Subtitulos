@@ -12,19 +12,19 @@ Espera.
 
 4
 00:02:11,292 --> 00:02:12,708
-{\an8}Espera.
+ Espera.
 
 5
 00:02:13,542 --> 00:02:15,875
-{\an8}Está bien.
+ Está bien.
 
 6
 00:02:17,083 --> 00:02:19,917
-{\an8}Espera, Jasper. Sí que tienes hambre, ¿eh?
+ Espera, Jasper. Sí que tienes hambre, ¿eh?
 
 7
 00:02:20,625 --> 00:02:22,208
-{\an8}Bueno. Espera.
+ Bueno. Espera.
 
 8
 00:02:26,167 --> 00:02:27,458
@@ -48,7 +48,7 @@ Jasper, entra.
 
 13
 00:03:09,083 --> 00:03:10,083
-{\an8}Buen perrito.
+ Buen perrito.
 
 14
 00:03:16,667 --> 00:03:18,125
@@ -60,7 +60,7 @@ LUCES DEL PANEL
 
 16
 00:03:22,417 --> 00:03:23,792
-{\an8}¿Adónde vamos hoy?
+ ¿Adónde vamos hoy?
 
 17
 00:03:37,667 --> 00:03:39,624
@@ -68,12 +68,12 @@ Posición GPS no disponible
 
 18
 00:03:39,625 --> 00:03:43,250
-{\an8}Cessna Dos-Whisky-Delta,
+ Cessna Dos-Whisky-Delta,
 estamos listos para despegar.
 
 19
 00:04:00,875 --> 00:04:02,875
-{\an8}Basada en la novela de
+ Basada en la novela de
 PETER HELLER
 
 20
@@ -1527,7 +1527,7 @@ Oye, lamento lo de Jasper.
 
 362
 00:41:21,250 --> 00:41:23,124
-{\an8}PRESIÓN DE ACEITE
+ PRESIÓN DE ACEITE
 
 363
 00:41:23,125 --> 00:41:24,583
