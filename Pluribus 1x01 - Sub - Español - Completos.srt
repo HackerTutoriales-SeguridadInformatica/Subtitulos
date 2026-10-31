@@ -1,0 +1,2300 @@
+﻿1
+00:01:20,372 --> 00:01:21,540
+No te creo.
+
+2
+00:01:21,623 --> 00:01:23,750
+Es así de ancho.
+
+3
+00:01:23,834 --> 00:01:25,252
+Y es periódico.
+
+4
+00:01:25,335 --> 00:01:27,629
+No te creo.
+
+5
+00:01:27,713 --> 00:01:28,714
+Muéstrame.
+
+6
+00:01:35,429 --> 00:01:37,014
+Tiene que ser algo terrestre.
+
+7
+00:01:37,890 --> 00:01:39,349
+Rebota en la Luna.
+
+8
+00:01:39,433 --> 00:01:41,685
+Vaya. No se me ocurrió revisar eso.
+
+9
+00:01:42,394 --> 00:01:44,104
+Mira esa pendiente, amigo.
+
+10
+00:01:44,188 --> 00:01:46,023
+Se podría bajar esquiando por ahí.
+
+11
+00:01:46,106 --> 00:01:47,399
+Está a la deriva.
+
+12
+00:01:47,482 --> 00:01:50,235
+Mira aquí. Amplifícala.
+
+13
+00:01:50,319 --> 00:01:51,570
+¿Ves la variación?
+
+14
+00:01:52,070 --> 00:01:55,490
+Y mira. ¿Ves este espacio?Aquí se detiene y vuelve a comenzar.
+
+15
+00:01:55,574 --> 00:01:58,118
+- ¿Se repite?- Cada 78 segundos.
+
+16
+00:01:58,202 --> 00:01:59,494
+Y se repite todo.
+
+17
+00:02:00,495 --> 00:02:02,831
+Tres horas seguidasy no parece tener un fin.
+
+18
+00:02:07,169 --> 00:02:08,169
+Imposible.
+
+19
+00:02:20,474 --> 00:02:22,809
+Debe ser algo que rebota sobre la…
+
+20
+00:02:22,893 --> 00:02:24,978
+No está rebotando sobre la Luna, Dave.
+
+21
+00:02:25,062 --> 00:02:28,065
+Tal vez son esos parlanchinesen el Servicio Forestal.
+
+22
+00:02:28,857 --> 00:02:31,443
+Los odio. Siempre están en sus radioshablando sobre árboles.
+
+23
+00:02:31,527 --> 00:02:33,529
+Dave, no estamos captando al Oso Smokey.
+
+24
+00:02:33,612 --> 00:02:34,613
+Mira esa señal.
+
+25
+00:02:35,113 --> 00:02:36,198
+Está a la deriva.
+
+26
+00:02:37,407 --> 00:02:38,492
+Entonces, ¿qué es?
+
+27
+00:02:45,040 --> 00:02:46,834
+Parece una modulaciónpor ancho de pulsos simple.
+
+28
+00:02:46,917 --> 00:02:48,210
+Algo antiguo. Como código morse.
+
+29
+00:02:49,253 --> 00:02:53,173
+Tal vez sea la señal horariade Fort Collins.
+
+30
+00:02:53,257 --> 00:02:56,009
+- Usan la modulación por ancho de pulsos.- No es el reloj atómico.
+
+31
+00:02:56,093 --> 00:02:58,512
+El reloj atómico cambia cada minutoporque es un reloj.
+
+32
+00:02:58,595 --> 00:03:01,431
+Esto es la misma informaciónrepetida cada 78 segundos.
+Esto es la misma informaciónrepetida cada 78 segundos.
+
+33
+00:03:01,515 --> 00:03:06,645
+Además, proviene de una fuentea 600 años luz de distancia.
+
+34
+00:03:08,939 --> 00:03:12,150
+Tu código morse parece estar fragmentadoen cuatro segmentos.
+
+35
+00:03:15,362 --> 00:03:17,406
+Los pulsos tienen la misma duración,
+
+36
+00:03:17,489 --> 00:03:20,242
+pero están colocadosa través de cuatro frecuencias diferentes.
+
+37
+00:03:20,325 --> 00:03:23,579
+- Parece una pianola.- No está en binario, sino en base cuatro.
+
+38
+00:03:24,079 --> 00:03:25,080
+Cuaternario.
+
+39
+00:03:26,832 --> 00:03:28,333
+No será fácil descifrarlo.
+
+40
+00:03:36,091 --> 00:03:37,718
+No. Si miras esto. Mira…
+
+41
+00:03:40,304 --> 00:03:41,430
+¿Qué crees que dice?
+
+42
+00:03:41,513 --> 00:03:45,017
+Tal vez solo:"Hola. ¿Cómo están? Aquí estamos".
+
+43
+00:03:45,517 --> 00:03:48,687
+¿Qué pusimos en las Voyager 1 y 2?¿Chuck Berry?
+
+44
+00:03:49,229 --> 00:03:51,899
+Tal vez solo es su versiónde "Johnny B. Goode".
+
+45
+00:03:53,775 --> 00:03:56,069
+Imagina el poder que se necesitópara enviarlo.
+
+46
+00:03:56,904 --> 00:03:57,905
+¿Megavatios?
+
+47
+00:03:58,655 --> 00:03:59,823
+¿Gigavatios?
+
+48
+00:04:00,699 --> 00:04:02,826
+Y eso si solo está dirigidohacia nosotros.
+
+49
+00:04:02,910 --> 00:04:04,620
+Una antena del tamaño de África.
+
+50
+00:04:04,703 --> 00:04:05,704
+Más grande.
+
+51
+00:04:07,789 --> 00:04:10,167
+Todas esas complicacionespara enviar un mensaje.
+
+52
+00:04:10,959 --> 00:04:12,878
+Debe ser algo más que solo "hola".
+
+53
+00:04:14,505 --> 00:04:16,839
+¿Y por qué hacerlo difícil de entender?
+
+54
+00:04:17,423 --> 00:04:18,466
+¿Cuaternario?
+
+55
+00:04:19,091 --> 00:04:21,553
+Parece que está cifrado.¿Por qué te molestarías en…?
+
+56
+00:04:30,729 --> 00:04:32,105
+No es cuaternario.
+
+57
+00:04:36,443 --> 00:04:38,070
+Creo que ya sé qué es.
+
+58
+00:05:09,518 --> 00:05:12,062
+PEDIDO PENDIENTEDe placas de petri
+
+59
+00:05:21,446 --> 00:05:23,949
+Las lunas gemelas colgaban bajas y llenas.
+
+60
+00:05:24,032 --> 00:05:26,785
+Dos ojos color vino verdese asomaban sobre el horizonte
+
+61
+00:05:26,869 --> 00:05:29,204
+como si quisieran vislumbrarel alma de Lucasia.
+
+62
+00:05:29,955 --> 00:05:32,124
+Ella caminaba sobre la cubiertallena de sangre del Mercator,
+
+63
+00:05:32,207 --> 00:05:36,003
+buscando algo, lo que sea,que la ayudara a dejar de pensar en Raban.
+
+64
+00:05:36,962 --> 00:05:40,841
+Al subir al castillo de proa,pudo ver a un marinero joven sin camisa.
+
+65
+00:05:41,466 --> 00:05:43,302
+De rodillas, limpiaba con fuerza el suelo.
+
+66
+00:05:43,385 --> 00:05:47,723
+Los antebrazos marcados y tensosborraban todo rastro de combate.
+
+67
+00:05:48,432 --> 00:05:50,142
+Con un lánguido gesto de cabeza…
+
+68
+00:05:51,977 --> 00:05:54,479
+Lucasia le indicó que la siguierahasta su camarote.
+
+69
+00:05:54,980 --> 00:05:58,358
+Aquel joven no imaginabaque servir a su capitana
+
+70
+00:05:58,442 --> 00:06:00,194
+podía adquirir un significado tan dulce.
+podía adquirir un significado tan dulce.
+
+71
+00:06:01,445 --> 00:06:05,449
+O, desafortunadamente,eso solo duraría una noche.
+
+72
+00:06:08,285 --> 00:06:12,789
+Más tarde, al sonar las cuatro campanadas,Lucasia aguardaba junto al palo de mesana.
+
+73
+00:06:12,873 --> 00:06:15,959
+Y una vez más, se encontraba sola.
+
+74
+00:06:17,085 --> 00:06:18,795
+Se ajustó el abrigo,
+
+75
+00:06:18,879 --> 00:06:21,924
+acariciando su lana áspera,mientras sus pensamientos volvían a Raban.
+
+76
+00:06:22,007 --> 00:06:25,260
+Él había sido el primeroen cubrirla con el abrigo,
+
+77
+00:06:25,344 --> 00:06:27,137
+susurrándole al oído:
+
+78
+00:06:27,221 --> 00:06:31,600
+"Que esto te dé caloren mi ausencia, ma chérie".
+
+79
+00:06:33,185 --> 00:06:37,064
+Fue entonces que Raban,el siempre orgulloso y altanero Raban,
+
+80
+00:06:37,981 --> 00:06:40,192
+se subió a la planchay desapareció de un salto.
+
+81
+00:06:40,776 --> 00:06:43,278
+La arena amarantinalo envolvió por completo,
+
+82
+00:06:44,571 --> 00:06:45,906
+sin dejar la más mínima ondulación.
+
+83
+00:06:58,085 --> 00:07:02,214
+Atención, amantes de la literaturaromántica histórica especulativa,
+Atención, amantes de la literaturaromántica histórica especulativa,
+
+84
+00:07:02,297 --> 00:07:05,926
+la autora best seller Carol Sturkaprocederá a autografiar su nueva novela,
+
+85
+00:07:06,009 --> 00:07:07,511
+"Bloodsong of Wycaro",
+
+86
+00:07:07,594 --> 00:07:09,763
+el cuarto libro en su trilogíade "Winds of Wycaro".
+
+87
+00:07:09,847 --> 00:07:12,724
+¡"Güáikaro", por favor!¡Es "Winds of Güáikaro"!
+
+88
+00:07:13,892 --> 00:07:16,061
+Y Bloodsong es el mejor hasta ahora.
+
+89
+00:07:16,144 --> 00:07:17,813
+Dios, les espera una gran sorpresa.
+
+90
+00:07:19,356 --> 00:07:20,691
+¡Vamos a autografiar libros!
+
+91
+00:07:21,358 --> 00:07:23,569
+Maureen - ¡Que el VIENTO esté a tu favor!Carol Sturka
+
+92
+00:07:23,652 --> 00:07:25,904
+Raban está vivo, ¿verdad?
+
+93
+00:07:25,988 --> 00:07:27,865
+Maureen. Puedes leerlo.
+
+94
+00:07:27,948 --> 00:07:29,283
+Eso haré. Esta noche.
+
+95
+00:07:29,366 --> 00:07:30,701
+Ya desconecté el teléfono.
+
+96
+00:07:31,493 --> 00:07:32,494
+Es que…
+
+97
+00:07:33,203 --> 00:07:35,622
+- Raban no está en la portada.- No, es cierto.
+
+98
+00:07:35,706 --> 00:07:39,042
+Y siempre ha estado en la portada, Carol.
+
+99
+00:07:39,585 --> 00:07:41,295
+Si Raban no regresa…
+
+100
+00:07:42,421 --> 00:07:43,422
+será mi fin.
+
+101
+00:07:44,173 --> 00:07:45,174
+Acércate.
+
+102
+00:07:46,175 --> 00:07:48,051
+Página 218.
+
+103
+00:07:51,263 --> 00:07:53,765
+- Bueno. Gracias.- Bien. Adiós.
+
+104
+00:07:53,849 --> 00:07:54,933
+Gracias, Maureen.
+
+105
+00:07:55,017 --> 00:07:57,686
+- Sí, ella es Olga.- Hola. Hola, Olga.
+
+106
+00:08:01,440 --> 00:08:02,441
+¡Hola, Yvette!
+
+107
+00:08:04,026 --> 00:08:05,319
+¡Hola!
+
+108
+00:08:05,944 --> 00:08:06,987
+Me encanta.
+
+109
+00:08:07,070 --> 00:08:08,530
+Holly -¡Que el VIENTO esté a tu favor!
+
+110
+00:08:08,614 --> 00:08:11,158
+- Que disfrutes la lectura.- Ella es Nicky con una almohada.
+
+111
+00:08:11,241 --> 00:08:13,285
+- Nicky con una… ¡Dios mío!- Yo la hice.
+
+112
+00:08:13,368 --> 00:08:15,120
+- Mira eso. ¿Tú la hiciste?- Sí.
+
+113
+00:08:15,204 --> 00:08:16,205
+Ella es Christine.
+
+114
+00:08:16,288 --> 00:08:18,373
+Ella es Paulina y su persona de apoyo.
+
+115
+00:08:18,457 --> 00:08:19,541
+- Ella es Carlotta.- Hola.
+
+116
+00:08:19,625 --> 00:08:21,251
+Digan "Raban".
+
+117
+00:08:21,335 --> 00:08:23,003
+Raban.
+
+118
+00:08:23,086 --> 00:08:25,422
+Cuando Raban y Eldgammelcaen en el compartimiento de carga,
+
+119
+00:08:25,506 --> 00:08:27,382
+¿recuerdan qué había ahí adentro?
+
+120
+00:08:27,466 --> 00:08:28,675
+Fruta de Mandovia.
+
+121
+00:08:28,759 --> 00:08:30,844
+Y se sabe que Lucasia…
+
+122
+00:08:32,179 --> 00:08:33,804
+¡Es altamente alérgica!
+
+123
+00:08:33,889 --> 00:08:36,265
+- ¿Dirigen un club de fanes?- ¡Por supuesto!
+
+124
+00:08:38,977 --> 00:08:40,479
+- ¡Muchas gracias!- Gracias.
+
+125
+00:08:40,562 --> 00:08:41,563
+- Hola, Tanya.- ¡Hola!
+
+126
+00:08:41,647 --> 00:08:42,773
+- ¿Estás emocionada?- Sí.
+
+127
+00:08:42,856 --> 00:08:44,066
+- Hola, Yvonne.- Hola.
+
+128
+00:08:44,149 --> 00:08:45,984
+Tengo dos libros, uno para la tina.
+
+129
+00:08:46,068 --> 00:08:49,029
+Este es un alfanje real como el de Raban.
+
+130
+00:08:49,112 --> 00:08:50,781
+- Muy bien.- Cuidado, es muy filoso.
+
+131
+00:08:50,864 --> 00:08:52,366
+Bueno, solo tres cosas.
+
+132
+00:08:52,449 --> 00:08:55,661
+A: ¿Cuándo harán por finuna película de Wycaro?
+
+133
+00:08:55,744 --> 00:08:58,664
+Y dígame que estará en cines de verdad,no en el canal de Lifetime.
+
+134
+00:08:58,747 --> 00:09:00,999
+B: ILM debe hacer la arena movediza,
+B: ILM debe hacer la arena movediza,
+
+135
+00:09:01,083 --> 00:09:03,544
+de lo contrario se verá muy merde,disculpe mi francés.
+
+136
+00:09:03,627 --> 00:09:07,214
+Y C: Es algo pequeño, pero crucial,
+
+137
+00:09:07,297 --> 00:09:09,174
+como el Mercatores una goleta de dos mástiles,
+
+138
+00:09:09,258 --> 00:09:11,051
+no podría tener un palo de mesana.
+
+139
+00:09:11,134 --> 00:09:12,052
+Así que…
+
+140
+00:09:12,135 --> 00:09:14,888
+Craig, necesito que guardes estoen tu mochila
+
+141
+00:09:14,972 --> 00:09:16,473
+antes de que el gerente lo vea.
+
+142
+00:09:17,432 --> 00:09:18,433
+¿Verdad?
+
+143
+00:09:18,517 --> 00:09:19,852
+- Soy su humilde sirviente.- Gracias.
+
+144
+00:09:19,935 --> 00:09:21,395
+LIBRERÍASBARNES&NOBLE
+
+145
+00:09:21,478 --> 00:09:22,771
+Esta es la buena.
+
+146
+00:09:23,730 --> 00:09:25,023
+Muchas gracias.
+
+147
+00:09:25,691 --> 00:09:27,693
+- Nos vemos en la siguiente.- Disfruten su lectura.
+
+148
+00:09:27,776 --> 00:09:29,570
+Muy bien.
+
+149
+00:09:33,699 --> 00:09:37,244
+Hola, señoritas.Me dirijo al hotel Hyatt Regency Dallas.
+
+150
+00:09:37,327 --> 00:09:39,580
+Hola, sí. Gracias, perfecto.
+
+151
+00:09:40,163 --> 00:09:43,834
+Esa fue una gran despedida.Perdón, ¿debería saber quién es?
+
+152
+00:09:45,335 --> 00:09:47,171
+Depende.¿Eres fan de las tonterías sin sentido?
+
+153
+00:10:21,079 --> 00:10:22,331
+Buenos días, doc.
+
+154
+00:10:22,414 --> 00:10:24,458
+Sí, muy buenos días.
+
+155
+00:10:25,584 --> 00:10:27,127
+- Hola, Mel.- Hola.
+
+156
+00:10:27,920 --> 00:10:29,254
+¿De dónde salieron?
+
+157
+00:10:29,838 --> 00:10:30,839
+De tu servidor.
+
+158
+00:10:31,507 --> 00:10:33,675
+Sírvete.Creo que la mayoría son glaseadas,
+
+159
+00:10:33,759 --> 00:10:36,762
+pero en una caja hay con chispitas,espolvoreadas y todo eso.
+
+160
+00:10:36,845 --> 00:10:38,555
+¿Qué hicimos para merecer esto?
+
+161
+00:10:39,556 --> 00:10:41,934
+Mi hija de 14 años las vendepara su banda de marcha.
+
+162
+00:10:43,393 --> 00:10:44,603
+Eres un gran padre.
+
+163
+00:10:44,686 --> 00:10:46,897
+- ¿Qué instrumento toca?- El trombón.
+
+164
+00:10:46,980 --> 00:10:47,981
+INSTITUTO DE INVESTIGACIÓN MÉDICA
+
+165
+00:10:48,065 --> 00:10:49,566
+DE ENFERMEDADES INFECCIOSASDEL EJÉRCITO DE LOS ESTADOS UNIDOS
+
+166
+00:10:49,650 --> 00:10:52,361
+- ¡Doctor D!- Buenas noches. O días, lo que sea.
+
+167
+00:10:52,444 --> 00:10:54,655
+- Mira lo que trajo Mel.- ¿Para nosotros?
+
+168
+00:10:54,738 --> 00:10:55,906
+Sí, por favor.
+
+169
+00:10:55,989 --> 00:10:57,699
+Los tienen trabajando a estas horas.
+
+170
+00:10:57,783 --> 00:11:00,118
+Sí, debo dormir a muchas ratas.
+Sí, debo dormir a muchas ratas.
+
+171
+00:11:01,286 --> 00:11:02,829
+¿Y cómo van con el gran proyecto?
+
+172
+00:11:03,497 --> 00:11:04,540
+¿Qué has escuchado?
+
+173
+00:11:05,249 --> 00:11:07,125
+No lo sé. Algunas cosas.
+
+174
+00:11:07,668 --> 00:11:09,169
+Pues…
+
+175
+00:11:09,837 --> 00:11:11,421
+El equipo aseguraque tenemos una secuencia
+
+176
+00:11:11,505 --> 00:11:13,006
+que codifica un virus lisogénico.
+
+177
+00:11:13,090 --> 00:11:14,925
+Pero después de ocho mesesde hacer pruebas en animales…
+
+178
+00:11:15,008 --> 00:11:16,844
+Macacos, conejos, ratones…
+
+179
+00:11:16,927 --> 00:11:19,471
+- Conejillos de Indias.- Conejillos de Indias. Ahora ratas.
+
+180
+00:11:19,972 --> 00:11:22,057
+Sin ningún tipo de signos clínicos.
+
+181
+00:11:24,560 --> 00:11:25,769
+Eso quiere decir…
+
+182
+00:11:26,603 --> 00:11:27,604
+que tenemos aire.
+
+183
+00:11:28,438 --> 00:11:29,523
+Tenemos aire.
+
+184
+00:11:45,163 --> 00:11:46,748
+Bueno, ¿cómo quieres hacer esto?
+
+185
+00:11:47,666 --> 00:11:50,586
+Puedo dormirlos si quieres hacerla inyección intracardiaca.
+
+186
+00:11:51,461 --> 00:11:53,672
+Odio las inyecciones intracardiacas.
+
+187
+00:11:53,755 --> 00:11:55,924
+Bueno, si quieres les echamos gas.
+
+188
+00:11:56,550 --> 00:11:58,010
+Odio echarles gas.
+
+189
+00:11:58,093 --> 00:11:59,887
+Quizá estás en la carrera equivocada.
+
+190
+00:11:59,970 --> 00:12:02,472
+Muy bien,mejor las inyecciones intracardiacas.
+Muy bien,mejor las inyecciones intracardiacas.
+
+191
+00:12:03,515 --> 00:12:04,725
+Acabemos con esto.
+
+192
+00:12:09,605 --> 00:12:10,606
+Mira esto.
+
+193
+00:12:11,273 --> 00:12:12,399
+Demonios.
+
+194
+00:12:13,525 --> 00:12:15,235
+¿Qué crees que pasó?
+
+195
+00:12:21,325 --> 00:12:22,367
+No lo sé.
+
+196
+00:12:45,140 --> 00:12:46,600
+Se ve bastante muerto para mí.
+
+197
+00:12:49,102 --> 00:12:50,103
+¿Sientes sus latidos?
+
+198
+00:12:50,187 --> 00:12:52,022
+No siento nada con estos guantes.
+
+199
+00:13:01,657 --> 00:13:02,783
+¿Qué?
+
+200
+00:13:04,159 --> 00:13:05,577
+Definitivamente siento sus latidos.
+
+201
+00:13:05,661 --> 00:13:07,704
+Son fuertes. Como tamborileos.
+
+202
+00:13:07,788 --> 00:13:09,456
+Qué raro, si no supiera realmente, diría…
+
+203
+00:13:10,040 --> 00:13:12,000
+Dios. Mierda. No.
+
+204
+00:13:12,084 --> 00:13:13,710
+Tiene que ser una broma.
+
+205
+00:13:15,128 --> 00:13:17,005
+- Mierda.- ¿Atravesó la piel?
+
+206
+00:13:17,673 --> 00:13:19,925
+Sí. No… Sí, atravesó el guante.
+
+207
+00:13:20,008 --> 00:13:22,135
+Mierda. Remójala rápido.
+
+208
+00:13:22,219 --> 00:13:23,220
+Mantenla sumergida.
+
+209
+00:13:23,303 --> 00:13:25,681
+Si sangra, asegúrate de exprimirla bien.
+
+210
+00:13:25,764 --> 00:13:28,642
+Haré un informe de estoen cuanto lo atrape, ¿sí?
+
+211
+00:13:45,492 --> 00:13:46,743
+Aquí te quedas.
+
+212
+00:13:52,291 --> 00:13:54,960
+Registro que son las 3:36 y…
+
+213
+00:13:57,880 --> 00:13:59,173
+¿Jenn?
+
+214
+00:14:02,259 --> 00:14:03,969
+Dime algo, Jenn. ¡Jenn!
+
+215
+00:14:04,052 --> 00:14:05,929
+¡Jenn! ¡Jenn! ¡Jenn!
+
+216
+00:14:06,972 --> 00:14:08,307
+Te voy a sacar de aquí.
+
+217
+00:14:09,808 --> 00:14:12,060
+Te tengo. Sí, vamos.
+
+218
+00:14:12,936 --> 00:14:13,979
+Te tengo.
+
+219
+00:14:20,027 --> 00:14:21,028
+Resiste.
+
+220
+00:14:22,696 --> 00:14:24,865
+Jenn, ¿me escuchas? Todo estará bien.
+
+221
+00:14:24,948 --> 00:14:25,949
+Vas a estar bien.
+
+222
+00:14:27,826 --> 00:14:31,288
+Vamos. Vas a estar bien.Te prometo que estarás bien, ¿me escuchas?
+
+223
+00:14:31,371 --> 00:14:34,249
+Vamos, por favor. Dime algo.Por favor, Jenn, vamos.
+
+224
+00:14:34,333 --> 00:14:36,210
+¡Jenn! ¿Estás bien?
+
+225
+00:14:37,461 --> 00:14:38,462
+¿Jenn?
+
+226
+00:14:39,004 --> 00:14:40,047
+Di lo que sea.
+
+227
+00:14:40,756 --> 00:14:42,424
+Jenn. Te tengo.
+
+228
+00:14:42,508 --> 00:14:43,509
+Te tengo.
+
+229
+00:14:44,218 --> 00:14:45,219
+¿Jenn?
+
+230
+00:14:47,387 --> 00:14:49,348
+Oye, Jenn. ¿Me escuchas?
+
+231
+00:14:50,599 --> 00:14:51,767
+Jenn, di algo.
+
+232
+00:14:56,647 --> 00:14:59,608
+FRITOSLA FRITURA ORIGINAL DE MAÍZ
+
+233
+00:15:02,194 --> 00:15:03,195
+Carajo.
+
+234
+00:15:04,279 --> 00:15:05,280
+¿Es una broma?
+
+235
+00:15:18,460 --> 00:15:19,461
+¿En serio?
+
+236
+00:15:28,011 --> 00:15:29,012
+Demonios.
+
+237
+00:15:32,850 --> 00:15:34,393
+¿Puedes crees que esto pase?
+
+238
+00:15:36,353 --> 00:15:39,523
+Tienes brazos delgados.¿Crees que puedas…?
+
+239
+00:15:42,901 --> 00:15:43,902
+Hola.
+
+240
+00:16:25,903 --> 00:16:26,904
+¿Sí?
+
+241
+00:16:58,936 --> 00:17:01,021
+BARROSPOLICÍA MILITAR
+BARROSPOLICÍA MILITAR
+
+242
+00:18:29,234 --> 00:18:33,113
+DONASSANDY PONY
+
+243
+00:18:33,197 --> 00:18:37,075
+¡TOMA LAS QUE QUIERAS!
+
+244
+00:19:13,237 --> 00:19:16,240
+ESENCIALES DE SUNPORT
+
+245
+00:19:27,459 --> 00:19:28,627
+Iré por unos chicles.
+
+246
+00:19:43,433 --> 00:19:45,894
+DIANA GABALDONCUÉNTALE A LAS ABEJAS QUE ME FUI
+
+247
+00:20:10,836 --> 00:20:11,837
+¿En serio?
+
+248
+00:20:11,920 --> 00:20:15,299
+Solo bebí vodka en Salt Lake.Y eso fue hace dos horas.
+
+249
+00:20:39,156 --> 00:20:40,282
+Un Rye Manhattan…
+
+250
+00:20:42,284 --> 00:20:44,077
+y una Pepsi de dieta.
+
+251
+00:20:44,161 --> 00:20:45,162
+Gracias.
+
+252
+00:20:48,290 --> 00:20:49,750
+Que un taxi nos lleve a casa.
+
+253
+00:20:50,417 --> 00:20:52,753
+No me digas que no necesitas un trago,porque sí lo necesitas.
+
+254
+00:20:52,836 --> 00:20:55,047
+- No lo necesito.- Claro que sí.
+
+255
+00:20:55,130 --> 00:20:56,256
+No lo necesito.
+
+256
+00:20:56,340 --> 00:20:57,966
+Yo digo que no sabes lo que dices.
+
+257
+00:20:58,550 --> 00:21:00,093
+Necesito dormir, eso necesito.
+Necesito dormir, eso necesito.
+
+258
+00:21:00,677 --> 00:21:02,971
+Salud, por la mejor gira hasta ahora.
+
+259
+00:21:04,765 --> 00:21:06,850
+- ¿Me vas a dejar esperando?- No choco las copas
+
+260
+00:21:06,934 --> 00:21:08,519
+con una puta Pepsi de dieta.
+
+261
+00:21:08,602 --> 00:21:11,146
+¿Mejor gira literaria? ¿Qué es eso?
+
+262
+00:21:11,230 --> 00:21:12,773
+¿Es como tener cáncer del bueno?
+
+263
+00:21:13,315 --> 00:21:14,900
+Lo sobrellevas, no lo celebras.
+
+264
+00:21:14,983 --> 00:21:18,946
+Cómo odio a esos clientes que pagany que me bañan de amor y respeto.
+
+265
+00:21:19,029 --> 00:21:20,781
+¿Y por qué genero tanto dinero?
+
+266
+00:21:22,282 --> 00:21:23,492
+¿Cómo lo soportas?
+
+267
+00:21:32,793 --> 00:21:33,919
+Es gente estúpida.
+
+268
+00:21:35,045 --> 00:21:38,006
+¿Un barco que navega sobre… arena?
+
+269
+00:21:38,632 --> 00:21:41,301
+¿Arena púrpura? Eso es… Qué inteligente.
+
+270
+00:21:41,385 --> 00:21:42,469
+El mundo necesita eso.
+
+271
+00:21:43,220 --> 00:21:45,222
+Y el mundo necesitaotro personaje femenino
+
+272
+00:21:45,305 --> 00:21:49,518
+que desperdicie su tiempo obsesionadacon un puto pirata orgulloso y altanero.
+
+273
+00:21:50,143 --> 00:21:51,770
+Es un corsario, no un pirata.
+
+274
+00:21:53,564 --> 00:21:55,065
+"Fruta de Mandovia".
+
+275
+00:21:56,608 --> 00:21:57,943
+Dios, eso es…
+
+276
+00:21:58,026 --> 00:21:59,945
+Es como un episodio aburrido de Star Trek.
+
+277
+00:22:00,028 --> 00:22:01,697
+¿Y si mejor le das al públicoun nuevo estilo?
+
+278
+00:22:02,447 --> 00:22:03,949
+¿Arena verde en lugar de púrpura?
+
+279
+00:22:05,242 --> 00:22:06,994
+Tal vez llegó el momentode tu libro serio.
+
+280
+00:22:09,162 --> 00:22:11,915
+¿Por qué no?Llevas cinco años trabajando en él.
+
+281
+00:22:12,416 --> 00:22:14,585
+- Cuatro y medio. Apenas.- Perdón.
+
+282
+00:22:14,668 --> 00:22:15,752
+Pues acábalo ya.
+
+283
+00:22:15,836 --> 00:22:17,045
+No puedo simplemente…
+
+284
+00:22:18,547 --> 00:22:19,756
+Necesito perfeccionarlo.
+
+285
+00:22:21,175 --> 00:22:22,759
+Obviamente. Creo que es obvio, ¿no?
+
+286
+00:22:22,843 --> 00:22:25,053
+Bueno, usa los siguientes mesespara hacer eso.
+
+287
+00:22:25,137 --> 00:22:26,138
+Puedo arreglarlo.
+
+288
+00:22:26,221 --> 00:22:28,432
+Te conseguiré más tiempoantes de tu siguiente Wycaro.
+
+289
+00:22:30,475 --> 00:22:32,853
+¿En serio creesque Bitter Chrysalis es bueno?
+
+290
+00:22:35,147 --> 00:22:36,773
+Creo que la gente lo amará.
+
+291
+00:22:42,654 --> 00:22:44,823
+¿Has leído Finnegans Wake?
+
+292
+00:22:44,907 --> 00:22:45,908
+No.
+
+293
+00:22:46,617 --> 00:22:48,911
+Lo intenté. En la maestría.
+
+294
+00:22:51,538 --> 00:22:54,166
+Creo que es bueno. No lo sé.
+
+295
+00:22:55,918 --> 00:22:58,712
+Solo sé que me hizo sufrircuando intenté leerlo.
+
+296
+00:23:01,965 --> 00:23:02,966
+Creo que…
+
+297
+00:23:04,176 --> 00:23:07,095
+si al menos haces feliz a una persona,tal vez no sea arte.
+
+298
+00:23:09,348 --> 00:23:10,557
+Pero es algo.
+
+299
+00:23:17,648 --> 00:23:18,649
+Por Raban.
+
+300
+00:23:19,566 --> 00:23:21,985
+El siempre orgulloso y altanero Raban.
+
+301
+00:23:29,743 --> 00:23:31,245
+¿Trajiste tus cigarros?
+
+302
+00:23:31,995 --> 00:23:33,288
+¿Desde cuándo fumas?
+
+303
+00:23:34,081 --> 00:23:35,165
+Desde ahora.
+
+304
+00:23:42,297 --> 00:23:44,675
+NOTICIAS DE ÚLTIMO MINUTO
+
+305
+00:23:44,758 --> 00:23:47,761
+BASE AÉREA EN CONFINAMIENTO
+
+306
+00:23:56,186 --> 00:23:59,147
+¿Intentas crear un incendio forestal?No desperdicies mi butano.
+
+307
+00:23:59,231 --> 00:24:00,315
+BARSILVER JACK'S
+BARSILVER JACK'S
+
+308
+00:24:00,983 --> 00:24:02,234
+No me digas cómo fumar.
+
+309
+00:24:02,818 --> 00:24:03,944
+Fumaba en la secundaria.
+
+310
+00:24:04,027 --> 00:24:06,405
+Primero enciendes el cigarrode la otra persona.
+
+311
+00:24:06,488 --> 00:24:07,990
+- Por educación.- ¿Sí? ¿En un avión
+
+312
+00:24:08,073 --> 00:24:10,075
+te pones primero tu propia máscarade oxígeno?
+
+313
+00:24:14,830 --> 00:24:17,624
+¿Quieres saber que dice HoustonMom78de Bloodsong?
+
+314
+00:24:18,250 --> 00:24:20,460
+"¡El mejor Wycaro de todos!".Todo en mayúsculas.
+
+315
+00:24:20,544 --> 00:24:21,545
+Y…
+
+316
+00:24:23,589 --> 00:24:26,508
+- 16, 17 signos de exclamación.- Genial.
+
+317
+00:24:26,592 --> 00:24:27,843
+- ¿Es un nuevo récord?- Seguro sí.
+
+318
+00:24:27,926 --> 00:24:31,430
+"Alerta de spoiler, Raban regresóy es más sabroso de nunca".
+
+319
+00:24:31,513 --> 00:24:33,599
+Creo que quiso decirmás sabroso que nunca.
+
+320
+00:24:34,474 --> 00:24:37,895
+"Por 'supuerto' que tiene mi permisopara subir al barco.
+
+321
+00:24:37,978 --> 00:24:39,396
+Me subiría a su tablón cuando quiera".
+
+322
+00:24:39,479 --> 00:24:40,898
+Noto un toque náutico aquí.
+
+323
+00:24:40,981 --> 00:24:43,233
+Un poco. ¿Crees que HoustonMomno tomó sus medicamentos?
+
+324
+00:24:43,317 --> 00:24:45,861
+Creo que ella abriría las piernaspor un sándwich de queso.
+
+325
+00:24:51,491 --> 00:24:52,492
+Mira eso.
+
+326
+00:24:53,785 --> 00:24:55,162
+¿Qué?
+
+327
+00:24:55,245 --> 00:24:56,872
+¿Qué crees que estén haciendo?
+
+328
+00:24:57,664 --> 00:25:00,792
+- ¿A qué te refieres?- Los aviones. Arriba. Mira.
+- ¿A qué te refieres?- Los aviones. Arriba. Mira.
+
+329
+00:25:03,378 --> 00:25:05,631
+No lo sé. ¿Crees que es raro?
+
+330
+00:25:05,714 --> 00:25:07,132
+Sí, es raro. ¿No crees?
+
+331
+00:25:07,216 --> 00:25:09,593
+Las líneas se ven paralelas.
+
+332
+00:25:22,814 --> 00:25:24,316
+¿Algún otro comentario?
+
+333
+00:25:25,025 --> 00:25:27,861
+Son los mismos de siempre,más algunos nuevos.
+
+334
+00:25:28,445 --> 00:25:29,488
+Todos lo adoran.
+
+335
+00:25:40,958 --> 00:25:42,668
+¿Quieres responder algunas preguntas?
+
+336
+00:25:43,794 --> 00:25:47,631
+- ¿Ahora? No. No, no.- Solo una para que vean que estás atenta.
+
+337
+00:25:48,590 --> 00:25:51,426
+"Carol, mi esposo dice que Rabanpuede ser mi pase libre,
+
+338
+00:25:51,510 --> 00:25:54,263
+aunque creo que no es justoporque Raban es ficticio,
+
+339
+00:25:54,346 --> 00:25:55,806
+aunque desearía que fuera real.
+
+340
+00:25:55,889 --> 00:25:59,726
+En la vida real,¿te basaste en algún hombre
+
+341
+00:25:59,810 --> 00:26:01,520
+cuando inventaste a Raban?".
+cuando inventaste a Raban?".
+
+342
+00:26:01,603 --> 00:26:02,896
+Qué gracioso.
+
+343
+00:26:05,983 --> 00:26:07,192
+¿Le vas a decir la verdad?
+
+344
+00:26:09,778 --> 00:26:10,988
+¿Qué tienes que perder?
+
+345
+00:26:14,074 --> 00:26:15,200
+Di que fue George Clooney.
+
+346
+00:26:16,034 --> 00:26:17,077
+- ¿Qué?- Nada.
+
+347
+00:26:17,160 --> 00:26:18,871
+- ¿Qué tiene de malo?- Nada. Es que…
+
+348
+00:26:18,954 --> 00:26:21,081
+¿Por qué no un jugadorde fútbol brasileño?
+
+349
+00:26:21,164 --> 00:26:22,749
+Alguien con rastas. Algo más sexi.
+
+350
+00:26:24,084 --> 00:26:25,085
+Solo…
+
+351
+00:26:26,170 --> 00:26:27,296
+di que fue George Clooney.
+
+352
+00:26:28,130 --> 00:26:29,131
+Es más seguro.
+
+353
+00:26:34,344 --> 00:26:35,721
+Mierda.
+
+354
+00:26:57,075 --> 00:26:59,244
+Amigo, ¿estás…? ¿Estás bien, amigo?
+
+355
+00:27:05,834 --> 00:27:06,919
+Dios mío.
+
+356
+00:27:17,804 --> 00:27:19,640
+Helen, ¿deberíamos llamar a alguien?
+
+357
+00:27:22,351 --> 00:27:23,435
+¿Helen?
+
+358
+00:27:23,519 --> 00:27:25,270
+Helen, deja de ver ese estúpido…
+
+359
+00:27:37,908 --> 00:27:38,909
+¿Helen?
+
+360
+00:27:43,121 --> 00:27:44,289
+Dios mío. ¡Helen!
+
+361
+00:27:45,082 --> 00:27:46,083
+¿Helen?
+
+362
+00:27:47,125 --> 00:27:48,168
+¿Helen?
+
+363
+00:27:51,672 --> 00:27:52,798
+¡Ayuda!
+
+364
+00:27:52,881 --> 00:27:54,716
+¡Ayúdenos!
+
+365
+00:27:54,800 --> 00:27:56,009
+¡Ayuda!
+
+366
+00:27:56,093 --> 00:27:58,846
+Solo quédate ahí. No te muevas.
+
+367
+00:27:59,388 --> 00:28:00,639
+Quédate ahí.
+Quédate ahí.
+
+368
+00:28:07,813 --> 00:28:09,147
+Llamen al 911…
+
+369
+00:28:18,031 --> 00:28:19,366
+Dios.
+
+370
+00:29:22,554 --> 00:29:24,139
+Contesta, por favor.
+
+371
+00:29:24,223 --> 00:29:25,307
+Por favor.
+
+372
+00:29:27,768 --> 00:29:29,686
+- Habla al número de emergencia…- Sí. Hola, yo…
+
+373
+00:29:29,770 --> 00:29:31,021
+- …de la policía de Albuquerque.- ¡Mierda!
+
+374
+00:29:31,104 --> 00:29:32,564
+- Permanezca en la línea.- ¡Mierda!
+
+375
+00:29:32,648 --> 00:29:34,775
+- Un operador se contactará con usted.- ¡Mierda!
+
+376
+00:29:35,359 --> 00:29:37,486
+Habla al número de emergencia…
+
+377
+00:30:20,904 --> 00:30:24,366
+Rápido, rápido, rápido.
+
+378
+00:30:24,449 --> 00:30:26,410
+Rápido, rápido, rápido.
+
+379
+00:30:27,995 --> 00:30:29,246
+¡Rápido, rápido, rápido!
+
+380
+00:30:34,001 --> 00:30:35,127
+Vete a la mierda.
+
+381
+00:30:35,669 --> 00:30:38,422
+Vete a la mierda. Vete a la mierda.
+
+382
+00:30:42,676 --> 00:30:43,677
+¡Vete a la mierda!
+
+383
+00:30:52,227 --> 00:30:55,898
+Vamos, tienes que salir.Por favor, sal de ahí. ¡Sal! Dios mío.
+
+384
+00:30:59,776 --> 00:31:01,445
+¡No! ¡Mierda!
+¡No! ¡Mierda!
+
+385
+00:31:04,198 --> 00:31:05,532
+¡Vete a la mierda!
+
+386
+00:31:24,259 --> 00:31:26,845
+LICORES
+
+387
+00:32:32,911 --> 00:32:33,912
+Gracias a Dios.
+
+388
+00:32:36,123 --> 00:32:37,541
+Gracias a Dios.
+
+389
+00:33:57,538 --> 00:33:59,206
+Hola.
+
+390
+00:34:01,291 --> 00:34:02,292
+Despierta.
+
+391
+00:34:05,003 --> 00:34:08,257
+Dr. Nguyen, necesito que despierte.
+
+392
+00:34:09,257 --> 00:34:10,801
+Despierte, por favor.
+
+393
+00:34:10,884 --> 00:34:11,885
+Doctor.
+
+394
+00:34:12,469 --> 00:34:13,637
+Dr. Nguyen, despierte.
+
+395
+00:34:14,221 --> 00:34:15,222
+Despierte.
+
+396
+00:34:15,806 --> 00:34:16,849
+Despierte, por favor.
+
+397
+00:34:17,850 --> 00:34:19,560
+Dr. Nguyen, ¡despierte!
+
+398
+00:34:23,563 --> 00:34:24,565
+Bueno.
+
+399
+00:34:55,053 --> 00:34:56,388
+¡Perdón! Mierda.
+
+400
+00:35:00,809 --> 00:35:02,186
+Muy bien.
+
+401
+00:35:14,698 --> 00:35:18,619
+URGENCIAS
+
+402
+00:35:20,829 --> 00:35:22,456
+Muy bien. Ya vamos.
+
+403
+00:35:25,667 --> 00:35:26,752
+¿Helen?
+
+404
+00:35:27,711 --> 00:35:29,004
+¿Helen? ¿Helen?
+
+405
+00:35:32,007 --> 00:35:33,759
+Helen. Helen.
+
+406
+00:35:38,013 --> 00:35:39,014
+Hola.
+
+407
+00:35:40,224 --> 00:35:41,433
+Bebé.
+
+408
+00:35:48,190 --> 00:35:49,608
+Hola, bebé.
+
+409
+00:35:56,198 --> 00:35:57,366
+No, no, no.
+
+410
+00:36:24,351 --> 00:36:25,519
+Maldita sea.
+
+411
+00:36:26,645 --> 00:36:27,646
+Aquí voy.
+
+412
+00:36:32,025 --> 00:36:33,235
+Por favor.
+
+413
+00:36:36,697 --> 00:36:39,199
+Que alguien me ayude.
+
+414
+00:36:39,283 --> 00:36:41,910
+No, no. Dios, no. No…
+
+415
+00:36:41,994 --> 00:36:44,496
+Por favor. Por favor.
+
+416
+00:38:17,047 --> 00:38:18,048
+Oye.
+
+417
+00:38:21,176 --> 00:38:22,261
+Oye.
+
+418
+00:38:30,894 --> 00:38:32,771
+¿Qué está pasando?
+
+419
+00:38:49,288 --> 00:38:50,998
+¡Oigan! ¡No la toquen!
+
+420
+00:38:51,081 --> 00:38:53,417
+Bájenla. Bájenla ahora.
+
+421
+00:38:53,500 --> 00:38:55,294
+¡Váyanse! ¡Fuera de aquí!
+
+422
+00:38:59,756 --> 00:39:02,301
+¿Qué les pasa a todos ustedes?
+¿Qué les pasa a todos ustedes?
+
+423
+00:39:03,010 --> 00:39:05,345
+Solo queremos ayudar, Carol.
+
+424
+00:40:14,748 --> 00:40:17,125
+¿Qué mierda es esto?
+
+425
+00:42:29,383 --> 00:42:30,509
+No puede ser.
+
+426
+00:42:48,235 --> 00:42:49,570
+Vamos, vamos, vamos.
+
+427
+00:42:49,653 --> 00:42:51,446
+Vamos, por favor.
+
+428
+00:43:06,461 --> 00:43:07,838
+Hay una llave de repuesto.
+
+429
+00:43:10,299 --> 00:43:11,508
+Podemos mostrarte.
+
+430
+00:43:12,009 --> 00:43:15,095
+No. No, alto. No quiero que se acerquen.
+
+431
+00:43:15,179 --> 00:43:17,097
+No queremos asustarte, Carol.
+
+432
+00:43:17,181 --> 00:43:18,557
+No estás en peligro.
+
+433
+00:43:18,640 --> 00:43:20,434
+En verdad queremos ayudar.
+
+434
+00:43:20,934 --> 00:43:23,478
+¿Recuerdas? Abril del 2016.
+
+435
+00:43:23,562 --> 00:43:25,355
+La última vezque no pudiste entrar a la casa.
+
+436
+00:43:26,023 --> 00:43:28,025
+Dejaste una llave de repuestoen la maceta.
+
+437
+00:43:29,109 --> 00:43:30,235
+La que está en la derecha.
+
+438
+00:43:31,069 --> 00:43:32,070
+Atrás.
+
+439
+00:43:38,869 --> 00:43:39,870
+Ya la tienes.
+
+440
+00:43:46,960 --> 00:43:48,170
+Quiero estar sola.
+
+441
+00:43:49,087 --> 00:43:50,797
+- Por favor.- Claro, Carol.
+
+442
+00:43:50,881 --> 00:43:53,258
+Solo danos unos minutos para desalojar.
+
+443
+00:44:31,213 --> 00:44:33,340
+Lamentamos mucho tu pérdida.
+
+444
+00:46:42,135 --> 00:46:43,470
+HDMI 1SIN SEÑAL (¿ESTÁ ENCENDIDA?)
+
+445
+00:46:43,554 --> 00:46:46,598
+4 NBCSIN INFORMACIÓN
+
+446
+00:46:46,682 --> 00:46:49,601
+5 PBSSIN INFORMACIÓN
+
+447
+00:46:49,685 --> 00:46:52,354
+6 CWSIN INFORMACIÓN
+
+448
+00:47:03,907 --> 00:47:04,908
+¡Sí, carajo!
+
+449
+00:47:06,076 --> 00:47:07,286
+Bendito sea nuestro país.
+
+450
+00:47:18,964 --> 00:47:20,382
+LA CASA BLANCA
+
+451
+00:47:20,465 --> 00:47:23,677
+CAROL, CUANDO ESTÉS LISTAPUEDES CONTACTARNOS A ESTE NÚMERO
+
+452
+00:47:23,760 --> 00:47:26,847
+SIN PRESIONESSABEMOS QUE TIENES PREGUNTAS
+
+453
+00:48:46,760 --> 00:48:49,513
+Hola, Carol. Gracias por llamar.
+
+454
+00:48:54,142 --> 00:48:55,143
+Sí.
+
+455
+00:48:55,644 --> 00:48:57,938
+Esto debe ser muy desconcertante para ti.
+
+456
+00:48:58,021 --> 00:48:59,106
+Una calamidad.
+
+457
+00:48:59,189 --> 00:49:01,775
+Toda la muerte y destrucciónque presenciaste esta noche.
+Toda la muerte y destrucciónque presenciaste esta noche.
+
+458
+00:49:02,401 --> 00:49:06,572
+Sobre todo la muerte de Helen.Créeme que nada de eso fue intencional.
+
+459
+00:49:06,655 --> 00:49:08,824
+Tienes nuestras más sinceras condolencias.
+
+460
+00:49:09,324 --> 00:49:11,785
+Y repito, tú no estás en peligro.
+
+461
+00:49:11,869 --> 00:49:13,620
+Estás completamente a salvo.
+
+462
+00:49:14,663 --> 00:49:16,707
+- Entiendo.- Tu vida es tuya.
+
+463
+00:49:17,541 --> 00:49:18,917
+No lo olvides.
+
+464
+00:49:19,001 --> 00:49:21,712
+Tu bienestar es lo más importantepara nosotros.
+
+465
+00:49:22,337 --> 00:49:23,338
+Está bien.
+
+466
+00:49:24,214 --> 00:49:25,549
+Depende de ti, por supuesto,
+
+467
+00:49:25,632 --> 00:49:28,802
+pero tal vez quieras quedarte en casaen los próximos días.
+
+468
+00:49:28,886 --> 00:49:31,513
+Tenemos mucho que limpiary quizá sea muy difícil para ti verlo.
+
+469
+00:49:31,597 --> 00:49:32,764
+TU VIDA ES TUYA
+
+470
+00:49:32,848 --> 00:49:35,601
+Pero pondremos todo en orden.
+
+471
+00:49:35,684 --> 00:49:39,479
+Para ese fin, si quieres ayudapara los restos de Helen…
+
+472
+00:49:39,563 --> 00:49:40,939
+- No.- Está bien.
+
+473
+00:49:41,607 --> 00:49:43,984
+Si necesitas cualquier tipo de ayudasolo dinos.
+
+474
+00:49:44,067 --> 00:49:48,405
+Podemos llevarte comida,medicamentos, lo que necesites.
+
+475
+00:49:48,488 --> 00:49:50,407
+Solo marca cero, día o noche.
+
+476
+00:49:50,490 --> 00:49:54,828
+Usa una la línea fijaporque las redes de celular están caídas.
+
+477
+00:49:54,912 --> 00:49:56,872
+Pero estamos aquí para lo que necesites.
+
+478
+00:49:59,583 --> 00:50:00,792
+SOLO LÍNEA FIJA
+SOLO LÍNEA FIJA
+
+479
+00:50:00,876 --> 00:50:03,962
+Sentimos que solo nosotrosestamos hablando.
+
+480
+00:50:05,088 --> 00:50:07,591
+¿Tienes alguna preguntahacia nosotros, Carol?
+
+481
+00:50:07,674 --> 00:50:08,800
+Lo que sea.
+
+482
+00:50:14,306 --> 00:50:16,475
+Sí. Sí, claro.
+
+483
+00:50:17,893 --> 00:50:19,520
+Supongo que empezaré con…,
+
+484
+00:50:20,354 --> 00:50:23,815
+¿qué mierda está pasando?
+
+485
+00:50:23,899 --> 00:50:25,275
+Bueno, básicamente…
+
+486
+00:50:25,359 --> 00:50:26,777
+Es una invasión alienígena, ¿verdad?
+
+487
+00:50:26,860 --> 00:50:28,695
+Obviamente es una invasión alienígena.
+
+488
+00:50:28,779 --> 00:50:30,155
+De hecho, no. No lo es.
+
+489
+00:50:30,239 --> 00:50:33,033
+¿Cómo carajo no? Saben mi nombre.
+
+490
+00:50:33,116 --> 00:50:35,577
+Saben el nombre de Helen.
+
+491
+00:50:35,661 --> 00:50:39,248
+¡Están hablándome desde mi televisor!
+
+492
+00:50:39,831 --> 00:50:44,545
+¿Y qué mierda con el hechode que todos se mueven así?
+
+493
+00:50:44,628 --> 00:50:48,298
+Y esos dos niños…Los niños raros de al lado.
+
+494
+00:50:48,382 --> 00:50:49,842
+Saben dónde está la maldita llave…
+
+495
+00:50:50,425 --> 00:50:53,679
+¿Cómo sabían eso?
+
+496
+00:50:53,762 --> 00:50:57,182
+- ¿Pueden leer mi mente?- No. Claro que no.
+
+497
+00:50:57,266 --> 00:50:58,934
+No podríamos aunque quisiéramos.
+
+498
+00:50:59,017 --> 00:51:01,562
+¿Por qué en plural?¿Por qué todos hablan de "nosotros"?
+¿Por qué en plural?¿Por qué todos hablan de "nosotros"?
+
+499
+00:51:01,645 --> 00:51:04,523
+Podemos continuar con estodespués de que duermas bien.
+
+500
+00:51:04,606 --> 00:51:06,692
+¿Quiénes son "nosotros"?
+
+501
+00:51:06,775 --> 00:51:08,986
+Somos nosotros. Solo nosotros.
+
+502
+00:51:09,069 --> 00:51:10,070
+¿Quiénes son "nosotros"?
+
+503
+00:51:10,153 --> 00:51:12,948
+Nosotros. No hay álienes.
+
+504
+00:51:13,615 --> 00:51:15,075
+No en este planeta.
+
+505
+00:51:15,158 --> 00:51:19,580
+Sin embargo, somos beneficiariosde tecnología extraterrestre.
+
+506
+00:51:19,663 --> 00:51:20,664
+RADIOASTRONOMÍA NACIONALOBSERVATORIO
+
+507
+00:51:20,747 --> 00:51:23,292
+Hace 14 meses, unos astrónomosdescubrieron una señal de radio
+
+508
+00:51:23,375 --> 00:51:25,669
+a 600 años luz de aquí.
+
+509
+00:51:26,253 --> 00:51:27,880
+No se sabe cuánto tiempolleva repitiéndose.
+
+510
+00:51:27,963 --> 00:51:30,591
+Quizá durante toda la existencia humana.
+
+511
+00:51:31,300 --> 00:51:34,303
+Esta señal consta de cuatro tonos
+
+512
+00:51:34,386 --> 00:51:39,349
+que representan a la guanina,el uracilo, la adenina y la citosina.
+
+513
+00:51:40,058 --> 00:51:43,437
+Es una receta, de hecho,de una secuencia nucleotídica.
+
+514
+00:51:44,021 --> 00:51:45,147
+ARN.
+
+515
+00:51:46,148 --> 00:51:48,859
+Los científicos han creado esta secuenciaen un laboratorio.
+
+516
+00:51:48,942 --> 00:51:52,404
+No es un ser viviente, per se.Es más como un virus.
+
+517
+00:51:52,487 --> 00:51:53,864
+SEÑAL DEL ESPACIO
+
+518
+00:51:53,947 --> 00:51:55,824
+Aunque tampoco es eso exactamente.
+
+519
+00:51:56,909 --> 00:52:01,246
+Es como un pegamento psíquicocapaz de unirnos a todos.
+Es como un pegamento psíquicocapaz de unirnos a todos.
+
+520
+00:52:03,165 --> 00:52:04,166
+Bueno.
+
+521
+00:52:05,459 --> 00:52:06,877
+Si no son álienes…,
+
+522
+00:52:08,837 --> 00:52:10,464
+¿con quién estoy hablando ahora?¿Quién eres?
+
+523
+00:52:11,340 --> 00:52:13,258
+¿Este individuo en particular?
+
+524
+00:52:13,342 --> 00:52:14,968
+Él es Davis Taffler.
+
+525
+00:52:15,052 --> 00:52:19,389
+Subsecretario de Agriculturade la Producción y Conservación Agrícola.
+
+526
+00:52:20,265 --> 00:52:23,936
+Pero en este momentohablas con cada individuo de la Tierra,
+
+527
+00:52:24,019 --> 00:52:25,771
+incluyendo con Davis Taffler.
+
+528
+00:52:26,396 --> 00:52:27,397
+Somos uno solo.
+
+529
+00:52:27,981 --> 00:52:29,274
+¿Cómo funciona eso?
+
+530
+00:52:30,025 --> 00:52:32,653
+No sabemos con exactitud. Solo sucede.
+
+531
+00:52:34,571 --> 00:52:35,948
+¿Puedo hablar con el presidente?
+
+532
+00:52:36,031 --> 00:52:39,034
+Por desgracia,ese individuo falleció esta tarde.
+
+533
+00:52:39,117 --> 00:52:43,330
+Junto con algunos miembros de alto rangodel gobierno de los Estados Unidos.
+
+534
+00:52:43,413 --> 00:52:48,335
+Resulta que Davis Tafflerestaba cerca e intacto.
+
+535
+00:52:48,418 --> 00:52:49,962
+Y además usaba un traje. Así que…
+
+536
+00:52:50,045 --> 00:52:52,631
+Entonces, ¿tú estás a cargo?
+
+537
+00:52:52,714 --> 00:52:54,466
+- El Subsecretario de…- No.
+
+538
+00:52:54,550 --> 00:52:57,511
+Nadie está a cargo.O todos estamos a cargo.
+
+539
+00:52:58,095 --> 00:52:59,888
+En serio, actualmente ya no existe eso.
+
+540
+00:52:59,972 --> 00:53:02,891
+Pero seguramente hay otros como yo.
+Pero seguramente hay otros como yo.
+
+541
+00:53:02,975 --> 00:53:05,310
+Tu situación es una anomalía.
+
+542
+00:53:05,394 --> 00:53:08,647
+Al parecer existenotros 11 individuos como tú.
+
+543
+00:53:08,730 --> 00:53:10,107
+¿En Albuquerque?
+
+544
+00:53:10,190 --> 00:53:12,317
+No. En el mundo.
+
+545
+00:53:12,818 --> 00:53:14,236
+Ya contactamos a todos ellos.
+
+546
+00:53:14,736 --> 00:53:17,948
+Como tú, están desorientados.Y es comprensible.
+
+547
+00:53:19,825 --> 00:53:21,368
+Quédate tranquila, Carol.
+
+548
+00:53:21,451 --> 00:53:24,162
+Vamos a descubrir por qué eres diferente.
+
+549
+00:53:25,038 --> 00:53:26,123
+¿Por qué van a descubrirlo?
+
+550
+00:53:26,790 --> 00:53:28,041
+Para que podamos arreglarlo.
+
+551
+00:53:29,042 --> 00:53:30,669
+Para que puedas unírtenos.
+
+552
+00:53:33,130 --> 00:53:34,131
+Dios mío.
+
+553
+00:53:37,718 --> 00:53:40,304
+Carol, ¿sigues ahí?
+
+554
+00:53:42,556 --> 00:53:43,557
+Tú…
+
+555
+00:53:44,474 --> 00:53:46,476
+Tú dijiste que mi vida era mía.
+
+556
+00:53:46,560 --> 00:53:49,354
+Es cierto. Totalmente cierto.
+
+557
+00:53:50,147 --> 00:53:51,148
+TU VIDA ES TUYA
+
+558
+00:53:51,231 --> 00:53:53,275
+¿Y qué pasará cuando diga que no?
+
+559
+00:53:54,568 --> 00:54:00,032
+Carol, cuando entiendaslo maravilloso que es…
+Carol, cuando entiendaslo maravilloso que es…
+
+560
+00:54:01,742 --> 00:54:02,743
+¿Carol?
+
+561
+00:54:20,302 --> 00:54:24,598
+¡Hola! Llamaste al 505-796-6933.
+
+562
+00:54:24,681 --> 00:54:27,309
+Estamos en la Riviera Francesabebiendo champán.
+
+563
+00:54:27,392 --> 00:54:29,937
+No estamos en pijama ignorando tu llamada.
+
+564
+00:54:30,020 --> 00:54:31,146
+Haz que valga la pena.
+
+565
+00:54:32,397 --> 00:54:34,024
+Carol, ¿hola?
+
+566
+00:54:34,775 --> 00:54:36,985
+Somos nosotros. ¿Hola?
+
+567
+00:54:38,362 --> 00:54:40,489
+Nos disculpamospor haberte alterado, Carol.
+
+568
+00:54:40,572 --> 00:54:42,157
+Solo queremos que seas feliz.
+
+569
+00:54:42,241 --> 00:54:44,451
+¡Cállate! ¡Cállate! ¡Cállate! ¡Cállate!
+
+570
+00:56:19,296 --> 00:56:21,256
+Subtítulos: Andrés Magos
+
