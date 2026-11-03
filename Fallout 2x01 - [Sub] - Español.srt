@@ -1,0 +1,2773 @@
+﻿1
+00:00:06,083 --> 00:00:09,958
+ANTERIORMENTE EN
+FALLOUT
+
+2
+00:00:17,458 --> 00:00:19,250
+¡Alto! ¡Lucy!
+
+3
+00:00:20,000 --> 00:00:21,583
+Busco a mi padre.
+
+4
+00:00:22,250 --> 00:00:23,750
+Eres mi mundo.
+
+5
+00:00:24,750 --> 00:00:27,208
+Fue secuestrado
+por una mujer llamada Moldaver.
+
+6
+00:00:27,625 --> 00:00:28,875
+Tienes que volver a casa.
+
+7
+00:00:28,958 --> 00:00:31,458
+Los moradores de refugio aquí
+están en extinción.
+
+8
+00:00:32,541 --> 00:00:35,250
+Vienes de un mundo de reglas, de leyes.
+
+9
+00:00:35,291 --> 00:00:38,250
+Aquí no importan esas cosas.
+
+10
+00:00:39,083 --> 00:00:40,541
+No voy a volver sin mi papá.
+
+11
+00:00:40,625 --> 00:00:42,958
+Te vas a tener que adaptar.
+
+12
+00:00:44,833 --> 00:00:46,333
+Hay una recompensa.
+
+13
+00:00:47,291 --> 00:00:50,833
+Alguien se escapó del Enclave.
+
+14
+00:00:51,375 --> 00:00:52,416
+OBJETIVO
+
+15
+00:00:52,500 --> 00:00:55,291
+El objetivo lleva consigo
+
+16
+00:00:55,375 --> 00:00:57,708
+un objeto de gran potencial
+
+17
+00:00:58,875 --> 00:01:00,375
+para dañar a nuestra nación
+
+18
+00:01:02,750 --> 00:01:04,250
+o para salvarla.
+
+19
+00:01:07,375 --> 00:01:08,250
+¿Dónde está?
+
+20
+00:01:08,333 --> 00:01:10,500
+No puedes tratar así a la gente.
+
+21
+00:01:12,125 --> 00:01:13,416
+¿Sí? ¿Por qué?
+
+22
+00:01:15,083 --> 00:01:16,541
+Por la regla de oro.
+
+23
+00:01:17,500 --> 00:01:20,291
+"Trata a los demás
+como quieres que te traten".
+
+24
+00:01:23,333 --> 00:01:24,958
+¿Qué eres?
+
+25
+00:01:25,666 --> 00:01:27,458
+Soy como tú, linda.
+
+26
+00:01:35,333 --> 00:01:38,000
+Solo deja que pase el tiempo.
+
+27
+00:01:40,791 --> 00:01:43,291
+Vault-Tec es la empresa
+más grande del país.
+
+28
+00:01:43,375 --> 00:01:46,583
+Mercantilizar el fin del mundo
+genera mucho dinero.
+
+29
+00:01:46,666 --> 00:01:48,583
+- ¿Qué es?
+- Un dispositivo de escucha.
+
+30
+00:01:48,666 --> 00:01:50,250
+¿Debo espiar a mi esposa?
+
+31
+00:01:50,583 --> 00:01:52,833
+Garantizaré que la gente que amo,
+
+32
+00:01:52,916 --> 00:01:54,708
+o sea, tú y Janey,
+
+33
+00:01:54,791 --> 00:01:58,583
+tenga un lugar en un refugio especial
+donde administremos.
+
+34
+00:02:00,166 --> 00:02:03,000
+Estados Unidos está
+en una guerra por recursos.
+
+35
+00:02:03,083 --> 00:02:05,416
+Vault-Tec compró el medio para terminarla.
+
+36
+00:02:05,500 --> 00:02:08,500
+Fusión fría, energía infinita.
+
+37
+00:02:12,416 --> 00:02:14,625
+Un incidente nuclear sería una tragedia,
+
+38
+00:02:14,708 --> 00:02:16,375
+pero también una oportunidad.
+
+39
+00:02:17,541 --> 00:02:19,000
+Y la guerra, pues…
+
+40
+00:02:21,708 --> 00:02:23,250
+La guerra nunca cambia.
+
+41
+00:02:29,208 --> 00:02:30,583
+Destruyeron el chip.
+
+42
+00:02:30,666 --> 00:02:34,166
+Solo tenemos suficiente agua
+para mantenernos vivos dos meses.
+
+43
+00:02:34,250 --> 00:02:36,750
+Somos afortunados.
+
+44
+00:02:36,958 --> 00:02:40,666
+Tres refugios separados para evitar
+la propagación de amenazas.
+
+45
+00:02:40,750 --> 00:02:43,791
+¿No es raro que siempre elijamos
+a alguien del Refugio 31?
+
+46
+00:02:44,041 --> 00:02:45,541
+Steph viene del 31.
+
+47
+00:02:48,041 --> 00:02:50,875
+Algunos se mudarán al Refugio 32
+
+48
+00:02:50,958 --> 00:02:52,583
+para empezar de nuevo.
+
+49
+00:02:57,875 --> 00:03:00,125
+¿De aquí viene mi padre?
+
+50
+00:03:02,250 --> 00:03:05,333
+Ellos son los Amigos de Bud. Mis amigos.
+
+51
+00:03:05,416 --> 00:03:08,333
+Ejecutivos subalternos supervisados.
+
+52
+00:03:08,416 --> 00:03:10,333
+Los preparé yo mismo.
+
+53
+00:03:10,416 --> 00:03:12,125
+ESTADO DE SOPORTE VITAL
+REACTIVADO
+
+54
+00:03:12,208 --> 00:03:15,000
+El futuro de la humanidad
+se reduce a una palabra:
+
+55
+00:03:16,125 --> 00:03:17,208
+administrar.
+
+56
+00:03:17,291 --> 00:03:18,750
+Tengo que volver a casa.
+
+57
+00:03:19,416 --> 00:03:20,291
+¡No!
+
+58
+00:03:23,875 --> 00:03:26,000
+Mi nombre no es Titus. Es Maximus.
+
+59
+00:03:26,458 --> 00:03:29,583
+Titus era el caballero
+que llevaba el traje antes que yo.
+
+60
+00:03:32,833 --> 00:03:34,208
+Eres una buena persona.
+
+61
+00:03:34,541 --> 00:03:36,000
+El yermo apesta.
+
+62
+00:03:40,333 --> 00:03:41,541
+La Hermandad.
+
+63
+00:03:42,958 --> 00:03:44,875
+Nunca dejarán de buscar el artefacto.
+
+64
+00:03:50,208 --> 00:03:51,333
+Búscame.
+
+65
+00:03:52,458 --> 00:03:53,541
+Lo haré.
+
+66
+00:04:03,125 --> 00:04:04,791
+Devuélveme a mi padre.
+
+67
+00:04:05,916 --> 00:04:07,291
+Pero, primero…
+
+68
+00:04:08,791 --> 00:04:10,916
+¿Qué tal si te digo quién es él realmente?
+
+69
+00:04:12,791 --> 00:04:14,416
+Shady Sands.
+
+70
+00:04:15,416 --> 00:04:18,708
+Tu padre quemó la ciudad
+hasta los cimientos.
+
+71
+00:04:21,750 --> 00:04:23,250
+¿Habrá sobrevivido alguien?
+
+72
+00:04:26,333 --> 00:04:27,375
+Yo.
+
+73
+00:04:29,958 --> 00:04:32,458
+Si el problema del mundo
+es que hay facciones
+
+74
+00:04:32,541 --> 00:04:35,208
+que luchan sin cesar,
+
+75
+00:04:35,291 --> 00:04:39,208
+entonces, ¿qué mejor solución
+que deshacerse de las facciones?
+
+76
+00:04:39,916 --> 00:04:41,666
+Hacer que el mundo sea nuestro.
+
+77
+00:04:42,458 --> 00:04:44,000
+Hacerlo a nuestra semejanza.
+
+78
+00:04:51,541 --> 00:04:53,875
+¿Ves lo que este lugar le hace a la gente?
+
+79
+00:04:57,041 --> 00:04:59,458
+Esperé más de 200 años
+
+80
+00:05:00,166 --> 00:05:03,583
+para hacerle a alguien esta pregunta.
+
+81
+00:05:05,583 --> 00:05:07,458
+¿Dónde carajos está mi familia?
+
+82
+00:05:14,750 --> 00:05:18,833
+Es más fácil seguir a un cerdo
+desangrándose que preguntarle adónde va.
+
+83
+00:05:21,625 --> 00:05:23,166
+Puedes quedarte aquí con él.
+
+84
+00:05:23,250 --> 00:05:25,791
+O acompáñame a conocer a tus creadores.
+
+85
+00:05:33,958 --> 00:05:35,000
+Okidoki.
+
+86
+00:05:40,916 --> 00:05:44,958
+¡Salve, caballero Maximus!
+
+87
+00:05:45,041 --> 00:05:46,750
+¡Salve, caballero Maximus!
+
+88
+00:05:47,666 --> 00:05:49,500
+Si observas el yermo,
+
+89
+00:05:50,291 --> 00:05:51,875
+parece ser un caos,
+
+90
+00:05:54,208 --> 00:05:56,416
+Pero siempre hay una persona que manda.
+
+91
+00:06:13,250 --> 00:06:17,916
+EL HOMBRE QUE LO SABÍA TODO
+
+92
+00:06:31,083 --> 00:06:33,166
+¿Puedo ayudarle a mejorar su día?
+
+93
+00:06:37,541 --> 00:06:39,250
+HUELGA CONTRA ROBCO
+ROBCO = ESCORIA
+
+94
+00:06:39,333 --> 00:06:42,333
+En RobCo, nuestra prioridad es eliminar
+
+95
+00:06:42,416 --> 00:06:45,666
+las tareas repetitivas en el trabajo.
+
+96
+00:06:46,250 --> 00:06:48,208
+Si el gobierno necesita ayuda
+
+97
+00:06:48,291 --> 00:06:50,750
+para resolver
+conflictos internacionales…
+
+98
+00:06:50,833 --> 00:06:52,791
+FUNDADOR DE ROBCO
+
+99
+00:06:52,875 --> 00:06:54,333
+…sabe a quién llamar.
+
+100
+00:06:54,416 --> 00:06:56,250
+Es un parásito malnacido.
+
+101
+00:06:57,583 --> 00:06:59,416
+No votamos por ese gusano idiota.
+
+102
+00:07:00,791 --> 00:07:01,791
+Sí lo hicimos.
+
+103
+00:07:10,541 --> 00:07:12,875
+Cada dólar gastado es un voto emitido.
+
+104
+00:07:13,875 --> 00:07:15,541
+Ese tipo tiene más votos
+
+105
+00:07:16,250 --> 00:07:20,750
+que todos los políticos inútiles
+de Washington juntos.
+
+106
+00:07:23,250 --> 00:07:25,125
+¿Eres su admirador número uno?
+
+107
+00:07:29,375 --> 00:07:30,250
+Sí.
+
+108
+00:07:31,791 --> 00:07:33,208
+Sí, creo que sí lo soy.
+
+109
+00:07:35,458 --> 00:07:37,958
+Si el pueblo estadounidense decidió ayudar
+
+110
+00:07:38,041 --> 00:07:40,500
+a que ese hombre se hiciera rico,
+
+111
+00:07:41,666 --> 00:07:44,041
+entonces, no debe ser tan malo, ¿no?
+
+112
+00:07:45,708 --> 00:07:48,125
+¿A qué te dedicas, amigo?
+
+113
+00:07:50,041 --> 00:07:51,083
+A la construcción.
+
+114
+00:07:52,958 --> 00:07:55,625
+Seguro que usas la pistola de clavos H&H.
+
+115
+00:07:56,666 --> 00:07:57,958
+Es una gran herramienta.
+
+116
+00:07:59,208 --> 00:08:02,291
+Se sujeta con comodidad
+y es fácil de usar.
+
+117
+00:08:02,375 --> 00:08:04,750
+Es mejor que un típico martillo, ¿no?
+
+118
+00:08:05,666 --> 00:08:07,333
+Creí que estarías agradecido.
+
+119
+00:08:09,166 --> 00:08:10,000
+¿Agradecido?
+
+120
+00:08:11,750 --> 00:08:13,625
+Estás en el bar equivocado, amigo.
+
+121
+00:08:16,916 --> 00:08:18,208
+La obsolescencia…
+
+122
+00:08:20,083 --> 00:08:21,083
+es increíble.
+
+123
+00:08:22,333 --> 00:08:24,375
+Intento entender tu perspectiva,
+
+124
+00:08:24,958 --> 00:08:27,583
+pero no puedo creer
+que alguien sea tan tonto
+
+125
+00:08:27,666 --> 00:08:29,958
+como para que lo inevitable lo sorprenda.
+
+126
+00:08:39,083 --> 00:08:42,250
+Golpéame la cara. Creo que lo disfrutaré.
+
+127
+00:08:50,750 --> 00:08:54,208
+Rara vez me equivoco,
+pero pasemos a otra cosa.
+
+128
+00:09:03,875 --> 00:09:08,291
+Son 31 millones de dólares.
+
+129
+00:09:12,000 --> 00:09:16,875
+Dime, ¿qué harías por todo ese dinero?
+
+130
+00:09:20,041 --> 00:09:21,041
+¿Ni idea?
+
+131
+00:09:22,000 --> 00:09:24,583
+No me sorprende. ¿Qué tal si te doy una?
+
+132
+00:09:34,916 --> 00:09:38,666
+Permíteme ponerte esto en la nuca.
+
+133
+00:09:40,083 --> 00:09:41,166
+¿Qué carajos es?
+
+134
+00:09:44,208 --> 00:09:47,333
+Estoy haciendo
+una investigación de mercado a la antigua.
+
+135
+00:09:48,208 --> 00:09:52,750
+Lo único que tienes que hacer
+es insertarte esto en la nuca,
+
+136
+00:09:52,833 --> 00:09:55,750
+y todo ese dinero será tuyo.
+
+137
+00:09:57,250 --> 00:09:59,625
+¿Y si te rompo las manos que nunca usas?
+
+138
+00:09:59,708 --> 00:10:01,708
+Ni te darías cuenta.
+
+139
+00:10:01,791 --> 00:10:03,416
+Y luego nos robamos su dinero.
+
+140
+00:10:03,500 --> 00:10:05,750
+- Estos putos ricos son tan…
+- Bueno.
+
+141
+00:10:25,375 --> 00:10:27,541
+Hazme un favorcito.
+
+142
+00:10:29,416 --> 00:10:30,833
+Deshazte de tus amigos.
+
+143
+00:10:36,291 --> 00:10:38,541
+¿Bill?
+
+144
+00:10:44,166 --> 00:10:46,416
+Sí que usan la pistola de clavos H&H.
+
+145
+00:10:48,625 --> 00:10:49,791
+Siéntanse orgullosos,
+
+146
+00:10:51,375 --> 00:10:52,541
+pagaron por esto.
+
+147
+00:11:37,750 --> 00:11:42,583
+El mundo quizá se acabe,
+pero el progreso continuará.
+
+148
+00:12:06,791 --> 00:12:08,291
+¡Khans!
+
+149
+00:12:08,375 --> 00:12:09,208
+NO HAY LUGAR
+
+150
+00:12:09,291 --> 00:12:12,000
+Les tengo una sorpresa emocionante.
+
+151
+00:12:18,541 --> 00:12:22,750
+Este pendejo atormenta a los Khans
+desde antes de que nacieran sus abuelos.
+
+152
+00:12:23,500 --> 00:12:24,916
+Y hoy…
+
+153
+00:12:27,166 --> 00:12:30,875
+una cazarrecompensas
+trajo su culo hasta nosotros.
+
+154
+00:12:31,666 --> 00:12:33,125
+Saldaremos cuentas.
+
+155
+00:12:35,666 --> 00:12:37,041
+¿Qué opinas de eso?
+
+156
+00:12:51,375 --> 00:12:52,958
+Eso solía ser una tienda, ¿no?
+
+157
+00:12:54,833 --> 00:12:58,916
+Creo que compré un refresco ahí
+hace 25 años.
+
+158
+00:12:59,000 --> 00:13:00,458
+¿Ya terminaste, carajo?
+
+159
+00:13:01,333 --> 00:13:04,083
+- Debemos impartir justi…
+- Darla.
+
+160
+00:13:04,166 --> 00:13:06,583
+La mujer que me atendió se llamaba Darla.
+
+161
+00:13:06,666 --> 00:13:09,083
+Era una mujer razonable,
+
+162
+00:13:10,541 --> 00:13:13,333
+hasta que llegaron ustedes, hijos de puta.
+
+163
+00:13:15,916 --> 00:13:19,666
+Fue un placer charlar con ustedes,
+pero si les parece bien,
+
+164
+00:13:20,500 --> 00:13:22,208
+estoy listo para continuar.
+
+165
+00:13:24,833 --> 00:13:27,666
+Si no me escuchan, lo diré más alto.
+
+166
+00:13:28,708 --> 00:13:30,958
+¡Estoy listo para continuar!
+
+167
+00:13:37,583 --> 00:13:39,291
+¡Listo para continuar!
+
+168
+00:13:46,458 --> 00:13:47,666
+Mierda.
+
+169
+00:13:58,041 --> 00:13:59,375
+Hola, disculpen.
+
+170
+00:14:00,083 --> 00:14:02,541
+Hola, disculpen, perdón.
+
+171
+00:14:02,625 --> 00:14:04,291
+Ayúdanos a resolver una discusión
+
+172
+00:14:04,375 --> 00:14:06,833
+entre mi compañero de viaje y yo.
+
+173
+00:14:06,916 --> 00:14:10,833
+Estamos persiguiendo a mi padre,
+quien no es un buen tipo,
+
+174
+00:14:10,916 --> 00:14:13,875
+y para el viaje,
+necesitamos comida y suministros.
+
+175
+00:14:13,958 --> 00:14:17,083
+El plan A era dejarlos en paz
+y evitar esto,
+
+176
+00:14:17,166 --> 00:14:20,625
+pero lo intentamos
+y casi me muero de hambre.
+
+177
+00:14:21,333 --> 00:14:24,458
+El plan B, su idea,
+era que yo te lo entregara
+
+178
+00:14:24,541 --> 00:14:27,750
+para que abrieras la caja fuerte
+y me dieras la recompensa.
+
+179
+00:14:27,833 --> 00:14:28,916
+¡Ya dispara!
+
+180
+00:14:29,000 --> 00:14:31,916
+Luego yo lo liberaría,
+él tomaría sus armas
+
+181
+00:14:32,000 --> 00:14:34,833
+y usaría la violencia necesaria
+para escapar.
+
+182
+00:14:34,916 --> 00:14:37,625
+Según mi experiencia hasta ahora,
+
+183
+00:14:38,541 --> 00:14:41,125
+siempre se necesita mucha violencia.
+
+184
+00:14:41,708 --> 00:14:44,125
+Por eso espero que aceptes el plan C.
+
+185
+00:14:46,500 --> 00:14:47,708
+¿Cuál es el plan C?
+
+186
+00:14:50,875 --> 00:14:51,958
+Solo déjanos ir.
+
+187
+00:14:53,625 --> 00:14:55,000
+Con todo y las tapas,
+
+188
+00:14:55,583 --> 00:14:58,166
+pues las necesitamos para sobrevivir.
+
+189
+00:15:02,041 --> 00:15:04,833
+Solo para saber,
+¿ayudaría si dijera "por favor"?
+
+190
+00:15:08,125 --> 00:15:10,666
+Quien mate a la chica
+puede comerse al perro.
+
+191
+00:15:12,583 --> 00:15:13,416
+Okidoki.
+
+192
+00:15:20,291 --> 00:15:21,125
+Cielos.
+
+193
+00:15:30,000 --> 00:15:30,833
+¡Carajo!
+
+194
+00:15:39,541 --> 00:15:41,166
+Aficionada de mierda.
+
+195
+00:17:16,000 --> 00:17:17,833
+Sé que crees que es útil
+
+196
+00:17:18,708 --> 00:17:21,291
+dispararles en las rodillas y el culo,
+
+197
+00:17:22,666 --> 00:17:24,750
+pero siendo sincero, no ayuda.
+
+198
+00:17:24,833 --> 00:17:27,291
+No me disculparé por no asesinar gente.
+
+199
+00:17:31,416 --> 00:17:33,208
+Lo único que te pedía, carajo,
+
+200
+00:17:34,291 --> 00:17:36,166
+era que le dispararas a la cuerda.
+
+201
+00:17:44,125 --> 00:17:45,333
+Lo hice, ¿no?
+
+202
+00:18:28,125 --> 00:18:29,750
+Se ve como en las fotos viejas.
+
+203
+00:18:33,750 --> 00:18:35,250
+Detuvieron las bombas.
+
+204
+00:18:36,666 --> 00:18:37,958
+Al menos, la mayoría.
+
+205
+00:18:41,875 --> 00:18:43,625
+Si salvaron Las Vegas,
+
+206
+00:18:43,708 --> 00:18:45,791
+¿por qué no salvaron Estados Unidos?
+
+207
+00:18:47,541 --> 00:18:49,416
+No fue un esfuerzo colectivo,
+
+208
+00:18:50,125 --> 00:18:51,125
+sino individual.
+
+209
+00:18:52,250 --> 00:18:54,291
+De un hombre llamado Robert House.
+
+210
+00:18:56,333 --> 00:18:58,916
+Si tu familia está ahí, está a salvo.
+
+211
+00:18:59,833 --> 00:19:01,541
+Nada cerca de Robert es seguro.
+
+212
+00:19:07,833 --> 00:19:09,625
+¿Por qué iría mi padre a Las Vegas?
+
+213
+00:19:39,791 --> 00:19:42,500
+El fin del mundo
+podría darnos grandes ingresos.
+
+214
+00:19:49,958 --> 00:19:52,000
+¿Cómo pueden garantizarnos resultados?
+
+215
+00:19:54,958 --> 00:19:57,083
+Lanzando una bomba nosotros mismos.
+
+216
+00:20:05,125 --> 00:20:06,208
+¿Janey?
+
+217
+00:20:06,291 --> 00:20:07,291
+Tesoro.
+
+218
+00:20:07,375 --> 00:20:08,875
+- ¿Janey?
+- Papá.
+
+219
+00:20:08,958 --> 00:20:09,791
+- Hola.
+- Papá.
+
+220
+00:20:09,875 --> 00:20:11,000
+Hola.
+
+221
+00:20:15,916 --> 00:20:19,500
+Escúchame, quiero que vayas a tu cuarto
+
+222
+00:20:19,583 --> 00:20:22,250
+y traigas tus tres atuendos favoritos
+
+223
+00:20:22,333 --> 00:20:23,875
+y tu juguete preferido.
+
+224
+00:20:24,750 --> 00:20:26,125
+Nos vemos aquí.
+
+225
+00:20:27,916 --> 00:20:28,750
+Bien, ve.
+
+226
+00:20:54,833 --> 00:20:56,000
+¿Adónde vamos, papá?
+
+227
+00:21:02,375 --> 00:21:05,708
+A Bakersfield.
+Iremos a Bakersfield, tesoro, ¿de acuerdo?
+
+228
+00:21:08,000 --> 00:21:09,291
+¿Y mamá?
+
+229
+00:21:10,291 --> 00:21:11,583
+¿Vendrá con nosotros?
+
+230
+00:21:11,666 --> 00:21:14,500
+La prueba del sistema de alerta civil
+
+231
+00:21:14,583 --> 00:21:17,458
+de Los Ángeles comenzará en diez segundos.
+
+232
+00:21:21,625 --> 00:21:23,458
+Vamos.
+
+233
+00:21:45,791 --> 00:21:47,333
+¡Dios! ¡Es ahora!
+
+234
+00:21:47,416 --> 00:21:48,625
+¡Entren!
+
+235
+00:21:51,666 --> 00:21:55,041
+Inicia la prueba.
+Repito: inicia la prueba.
+
+236
+00:21:55,666 --> 00:21:56,916
+Es solo una prueba.
+
+237
+00:21:57,541 --> 00:22:00,125
+Debemos irnos ahora. ¡Todos vamos a morir!
+
+238
+00:22:01,250 --> 00:22:02,208
+Papá, tengo miedo.
+
+239
+00:22:04,041 --> 00:22:05,250
+- Ven acá.
+- Tengo miedo.
+
+240
+00:22:05,333 --> 00:22:06,666
+Todo está bien.
+
+241
+00:22:14,083 --> 00:22:19,833
+"PROTEGE A TUS SERES QUERIDOS"
+CON VAULT-TEC
+
+242
+00:22:23,458 --> 00:22:24,291
+Tranquila.
+
+243
+00:22:26,333 --> 00:22:27,166
+Todo está bien.
+
+244
+00:22:54,333 --> 00:22:57,750
+Nos acabamos las reservas de agua
+a un ritmo preocupante.
+
+245
+00:22:57,833 --> 00:23:01,375
+Debemos desviar energía
+a los filtros temporales que hicimos
+
+246
+00:23:01,458 --> 00:23:03,041
+con piezas de repuesto.
+
+247
+00:23:04,458 --> 00:23:05,666
+Hola, chicos.
+
+248
+00:23:07,458 --> 00:23:08,583
+¿Qué necesitas, Reg?
+
+249
+00:23:09,041 --> 00:23:10,250
+¿Has visto a Norm?
+
+250
+00:23:10,333 --> 00:23:13,208
+Está de intercambio
+por el programa de liderazgo
+
+251
+00:23:13,291 --> 00:23:14,750
+en el Refugio 31.
+
+252
+00:23:14,833 --> 00:23:16,958
+Todos están ascendiendo menos yo.
+
+253
+00:23:17,666 --> 00:23:21,875
+Reg, esta comunidad siempre ha hecho
+lo necesario para sobrevivir.
+
+254
+00:23:23,250 --> 00:23:24,333
+Supongo que sí.
+
+255
+00:23:25,083 --> 00:23:26,708
+¿En qué proyecto trabajan?
+
+256
+00:23:26,791 --> 00:23:27,791
+En el chip de agua.
+
+257
+00:23:28,458 --> 00:23:31,416
+Lo necesitamos para sobrevivir
+y está roto.
+
+258
+00:23:31,500 --> 00:23:33,541
+Claro, sí, eso.
+
+259
+00:23:35,666 --> 00:23:37,000
+Avísame si puedo ayudar.
+
+260
+00:23:37,083 --> 00:23:38,625
+No soy ingeniero,
+
+261
+00:23:39,958 --> 00:23:43,125
+pero mi doctorado en Planeación de eventos
+les sorprendería…
+
+262
+00:23:46,416 --> 00:23:48,791
+Tal vez debas mantenerte ocupado.
+
+263
+00:23:48,875 --> 00:23:50,625
+Forma un club o algo así.
+
+264
+00:23:50,708 --> 00:23:51,583
+¿Un club?
+
+265
+00:23:53,166 --> 00:23:54,000
+¿De qué tipo?
+
+266
+00:23:54,083 --> 00:23:56,083
+Últimamente, hemos sufrido mucho.
+
+267
+00:23:56,166 --> 00:23:58,291
+Quizá podrías formar un grupo
+
+268
+00:23:58,375 --> 00:24:02,541
+para que otros expresen los sentimientos
+que tú también sientes.
+
+269
+00:24:02,625 --> 00:24:04,083
+¿Qué sentimientos siento?
+
+270
+00:24:05,125 --> 00:24:07,791
+Te sientes avergonzado e inútil.
+
+271
+00:24:07,875 --> 00:24:08,958
+No me siento inútil,
+
+272
+00:24:10,166 --> 00:24:11,416
+pero avergonzado, sí.
+
+273
+00:24:12,750 --> 00:24:13,958
+Haré algo con eso.
+
+274
+00:24:15,250 --> 00:24:18,083
+Necesitaría un presupuesto
+para bocadillos.
+
+275
+00:24:18,166 --> 00:24:22,666
+Si llenas la solicitud de suministros,
+la firmaré.
+
+276
+00:24:26,958 --> 00:24:28,291
+El costo del poder.
+
+277
+00:24:29,750 --> 00:24:31,458
+Ni te imaginas.
+
+278
+00:24:32,666 --> 00:24:34,250
+¿Ves con qué debo lidiar?
+
+279
+00:24:34,333 --> 00:24:36,750
+En el Refugio 33, salgo de mi cuarto,
+
+280
+00:24:36,833 --> 00:24:39,291
+giro a la derecha dos veces
+y llego al ascensor.
+
+281
+00:24:39,375 --> 00:24:44,083
+Aquí en el Refugio 32, giro dos veces
+a la izquierda y llego al ascensor.
+
+282
+00:24:44,166 --> 00:24:47,833
+Sí, repito, todo está al revés aquí.
+
+283
+00:24:47,916 --> 00:24:50,041
+Haz lo opuesto a lo que solías hacer.
+
+284
+00:24:51,708 --> 00:24:53,208
+Creo que no es tan fácil.
+
+285
+00:24:54,833 --> 00:24:55,666
+Lo es.
+
+286
+00:24:56,333 --> 00:24:59,916
+Como tu supervisora, debo preguntarte,
+
+287
+00:25:00,833 --> 00:25:04,666
+¿hay alguna medida concreta
+que se pueda tomar?
+
+288
+00:25:04,750 --> 00:25:06,708
+¿Cómo puedo ayudarte?
+
+289
+00:25:07,958 --> 00:25:09,041
+Necesitamos letreros.
+
+290
+00:25:09,833 --> 00:25:12,250
+No, eso podría ser controversial.
+
+291
+00:25:12,333 --> 00:25:15,583
+Quizá podrías pedir
+un estudio de factibilidad
+
+292
+00:25:15,666 --> 00:25:17,583
+sobre el tema de los letreros.
+
+293
+00:25:27,083 --> 00:25:28,833
+Tu esposa es increíble, Chet.
+
+294
+00:25:28,916 --> 00:25:30,416
+No estamos casados.
+
+295
+00:25:30,500 --> 00:25:32,333
+Y qué hermoso está tu bebé.
+
+296
+00:25:32,416 --> 00:25:33,458
+No es mío.
+
+297
+00:25:33,541 --> 00:25:34,916
+Nunca tuve una familia.
+
+298
+00:25:35,916 --> 00:25:36,750
+¿Qué pasó?
+
+299
+00:25:36,833 --> 00:25:38,041
+Así es la vida.
+
+300
+00:25:39,250 --> 00:25:41,041
+Aquí todo sucede rápido.
+
+301
+00:25:41,625 --> 00:25:43,458
+Yo tampoco tengo familia, Davey.
+
+302
+00:25:43,541 --> 00:25:45,083
+Bueno, disfrútalo.
+
+303
+00:25:49,250 --> 00:25:50,375
+Por aquí. Sí.
+
+304
+00:25:58,125 --> 00:25:59,083
+Ah, eres tú.
+
+305
+00:26:00,958 --> 00:26:03,666
+Ese Davey es…
+
+306
+00:26:04,958 --> 00:26:07,833
+Pobrecito, pero, ya sabes…
+
+307
+00:26:10,958 --> 00:26:14,083
+Solo quería saber
+si ya me asignaste un trabajo,
+
+308
+00:26:14,166 --> 00:26:17,208
+pues todos los demás ya tienen uno.
+
+309
+00:26:18,083 --> 00:26:22,083
+Si aún no has elegido a un guardián,
+yo tengo experiencia en eso.
+
+310
+00:26:22,875 --> 00:26:25,083
+Chet, he estado ocupada.
+
+311
+00:26:25,166 --> 00:26:27,125
+Y alguien debe cuidar a ese bebé.
+
+312
+00:26:27,208 --> 00:26:28,500
+Ya te conoce.
+
+313
+00:26:29,166 --> 00:26:33,416
+Pero este bebé no es mío,
+
+314
+00:26:34,500 --> 00:26:37,083
+aunque todos actúan como si lo fuera.
+
+315
+00:26:37,166 --> 00:26:38,375
+Chet…
+
+316
+00:26:38,458 --> 00:26:40,708
+¿Al menos podrías darle un nombre?
+
+317
+00:26:40,791 --> 00:26:43,875
+Los vecinos lo llaman Chet júnior.
+
+318
+00:26:43,958 --> 00:26:45,583
+Entonces, que así se llame.
+
+319
+00:26:45,666 --> 00:26:49,625
+Bueno, resulta
+que mi padre se llamaba Chet júnior,
+
+320
+00:26:49,708 --> 00:26:51,833
+y su nombre es importante para mí
+
+321
+00:26:51,916 --> 00:26:54,416
+porque lo vi morir
+en la hambruna de gorgojos.
+
+322
+00:26:56,416 --> 00:27:00,083
+Chet, ¿estamos teniendo una discusión?
+
+323
+00:27:03,958 --> 00:27:05,083
+Será Chet júnior.
+
+324
+00:27:14,875 --> 00:27:16,916
+¿Eres bueno con las computadoras?
+
+325
+00:27:18,375 --> 00:27:20,000
+Norm se encargaba de eso.
+
+326
+00:27:20,083 --> 00:27:22,250
+Habla con él por la terminal.
+
+327
+00:27:22,333 --> 00:27:23,916
+Gran idea.
+
+328
+00:27:24,000 --> 00:27:26,833
+Le enviaré un mensaje al otro refugio.
+
+329
+00:27:37,833 --> 00:27:40,125
+Bien.
+
+330
+00:27:47,541 --> 00:27:48,958
+COMUNICACIÓN
+DESACTIVADA
+
+331
+00:27:49,041 --> 00:27:50,791
+¡Jamón, sandía y café!
+
+332
+00:27:51,583 --> 00:27:54,750
+¡No! ¿La comunicación entre refugios
+está desactivada?
+
+333
+00:27:55,166 --> 00:27:57,541
+Veamos. ¿Dónde está?
+
+334
+00:27:58,125 --> 00:28:01,291
+¿Dónde estás? Voy por ti.
+
+335
+00:28:01,375 --> 00:28:02,750
+Voy por ti.
+
+336
+00:28:03,458 --> 00:28:04,541
+Ya voy.
+
+337
+00:28:05,291 --> 00:28:07,625
+¡Dios! Mira este desastre.
+
+338
+00:28:07,708 --> 00:28:10,791
+Sí que eres un animal asqueroso.
+
+339
+00:28:11,291 --> 00:28:13,625
+Seguramente no esperas que yo limpie esto.
+
+340
+00:28:18,166 --> 00:28:20,875
+Encontraste agua,
+pero te quedaste sin comida.
+
+341
+00:28:20,958 --> 00:28:23,166
+Morir de hambre es horrible.
+
+342
+00:28:24,875 --> 00:28:27,333
+Te ofrezco una solución mucho más digna
+
+343
+00:28:27,416 --> 00:28:29,625
+a la que has elegido, hijo de Hank.
+
+344
+00:28:30,416 --> 00:28:32,500
+Métete en la cápsula de tu padre.
+
+345
+00:28:33,541 --> 00:28:35,125
+No seré tu prisionero.
+
+346
+00:28:35,583 --> 00:28:37,750
+Ya eres mi prisionero.
+
+347
+00:28:37,833 --> 00:28:41,708
+Solo debes esperar a que sea seguro
+recolonizar la superficie.
+
+348
+00:28:41,791 --> 00:28:44,583
+Entonces subiremos
+y será el Día de la Recuperación.
+
+349
+00:28:45,250 --> 00:28:46,541
+¿Y eso cuándo será?
+
+350
+00:28:46,625 --> 00:28:49,583
+Cuando no quede
+ningún opositor allá arriba.
+
+351
+00:28:51,791 --> 00:28:53,208
+Solo déjame ir a casa.
+
+352
+00:28:54,375 --> 00:28:56,000
+Notarán que no estoy.
+
+353
+00:28:56,791 --> 00:28:58,500
+Hay un protocolo para todo,
+
+354
+00:28:58,583 --> 00:29:00,791
+hasta para cuando alguien desaparece.
+
+355
+00:29:00,875 --> 00:29:02,708
+El supervisor se encargará.
+
+356
+00:29:02,791 --> 00:29:04,500
+Nadie vendrá por ti.
+
+357
+00:29:05,458 --> 00:29:08,708
+Quizá entres en razón
+cuando tengas más hambre.
+
+358
+00:29:09,666 --> 00:29:12,333
+Suerte encontrando comida a ciegas.
+
+359
+00:29:15,916 --> 00:29:17,500
+Vives en mi mundo.
+
+360
+00:29:18,625 --> 00:29:22,791
+Estos tres refugios son el producto
+de décadas de planificación
+
+361
+00:29:22,875 --> 00:29:26,208
+por parte de las mentes más brillantes
+de antes de la guerra,
+
+362
+00:29:26,291 --> 00:29:29,000
+junto con los recursos
+de una civilización funcional.
+
+363
+00:29:29,750 --> 00:29:33,666
+Solo eres un rebelde
+que deambuló por el pasillo erróneo.
+
+364
+00:29:34,666 --> 00:29:37,041
+¿Qué posibilidades tienes
+contra el mayor logro
+
+365
+00:29:37,125 --> 00:29:39,083
+de la integración vertical?
+
+366
+00:29:40,541 --> 00:29:42,041
+Acéptalo, hijo de Hank,
+
+367
+00:29:43,375 --> 00:29:44,916
+esto te supera
+
+368
+00:29:46,333 --> 00:29:48,708
+y nadie vendrá a salvarte.
+
+369
+00:30:02,750 --> 00:30:07,625
+HANK MACLEAN
+ASISTENTE EJECUTIVO
+
+370
+00:30:24,333 --> 00:30:27,958
+¿Crees que mi padre
+te llevará a tu familia?
+
+371
+00:30:28,666 --> 00:30:31,458
+¿Crees que tu familia sigue viva
+después de 200 años,
+
+372
+00:30:31,541 --> 00:30:33,291
+y yo soy la optimista?
+
+373
+00:30:40,250 --> 00:30:41,208
+Tu padre
+
+374
+00:30:42,583 --> 00:30:44,625
+siempre hace nuevos amigos.
+
+375
+00:31:10,875 --> 00:31:13,250
+FRESCA TODOS LOS DÍAS
+
+376
+00:31:13,333 --> 00:31:15,708
+COMIDA AQUÍ ADELANTE
+
+377
+00:31:15,791 --> 00:31:18,250
+SOPA CALIENTE Y SABROSA
+
+378
+00:31:18,333 --> 00:31:20,083
+Ella seguro que lo vio pasar.
+
+379
+00:31:24,500 --> 00:31:26,333
+Solo hay que preguntarle.
+
+380
+00:31:33,333 --> 00:31:35,250
+Disculpe, hola.
+
+381
+00:31:36,541 --> 00:31:38,500
+Me gustaría un tazón de…
+
+382
+00:31:38,583 --> 00:31:40,583
+SOPA DE PULGAS
+DOS TAPAS
+
+383
+00:31:42,083 --> 00:31:43,083
+…sopa de pulgas.
+
+384
+00:31:44,541 --> 00:31:45,541
+Claro.
+
+385
+00:31:50,458 --> 00:31:53,625
+Me preguntaba si vio…
+
+386
+00:32:03,833 --> 00:32:05,916
+Si quieres, tengo galletitas.
+
+387
+00:32:06,791 --> 00:32:08,333
+Están en mis otros pantalones.
+
+388
+00:32:10,708 --> 00:32:11,791
+No, gracias.
+
+389
+00:32:12,666 --> 00:32:14,375
+Cómela mientras está caliente.
+
+390
+00:32:25,583 --> 00:32:28,875
+Sí. ¿De casualidad vio pasar a un hombre
+
+391
+00:32:28,958 --> 00:32:34,541
+con un atuendo enorme hecho de metal?
+
+392
+00:32:34,625 --> 00:32:36,166
+Se llevó a mi hijo.
+
+393
+00:32:37,416 --> 00:32:38,583
+Seguro que su hijo…
+
+394
+00:32:38,666 --> 00:32:39,875
+Está muerto.
+
+395
+00:32:39,958 --> 00:32:41,875
+No, no lo sabemos.
+
+396
+00:32:41,958 --> 00:32:42,833
+No.
+
+397
+00:32:42,916 --> 00:32:45,916
+Sí está muerto. Qué suerte la mía.
+
+398
+00:32:47,541 --> 00:32:49,166
+El pendejo me debía dinero.
+
+399
+00:32:52,250 --> 00:32:55,958
+Mi sentido pésame por su dinero.
+
+400
+00:32:56,041 --> 00:32:57,541
+Se fue por ahí.
+
+401
+00:32:58,541 --> 00:32:59,375
+Gracias.
+
+402
+00:33:03,541 --> 00:33:07,125
+Si encuentran dinero
+en el cadáver, es mío.
+
+403
+00:33:11,791 --> 00:33:12,625
+Tengo una duda.
+
+404
+00:33:13,500 --> 00:33:16,166
+¿Qué piensas hacer
+cuando hallemos a tu papá?
+
+405
+00:33:17,041 --> 00:33:18,541
+¿Haremos lo de siempre?
+
+406
+00:33:19,208 --> 00:33:23,291
+¿Le dispararás en el culo
+y me obligarás a dispararle en la cabeza?
+
+407
+00:33:25,833 --> 00:33:29,041
+No, lo llevaré ante la justicia.
+
+408
+00:33:31,416 --> 00:33:33,125
+¿Crees que se lo merece?
+
+409
+00:33:33,208 --> 00:33:35,666
+Me enseñaron a creer que todos lo merecen,
+
+410
+00:33:35,750 --> 00:33:38,500
+así entienden
+que su comportamiento importa
+
+411
+00:33:38,583 --> 00:33:40,041
+y no pierden la esperanza.
+
+412
+00:33:40,625 --> 00:33:44,166
+Tú dices que la perdiste,
+pero en realidad sigue ahí.
+
+413
+00:33:46,791 --> 00:33:49,458
+Odio decírtelo, linda,
+
+414
+00:33:49,541 --> 00:33:51,500
+pero no te criaron en el mundo real.
+
+415
+00:33:53,125 --> 00:33:56,166
+Lo sé, pero ¿qué otra opción hay?
+
+416
+00:33:58,833 --> 00:34:00,583
+Solo intento dar el ejemplo.
+
+417
+00:34:07,875 --> 00:34:09,166
+AUTOCINEMA STARLIGHT
+
+418
+00:34:09,250 --> 00:34:11,875
+UN HOMBRE Y SU PERRO 3
+COOPER HOWARD
+
+419
+00:34:49,291 --> 00:34:50,291
+¡DALE AL COMUNISTA!
+
+420
+00:34:50,375 --> 00:34:51,791
+Se sentaron en esa mesa
+
+421
+00:34:51,875 --> 00:34:53,750
+y hablaron del fin del mundo
+
+422
+00:34:53,833 --> 00:34:56,458
+como si fuera
+una nueva estrategia de negocios.
+
+423
+00:34:57,083 --> 00:34:59,250
+Parece que oíste algo interesante.
+
+424
+00:35:00,625 --> 00:35:01,833
+¿Qué? ¿Ya lo sabías?
+
+425
+00:35:03,291 --> 00:35:04,708
+Y ahora tú también.
+
+426
+00:35:04,791 --> 00:35:07,000
+¿Qué vamos a hacer al respecto?
+
+427
+00:35:07,958 --> 00:35:10,000
+¿A qué te refieres con eso?
+
+428
+00:35:10,083 --> 00:35:13,375
+Ya te dije que no soy espía,
+no soy de los rojos.
+
+429
+00:35:13,458 --> 00:35:17,166
+Soy un puto actor
+al que le gustan los caballos y los autos.
+
+430
+00:35:17,250 --> 00:35:19,750
+También eres famoso,
+
+431
+00:35:20,333 --> 00:35:22,583
+y la fama es un poder poco común.
+
+432
+00:35:22,666 --> 00:35:24,833
+Tú puedes estar donde yo no,
+
+433
+00:35:24,916 --> 00:35:26,625
+conocer a gente que yo nunca…
+
+434
+00:35:26,708 --> 00:35:28,375
+¿Como a quiénes?
+
+435
+00:35:30,541 --> 00:35:32,416
+¿Sabes quién es Robert House?
+
+436
+00:35:34,541 --> 00:35:37,666
+Sí, sé quién es Robert House.
+
+437
+00:35:37,750 --> 00:35:39,458
+Es dueño de la mitad de Las Vegas.
+
+438
+00:35:39,541 --> 00:35:43,583
+Y está construyendo
+un sistema privado de misiles en Las Vegas
+
+439
+00:35:44,666 --> 00:35:49,166
+con suficiente capacidad para cumplir
+las propuestas de tu esposa.
+
+440
+00:35:50,916 --> 00:35:52,541
+Cuando caigan las bombas,
+
+441
+00:35:52,625 --> 00:35:55,583
+Robert House será quien las lance.
+
+442
+00:35:58,291 --> 00:36:01,916
+¿Me pides que espíe
+al hombre más rico de Estados Unidos?
+
+443
+00:36:03,625 --> 00:36:04,666
+No lo espiarás.
+
+444
+00:36:11,791 --> 00:36:12,625
+¿Quieres que…?
+
+445
+00:36:13,958 --> 00:36:16,041
+Tu esposa irá a Las Vegas
+
+446
+00:36:16,125 --> 00:36:19,333
+la próxima semana
+a venderle fusión fría a Robert House.
+
+447
+00:36:20,250 --> 00:36:23,791
+Con eso tendrá todo lo necesario
+para lanzar las bombas.
+
+448
+00:36:23,875 --> 00:36:25,291
+Debes detenerlo.
+
+449
+00:36:25,791 --> 00:36:27,166
+Trata bien a tu esposa
+
+450
+00:36:28,125 --> 00:36:29,750
+y vayan de viaje a Las Vegas.
+
+451
+00:36:33,833 --> 00:36:34,791
+¿Adónde vas?
+
+452
+00:36:35,791 --> 00:36:38,375
+A mi casa, mientras aún la tenga.
+
+453
+00:36:38,958 --> 00:36:40,708
+Cuando sea el fin del mundo,
+
+454
+00:36:41,375 --> 00:36:43,125
+tendrás la consciencia limpia.
+
+455
+00:36:53,000 --> 00:36:54,000
+Vámonos, Janey.
+
+456
+00:36:54,750 --> 00:36:56,375
+Vamos.
+
+457
+00:37:01,333 --> 00:37:04,625
+Las acciones de West Tek subieron
+tras informes que indican
+
+458
+00:37:04,708 --> 00:37:08,500
+que sus productos
+revolucionarán el cuidado de la piel.
+
+459
+00:37:09,041 --> 00:37:11,291
+Robert House, el dueño de RobCo,
+
+460
+00:37:11,375 --> 00:37:14,833
+causó un revuelo
+con comentarios sobre la guerra.
+
+461
+00:37:14,916 --> 00:37:16,833
+En una entrevista con Radio Galaxia,
+
+462
+00:37:16,916 --> 00:37:20,791
+dijo que la pregunta no es
+si el mundo se acabará,
+
+463
+00:37:20,875 --> 00:37:23,416
+sino quién presionará el botón para ello.
+
+464
+00:37:23,875 --> 00:37:27,000
+Volvemos tras un mensaje
+de nuestros patrocinadores.
+
+465
+00:37:33,500 --> 00:37:35,750
+¡Deliciosos huevos endiablados!
+
+466
+00:38:01,541 --> 00:38:02,375
+Bienvenida.
+
+467
+00:38:18,583 --> 00:38:20,750
+Parece que tu papi se desvió.
+
+468
+00:38:25,583 --> 00:38:27,458
+Nunca había visto un refugio así.
+
+469
+00:38:31,500 --> 00:38:33,541
+Todos los que he visitado son así.
+
+470
+00:38:35,208 --> 00:38:36,791
+¿Has ido a muchos?
+
+471
+00:38:42,791 --> 00:38:43,833
+Deben gustarte.
+
+472
+00:38:47,541 --> 00:38:51,708
+Cada vez que pongo un pie
+en una de estas cajas de concreto,
+
+473
+00:38:53,166 --> 00:38:55,583
+debo prepararme
+para la posibilidad de descubrir
+
+474
+00:38:55,666 --> 00:38:57,125
+qué les pasó a mi esposa
+
+475
+00:38:58,083 --> 00:38:59,458
+y a mi hija.
+
+476
+00:39:01,333 --> 00:39:04,416
+Si están vivas, muertas,
+
+477
+00:39:06,166 --> 00:39:07,583
+o si les pasó algo peor.
+
+478
+00:39:10,458 --> 00:39:11,291
+Claro.
+
+479
+00:39:13,083 --> 00:39:14,666
+Sé sobre los experimentos.
+
+480
+00:39:15,666 --> 00:39:16,916
+Visité el Refugio 4.
+
+481
+00:39:18,250 --> 00:39:20,458
+Ese es uno de los mejores.
+
+482
+00:39:21,750 --> 00:39:24,291
+Siendo justos,
+es un poco más raro que el mío.
+
+483
+00:39:27,500 --> 00:39:28,583
+¿Eso crees?
+
+484
+00:39:29,541 --> 00:39:32,166
+¿Cuántos pueblos destruyeron
+en el Refugio 4?
+
+485
+00:39:37,500 --> 00:39:38,333
+Ábrela.
+
+486
+00:39:42,333 --> 00:39:44,958
+PIP-BOY
+ENLACE REMOTO
+
+487
+00:39:54,708 --> 00:39:56,416
+¿Crees que mi papá esté ahí abajo?
+
+488
+00:39:56,500 --> 00:39:57,958
+Esto indica que entró
+
+489
+00:39:59,458 --> 00:40:01,041
+y después salió.
+
+490
+00:40:07,541 --> 00:40:09,000
+Pero yo quiero saber
+
+491
+00:40:10,750 --> 00:40:12,500
+por qué vino.
+
+492
+00:40:21,541 --> 00:40:23,166
+¿A ti no te da curiosidad?
+
+493
+00:40:48,375 --> 00:40:50,791
+No es su culpa que nacieran en un refugio.
+
+494
+00:40:51,708 --> 00:40:52,875
+Quiero oírlos.
+
+495
+00:40:52,958 --> 00:40:56,000
+No es mi culpa haber nacido en un refugio.
+
+496
+00:40:56,083 --> 00:40:58,958
+Y no es su culpa
+que sus padres fueran o sean parientes.
+
+497
+00:40:59,041 --> 00:41:00,916
+Y no es mi culpa
+
+498
+00:41:01,000 --> 00:41:03,541
+que mis padres fueran o sean parientes.
+
+499
+00:41:08,125 --> 00:41:10,000
+Es genial decirlo en voz alta, ¿no?
+
+500
+00:41:11,916 --> 00:41:14,291
+Ese es solo el primer paso, créanme.
+
+501
+00:41:15,041 --> 00:41:17,166
+Yo ya pasé por este proceso.
+
+502
+00:41:17,250 --> 00:41:20,250
+Sé cómo se siente no saber si te juzgan
+
+503
+00:41:20,333 --> 00:41:22,083
+por tu árbol genealógico.
+
+504
+00:41:22,166 --> 00:41:24,375
+Si una persona normal
+
+505
+00:41:24,458 --> 00:41:27,000
+tiene una uña enterrada, es natural.
+
+506
+00:41:27,666 --> 00:41:28,583
+Pero nosotros…
+
+507
+00:41:30,750 --> 00:41:34,208
+debemos preguntarnos
+si es porque tenemos malos genes,
+
+508
+00:41:35,416 --> 00:41:37,333
+si estamos dañados.
+
+509
+00:41:39,333 --> 00:41:42,958
+Cambiaremos las reglas, ¿no?
+
+510
+00:41:45,375 --> 00:41:48,291
+La endogamia está prohibida,
+pero cambiaremos eso, ¿no?
+
+511
+00:41:49,375 --> 00:41:52,250
+No, esto no se trata de eso.
+
+512
+00:41:52,333 --> 00:41:56,041
+Las reglas son buenas, pero no significa
+que debamos sentirnos mal
+
+513
+00:41:56,125 --> 00:41:58,416
+por ser producto
+de la endogamia, ¿entienden?
+
+514
+00:42:00,166 --> 00:42:01,166
+Vámonos.
+
+515
+00:42:09,291 --> 00:42:11,291
+- Tengo una duda.
+- Sí, Marianne.
+
+516
+00:42:11,375 --> 00:42:13,291
+Soy un poco alérgica al polvo.
+
+517
+00:42:14,166 --> 00:42:17,500
+A veces me pregunto
+si soy así por culpa de mi padre,
+
+518
+00:42:17,583 --> 00:42:21,291
+quien se enamoró de su prima, mi madre.
+
+519
+00:42:21,375 --> 00:42:24,708
+¿Hay alguna explicación biológica
+para eso?
+
+520
+00:42:26,416 --> 00:42:29,125
+No estudié genética, así que…
+
+521
+00:42:29,916 --> 00:42:32,666
+- Bueno, está bien.
+- Sí podría ser su culpa.
+
+522
+00:42:33,333 --> 00:42:34,166
+¡Lo sabía!
+
+523
+00:42:34,708 --> 00:42:36,416
+Los bocadillos están deliciosos.
+
+524
+00:42:38,333 --> 00:42:40,625
+Sentía que mi madre me veía como su rival,
+
+525
+00:42:40,708 --> 00:42:43,250
+lo cual reflejaba
+su relación con su madre,
+
+526
+00:42:43,333 --> 00:42:46,041
+quien se enamoró de mi padre,
+su primo quinto.
+
+527
+00:42:46,125 --> 00:42:48,916
+Todos los quintos eran primos cuartos
+de los segundos.
+
+528
+00:42:49,458 --> 00:42:51,000
+No es exactamente…
+
+529
+00:42:53,333 --> 00:42:54,333
+¡ESTE ES EL FUTURO!
+
+530
+00:42:54,416 --> 00:42:56,041
+KIT DE BOCADILLOS Y CUIDADO
+
+531
+00:42:59,958 --> 00:43:01,541
+No falta mucho.
+
+532
+00:43:04,166 --> 00:43:07,833
+Seguramente tienes mucha hambre y sed.
+
+533
+00:43:08,666 --> 00:43:11,833
+¿Por qué quieres sufrir si puedes meterte
+
+534
+00:43:11,916 --> 00:43:13,833
+en una cómoda cápsula criogénica?
+
+535
+00:43:15,041 --> 00:43:16,250
+¿Cómo era mi padre?
+
+536
+00:43:18,375 --> 00:43:19,583
+Era ambicioso.
+
+537
+00:43:21,416 --> 00:43:22,791
+¿Por qué estaba aquí?
+
+538
+00:43:23,041 --> 00:43:24,833
+Antes, ser un Amigo de Bud
+
+539
+00:43:24,916 --> 00:43:27,291
+era un puesto muy codiciado.
+
+540
+00:43:27,750 --> 00:43:29,791
+Recibimos solicitudes desde Fresno.
+
+541
+00:43:31,083 --> 00:43:33,958
+Comer eso puede parecer una buena idea,
+pero es tóxico.
+
+542
+00:43:34,041 --> 00:43:36,333
+Sufrirás una muerte lenta y dolorosa.
+
+543
+00:43:37,041 --> 00:43:38,583
+Si no quieres la criogenia,
+
+544
+00:43:38,666 --> 00:43:41,083
+puedes dejar que te inyecte esto.
+
+545
+00:43:41,666 --> 00:43:45,208
+Nos facilitaría la vida a los dos.
+
+546
+00:43:46,500 --> 00:43:47,500
+¿Qué hace?
+
+547
+00:43:47,583 --> 00:43:50,458
+Te mata, será rápido e indoloro.
+
+548
+00:43:50,833 --> 00:43:53,875
+Tu cuerpo se descompondrá rápidamente,
+se volverá polvo,
+
+549
+00:43:53,958 --> 00:43:56,250
+circulará por el sistema de ventilación
+
+550
+00:43:56,333 --> 00:43:59,166
+y llegará a los campos de maíz de tu casa.
+
+551
+00:43:59,250 --> 00:44:01,208
+Si lo piensas, no está tan mal,
+
+552
+00:44:01,291 --> 00:44:05,458
+así evitarás los problemas
+que surgen al estar vivo.
+
+553
+00:44:06,458 --> 00:44:09,416
+Tienes dos opciones lógicas:
+
+554
+00:44:10,000 --> 00:44:13,083
+métete en la cápsula de tu padre
+o muérete.
+
+555
+00:44:14,708 --> 00:44:17,166
+Tienes razón,
+solo hay dos opciones lógicas.
+
+556
+00:44:22,083 --> 00:44:23,916
+Pero hay muchas ilógicas.
+
+557
+00:44:25,708 --> 00:44:26,708
+¿Qué haces?
+
+558
+00:44:27,833 --> 00:44:30,791
+Pasaron 200 años haciendo planes
+para que todo saliera bien.
+
+559
+00:44:30,875 --> 00:44:33,208
+Eso me parece mucho trabajo, la verdad.
+
+560
+00:44:33,291 --> 00:44:35,083
+No te acerques.
+
+561
+00:44:36,375 --> 00:44:38,791
+Creo que los planes están sobrevalorados.
+
+562
+00:44:40,416 --> 00:44:41,708
+¿Qué? No, espera.
+
+563
+00:44:41,791 --> 00:44:43,875
+Lo necesito para amenazarte. ¿Qué haces?
+
+564
+00:44:44,583 --> 00:44:46,291
+- Los descongelo.
+- ¿Qué?
+
+565
+00:44:46,375 --> 00:44:48,708
+No, no puedes descongelarlos.
+
+566
+00:44:51,958 --> 00:44:55,166
+Deben despertar una vez cada 30 años.
+
+567
+00:44:55,250 --> 00:44:57,666
+Esto no es un plan, solo es caos.
+
+568
+00:44:57,750 --> 00:44:59,583
+Planear es difícil,
+
+569
+00:45:00,708 --> 00:45:01,666
+pero el caos…
+
+570
+00:45:02,708 --> 00:45:03,708
+El caos es fácil.
+
+571
+00:45:45,541 --> 00:45:47,583
+Pobres soldaditos.
+
+572
+00:45:53,916 --> 00:45:56,625
+¿Por qué Vault-Tec dejaría entrar
+a los comunistas?
+
+573
+00:45:58,083 --> 00:45:59,750
+No creo que haya pasado eso.
+
+574
+00:46:13,541 --> 00:46:17,500
+El bien individual
+es secundario al bien común.
+
+575
+00:46:24,125 --> 00:46:27,333
+…fueron unidos gracias al bien común.
+
+576
+00:46:34,291 --> 00:46:37,250
+Nuestro enemigo eligió
+priorizar lo material
+
+577
+00:46:37,333 --> 00:46:39,208
+sobre la gente.
+
+578
+00:46:39,958 --> 00:46:43,083
+Nosotros preferimos
+el bienestar de la gente.
+
+579
+00:46:53,666 --> 00:46:54,916
+Son estadounidenses.
+
+580
+00:46:56,625 --> 00:46:58,708
+El refugio los convirtió en comunistas.
+
+581
+00:47:10,208 --> 00:47:14,125
+Morir por la revolución no será en vano.
+
+582
+00:47:26,958 --> 00:47:30,833
+El bien individual
+es secundario al bien común.
+
+583
+00:47:33,708 --> 00:47:36,375
+SIN INFORMACIÓN DISPONIBLE
+TERMINAL BLOQUEADA
+
+584
+00:47:38,083 --> 00:47:39,625
+Mi papá quitó el disco.
+
+585
+00:48:13,250 --> 00:48:14,875
+SUGAR BOMBS
+CEREAL
+
+586
+00:48:41,166 --> 00:48:42,625
+Hola, Sugarbomb.
+
+587
+00:48:47,541 --> 00:48:50,208
+Tu papi se trajo un conejillo de indias.
+
+588
+00:48:55,666 --> 00:48:56,958
+¿Qué quieres?
+
+589
+00:48:59,000 --> 00:49:03,833
+Yo arreglaré todo.
+
+590
+00:49:04,958 --> 00:49:07,291
+Vete a casa,
+
+591
+00:49:08,583 --> 00:49:09,875
+Sugarbomb.
+
+592
+00:49:11,166 --> 00:49:12,333
+Vete a casa.
+
+593
+00:49:14,375 --> 00:49:15,250
+¡Vete a casa!
+
+594
+00:49:17,875 --> 00:49:19,000
+Vete…
+
+595
+00:49:50,958 --> 00:49:53,541
+¿Habías visto a tu padre
+usar uno de estos?
+
+596
+00:49:55,291 --> 00:49:56,166
+No.
+
+597
+00:49:58,708 --> 00:50:00,166
+¿Seguirás su consejo?
+
+598
+00:50:04,000 --> 00:50:05,500
+No dejará de lastimar gente.
+
+599
+00:50:06,916 --> 00:50:08,208
+Sí, eso seguro.
+
+600
+00:50:12,458 --> 00:50:14,041
+Será mejor que nos vayamos.
+
+601
+00:51:40,750 --> 00:51:41,750
+Tienes…
+
+602
+00:51:42,791 --> 00:51:47,833
+Tienes 462 311 mensajes sin leer.
+
+603
+00:51:49,333 --> 00:51:50,583
+Empecemos.
+
+604
+00:52:50,500 --> 00:52:55,416
+COMUNICACIONES GLOBALES
+
+605
+00:53:20,375 --> 00:53:23,500
+Soy Hank MacLean reportándome, señor.
+
+606
+00:53:26,375 --> 00:53:28,708
+Nadie en Vault-Tec sabe que estoy aquí.
+
+607
+00:53:31,333 --> 00:53:34,041
+Es más, los de Vault-Tec ya no saben nada.
+
+608
+00:53:37,166 --> 00:53:38,833
+Sigo vivo y espero…
+
+609
+00:53:40,916 --> 00:53:41,916
+que usted también.
+
+610
+00:53:42,791 --> 00:53:46,041
+No dudo que lo esté.
+
+611
+00:53:46,125 --> 00:53:51,791
+Pasó mucho tiempo planeando
+cómo sobrevivir a las contingencias.
+
+612
+00:53:56,041 --> 00:53:57,208
+He estado ocupado.
+
+613
+00:53:57,791 --> 00:53:59,791
+Estoy en Las Vegas,
+
+614
+00:53:59,875 --> 00:54:02,125
+de hecho, en su antiguo territorio.
+
+615
+00:54:03,125 --> 00:54:05,416
+Intento retomar lo que dejaron inconcluso.
+
+616
+00:54:08,083 --> 00:54:10,208
+Parece que los experimentos del refugio
+
+617
+00:54:10,291 --> 00:54:11,708
+se toparon con obstáculos.
+
+618
+00:54:13,666 --> 00:54:17,125
+El 24 mejoró la interfaz
+de la computadora cerebral.
+
+619
+00:54:20,083 --> 00:54:22,875
+La hicieron miniatura.
+
+620
+00:54:26,333 --> 00:54:28,166
+Ahora solo necesita integrarse.
+
+621
+00:54:29,291 --> 00:54:31,666
+Estoy seguro de que si me esfuerzo,
+
+622
+00:54:31,750 --> 00:54:33,125
+puedo terminarlo por usted.
+
+623
+00:54:35,250 --> 00:54:38,166
+Así podremos hablar de mi ascenso.
+
+624
+00:54:44,291 --> 00:54:46,375
+Terminaré el trabajo que empezó,
+
+625
+00:54:47,500 --> 00:54:51,208
+y cuando todo esto termine,
+me suplicará que lo ayude.
+
+626
+00:55:16,625 --> 00:55:19,000
+BASADA EN LA SAGA DE VIDEOJUEGOS
+FALLOUT
+
+627
+00:56:18,125 --> 00:56:22,041
+ESTA TEMPORADA EN
+FALLOUT
+
+628
+00:56:22,833 --> 00:56:23,833
+Juntos
+
+629
+00:56:25,375 --> 00:56:26,916
+cumpliremos nuestra promesa.
+
+630
+00:56:30,375 --> 00:56:33,291
+Mejoraremos este mundo caótico.
+
+631
+00:56:35,625 --> 00:56:37,125
+Perdón por interrumpir.
+
+632
+00:56:39,208 --> 00:56:41,666
+Sé que planean una guerra civil.
+
+633
+00:56:46,250 --> 00:56:47,833
+La Commonwealth nos destruirá.
+
+634
+00:56:47,916 --> 00:56:49,000
+No lo permitiré.
+
+635
+00:56:50,708 --> 00:56:51,791
+Repitan nuestro lema.
+
+636
+00:56:51,875 --> 00:56:54,916
+¡"La mayoría no llega a esta edad"!
+
+637
+00:56:57,916 --> 00:56:59,583
+Lo haría, pero busco a alguien.
+
+638
+00:56:59,666 --> 00:57:01,583
+¿Qué le harás cuando des con él?
+
+639
+00:57:01,666 --> 00:57:03,500
+¿Y cuál es la respuesta?
+
+640
+00:57:05,541 --> 00:57:08,000
+Tu familia podría seguir viva.
+
+641
+00:57:08,541 --> 00:57:11,958
+Pero dudo que les agrade
+en quién te has convertido.
+
+642
+00:57:14,416 --> 00:57:16,041
+SALA DE CONFERENCIAS
+
+643
+00:57:18,958 --> 00:57:21,541
+Hay peores personas que yo, Coop.
+
+644
+00:57:23,958 --> 00:57:26,000
+Como dicen en Las Vegas:
+
+645
+00:57:26,958 --> 00:57:29,958
+en algún momento, todos ganan.
+
+646
+00:57:30,625 --> 00:57:33,125
+Y en mi experiencia, también pierden.
+
+647
+00:57:33,583 --> 00:57:35,000
+Excepto por un hombre.
+
+648
+00:57:39,208 --> 00:57:40,458
+Señor Howard,
+
+649
+00:57:41,708 --> 00:57:44,750
+sé que vino a Las Vegas a matarme.
+
+650
+00:57:47,166 --> 00:57:48,291
+¿Cierto?
+
+651
+00:57:50,791 --> 00:57:54,000
+Aún no sé cómo encaja en todo esto,
+
+652
+00:57:54,083 --> 00:57:55,666
+pero sé que es importante.
+
+653
+00:57:59,750 --> 00:58:01,083
+Si no nos ayudas,
+
+654
+00:58:01,166 --> 00:58:04,208
+el Refugio 33 no sobrevivirá.
+
+655
+00:58:05,000 --> 00:58:06,208
+Papá, si me oyes,
+
+656
+00:58:07,000 --> 00:58:08,291
+¿qué le harán al refugio?
+
+657
+00:58:22,125 --> 00:58:24,375
+SIMULACIÓN
+
+658
+00:58:27,000 --> 00:58:28,375
+Mi pequeña Sugar Bomb.
+
