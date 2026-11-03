@@ -1,0 +1,1788 @@
+﻿1
+00:00:06,926 --> 00:00:10,056
+Este es el problema con
+la teletrasportación.
+
+2
+00:00:12,886 --> 00:00:14,896
+Dímelo.
+
+3
+00:00:14,906 --> 00:00:16,736
+Asumiendo que se pudiera
+inventar un dispositivo...
+
+4
+00:00:16,746 --> 00:00:18,571
+...que identificara el estado
+cuántico de la materia...
+
+5
+00:00:18,572 --> 00:00:20,396
+...de un individuo en una ubicación...
+
+6
+00:00:20,406 --> 00:00:23,736
+...y transmitiera ese patrón a otra
+ubicación para que se reensamblase...
+
+7
+00:00:23,746 --> 00:00:26,096
+...en realidad no habrías
+transportado al individuo.
+
+8
+00:00:26,116 --> 00:00:30,856
+Lo habrías destruido en una
+ubicación y recreado en otra.
+
+9
+00:00:32,386 --> 00:00:34,596
+Que me dices de eso.
+
+10
+00:00:35,116 --> 00:00:37,056
+Personalmente, nunca
+usaría un transportador...
+
+11
+00:00:37,074 --> 00:00:39,745
+...porque el Sheldon original
+debería ser desintegrado...
+
+12
+00:00:39,746 --> 00:00:42,416
+...para crear al nuevo Sheldon.
+
+13
+00:00:43,119 --> 00:00:47,509
+¿Podría el nuevo Sheldon, de alguna
+forma, ser una mejora del viejo Sheldon?
+
+14
+00:00:48,131 --> 00:00:50,618
+No, sería exactamente el mismo.
+
+15
+00:00:50,641 --> 00:00:52,799
+Eso es un problema.
+
+16
+00:00:52,815 --> 00:00:54,896
+Entonces también lo ves.
+
+17
+00:00:54,912 --> 00:00:57,067
+Dr. Hofstadter.
+Dr. Cooper.
+
+18
+00:00:57,084 --> 00:00:58,596
+- Dr. Gablehauser.
+- Dr. Gablehauser.
+
+19
+00:00:58,613 --> 00:01:01,048
+Caballeros, me gustaría
+presentarles a Dennis Kim.
+
+20
+00:01:01,063 --> 00:01:04,098
+Dennis es un candidato sumamente
+solicitado para un doctorado...
+
+21
+00:01:04,122 --> 00:01:06,029
+...y esperamos que haga su
+trabajo de graduación aquí.
+
+22
+00:01:06,063 --> 00:01:07,666
+Trabajo de graduación.
+Muy impresionante.
+
+23
+00:01:07,681 --> 00:01:09,808
+Y sólo tiene 15 años.
+
+24
+00:01:09,823 --> 00:01:13,676
+No está mal, yo mismo empecé a los 14.
+
+25
+00:01:13,691 --> 00:01:17,976
+Bueno, perdí un año escapando de
+Corea del Norte con mi familia.
+
+26
+00:01:19,811 --> 00:01:22,666
+Ventaja para Kim.
+
+27
+00:01:23,111 --> 00:01:25,308
+Creí que tal vez ustedes podrían
+enseñarle los alrededores.
+
+28
+00:01:25,342 --> 00:01:27,074
+Mostrarle por qué somos...
+
+29
+00:01:27,075 --> 00:01:28,807
+...la mejor instalación de
+investigación de física del país.
+
+30
+00:01:28,821 --> 00:01:30,069
+Ya sé que no lo son.
+
+31
+00:01:30,104 --> 00:01:31,735
+No tienen una red de computadoras
+científicas abierta...
+
+32
+00:01:31,736 --> 00:01:33,366
+...o un láser de electrones...
+
+33
+00:01:33,381 --> 00:01:34,830
+...y la investigación de la
+teoría de cuerdas hecha aquí...
+
+34
+00:01:34,831 --> 00:01:36,279
+...es un callejón sin salida
+
+35
+00:01:36,311 --> 00:01:40,096
+Discúlpame, esa es mi investigación y de
+ninguna forma es un callejón sin salida.
+
+36
+00:01:40,132 --> 00:01:44,269
+Bueno, obviamente no lo ves aún,
+pero créeme, lo harás.
+
+37
+00:01:45,971 --> 00:01:47,696
+Dennis, ya hemos hablado de esto.
+
+38
+00:01:47,711 --> 00:01:50,189
+Estamos actualizando nuestros equipos...
+
+39
+00:01:50,211 --> 00:01:52,417
+...y son bienvenidas tus observaciones
+en nuestras investigaciones.
+
+40
+00:01:52,443 --> 00:01:53,919
+Y hemos acordado mirar
+hacia otra parte...
+
+41
+00:01:53,951 --> 00:01:56,488
+...si quieres usar el 20%
+del dinero de los subsidios...
+
+42
+00:01:56,489 --> 00:01:59,026
+...para sacar de contrabando
+a tu abuelo de Pyongyang.
+
+43
+00:02:00,482 --> 00:02:02,679
+Lo queremos aquí, muchachos.
+
+44
+00:02:02,693 --> 00:02:04,286
+- Hagan que suceda.
+- Sí señor.
+
+45
+00:02:04,303 --> 00:02:06,396
+Puede contar con nosotros.
+Estamos en ello.
+
+46
+00:02:06,411 --> 00:02:09,069
+¿Qué diablos quieres decir
+con "callejón sin salida"?
+
+47
+00:02:09,092 --> 00:02:11,956
+Quiero decir, que el falso
+vacío de la teoría de cuerdas...
+
+48
+00:02:11,972 --> 00:02:14,616
+...podría ser tan grande como 10
+a la potencia de 500.
+
+49
+00:02:14,631 --> 00:02:15,857
+Además-
+
+50
+00:02:15,872 --> 00:02:18,576
+Miren, leche chocolatada.
+
+51
+00:02:20,212 --> 00:02:23,396
+Siento una perturbación en la fuerza.
+
+52
+00:02:23,412 --> 00:02:25,728
+Un mal presentimiento de esto yo tengo.
+
+53
+00:02:51,800 --> 00:02:53,605
+¿Cuánto tiempo has estado en América?
+
+54
+00:02:53,622 --> 00:02:54,638
+Un año y medio.
+
+55
+00:02:54,660 --> 00:02:55,698
+No bromees.
+
+56
+00:02:55,711 --> 00:02:56,525
+Hablas inglés muy bien.
+
+57
+00:02:56,550 --> 00:02:58,256
+Tú también.
+
+58
+00:02:58,951 --> 00:03:03,255
+Excepto por tu tendencia a terminar
+oraciones con preposiciones.
+
+59
+00:03:03,692 --> 00:03:06,177
+¿De qué estás hablando?
+
+60
+00:03:07,070 --> 00:03:08,978
+De eso.
+
+61
+00:03:09,312 --> 00:03:11,657
+No está equivocado.
+
+62
+00:03:11,671 --> 00:03:13,905
+Muy bien... y ésta es mi oficina.
+
+63
+00:03:13,921 --> 00:03:16,976
+- ¿Es parte del recorrido?
+- No. Adiós.
+
+64
+00:03:17,603 --> 00:03:19,726
+Vamos, Sheldon,
+apenas le hemos mostrado algo.
+
+65
+00:03:19,743 --> 00:03:21,216
+De acuerdo.
+
+66
+00:03:21,250 --> 00:03:22,536
+Éste es mi escritorio.
+
+67
+00:03:22,551 --> 00:03:24,575
+Ésos son mis libros y ésa es mi puerta.
+
+68
+00:03:24,602 --> 00:03:27,725
+Por favor ciérrala al salir.
+Adiós.
+
+69
+00:03:28,520 --> 00:03:31,037
+Parece que estás trabajando en
+correcciones de giros cuánticos.
+
+70
+00:03:31,063 --> 00:03:33,826
+Profunda observación.
+Adiós.
+
+71
+00:03:33,840 --> 00:03:36,567
+¿Ves dónde te equivocaste, verdad?
+
+72
+00:03:36,591 --> 00:03:38,108
+¿Leonard?
+
+73
+00:03:38,122 --> 00:03:39,746
+¿Sí?
+
+74
+00:03:39,760 --> 00:03:41,618
+Sácalo de aquí.
+
+75
+00:03:41,643 --> 00:03:43,466
+Vamos, Dennis.
+Te mostraré el centro recreacional.
+
+76
+00:03:43,482 --> 00:03:45,066
+Tienen el equipo Nautilus.
+
+77
+00:03:45,093 --> 00:03:47,818
+¿Luzco como alguien que levanta pesas?
+
+78
+00:03:47,833 --> 00:03:50,115
+No de las pesadas.
+
+79
+00:03:50,590 --> 00:03:52,889
+Me parece alarmante que no hayas
+considerado la variante de Lorentz...
+
+80
+00:03:52,890 --> 00:03:55,188
+...o una teoría de
+acercamiento de campo.
+
+81
+00:03:55,203 --> 00:03:57,028
+¿Crees que no lo he hecho?
+
+82
+00:03:57,041 --> 00:03:59,127
+¿Realmente lo crees?
+
+83
+00:03:59,142 --> 00:04:01,908
+¿Lo has considerado?
+
+84
+00:04:01,923 --> 00:04:04,335
+- Sácalo de aquí, Leonard.
+- Vamos, Dennis.
+
+85
+00:04:04,352 --> 00:04:06,817
+Te mostraré el laboratorio de radiación.
+
+86
+00:04:07,462 --> 00:04:09,908
+¿Has ganado el premio Stevenson?
+
+87
+00:04:09,922 --> 00:04:10,766
+Sí.
+
+88
+00:04:10,782 --> 00:04:14,206
+De hecho, soy la persona
+más joven en hacerlo.
+
+89
+00:04:14,241 --> 00:04:16,257
+¿En verdad? ¿qué tan joven?
+
+90
+00:04:16,272 --> 00:04:18,076
+Catorce y medio.
+
+91
+00:04:18,090 --> 00:04:21,557
+Eras la persona más joven en ganarlo.
+
+92
+00:04:23,932 --> 00:04:27,846
+Es como mirarse en un pequeño
+y desagradable espejo, ¿no?
+
+93
+00:04:31,620 --> 00:04:34,748
+Esto está delicioso, ¿verdad?
+
+94
+00:04:37,591 --> 00:04:41,126
+¿Aún no puedes hablarme
+sin estar borracho?
+
+95
+00:04:41,802 --> 00:04:45,627
+Cariño, estás tan dañado.
+
+96
+00:04:46,860 --> 00:04:49,685
+Oye, yo también lo estoy.
+
+97
+00:04:49,703 --> 00:04:52,165
+¿Qué tal un abrazo para Howie?
+
+98
+00:04:52,500 --> 00:04:55,478
+Claro. Raj, abraza a Howard.
+
+99
+00:04:59,621 --> 00:05:02,185
+¿Algo que quieras compartir?
+
+100
+00:05:02,202 --> 00:05:05,056
+¿Un cuento de infortunio, quizás?
+
+101
+00:05:05,072 --> 00:05:06,787
+15 años de edad.
+
+102
+00:05:06,812 --> 00:05:10,397
+Dennis Kim tiene 15 años,
+y ya está corrigiendo mi trabajo.
+
+103
+00:05:10,421 --> 00:05:14,406
+Hoy, pasé de ser Wolfgang
+Amadeus Mozart, a...
+
+104
+00:05:14,420 --> 00:05:16,008
+...ya saben, ese otro tipo.
+
+105
+00:05:16,023 --> 00:05:18,236
+¿Antonio Salieri?
+
+106
+00:05:18,251 --> 00:05:21,968
+Dios, ahora tú también
+eres más inteligente que yo.
+
+107
+00:05:21,980 --> 00:05:24,118
+Sabes, Sheldon,
+no tienes tantos amigos...
+
+108
+00:05:24,140 --> 00:05:27,208
+...como para permitirte
+comenzar a insultarlos.
+
+109
+00:05:27,520 --> 00:05:29,467
+Sólo come, Sheldon, te sentirás mejor.
+
+110
+00:05:29,490 --> 00:05:30,996
+¿Por qué desperdiciar comida?
+
+111
+00:05:31,010 --> 00:05:33,565
+En Texas, cuando las vacas se secan,
+no las alimentan...
+
+112
+00:05:33,593 --> 00:05:37,326
+...ellos sólo la sacan y le
+pegan un tiro entre los ojos.
+
+113
+00:05:37,341 --> 00:05:38,366
+Estoy confundida.
+
+114
+00:05:38,390 --> 00:05:40,816
+¿Sheldon ha dejado de dar leche?
+
+115
+00:05:41,900 --> 00:05:43,766
+No puedes dejar que este niño te afecte.
+
+116
+00:05:43,781 --> 00:05:47,198
+Siempre supiste que algún día aparecería
+alguien más joven e inteligente.
+
+117
+00:05:47,210 --> 00:05:50,227
+Sí, pero asumí que ya habría
+estado muerto por cientos de años...
+
+118
+00:05:50,241 --> 00:05:54,507
+...y que habría un asterisco en
+su nombre porque sería un Cyborg.
+
+119
+00:05:55,123 --> 00:05:56,587
+Tienes algo de competencia.
+
+120
+00:05:56,603 --> 00:05:58,395
+Realmente no veo cual
+es el gran problema.
+
+121
+00:05:58,421 --> 00:05:59,527
+Bueno, claro que no.
+
+122
+00:05:59,552 --> 00:06:02,507
+Nunca has sobresalido en nada.
+
+123
+00:06:03,610 --> 00:06:08,007
+No lo entiendo, ¿exactamente cómo
+consiguió algún amigo en primer lugar?
+
+124
+00:06:08,282 --> 00:06:10,876
+Nos agradó Leonard.
+
+125
+00:06:12,311 --> 00:06:14,516
+Bueno, ¿qué vas a hacer Sheldon?
+¿Rendirte?
+
+126
+00:06:14,533 --> 00:06:15,796
+Sí.
+
+127
+00:06:15,811 --> 00:06:17,519
+Es lo que una persona racional hace...
+
+128
+00:06:17,520 --> 00:06:19,228
+...cuando el trabajo de su vida
+ha sido invalidado...
+
+129
+00:06:19,241 --> 00:06:22,456
+...por un niño prodigio prepúber.
+
+130
+00:06:22,960 --> 00:06:27,587
+Cesa en sus inútiles esfuerzos, dona su
+cuerpo para investigación científica...
+
+131
+00:06:27,602 --> 00:06:30,127
+...y espera a morir.
+
+132
+00:06:30,991 --> 00:06:32,107
+Sabes, estoy confundida otra vez.
+
+133
+00:06:32,122 --> 00:06:36,038
+¿Está esperando, o tenemos que
+darle un tiro entre los ojos?
+
+134
+00:06:38,239 --> 00:06:39,939
+- Hola.
+- Hola.
+
+135
+00:06:40,741 --> 00:06:42,075
+He decidido que tienes razón.
+
+136
+00:06:42,090 --> 00:06:43,955
+Mi carrera no está acabada.
+
+137
+00:06:43,970 --> 00:06:45,028
+¡Genial!
+
+138
+00:06:45,043 --> 00:06:47,848
+Pero dado que la llegada de Dennis Kim
+ha hecho mi investigación inservible...
+
+139
+00:06:47,860 --> 00:06:50,567
+...tengo que encontrar algo
+más en lo que enfocarme.
+
+140
+00:06:50,592 --> 00:06:51,408
+¡Genial!
+
+141
+00:06:51,420 --> 00:06:55,095
+Así que he decidido que
+voy a colaborar contigo.
+
+142
+00:06:57,682 --> 00:06:59,256
+Genial.
+
+143
+00:06:59,270 --> 00:07:02,206
+Así que, ¿qué es
+exactamente lo que haces?
+
+144
+00:07:02,222 --> 00:07:06,548
+Sé que hablas de ello todo el tiempo,
+pero nunca he prestado atención.
+
+145
+00:07:07,022 --> 00:07:09,017
+De acuerdo, bueno, ahora mismo
+estoy diseñando un experimento...
+
+146
+00:07:09,030 --> 00:07:11,806
+...para estudiar la suavidad de la
+radiación cósmica al nivel del mar...
+
+147
+00:07:11,820 --> 00:07:13,097
+...pero realmente no necesito ayuda.
+
+148
+00:07:13,133 --> 00:07:14,945
+Claro que si.
+
+149
+00:07:15,780 --> 00:07:18,615
+Veamos, ¿qué es eso del esquema?
+¿Una formación de láser?
+
+150
+00:07:18,628 --> 00:07:19,878
+Sí.
+
+151
+00:07:23,500 --> 00:07:27,108
+¿Qué pasa si usas láser de
+argón en vez de neón-helio?
+
+152
+00:07:27,124 --> 00:07:28,445
+Explotaría.
+
+153
+00:07:28,472 --> 00:07:29,677
+¿Estás seguro?
+
+154
+00:07:29,690 --> 00:07:30,857
+Muy seguro.
+
+155
+00:07:30,872 --> 00:07:32,447
+"Muy seguro" no es muy científico.
+
+156
+00:07:32,473 --> 00:07:33,947
+¿Así es cómo trabajas normalmente?
+
+157
+00:07:33,972 --> 00:07:36,877
+¿Sólo presentimientos,
+conjeturas y esas cosas?
+
+158
+00:07:36,890 --> 00:07:41,615
+Bien, Sheldon, entiendo que estás
+pasando por una crisis laboral...
+
+159
+00:07:41,642 --> 00:07:43,609
+...y estás buscando alguna otra área...
+
+160
+00:07:43,610 --> 00:07:45,577
+...donde puedas sentirte
+valioso y productivo...
+
+161
+00:07:45,601 --> 00:07:48,318
+...pero necesito decirte algo,
+y quiero que escuches atentamente.
+
+162
+00:07:48,352 --> 00:07:49,195
+De acuerdo.
+
+163
+00:07:49,211 --> 00:07:51,698
+¡Lárgate!
+
+164
+00:07:53,873 --> 00:07:55,219
+Si estás preocupado por
+compartir el crédito conmigo...
+
+165
+00:07:55,220 --> 00:07:56,566
+...tu nombre puede ir primero-
+
+166
+00:07:56,602 --> 00:07:58,406
+Me voy.
+
+167
+00:08:02,491 --> 00:08:05,155
+Es una pequeña bolsa
+de papel marrón, mamá...
+
+168
+00:08:05,182 --> 00:08:08,008
+...¡la estoy mirando!
+
+169
+00:08:08,303 --> 00:08:09,597
+¿Por qué lo inventaría?
+
+170
+00:08:09,611 --> 00:08:12,585
+No hay ningún pastel aquí.
+
+171
+00:08:14,720 --> 00:08:19,038
+¿Cómo es que dos pasteles
+mañana me ayudarán hoy?
+
+172
+00:08:20,373 --> 00:08:23,755
+Entonces... esto es ingeniería, ¿no?
+
+173
+00:08:23,770 --> 00:08:25,685
+Te llamo luego.
+
+174
+00:08:25,700 --> 00:08:27,068
+Ingeniería.
+
+175
+00:08:27,082 --> 00:08:32,057
+Donde los trabajadores semicalificados
+llevan a cabo lo que ven y sueñan.
+
+176
+00:08:32,910 --> 00:08:35,805
+Hola, Oompa Loompas de la ciencia.
+
+177
+00:08:37,373 --> 00:08:39,746
+Sheldon, ¿qué haces aquí?
+
+178
+00:08:39,760 --> 00:08:41,686
+Sólo pasaba a saludar.
+
+179
+00:08:41,702 --> 00:08:43,215
+He estado en este
+laboratorio por tres años...
+
+180
+00:08:43,222 --> 00:08:44,746
+...y nunca has pasado a saludar.
+
+181
+00:08:44,763 --> 00:08:48,037
+Bueno, hasta ahora,
+he tenido mejores cosas que hacer.
+
+182
+00:08:48,331 --> 00:08:50,516
+Entonces, ¿qué estamos haciendo hoy?
+
+183
+00:08:50,541 --> 00:08:55,048
+Una pequeña estructura de apoyo
+para un experimento europeo...
+
+184
+00:08:55,049 --> 00:08:56,556
+...que irá en el próximo
+trasbordador espacial.
+
+185
+00:08:56,652 --> 00:08:58,528
+¿En verdad? ¿Cómo funciona?
+
+186
+00:08:58,542 --> 00:09:00,957
+Cuando esté acabado,
+será conectado a la bahía de carga...
+
+187
+00:09:00,990 --> 00:09:04,376
+...y los sensores se apoyarán en él.
+
+188
+00:09:06,582 --> 00:09:09,047
+Entonces es un estante.
+
+189
+00:09:12,040 --> 00:09:14,406
+No, no lo entiendes,
+durante la aceleración...
+
+190
+00:09:14,432 --> 00:09:16,826
+...tiene que estar perfectamente
+nivelado y proveer-
+
+191
+00:09:16,850 --> 00:09:19,076
+Sí, de acuerdo, es un estante.
+
+192
+00:09:19,092 --> 00:09:20,676
+Noté que estás usando titanio.
+
+193
+00:09:20,690 --> 00:09:23,308
+¿Has considerado usar
+nanotubos de carbono?
+
+194
+00:09:23,323 --> 00:09:26,317
+Son más livianos, baratos,
+y tienen el doble de resistencia.
+
+195
+00:09:26,333 --> 00:09:29,165
+Sheldon, hay un diploma en mi oficina...
+
+196
+00:09:29,166 --> 00:09:31,997
+...que dice que tengo un
+diploma en ingeniería.
+
+197
+00:09:32,010 --> 00:09:35,978
+Y también hay una nota de tu
+madre que dice: "Te amo, Bubula. "
+
+198
+00:09:37,892 --> 00:09:42,385
+Pero ninguno es un argumento válido
+para los nanotubos contra el titanio.
+
+199
+00:09:42,401 --> 00:09:43,695
+- ¿Sheldon?
+- ¿Sí?
+
+200
+00:09:43,713 --> 00:09:46,187
+¡Lárgate!
+
+201
+00:09:46,593 --> 00:09:48,715
+¿Leonard te dijo que dijeras eso?
+
+202
+00:09:48,733 --> 00:09:51,466
+No, lo pensé yo solito.
+
+203
+00:09:53,372 --> 00:09:55,758
+No puede ser una coincidencia.
+
+204
+00:09:55,773 --> 00:09:59,366
+Debe haber algún enlace
+causal que no estoy viendo.
+
+205
+00:10:01,443 --> 00:10:04,227
+¡Lárgate!
+
+206
+00:10:11,922 --> 00:10:14,737
+Cada vez más curioso.
+
+207
+00:10:19,121 --> 00:10:20,075
+¿Está aquí?
+
+208
+00:10:20,090 --> 00:10:22,615
+Si estuviera, yo no estaría.
+
+209
+00:10:23,030 --> 00:10:24,195
+¿Sabes que hizo?
+
+210
+00:10:24,210 --> 00:10:25,465
+Me vio trabajar por diez minutos...
+
+211
+00:10:25,500 --> 00:10:28,833
+...y luego empezó a diseñar un simple
+pedazo de software para reemplazarme.
+
+212
+00:10:30,952 --> 00:10:32,526
+¿Es eso posible?
+
+213
+00:10:32,543 --> 00:10:34,886
+Resulta que sí.
+
+214
+00:10:36,210 --> 00:10:37,895
+Tenemos que hacer algo
+acerca de él, Leonard.
+
+215
+00:10:37,933 --> 00:10:38,945
+¿Cómo qué?
+
+216
+00:10:38,962 --> 00:10:40,518
+Nunca será capaz de lidiar
+con el hecho de que...
+
+217
+00:10:40,550 --> 00:10:44,735
+...un chico de 15 años es más listo
+y tiene más logros que él.
+
+218
+00:10:44,751 --> 00:10:46,928
+Bueno, ¿Qué tal si algo
+le pasara a ese chico...
+
+219
+00:10:46,929 --> 00:10:49,106
+...y ya no fuera una
+amenaza para Sheldon?
+
+220
+00:10:50,361 --> 00:10:53,176
+Nuestro problema se resolvería.
+
+221
+00:10:53,190 --> 00:10:57,117
+Un momento, ¿estamos hablando
+de asesinar a Dennis Kim?
+
+222
+00:10:57,550 --> 00:11:00,148
+No digo que no.
+
+223
+00:11:00,162 --> 00:11:01,508
+No tenemos que llegar tan lejos.
+
+224
+00:11:01,523 --> 00:11:03,238
+Hay otros medios disponibles.
+
+225
+00:11:03,251 --> 00:11:05,888
+No podemos regresarlo a Corea del Norte.
+
+226
+00:11:05,901 --> 00:11:08,138
+Sabe cómo salir.
+
+227
+00:11:09,622 --> 00:11:12,806
+Lo único que necesitamos hacer es lograr
+que este chico Kim pierda su enfoque.
+
+228
+00:11:12,821 --> 00:11:13,798
+No pasará.
+
+229
+00:11:13,823 --> 00:11:16,056
+No está interesado en nada
+excepto la física.
+
+230
+00:11:16,081 --> 00:11:17,328
+¿Qué tal Biología?
+
+231
+00:11:17,340 --> 00:11:20,458
+- ¿Qué?
+- Tú sabes, biología.
+
+232
+00:11:21,123 --> 00:11:24,347
+Lo único que puede descarrilar
+completamente una mente brillante.
+
+233
+00:11:24,362 --> 00:11:25,798
+Howard, tiene 15.
+
+234
+00:11:25,830 --> 00:11:28,371
+Sí, ¿y? Cuando tenía 15,
+conocí a Denise Palmeri...
+
+235
+00:11:28,372 --> 00:11:32,577
+...y mi promedio cayó de 5.0 a 1.8
+
+236
+00:11:32,910 --> 00:11:34,468
+¿Ella dormía contigo?
+
+237
+00:11:34,481 --> 00:11:39,538
+No, yo sólo desperdiciaba mucho tiempo
+pensando en cómo sería si lo hiciera.
+
+238
+00:11:40,471 --> 00:11:42,008
+Bien, todos están aquí.
+
+239
+00:11:42,022 --> 00:11:44,234
+Miren, he decidido que
+si los tres dejan...
+
+240
+00:11:44,235 --> 00:11:46,446
+...lo que sea que estén
+haciendo y se unen a mi...
+
+241
+00:11:46,462 --> 00:11:48,597
+...podríamos lograr la fusión en
+frío en menos de una década.
+
+242
+00:11:48,622 --> 00:11:51,155
+12 años, máximo.
+
+243
+00:11:53,443 --> 00:11:56,066
+¿Lárgate?
+
+244
+00:11:58,602 --> 00:12:01,365
+¿Podré ser yo?
+
+245
+00:12:03,802 --> 00:12:04,688
+Hola chicos, ¿qué pasa?
+
+246
+00:12:04,703 --> 00:12:08,816
+Necesitamos una sexy asiática de 15 años
+a la cual le gusten los chicos listos.
+
+247
+00:12:09,343 --> 00:12:10,096
+¿Qué?
+
+248
+00:12:10,111 --> 00:12:11,197
+Howard, eso es racista.
+
+249
+00:12:11,212 --> 00:12:14,406
+Cualquier chica de 15 años serviría.
+
+250
+00:12:20,143 --> 00:12:23,476
+Es posible que nos haya malentendido.
+
+251
+00:12:29,371 --> 00:12:30,997
+Dr. Cooper. ¿Interrumpimos?
+
+252
+00:12:31,011 --> 00:12:32,407
+No, no. Por favor entren.
+
+253
+00:12:32,421 --> 00:12:35,197
+Sí, creo que apreciarán esto.
+Es muy emocionante.
+
+254
+00:12:35,213 --> 00:12:36,107
+¿En qué trabajas?
+
+255
+00:12:36,141 --> 00:12:37,307
+Algo notable.
+
+256
+00:12:37,321 --> 00:12:40,477
+Ya que mis posibilidades para el premio
+Nóbel en física han desaparecido-
+
+257
+00:12:40,490 --> 00:12:42,035
+Muchas gracias.
+He decidido...
+
+258
+00:12:42,043 --> 00:12:45,029
+...reenfocar mis esfuerzos...
+
+259
+00:12:45,030 --> 00:12:48,015
+...y usar mis habilidades sociales para
+ganar el premio Nóbel de paz. Miren.
+
+260
+00:12:48,032 --> 00:12:49,968
+Voy a resolver la crisis
+del medio oriente...
+
+261
+00:12:49,969 --> 00:12:51,905
+...al construir una réplica
+exacta de Jerusalén...
+
+262
+00:12:51,922 --> 00:12:55,056
+...en la mitad del desierto mexicano.
+
+263
+00:12:55,520 --> 00:12:56,698
+¿Con qué fin?
+
+264
+00:12:56,712 --> 00:12:58,317
+Ya sabe, es como en
+la película de béisbol.
+
+265
+00:12:58,332 --> 00:13:00,835
+"Constrúyelo y ellos vendrán. "
+
+266
+00:13:01,790 --> 00:13:03,078
+¿Quienes vendrán?
+
+267
+00:13:03,091 --> 00:13:05,228
+La gente judía.
+
+268
+00:13:05,281 --> 00:13:06,517
+¿Qué pasa si no vienen?
+
+269
+00:13:06,532 --> 00:13:09,346
+Lo haremos agradable,
+pondremos un anuncio.
+
+270
+00:13:09,930 --> 00:13:11,931
+Correcto, bueno, hablando de anuncios...
+
+271
+00:13:12,051 --> 00:13:13,528
+...vamos a tener una pequeña
+fiesta de bienvenida...
+
+272
+00:13:13,529 --> 00:13:15,005
+...esta tarde para el señor Kim...
+
+273
+00:13:15,021 --> 00:13:17,208
+...quien accedió a unírsenos
+aquí en la universidad.
+
+274
+00:13:17,220 --> 00:13:19,058
+Desde luego que lo hizo.
+
+275
+00:13:19,082 --> 00:13:22,766
+El oráculo nos dijo que el
+pequeño Neo era el elegido.
+
+276
+00:13:24,343 --> 00:13:26,128
+Puedes ver la Matrix,
+¿no es así?
+
+277
+00:13:26,142 --> 00:13:31,247
+Correcto, bien, obviamente
+estás muy ocupado con tu-
+
+278
+00:13:31,262 --> 00:13:33,416
+Vamos, Dennis.
+
+279
+00:13:33,973 --> 00:13:35,527
+Tendrás que disculpar al Dr. Cooper.
+
+280
+00:13:35,553 --> 00:13:37,948
+Ha estado bajo mucha-
+
+281
+00:13:37,962 --> 00:13:40,225
+Está loco.
+
+282
+00:13:40,302 --> 00:13:45,548
+<i>Ay yay yay yay hava nagila</i>
+
+283
+00:13:46,123 --> 00:13:49,895
+<i>vendrán, se asentarán,
+y yo ganaré el premio</i>
+
+284
+00:13:51,632 --> 00:13:54,075
+Realmente no entiendo sus
+objeciones, profesor Goldfarb.
+
+285
+00:13:54,092 --> 00:13:57,714
+¿Por qué el desierto de Sonora no puede
+ser una excelente Tierra Prometida?
+
+286
+00:13:58,831 --> 00:14:00,858
+Lárgate.
+
+287
+00:14:01,662 --> 00:14:05,076
+Lo podríamos llamar
+"Nuevo Jerusalén".
+
+288
+00:14:05,091 --> 00:14:07,635
+Por favor, lárgate.
+
+289
+00:14:07,650 --> 00:14:10,667
+Le dijo el Faraón a Moisés.
+
+290
+00:14:11,211 --> 00:14:13,138
+¿Por qué están todas estas jóvenes aquí?
+
+291
+00:14:13,151 --> 00:14:15,715
+Es el día de lleva a tu hija al trabajo.
+
+292
+00:14:15,732 --> 00:14:17,436
+¿En serio? No estaba al tanto de eso.
+
+293
+00:14:17,450 --> 00:14:18,355
+Sí.
+
+294
+00:14:18,370 --> 00:14:21,105
+Hubo un correo electrónico
+oficial que fue enviado a todos...
+
+295
+00:14:21,122 --> 00:14:25,778
+...cuyos archivos de seguros indicaran
+que tenían hijas entre 14 y 16 años.
+
+296
+00:14:26,853 --> 00:14:29,006
+- Genial.
+- Gracias.
+
+297
+00:14:30,491 --> 00:14:33,446
+Ahí está el hombre del momento.
+
+298
+00:14:33,992 --> 00:14:37,096
+Bien, entonces tenemos a un genio
+socialmente torpe en una habitación...
+
+299
+00:14:37,112 --> 00:14:38,748
+...llena de mujeres
+atractivas de edad apropiada.
+
+300
+00:14:38,761 --> 00:14:41,747
+Todo lo que tiene que hacer ahora
+es conectar con una de ellas.
+
+301
+00:14:49,360 --> 00:14:52,698
+¿Alguien más ve la falla en este plan?
+
+302
+00:14:53,160 --> 00:14:55,635
+- Necesitamos un catalizador social.
+- ¿Como qué?
+
+303
+00:14:55,653 --> 00:14:58,755
+No podemos emborrachar
+a niñas de 15 años.
+
+304
+00:14:58,771 --> 00:15:01,248
+- ¿O sí que podemos?
+- No, no podemos.
+
+305
+00:15:01,833 --> 00:15:02,957
+No creo que quieras decir "no podemos".
+
+306
+00:15:02,992 --> 00:15:04,957
+Creo que quieres decir "no debemos".
+
+307
+00:15:04,971 --> 00:15:07,278
+Oye, Howard, tú eres judío.
+
+308
+00:15:07,723 --> 00:15:09,379
+Si hubiese otro Muro
+de las Lamentaciones...
+
+309
+00:15:09,380 --> 00:15:11,035
+...exactamente como el de Jerusalén...
+
+310
+00:15:11,061 --> 00:15:13,668
+...pero cercano a puestos de tacos
+y medicamentos recetados baratos...
+
+311
+00:15:13,680 --> 00:15:16,736
+...¿todavía podrías lamentarte en él?
+
+312
+00:15:17,841 --> 00:15:21,046
+De acuerdo, definitivamente soy yo.
+
+313
+00:15:22,283 --> 00:15:23,937
+Bien, no podemos dejar esto al azar.
+
+314
+00:15:23,953 --> 00:15:26,898
+Escojamos a una niña y averigüemos
+cómo juntarla con Dennis.
+
+315
+00:15:26,911 --> 00:15:30,357
+De acuerdo, ¿qué tal esa?
+
+316
+00:15:31,002 --> 00:15:31,755
+Conozco el tipo.
+
+317
+00:15:31,771 --> 00:15:34,087
+Animadora, consejo estudiantil,
+sale con los atletas...
+
+318
+00:15:34,111 --> 00:15:36,347
+...ni siquiera mirará
+a ningún superdotado.
+
+319
+00:15:36,362 --> 00:15:38,637
+Y si, tras dos años de suplicar,
+accede a salir contigo...
+
+320
+00:15:38,672 --> 00:15:39,945
+...resulta ser un
+montaje y tú estás en...
+
+321
+00:15:39,946 --> 00:15:41,218
+...el asiento trasero del coche
+de tu madre sin pantalones...
+
+322
+00:15:41,253 --> 00:15:44,116
+...mientras todo el equipo de
+fútbol americano se ríe de ti.
+
+323
+00:15:46,892 --> 00:15:47,938
+¿Estás llorando?
+
+324
+00:15:47,950 --> 00:15:50,676
+No, tengo alergia.
+
+325
+00:15:51,432 --> 00:15:54,936
+Bien, oigan, ¿qué tal ella?
+
+326
+00:15:55,632 --> 00:15:58,447
+Claro, si quiere pasar un par de
+años haciendo sus deberes...
+
+327
+00:15:58,472 --> 00:16:01,576
+...mientras ella se emborracha
+con un ruso blanco desnatado.
+
+328
+00:16:01,601 --> 00:16:04,518
+Y tú eres el que le sostiene la cabeza
+fuera del retrete mientras vomita...
+
+329
+00:16:04,540 --> 00:16:06,737
+...y te dice que desea
+"más chicos como tú".
+
+330
+00:16:06,760 --> 00:16:09,275
+Y entonces entra en Cornell
+porque escribiste un ensayo por ella...
+
+331
+00:16:09,313 --> 00:16:13,326
+...y conduces para visitarla un fin de
+semana y actúa como si ni te conociese.
+
+332
+00:16:16,203 --> 00:16:18,948
+Bien, entonces ella tampoco.
+
+333
+00:16:18,960 --> 00:16:21,085
+¿Qué tal ella?
+
+334
+00:16:21,101 --> 00:16:23,164
+Interesante, algo guapa,
+un poco gordita...
+
+335
+00:16:23,265 --> 00:16:25,228
+...así que probablemente
+baja autoestima.
+
+336
+00:16:25,253 --> 00:16:26,395
+Creo que esa es nuestra chica.
+
+337
+00:16:26,410 --> 00:16:28,195
+Uno de nosotros debería
+ir a hablar con ella.
+
+338
+00:16:28,212 --> 00:16:29,987
+Yo no puedo hablar con ella...
+Hazlo tú.
+
+339
+00:16:30,000 --> 00:16:32,238
+No puedo ir sin más y hablar con ella.
+
+340
+00:16:32,273 --> 00:16:34,348
+Howard, habla con ella.
+
+341
+00:16:34,363 --> 00:16:38,698
+No lo sé, no irá con el chico una
+vez que le eche una mirada a esto.
+
+342
+00:16:40,172 --> 00:16:41,825
+Si estuviésemos en la India,
+esto sería más simple.
+
+343
+00:16:41,861 --> 00:16:45,606
+Cinco minutos con su padre, 20 cabras y
+una computadora y habríamos acabado.
+
+344
+00:16:45,653 --> 00:16:47,066
+Bueno, no estamos en la India.
+
+345
+00:16:47,092 --> 00:16:49,075
+De acuerdo, ¿por qué no lo
+hacemos a tu manera entonces?
+
+346
+00:16:49,093 --> 00:16:50,254
+Nos aseguraremos de que esta niña...
+
+347
+00:16:50,255 --> 00:16:51,416
+...se mude al otro lado
+del pasillo de Dennis...
+
+348
+00:16:51,452 --> 00:16:54,878
+...para que pueda soñar patéticamente
+con ella durante meses.
+
+349
+00:16:56,380 --> 00:16:57,408
+Bien, eso no era necesario.
+
+350
+00:16:57,443 --> 00:16:59,706
+Tú empezaste, viejo.
+
+351
+00:17:00,351 --> 00:17:03,186
+¿Podrían todos prestarme
+atención, por favor?
+
+352
+00:17:03,213 --> 00:17:07,438
+Qué maravillosa ocasión es
+esta, y qué afortunado que...
+
+353
+00:17:07,451 --> 00:17:11,255
+...coincida con el
+"Día de llevar a su hija al trabajo".
+
+354
+00:17:11,270 --> 00:17:15,357
+Estamos aquí para recibir al Sr.
+Dennis Kim en nuestra pequeña familia.
+
+355
+00:17:15,390 --> 00:17:18,688
+Bienvenido, Dennis Kim.
+
+356
+00:17:18,703 --> 00:17:20,830
+El Sr. Kim no sólo fue el
+primero de su promoción...
+
+357
+00:17:20,831 --> 00:17:22,958
+...en la Universidad de Stanford...
+
+358
+00:17:23,002 --> 00:17:25,990
+...sino que también es
+el receptor más joven...
+
+359
+00:17:26,091 --> 00:17:28,178
+...del prestigioso premio Stevenson.
+
+360
+00:17:28,200 --> 00:17:31,638
+¡El más joven hasta que
+los cyborgs se subleven!
+
+361
+00:17:31,673 --> 00:17:33,627
+Y ahora, sin más preámbulos...
+
+362
+00:17:33,643 --> 00:17:38,696
+...permítanme presentarles al hombre
+del momento, el Sr. Dennis Kim.
+
+363
+00:17:40,513 --> 00:17:43,746
+¿Dennis? ¡Dennis!
+
+364
+00:17:43,761 --> 00:17:45,557
+¿Qué?
+
+365
+00:17:46,363 --> 00:17:49,377
+¿Te gustaría hablarnos un poco
+sobre tu próxima investigación?
+
+366
+00:17:49,393 --> 00:17:52,686
+No, gracias.
+Me voy al centro comercial con Emma.
+
+367
+00:17:57,842 --> 00:18:00,458
+El muchacho consiguió una chica.
+
+368
+00:18:00,472 --> 00:18:02,438
+Increíble.
+
+369
+00:18:02,452 --> 00:18:05,808
+¿Alguien vio cómo lo hizo?
+
+370
+00:18:06,603 --> 00:18:08,607
+No se preocupe, yo me ocupo.
+
+371
+00:18:08,622 --> 00:18:12,438
+Damas y caballeros, hijas honradas...
+
+372
+00:18:12,453 --> 00:18:15,915
+...mientras el Sr. Kim, en virtud
+de su juventud e ingenuidad...
+
+373
+00:18:15,931 --> 00:18:19,246
+...ha caído presa de la inexplicable
+necesidad por el contacto humano...
+
+374
+00:18:19,281 --> 00:18:20,854
+...permítanme intervenir
+y asegurarles que...
+
+375
+00:18:20,855 --> 00:18:23,227
+...mi investigación seguirá
+adelante ininterrumpidamente...
+
+376
+00:18:23,261 --> 00:18:24,804
+...y que las relaciones sociales...
+
+377
+00:18:24,805 --> 00:18:27,747
+...continuarán desconcertándome
+y repugnándome.
+
+378
+00:18:29,041 --> 00:18:31,126
+Gracias.
+
+379
+00:18:33,083 --> 00:18:33,785
+Ha vuelto.
+
+380
+00:18:33,811 --> 00:18:35,348
+Sí, misión cumplida.
+
+381
+00:18:35,370 --> 00:18:36,206
+Olviden la misión.
+
+382
+00:18:36,221 --> 00:18:39,377
+¿Cómo ese pequeño estúpido
+consiguió una chica por sí mismo?
+
+383
+00:18:39,390 --> 00:18:41,727
+Supongo que los tiempos han cambiado
+desde que éramos jóvenes.
+
+384
+00:18:41,751 --> 00:18:44,536
+Inteligente es el nuevo atractivo.
+
+385
+00:18:44,552 --> 00:18:46,097
+¿Entonces por qué vamos
+solos a casa cada noche?
+
+386
+00:18:46,130 --> 00:18:48,017
+Nosotros todavía somos inteligentes
+
+387
+00:18:48,050 --> 00:18:49,808
+Tal vez demasiado inteligentes.
+
+388
+00:18:49,820 --> 00:18:52,615
+Tan inteligentes que es desagradable.
+
+389
+00:18:52,970 --> 00:18:55,578
+Sí, aceptemos eso.
+
+390
+00:18:59,009 --> 00:19:00,342
+Increíble.
+
+391
+00:19:00,356 --> 00:19:02,974
+Los componentes que construí están
+en la Estación Espacial Internacional...
+
+392
+00:19:02,986 --> 00:19:05,943
+...y me ponen una multa por lanzar una
+maqueta de un cohete en el parque.
+
+393
+00:19:05,968 --> 00:19:07,970
+No sé si la multa era
+más por el lanzamiento...
+
+394
+00:19:07,971 --> 00:19:09,972
+...o por decirle a la policía...
+
+395
+00:19:09,989 --> 00:19:13,813
+..."Tiene que registrarme.
+Tengo otro cohete en los pantalones. "
+
+396
+00:19:13,827 --> 00:19:15,874
+Oigan, miren eso.
+
+397
+00:19:17,236 --> 00:19:19,382
+Es Dennis Kim.
+
+398
+00:19:19,397 --> 00:19:21,623
+Casi no lo reconozco.
+
+399
+00:19:21,636 --> 00:19:25,244
+¿Saben?, me siento algo
+mal por lo que le hicimos.
+
+400
+00:19:28,597 --> 00:19:31,802
+Sí, realmente arruinamos su vida.
+
+401
+00:19:32,397 --> 00:19:35,021
+Que se pudra.
+Era débil.
+
