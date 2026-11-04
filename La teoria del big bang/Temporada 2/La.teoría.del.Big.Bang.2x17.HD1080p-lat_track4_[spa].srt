@@ -1,0 +1,1557 @@
+﻿1
+00:00:02,759 --> 00:00:04,461
+Bien, Raj.
+
+2
+00:00:04,961 --> 00:00:07,361
+Alcánzame el destornillador con punta estrella número seis.
+
+3
+00:00:09,044 --> 00:00:10,145
+Detente.
+
+4
+00:00:11,312 --> 00:00:13,033
+No podemos hacerlo, no está bien.
+
+5
+00:00:13,250 --> 00:00:14,848
+Sheldon, tienes dos opciones.
+
+6
+00:00:15,288 --> 00:00:16,791
+O lo dejas ponerle un disco rígido más grande al TiVo...
+
+7
+00:00:16,791 --> 00:00:18,925
+...o borras algo antes de irnos de la ciudad.
+
+8
+00:00:18,925 --> 00:00:21,625
+Pero una vez que abras la caja, violas la garantía.
+
+9
+00:00:22,309 --> 00:00:23,377
+La garantía...
+
+10
+00:00:23,601 --> 00:00:26,255
+...es un pacto sagrado que tienes con el fabricante.
+
+11
+00:00:26,484 --> 00:00:28,210
+Él ofrece respaldar su artefacto...
+
+12
+00:00:28,210 --> 00:00:31,926
+...y nosotros acordamos no violar la integridad de su hardware interno.
+
+13
+00:00:31,926 --> 00:00:33,504
+Esta pequeña etiqueta naranja...
+
+14
+00:00:33,504 --> 00:00:36,650
+...es todo lo que nos separa de la anarquía.
+
+15
+00:00:38,510 --> 00:00:40,286
+Entonces no tocaremos el disco duro.
+
+16
+00:00:40,286 --> 00:00:43,090
+Simplemente borraremos la primera temporada de Battlestar.
+
+17
+00:00:45,254 --> 00:00:46,775
+Ahí está. Somos forajidos.
+
+18
+00:00:48,786 --> 00:00:50,320
+¿Es esto lo suficientemente grande?
+
+19
+00:00:50,320 --> 00:00:51,584
+Es perfecto.
+
+20
+00:00:54,809 --> 00:00:57,291
+Para llevarle narcisos a tu unicornio.
+
+21
+00:00:59,305 --> 00:01:01,361
+Es sólo para mis cuadernos. Gracias, Penny.
+
+22
+00:01:01,361 --> 00:01:04,001
+Amo San Francisco. Quisiera ir con ustedes.
+
+23
+00:01:04,299 --> 00:01:07,678
+Entiendo tu envidia. Este es un simposio que no se puede perder.
+
+24
+00:01:07,678 --> 00:01:11,602
+Habrá discusiones sobre dispositivos de computadora bioorgánicas celulares...
+
+25
+00:01:11,602 --> 00:01:14,162
+...los avances en compleción de tareas múltiples...
+
+26
+00:01:14,162 --> 00:01:16,898
+...además de una mesa redonda sobre el no equilibrio...
+
+27
+00:01:16,898 --> 00:01:20,183
+...del enfoque de la función de Green al proceso de fotoionización en átomos.
+
+28
+00:01:21,449 --> 00:01:24,535
+Cuando voy yo, generalmente me embriago y viajo en teleféricos.
+
+29
+00:01:25,315 --> 00:01:26,982
+Esta conferencia es una gran cosa.
+
+30
+00:01:26,982 --> 00:01:29,526
+La disertación principal será de George Smoot.
+
+31
+00:01:30,068 --> 00:01:31,862
+Dios mío, ¿el George Smoot?
+
+32
+00:01:32,190 --> 00:01:34,718
+- ¿Escuchaste de él?
+- Claro que no.
+
+33
+00:01:36,128 --> 00:01:38,876
+George Smoot es un físico ganador del premio Nobel.
+
+34
+00:01:38,876 --> 00:01:41,080
+Una de las grandes mentes de nuestro tiempo.
+
+35
+00:01:41,080 --> 00:01:43,681
+Su trabajo en la forma de cuerpo negro y la anisotropía...
+
+36
+00:01:43,681 --> 00:01:45,809
+...de la radiación del entorno de las microondas cósmicas...
+
+37
+00:01:45,809 --> 00:01:49,129
+...consolidó nuestro entendimiento del origen del universo.
+
+38
+00:01:49,362 --> 00:01:52,112
+Tiene un nombre gracioso. "Smoot. "
+
+39
+00:01:56,106 --> 00:01:57,638
+Es como hablar con un chimpancé.
+
+40
+00:01:59,483 --> 00:02:02,392
+Ahora que he sido completamente insultada, tengan un buen vuelo.
+
+41
+00:02:02,392 --> 00:02:03,644
+Ya quisiera.
+
+42
+00:02:03,644 --> 00:02:05,687
+No volaremos, iremos en tren.
+
+43
+00:02:05,687 --> 00:02:07,856
+- Genial.
+- Sí, genial.
+
+44
+00:02:08,321 --> 00:02:11,818
+Siete veces más largo que volar, y cuesta casi el doble.
+
+45
+00:02:13,197 --> 00:02:15,780
+- ¿Entonces por qué lo hacen?
+- Tuvimos una votación.
+
+46
+00:02:15,780 --> 00:02:18,241
+Nosotros tres votamos por el avión. Sheldon votó por el tren.
+
+47
+00:02:18,241 --> 00:02:20,210
+Así que tomaremos el tren.
+
+48
+00:02:21,894 --> 00:02:23,705
+No lo digas así. Dilo así...
+
+49
+00:02:23,954 --> 00:02:25,704
+..."¡Tomaremos el tren!"
+
+50
+00:02:53,362 --> 00:02:55,038
+Vamos a ir al negocio de Apple...
+
+51
+00:02:55,038 --> 00:02:57,862
+...a burlarnos de los tipos en la barra de genios. ¿Quieres venir?
+
+52
+00:02:58,512 --> 00:03:01,138
+Siempre disfruto eso, pero estoy un poco ocupado.
+
+53
+00:03:01,138 --> 00:03:02,431
+¿Qué estás haciendo?
+
+54
+00:03:02,431 --> 00:03:04,809
+Simplificando la tarea de empacar para nuestro viaje.
+
+55
+00:03:04,809 --> 00:03:07,373
+Veras, estoy sujetando etiquetas RFID a mi ropa...
+
+56
+00:03:07,373 --> 00:03:08,950
+...que permitirán a mi laptop...
+
+57
+00:03:08,950 --> 00:03:11,189
+...leerlas e identificar los elementos con este lector.
+
+58
+00:03:11,189 --> 00:03:13,792
+Luego los confrontaré con la destinación...
+
+59
+00:03:13,792 --> 00:03:15,500
+...espectro anticipado de actividades...
+
+60
+00:03:15,500 --> 00:03:18,575
+...condiciones climáticas, duración del viaje, etcétera.
+
+61
+00:03:21,612 --> 00:03:23,578
+Eso sí que suena mucho más simple.
+
+62
+00:03:25,372 --> 00:03:26,833
+¿Cuánto tiempo te tomará?
+
+63
+00:03:26,833 --> 00:03:29,473
+Asumiendo que puedo continuar con este ritmo, 3 horas, 11 minutos.
+
+64
+00:03:29,473 --> 00:03:33,392
+Además de cuanto dure terminar esta conversación sin sentido.
+
+65
+00:03:36,067 --> 00:03:39,176
+Burlar a los tipos del negocio de Apple ahora parece un poco redundante.
+
+66
+00:03:39,176 --> 00:03:41,888
+- No te sigo.
+- No lo esperaba. Nos vemos.
+
+67
+00:03:46,259 --> 00:03:48,023
+Medias: un par...
+
+68
+00:03:48,790 --> 00:03:51,057
+...algodón, a cuadros, azules.
+
+69
+00:03:55,544 --> 00:03:57,308
+Medias: un par...
+
+70
+00:03:57,878 --> 00:04:00,122
+...algodón, a cuadros, azules.
+
+71
+00:04:05,189 --> 00:04:06,746
+¿Qué estás haciendo?
+
+72
+00:04:07,682 --> 00:04:10,333
+Lo que sea, supongo que lo estamos haciendo mal.
+
+73
+00:04:10,615 --> 00:04:14,211
+Caballeros, este es el Coast Starlight...
+
+74
+00:04:14,211 --> 00:04:16,203
+...uno de los grandes trenes estadounidenses...
+
+75
+00:04:16,455 --> 00:04:19,133
+...operando en una de las clásicas rutas estadounidenses.
+
+76
+00:04:19,133 --> 00:04:22,136
+De este lado, tendrán vistas panorámicas del océano...
+
+77
+00:04:22,136 --> 00:04:24,791
+...inaccesibles desde cualquier otra forma de transporte...
+
+78
+00:04:25,265 --> 00:04:28,559
+...mientras que de este lado, tendrán más de 550 kilómetros...
+
+79
+00:04:28,559 --> 00:04:30,180
+...de negocios sin sentido...
+
+80
+00:04:30,180 --> 00:04:32,463
+...y casas prefabricadas con piscinas de material.
+
+81
+00:04:35,097 --> 00:04:37,234
+- Vamos, Raj.
+- ¿Cuál es el problema con los negocios?
+
+82
+00:04:41,607 --> 00:04:43,829
+- ¿Por qué no?
+- Está sobre la base de la rueda.
+
+83
+00:04:43,829 --> 00:04:48,052
+¿No conoces nada de las características de suspensión de un...
+
+84
+00:04:48,052 --> 00:04:51,217
+...Superliner Deluxe para pasajeros con pullman de la era pre-1980?
+
+85
+00:04:51,917 --> 00:04:53,611
+Hemos estado en el tren 90 segundos...
+
+86
+00:04:53,611 --> 00:04:56,020
+...y ya has dicho más de mil palabras.
+
+87
+00:04:56,020 --> 00:04:58,756
+Sólo dinos dónde sentarnos y cállate.
+
+88
+00:05:01,068 --> 00:05:02,068
+Aquí.
+
+89
+00:05:02,568 --> 00:05:05,187
+Espero que cuando obtengan la recompensa de endorfinas...
+
+90
+00:05:05,187 --> 00:05:08,500
+...del traqueteo constante de las ruedas de acero en rieles pulidos...
+
+91
+00:05:08,500 --> 00:05:11,560
+- ... su amarga disposición se aplaque.
+- Sí, quizás.
+
+92
+00:05:12,054 --> 00:05:15,114
+Mientras tanto, en el siglo XXI, las personas levantan sus mesas...
+
+93
+00:05:15,114 --> 00:05:17,270
+...y ponen sus asientos en posición vertical.
+
+94
+00:05:17,270 --> 00:05:19,855
+Porque es hora de aterrizar en San Francisco.
+
+95
+00:05:20,611 --> 00:05:23,859
+En realidad no está tan mal. Al menos estos trenes tienen fontanería moderna.
+
+96
+00:05:23,859 --> 00:05:26,299
+En India, te acuclillas sobre un agujero en el tren...
+
+97
+00:05:26,299 --> 00:05:29,524
+...y expones tus nalgas desnudas al frío aire de Rajastán.
+
+98
+00:05:30,248 --> 00:05:33,413
+Se refiere, por supuesto, a la tercera clase de Ferrocarriles Indios...
+
+99
+00:05:33,413 --> 00:05:37,021
+...del magnífico Expreso Ranakpur y su viaje de 1.200 kilómetros...
+
+100
+00:05:37,021 --> 00:05:39,821
+...desde Maharashtra a la Salida de Bikaner.
+
+101
+00:05:40,094 --> 00:05:42,842
+Mira, ahora nos aburre a escala internacional.
+
+102
+00:05:44,961 --> 00:05:46,682
+¡Cielos! ¡Mira!
+
+103
+00:05:48,765 --> 00:05:51,058
+- ¿Es ella quien creo que es?
+- No puede ser.
+
+104
+00:05:51,058 --> 00:05:53,644
+¿Qué podría estar haciendo Summer Glau tomando el tren?
+
+105
+00:05:53,890 --> 00:05:55,250
+Tal vez John Connor está abordo...
+
+106
+00:05:55,250 --> 00:05:57,321
+...y lo está protegiendo de un malvado Terminator.
+
+107
+00:05:58,513 --> 00:06:00,713
+Poco probable. Eso es un show de televisión.
+
+108
+00:06:01,694 --> 00:06:02,694
+Gracias.
+
+109
+00:06:03,543 --> 00:06:05,837
+Por supuesto, si SkyNet en realidad existiera en el futuro...
+
+110
+00:06:05,837 --> 00:06:08,375
+...una perfecta forma de infiltrar y destruir a la humanidad...
+
+111
+00:06:08,375 --> 00:06:10,736
+...podría ser enviando Terminators al pasado como si fueran actores...
+
+112
+00:06:10,736 --> 00:06:12,200
+...quienes hayan actuado como Terminators...
+
+113
+00:06:12,200 --> 00:06:13,539
+...en películas populares y shows de televisión...
+
+114
+00:06:13,539 --> 00:06:15,758
+...haciéndonos sentir un falso sentimiento de seguridad...
+
+115
+00:06:15,758 --> 00:06:18,767
+...por ejemplo: "Esa es Summer Glau de The Sarah Connor Chronicles. "
+
+116
+00:06:18,767 --> 00:06:21,655
+"¡No, Summer, no me mates! ¡Yo apoyo a los robots!"
+
+117
+00:06:24,924 --> 00:06:27,011
+Por lo menos ya dejó de hablar de trenes.
+
+118
+00:06:32,107 --> 00:06:35,666
+Te debo una disculpa. ¡Tomar el tren fue brillante!
+
+119
+00:06:35,666 --> 00:06:37,980
+¡Tengo una oportunidad con una Terminator!
+
+120
+00:06:38,249 --> 00:06:39,976
+Por favor. Si hablamos de Terminators...
+
+121
+00:06:39,976 --> 00:06:43,527
+...tienes una mejor oportunidad de anotar con Arnold Schwarzenegger.
+
+122
+00:06:44,777 --> 00:06:46,375
+No te estás dando cuenta de algo.
+
+123
+00:06:46,375 --> 00:06:50,480
+Tengo once horas con ella en un espacio confinado.
+
+124
+00:06:51,460 --> 00:06:53,708
+A no ser que quiera saltar de un tren en movimiento...
+
+125
+00:06:53,708 --> 00:06:55,669
+...agacharse y rodar colina abajo...
+
+126
+00:06:55,669 --> 00:06:59,444
+...al final sucumbirá al gusto adquirido...
+
+127
+00:06:59,444 --> 00:07:01,668
+...que es Howard Wolowitz.
+
+128
+00:07:04,926 --> 00:07:06,759
+Apuesto a que se agacha y rueda.
+
+129
+00:07:07,685 --> 00:07:09,947
+Estoy confundido. Yo creía que estabas involucrado...
+
+130
+00:07:09,947 --> 00:07:12,598
+...en algún tipo de vinculación social íntima con Leslie Winkle.
+
+131
+00:07:14,002 --> 00:07:17,188
+- Déjame explicarte como funciona esto.
+- De acuerdo.
+
+132
+00:07:17,869 --> 00:07:19,146
+Esa es Summer Glau.
+
+133
+00:07:21,052 --> 00:07:22,052
+Eso es todo.
+
+134
+00:07:23,755 --> 00:07:25,986
+Espera un segundo. ¿Por qué tienes la primera oportunidad con ella?
+
+135
+00:07:26,613 --> 00:07:27,962
+Veamos, un par de razones.
+
+136
+00:07:27,962 --> 00:07:30,991
+- Uno, la vi primero.
+- No, no lo hiciste. La vi yo.
+
+137
+00:07:31,991 --> 00:07:34,850
+De acuerdo. Entonces, déjame decirte la segunda.
+
+138
+00:07:34,850 --> 00:07:38,249
+A diferencia de ti, yo puedo hablar con las mujeres estando sobrio.
+
+139
+00:07:38,540 --> 00:07:40,790
+No has tomado en cuenta que aun mudo...
+
+140
+00:07:40,790 --> 00:07:42,737
+...soy extranjero y exótico...
+
+141
+00:07:42,737 --> 00:07:45,912
+...mientras que tú, por otra parte, eres pálido y frágil.
+
+142
+00:07:48,032 --> 00:07:49,652
+Ya conoces el viejo dicho...
+
+143
+00:07:49,652 --> 00:07:52,262
+..."Frágil y pálido nunca falla. "
+
+144
+00:07:56,101 --> 00:07:59,103
+Disculpen, ¿pero qué hay de mí? ¿Por qué yo no puedo intentar?
+
+145
+00:07:59,577 --> 00:08:00,827
+De acuerdo, ve.
+
+146
+00:08:01,189 --> 00:08:02,360
+Inténtalo.
+
+147
+00:08:04,321 --> 00:08:07,069
+En realidad ya tengo una hermosa rubia en casa con la que no puedo anotar.
+
+148
+00:08:07,069 --> 00:08:08,988
+Creo que dejaré que ustedes tomen a esta.
+
+149
+00:08:09,495 --> 00:08:11,824
+Sheldon, ¿hay algún lugar donde haya alcohol?
+
+150
+00:08:11,824 --> 00:08:13,371
+Es interesante que preguntes.
+
+151
+00:08:13,371 --> 00:08:16,922
+El Coast Starlight recientemente añadió el reformado vagón Pacific Parlour.
+
+152
+00:08:16,922 --> 00:08:19,299
+Construido en 1956 y conocido originalmente...
+
+153
+00:08:19,299 --> 00:08:20,449
+...como Vagón Santa Fe Lounge...
+
+154
+00:08:20,449 --> 00:08:22,297
+- ... el nivel inferior es-
+- Sí, sí, ¿por dónde?
+
+155
+00:08:22,554 --> 00:08:26,232
+Arriba hay un bar que ofrece pruebas de vino si vas hasta Portland.
+
+156
+00:08:27,674 --> 00:08:30,235
+- ¿Entonces no le vas a hablar?
+- Lo haré, nada más estoy...
+
+157
+00:08:30,235 --> 00:08:31,855
+...trabajando en mi frase inicial.
+
+158
+00:08:31,855 --> 00:08:33,987
+Probablemente ella ya ha escuchado todas las frases iniciales que existen.
+
+159
+00:08:33,987 --> 00:08:35,597
+¿Por qué no solo intentas decir "hola"?
+
+160
+00:08:35,597 --> 00:08:37,975
+No, no, eso siempre aleja a las chicas.
+
+161
+00:08:38,829 --> 00:08:41,144
+Necesito empezar con algo que sea gracioso...
+
+162
+00:08:41,144 --> 00:08:44,848
+...inteligente y que delicadamente sugiera que mi dotación sexual...
+
+163
+00:08:44,848 --> 00:08:47,318
+...es desproporcionada a mi estatura física.
+
+164
+00:08:48,562 --> 00:08:51,112
+Vas a necesitar más de 11 horas.
+
+165
+00:08:52,240 --> 00:08:54,033
+- No.
+- ¿Qué pasa?
+
+166
+00:08:54,399 --> 00:08:56,660
+- Olvidé mi memoria flash.
+- ¿Y?
+
+167
+00:08:56,660 --> 00:08:58,162
+Tenemos que volver.
+
+168
+00:08:58,770 --> 00:09:00,827
+De acuerdo, yo voy a decir "por qué"...
+
+169
+00:09:00,827 --> 00:09:04,502
+...y tu respuesta no puede ser "porque olvidé mi memoria flash".
+
+170
+00:09:05,368 --> 00:09:06,555
+No lo entiendes.
+
+171
+00:09:06,555 --> 00:09:09,231
+Mi memoria flash tiene mi artículo sobre las sondas astrofísicas...
+
+172
+00:09:09,231 --> 00:09:11,261
+...de los efectos de la teoría-M en el universo temprano...
+
+173
+00:09:11,261 --> 00:09:13,927
+...que iba a entregar a George Smoot en la conferencia.
+
+174
+00:09:13,927 --> 00:09:16,263
+¿Por qué necesitas entregar tu artículo a George Smoot?
+
+175
+00:09:17,251 --> 00:09:19,601
+Es brillante. Él necesita leerlo.
+
+176
+00:09:20,887 --> 00:09:23,240
+Entonces envíale un correo electrónico cuando volvamos.
+
+177
+00:09:23,688 --> 00:09:26,189
+Entonces no podré ver su cara iluminarse cuando lo lea.
+
+178
+00:09:26,611 --> 00:09:29,668
+- Cierto. Por supuesto.
+- Este es un desastre absoluto.
+
+179
+00:09:29,668 --> 00:09:32,289
+No hay nada que puedas hacer al respecto, así que relájate.
+
+180
+00:09:32,289 --> 00:09:34,586
+Siéntate, disfruta el traqueteo...
+
+181
+00:09:34,586 --> 00:09:36,617
+...de las ruedas de acero en rieles pulidos.
+
+182
+00:09:41,357 --> 00:09:44,977
+Olvidaste tu memoria flash, olvidaste tu memoria flash...
+
+183
+00:09:48,825 --> 00:09:51,340
+Solo faltan 10 horas y 55 minutos.
+
+184
+00:10:02,747 --> 00:10:04,746
+Hace calor aquí. Debe ser el verano.
+
+185
+00:10:17,771 --> 00:10:19,678
+Entonces, ¿a dónde van chicas?
+
+186
+00:10:21,310 --> 00:10:23,427
+De acuerdo, he encontrado la solución perfecta.
+
+187
+00:10:23,427 --> 00:10:25,810
+Bajamos del tren en la siguiente parada en Oxnard.
+
+188
+00:10:25,810 --> 00:10:29,159
+Luego tomamos el tren de la 1:13 pm. de vuelta a Union Station.
+
+189
+00:10:29,159 --> 00:10:31,697
+Tomamos un taxi al apartamento, tomo mi memoria flash...
+
+190
+00:10:31,697 --> 00:10:33,425
+...y luego corremos a San Luis Obispo...
+
+191
+00:10:33,425 --> 00:10:35,028
+...donde, asumiendo que los semáforos nos ayuden...
+
+192
+00:10:35,028 --> 00:10:37,274
+...y un tráfico mínimo, nos encontraremos con el tren.
+
+193
+00:10:37,274 --> 00:10:40,764
+- Tengo una idea mejor.
+- ¿Vas a ser sarcástico?
+
+194
+00:10:41,361 --> 00:10:43,048
+Ya le sacaste toda la diversión.
+
+195
+00:10:44,501 --> 00:10:47,367
+Penny está en su casa. ¿Por qué no la llamamos, que vaya al apartamento...
+
+196
+00:10:47,367 --> 00:10:49,513
+...que tome tu memoria y te envíe el trabajo por e-mail?
+
+197
+00:10:49,513 --> 00:10:52,349
+Pero la memoria está dentro de un cajón cerrado con llave en mi escritorio.
+
+198
+00:10:52,349 --> 00:10:54,518
+- ¿Y?
+- La llave está escondida en mi cuarto.
+
+199
+00:10:54,518 --> 00:10:56,562
+- ¿Y?
+- Penny tendría que entrar en mi cuarto.
+
+200
+00:10:56,562 --> 00:10:58,890
+- ¿Y?
+- La gente no entra a mi cuarto.
+
+201
+00:11:00,125 --> 00:11:02,189
+Ya veo, otra vez parece que...
+
+202
+00:11:02,189 --> 00:11:04,923
+...estás atrapado entre una roca y un lugar descabellado.
+
+203
+00:11:07,375 --> 00:11:08,907
+Odio cuando eso sucede.
+
+204
+00:11:11,188 --> 00:11:12,877
+Hace calor aquí, debe ser el verano.
+
+205
+00:11:12,877 --> 00:11:14,872
+Hace calor aquí, debe ser el verano.
+
+206
+00:11:16,719 --> 00:11:18,703
+Hace calor aquí, debe ser el verano.
+
+207
+00:11:20,690 --> 00:11:23,130
+- Es hermoso.
+- ¿En serio? Acabo de inventarlo.
+
+208
+00:11:25,050 --> 00:11:27,043
+¿Has visto "Slumdog Millionaire"?
+
+209
+00:11:28,238 --> 00:11:29,303
+Sí, me encantó.
+
+210
+00:11:29,303 --> 00:11:31,305
+Está indirectamente basada en mi vida.
+
+211
+00:11:35,127 --> 00:11:38,253
+Presentaremos esta obra por única vez en un teatro de 99 sillas.
+
+212
+00:11:38,253 --> 00:11:39,378
+¿Puedes venir?
+
+213
+00:11:39,378 --> 00:11:40,440
+Genial.
+
+214
+00:11:40,817 --> 00:11:43,571
+¿Conoces a otras 98 personas que quieran venir?
+
+215
+00:11:44,191 --> 00:11:45,191
+Espera.
+
+216
+00:11:46,404 --> 00:11:48,206
+Escucha con cuidado. Estoy por darte...
+
+217
+00:11:48,206 --> 00:11:50,926
+...un conjunto de instrucciones que debes seguir al pie de la letra.
+
+218
+00:11:50,926 --> 00:11:52,138
+Espera un segundo.
+
+219
+00:11:52,718 --> 00:11:55,255
+El teatro está debajo de una cancha de bolos, así que es un poco ruidoso...
+
+220
+00:11:55,255 --> 00:11:58,408
+...pero tal vez sea la única oportunidad que tengo de interpretar a Anne Frank.
+
+221
+00:12:00,144 --> 00:12:01,656
+Y el director es brillante.
+
+222
+00:12:01,656 --> 00:12:04,603
+Utiliza los ruidos de bolos como artillería Nazi.
+
+223
+00:12:05,309 --> 00:12:06,715
+Genial, nos vemos allí.
+
+224
+00:12:07,461 --> 00:12:09,290
+<i>- ¿Hola?
+- De acuerdo, paso cuatro.</i>
+
+225
+00:12:10,930 --> 00:12:13,972
+¿Ves esa cajita de plástico en mi vestidor?
+
+226
+00:12:14,426 --> 00:12:15,933
+¿Tú vestidor? ¿Quién habla?
+
+227
+00:12:16,738 --> 00:12:19,102
+<i>- Soy Sheldon.
+- ¡Hola, Sheldon!</i>
+
+228
+00:12:19,102 --> 00:12:22,053
+- ¿Cómo está San Francisco?
+- No estoy en San Francisco.
+
+229
+00:12:22,053 --> 00:12:24,691
+Estoy en un tren. ¿Estabas escuchándome?
+
+230
+00:12:24,691 --> 00:12:26,700
+No, hablaba con mi amigo, pero, ¿qué pasa?
+
+231
+00:12:26,903 --> 00:12:28,615
+¿Qué pasa? Te diré lo que pasa.
+
+232
+00:12:28,615 --> 00:12:31,486
+Estoy en una crisis, necesito que reúnas...
+
+233
+00:12:31,486 --> 00:12:34,159
+...tus poderes de concentración, limitados tal cual son-
+
+234
+00:12:34,159 --> 00:12:35,675
+Dame el teléfono.
+
+235
+00:12:37,521 --> 00:12:39,414
+<i>- Hola, Penny. Soy Leonard.
+- Hola, Leonard.</i>
+
+236
+00:12:39,414 --> 00:12:41,601
+¿Qué sucede con el Dr. Chiflado?
+
+237
+00:12:42,990 --> 00:12:44,691
+Llamó para pedirte un favor.
+
+238
+00:12:44,691 --> 00:12:47,108
+Te debes haber confundido porque no utilizó ninguna de la palabras...
+
+239
+00:12:47,108 --> 00:12:49,633
+"Penny", "Sheldon," "por favor", o "favor. "
+
+240
+00:12:51,052 --> 00:12:53,345
+Suficiente palabrerío. De acuerdo, paso uno.
+
+241
+00:12:53,803 --> 00:12:55,889
+Localiza la llave de emergencia de nuestro departamento.
+
+242
+00:12:55,889 --> 00:12:57,231
+<i>Paso dos:</i>
+
+243
+00:12:57,465 --> 00:12:59,040
+...ingresa a nuestro departamento.
+
+244
+00:12:59,040 --> 00:13:02,866
+Paso tres: entra en mi cuarto.
+
+245
+00:13:03,495 --> 00:13:06,275
+<i>- Paso cuatro...
+- Espera, contestaré otra llamada.</i>
+
+246
+00:13:07,808 --> 00:13:08,932
+Permíteme decirte algo.
+
+247
+00:13:08,932 --> 00:13:11,637
+Los robots personales no podrían tardar más en llegar.
+
+248
+00:13:14,674 --> 00:13:16,270
+Y esa estrellita brillante...
+
+249
+00:13:16,270 --> 00:13:18,411
+...que asomó su cabeza hace unos minutos...
+
+250
+00:13:18,700 --> 00:13:19,807
+...es Venus.
+
+251
+00:13:20,864 --> 00:13:22,040
+Eso es grandioso.
+
+252
+00:13:22,906 --> 00:13:25,432
+- Realmente sabes mucho del espacio.
+- ¡Vamos!
+
+253
+00:13:25,432 --> 00:13:27,715
+Cuando estabas en TV en Firefly...
+
+254
+00:13:27,715 --> 00:13:29,843
+...realmente estabas en el espacio.
+
+255
+00:13:31,203 --> 00:13:33,952
+No eres uno de esos que se lo creyeron, ¿verdad?
+
+256
+00:13:33,952 --> 00:13:36,431
+¿Quieres decir uno de esos irremediables bichos raros?
+
+257
+00:13:37,453 --> 00:13:38,807
+Son personas muy locas.
+
+258
+00:13:42,020 --> 00:13:44,893
+Howard, sé gentil y alcánzame otra de éstas.
+
+259
+00:13:50,528 --> 00:13:52,842
+Él es uno de esos.
+
+260
+00:13:54,872 --> 00:13:57,359
+De acuerdo, antes de que entres en mi cuarto, sola...
+
+261
+00:13:57,359 --> 00:14:00,558
+...tienes que entender que este único permiso de acceso...
+
+262
+00:14:00,558 --> 00:14:03,004
+...no dará lugar a una servidumbre permanente.
+
+263
+00:14:04,609 --> 00:14:05,625
+Servidumbre.
+
+264
+00:14:07,545 --> 00:14:10,459
+Es el derecho real de paso por propiedad ajena. Dios santo.
+
+265
+00:14:12,371 --> 00:14:14,301
+¿Qué? No, no me pongas en espera.
+
+266
+00:14:17,505 --> 00:14:18,778
+¿Puedes creerlo?
+
+267
+00:14:19,200 --> 00:14:21,237
+Generalmente, frente a las mujeres tiene la personalidad...
+
+268
+00:14:21,237 --> 00:14:22,937
+...de una patata hervida.
+
+269
+00:14:23,811 --> 00:14:26,730
+Pero si le das una cerveza, se convierte en M. Night Charmalarmalon.
+
+270
+00:14:30,558 --> 00:14:32,778
+¿Eso es lo que toma? Ni siquiera es cerveza de verdad.
+
+271
+00:14:33,125 --> 00:14:34,154
+- ¿Qué?
+- Mira.
+
+272
+00:14:35,064 --> 00:14:36,470
+"Cerveza sin alcohol. "
+
+273
+00:14:38,874 --> 00:14:40,811
+- ¿Qué sucede?
+- No lo sé.
+
+274
+00:14:40,811 --> 00:14:43,413
+Un "efecto placebo", supongo.
+
+275
+00:14:44,294 --> 00:14:46,122
+Placebo, dices.
+
+276
+00:14:46,122 --> 00:14:47,395
+Interesante.
+
+277
+00:14:49,087 --> 00:14:51,365
+Sí, aún estoy aquí. ¿A dónde voy a ir? Estoy en un tren.
+
+278
+00:14:51,365 --> 00:14:53,340
+Ahora, lo que buscarás...
+
+279
+00:14:53,340 --> 00:14:57,061
+...es una pequeña caja que se encuentra entre la esfera de Hoberman...
+
+280
+00:14:57,061 --> 00:14:59,669
+...y una muestra de cuarzo bañado en pirita magnética.
+
+281
+00:15:00,620 --> 00:15:02,023
+La esfera de Hoberman.
+
+282
+00:15:02,334 --> 00:15:04,780
+Es un icosidodecaedro plegable.
+
+283
+00:15:06,501 --> 00:15:09,028
+No, esa cosa con la hora estampada es mi reloj despertador.
+
+284
+00:15:12,564 --> 00:15:15,695
+De hecho, en India, las constelaciones se llaman diferente.
+
+285
+00:15:16,069 --> 00:15:17,816
+Donde ellos tienen la Osa Mayor...
+
+286
+00:15:17,816 --> 00:15:19,794
+...nosotros tenemos la Olla de Curry Mayor.
+
+287
+00:15:21,520 --> 00:15:23,126
+Lo estás inventando.
+
+288
+00:15:23,126 --> 00:15:24,251
+Me atrapaste.
+
+289
+00:15:25,127 --> 00:15:27,102
+¿Ahora qué vas a hacer conmigo?
+
+290
+00:15:31,413 --> 00:15:32,958
+- Raj.
+- ¿Sí?
+
+291
+00:15:32,958 --> 00:15:34,078
+Mira.
+
+292
+00:15:34,078 --> 00:15:35,590
+- ¿Qué estoy viendo?
+- Tú dime.
+
+293
+00:15:36,376 --> 00:15:38,413
+"Cerveza sin alcohol".
+
+294
+00:15:46,561 --> 00:15:49,768
+Hola, soy el pequeño paquete donde vienen las cosas buenas.
+
+295
+00:15:53,522 --> 00:15:54,567
+Está bien, tengo la caja...
+
+296
+00:15:54,567 --> 00:15:56,987
+...pero no hay ninguna llave, solo cartas.
+
+297
+00:15:56,987 --> 00:15:58,780
+Es la caja equivocada, ponla donde estaba.
+
+298
+00:15:59,680 --> 00:16:01,700
+Sheldon, ¿son cartas de tu abuela?
+
+299
+00:16:01,700 --> 00:16:03,285
+¡No leas las cartas!
+
+300
+00:16:03,707 --> 00:16:06,579
+Mira, te llama "Pastelillo" Es lindo.
+
+301
+00:16:06,579 --> 00:16:08,174
+¡Deja las cartas!
+
+302
+00:16:12,084 --> 00:16:13,402
+Hola, Penny. Soy Leonard.
+
+303
+00:16:13,797 --> 00:16:16,525
+- Leonard, ¿qué tal el paseo en tren?
+- Exquisito.
+
+304
+00:16:17,801 --> 00:16:19,164
+No sé qué estás haciendo...
+
+305
+00:16:19,164 --> 00:16:22,304
+...pero hay burbujas formándose en las comisuras de la boca de Sheldon.
+
+306
+00:16:22,981 --> 00:16:25,348
+Sí, creo que crucé la línea. Pásamelo.
+
+307
+00:16:25,348 --> 00:16:26,583
+Gracias.
+
+308
+00:16:28,143 --> 00:16:30,146
+- Estoy de vuelta.
+- ¿Qué tal, Pastelillo?
+
+309
+00:16:31,610 --> 00:16:34,043
+¡Nadie me llama Pastelillo más que mi abuela!
+
+310
+00:16:36,587 --> 00:16:38,249
+Oye, Penny. Leonard otra vez.
+
+311
+00:16:40,585 --> 00:16:43,867
+En mi sueño, tú y yo estamos patinando sobre hielo, sólo los dos.
+
+312
+00:16:44,272 --> 00:16:46,703
+Entonces, te levanto por tus tobillos...
+
+313
+00:16:47,205 --> 00:16:50,874
+...y comienzo a darte vueltas hasta que tus piernas se desprenden.
+
+314
+00:16:53,024 --> 00:16:55,170
+Trato de volverlas a poner...
+
+315
+00:16:55,170 --> 00:16:56,648
+...pero antes de lograrlo...
+
+316
+00:16:56,648 --> 00:17:00,475
+...te conviertes en una barra gigante de pan Pumpernickel.
+
+317
+00:17:01,526 --> 00:17:02,969
+¿Qué crees que signifique?
+
+318
+00:17:04,525 --> 00:17:06,025
+Realmente no sé.
+
+319
+00:17:08,005 --> 00:17:09,315
+Te daré una pista.
+
+320
+00:17:09,315 --> 00:17:12,049
+¿Mi sándwich favorito? Es con salame en pan Pumpernickel.
+
+321
+00:17:13,776 --> 00:17:14,856
+¿De verdad?
+
+322
+00:17:16,036 --> 00:17:17,413
+¿Sabías que la palabra "Pumpernickel"...
+
+323
+00:17:17,413 --> 00:17:19,696
+...viene del alemán "pumper" y "nickel"...
+
+324
+00:17:19,696 --> 00:17:22,023
+...que vagamente se traduce como "duende flatulento"?
+
+325
+00:17:24,425 --> 00:17:26,433
+No. No sabía.
+
+326
+00:17:30,025 --> 00:17:31,748
+Bien, encontré la caja, ¿ahora qué?
+
+327
+00:17:32,028 --> 00:17:35,210
+Tienes una caja-rompecabezas japonesa, que toma...
+
+328
+00:17:35,210 --> 00:17:37,420
+...diez movimientos precisos para abrirla.
+
+329
+00:17:38,022 --> 00:17:40,837
+<i>Primero, localiza el panel con el diseño de diamantes...</i>
+
+330
+00:17:40,837 --> 00:17:44,719
+...y desliza la porción central un milímetro hacia la izquierda.
+
+331
+00:17:45,026 --> 00:17:47,173
+<i>Luego, en el otro lado de la caja...</i>
+
+332
+00:17:47,173 --> 00:17:50,464
+...desliza el panel entero dos milímetros hacia abajo.
+
+333
+00:17:50,464 --> 00:17:52,269
+Oirás un breve sonido.
+
+334
+00:17:52,269 --> 00:17:53,437
+Espera, Sheldon.
+
+335
+00:17:53,437 --> 00:17:56,106
+¿Le tienes cariño a esta caja?
+
+336
+00:17:56,106 --> 00:17:58,156
+No, es una novedad que compré por Internet.
+
+337
+00:17:58,156 --> 00:17:59,693
+¿Oíste el sonido?
+
+338
+00:17:59,693 --> 00:18:00,861
+Todavía no.
+
+339
+00:18:04,946 --> 00:18:05,986
+Allí está.
+
+340
+00:18:10,202 --> 00:18:11,676
+Está bien, aquí hay otra.
+
+341
+00:18:11,676 --> 00:18:15,364
+Si te casas con el famoso guitarrista Johnny Winter...
+
+342
+00:18:15,966 --> 00:18:17,552
+...serías Summer Winter.
+
+343
+00:18:22,718 --> 00:18:26,174
+Voy a detenerme para decirte que me gustas.
+
+344
+00:18:27,297 --> 00:18:28,878
+¿Sí?
+
+345
+00:18:29,505 --> 00:18:31,030
+Aquí está mi pregunta:
+
+346
+00:18:31,030 --> 00:18:33,704
+¿Ves realmente que en esta conversación hay un camino...
+
+347
+00:18:33,704 --> 00:18:35,698
+...que nos lleve de donde estamos...
+
+348
+00:18:35,698 --> 00:18:38,230
+...a un lugar donde te invite a salir y tu digas que sí?
+
+349
+00:18:40,024 --> 00:18:40,774
+No.
+
+350
+00:18:43,405 --> 00:18:45,614
+Es justo. Te dejaré en paz.
+
+351
+00:18:45,614 --> 00:18:46,792
+Gracias.
+
+352
+00:18:49,869 --> 00:18:51,121
+Antes de que me vaya...
+
+353
+00:18:52,807 --> 00:18:57,334
+¿Te importaría si nos tomamos una foto para subirla a mi Facebook?
+
+354
+00:18:57,718 --> 00:18:58,718
+Seguro.
+
+355
+00:19:09,108 --> 00:19:12,065
+Grandioso. ¿Puedo tomar una donde parezca que nos estamos besando?
+
+356
+00:19:13,833 --> 00:19:17,787
+Está bien. Ahora, vas a insertar la memoria flash...
+
+357
+00:19:17,787 --> 00:19:19,732
+...en un puerto USB.
+
+358
+00:19:23,623 --> 00:19:28,612
+Me llama Pastelillo, porque parezco apetitoso y podría comerme.
+
+359
+00:19:30,491 --> 00:19:34,050
+Por favor, coloca la memoria flash en el puerto USB.
+
+360
+00:19:36,739 --> 00:19:39,459
+Es el que se parece a una pequeña boca de pato.
+
+361
+00:19:41,814 --> 00:19:42,989
+¿Cómo te fue?
+
+362
+00:19:42,989 --> 00:19:44,839
+Terminator rompió mi teléfono.
+
+363
+00:19:51,114 --> 00:19:52,240
+Disculpen.
+
+364
+00:19:54,388 --> 00:19:55,599
+Seré honesto contigo.
+
+365
+00:19:55,599 --> 00:19:57,508
+He pasado las dos últimas horas...
+
+366
+00:19:57,508 --> 00:19:59,248
+...imaginando varios escenarios en mi cabeza...
+
+367
+00:19:59,248 --> 00:20:01,731
+...tratando de encontrar algo inteligente que decirte.
+
+368
+00:20:01,731 --> 00:20:03,900
+Pero finalmente me di cuenta que eres un ser humano...
+
+369
+00:20:04,255 --> 00:20:05,421
+...y yo soy un ser humano.
+
+370
+00:20:05,421 --> 00:20:07,570
+<i>- Solo podría decirte-
+- Siguiente parada: Santa Barbara.</i>
+
+371
+00:20:07,570 --> 00:20:09,252
+Disculpa. Es la mía.
+
+372
+00:20:12,180 --> 00:20:13,664
+Hola, soy Leonard.
+
+373
+00:20:18,707 --> 00:20:20,107
+Entonces, estaba pensando, usted ganó...
+
+374
+00:20:20,107 --> 00:20:22,142
+...el premio Nobel, ¿hace tres años?
+
+375
+00:20:22,142 --> 00:20:25,572
+Entonces ha tenido que lidiar con "¿qué ha hecho Smoot últimamente?"
+
+376
+00:20:27,283 --> 00:20:30,177
+Propongo que continuemos mi investigación como equipo...
+
+377
+00:20:30,177 --> 00:20:32,495
+...usted sabe, Cooper-Smoot, alfabéticamente...
+
+378
+00:20:33,831 --> 00:20:36,833
+...y cuando ganemos el premio Nobel, estará de vuelta en la cima.
+
+379
+00:20:37,616 --> 00:20:40,128
+Con todo respeto, Dr. Cooper, ¿Está drogado?
+
+380
+00:20:44,438 --> 00:20:46,249
+¡Está bien! Smoot-Cooper.
+
+381
+00:20:47,482 --> 00:20:48,580
+Vaya diva.
+
