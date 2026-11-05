@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagOrdered>0</EditionFlagOrdered>
+    <EditionUID>14538605761304927534</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>5473964540705053410</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Chapter 01</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4987811279385365814</ChapterUID>
+      <ChapterTimeStart>00:01:00.060000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Chapter 02</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>17647707805029348673</ChapterUID>
+      <ChapterTimeStart>00:08:05.018000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Chapter 03</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>10373720009491968705</ChapterUID>
+      <ChapterTimeStart>00:21:15.007000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Chapter 04</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9292082778888080796</ChapterUID>
+      <ChapterTimeStart>00:22:25.010000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Chapter 05</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
