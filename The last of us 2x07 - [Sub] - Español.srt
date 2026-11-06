@@ -1,31 +1,31 @@
 ﻿1
 00:01:16,117 --> 00:01:17,118
-<i>Jimmy K.</i>
+Jimmy K.
 
 2
 00:01:18,828 --> 00:01:20,205
-<i>Sí. Aquí Jimmy K.</i>
+Sí. Aquí Jimmy K.
 
 3
 00:01:20,288 --> 00:01:22,791
-{\an8}<i>Habrá silencio radial. Orden de Isaac.</i>
+Habrá silencio radial. Orden de Isaac.
 
 4
 00:01:22,874 --> 00:01:23,833
-{\an8}<i>Llama a tus botes.</i>
+Llama a tus botes.
 
 5
 00:01:23,917 --> 00:01:25,585
-{\an8}<i>- Silencio.</i>
+- Silencio.
 - Hazlo, o lo haré yo.
 
 6
 00:01:25,668 --> 00:01:26,961
-{\an8}Te digo que esperes.
+Te digo que esperes.
 
 7
 00:01:27,045 --> 00:01:29,839
-{\an8}<i>- Entendido.</i>
+- Entendido.
 - Bien. Esto te dolerá.
 
 8
@@ -229,7 +229,7 @@ pero no.
 
 55
 00:07:10,012 --> 00:07:11,347
-<i>Fue fácil.</i>
+Fue fácil.
 
 56
 00:07:13,808 --> 00:07:15,643
@@ -327,7 +327,7 @@ Tenemos que volver.
 
 79
 00:10:18,451 --> 00:10:21,412
-{\an8}DÍA TRES
+DÍA TRES
 
 80
 00:10:48,898 --> 00:10:50,650
@@ -948,7 +948,7 @@ SI SABES BUSCARLA".
 
 226
 00:21:15,691 --> 00:21:18,944
-{\an8}EL MONSTRUO AL FINAL DE ESTE LIBRO
+EL MONSTRUO AL FINAL DE ESTE LIBRO
 
 227
 00:21:29,121 --> 00:21:30,455
@@ -1107,28 +1107,28 @@ Si me hubiera ido a México,
 
 263
 00:23:49,052 --> 00:23:52,389
-<i>¡Nos atacan! ¡Repito, nos atacan!</i>
+¡Nos atacan! ¡Repito, nos atacan!
 
 264
 00:23:52,472 --> 00:23:53,723
-<i>¡Puerto de Southlake!</i>
+¡Puerto de Southlake!
 
 265
 00:23:53,807 --> 00:23:55,475
-<i>¡Francotirador! ¡No es un Scar!</i>
+¡Francotirador! ¡No es un Scar!
 
 266
 00:23:56,143 --> 00:23:58,061
-<i>¡Enemigo no identificado! ¡Mierda!</i>
+¡Enemigo no identificado! ¡Mierda!
 
 267
 00:23:58,145 --> 00:24:00,480
-<i>¡Nos tiene acorralados!</i>
-<i>¡Necesitamos apoyo!</i>
+¡Nos tiene acorralados!
+¡Necesitamos apoyo!
 
 268
 00:24:00,564 --> 00:24:02,190
-<i>- Sal de la radio.</i>
+- Sal de la radio.
 - Francotirador.
 
 269
@@ -1137,11 +1137,11 @@ Es Tommy.
 
 270
 00:24:03,358 --> 00:24:05,026
-<i>¡Púdrete! Perdí a tres hombres.</i>
+¡Púdrete! Perdí a tres hombres.
 
 271
 00:24:05,110 --> 00:24:06,653
-<i>- Envíen al puto...</i>
+- Envíen al puto...
 - Ahí está.
 
 272
@@ -1865,7 +1865,7 @@ Allá tú si quieres hacerlo esperar.
 
 443
 00:48:16,935 --> 00:48:20,105
-{\an8}DÍA UNO
+DÍA UNO
 
 444
 00:49:25,754 --> 00:49:27,756
