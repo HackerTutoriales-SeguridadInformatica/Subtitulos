@@ -1,3803 +1,3594 @@
-﻿1
-00:00:29,000 --> 00:00:31,200
-They're trying to kill me!
-They are crazy!
+1
+00:00:37,788 --> 00:00:40,248
+They're trying to kill me! They're crazy!
 
 2
-00:00:33,100 --> 00:00:35,000
-Just calm down, Sally. You're safe now.
+00:00:41,917 --> 00:00:43,960
+Calm down, Sally. You're safe now.
 
 3
-00:00:35,700 --> 00:00:36,900
+00:00:44,586 --> 00:00:45,753
 Can you tell me what happened?
 
 4
-00:00:37,100 --> 00:00:38,700
+00:00:45,921 --> 00:00:47,839
 We ran out of gas.
 
 5
-00:00:39,200 --> 00:00:40,700
-Kirk went for help.
+00:00:47,923 --> 00:00:49,590
+Kirk went to get help.
 
 6
-00:00:42,700 --> 00:00:43,700
+00:00:51,510 --> 00:00:54,971
 Hello?
 
 7
-00:00:44,700 --> 00:00:45,800
-Hello?
+00:00:57,099 --> 00:00:58,099
+Is anybody there?
 
 8
-00:00:48,300 --> 00:00:49,300
-Anybody home?
-
-9
-00:01:02,800 --> 00:01:03,800
+00:01:11,613 --> 00:01:12,613
 Kirk!
 
-10
-00:01:25,800 --> 00:01:26,800
+9
+00:01:34,636 --> 00:01:35,636
 Kirk?
 
-11
-00:01:42,400 --> 00:01:46,200
+10
+00:01:51,236 --> 00:01:56,657
 Jerry!
+
+11
+00:01:57,493 --> 00:01:59,827
+Sally, I hear something. Stop!
 
 12
-00:01:46,300 --> 00:01:47,800
-Jerry!
+00:02:17,095 --> 00:02:19,347
+No! Please!
 
 13
-00:01:48,600 --> 00:01:50,900
-Sally, I hear something. Stop! Stop!
-
-14
-00:02:08,200 --> 00:02:10,400
-No! Please! Please!
-
-15
-00:02:11,700 --> 00:02:13,000
+00:02:20,390 --> 00:02:21,849
 Please! Please stop!
 
-16
-00:02:18,000 --> 00:02:19,300
+14
+00:02:26,688 --> 00:02:27,688
 Give me that hammer!
 
+15
+00:03:03,141 --> 00:03:06,102
+<i>Sheriff, we've got the victim's statement.
+She's on her way to the hospital.</i>
+
+16
+00:03:06,228 --> 00:03:07,520
+<i>What's your location?</i>
+
 17
-00:02:54,000 --> 00:02:55,700
-<i>Sheriff, we've got
-the victim's statement.</i>
+00:03:07,604 --> 00:03:09,814
+Quick Hill Road. I'm headed there.
 
 18
-00:02:55,800 --> 00:02:57,500
-<i>She's en route to the hospital.</i>
+00:03:10,065 --> 00:03:12,900
+Send an ambulance in case
+there are any other survivors.
 
 19
-00:02:57,600 --> 00:02:58,700
-<i>What's your 20?</i>
+00:03:13,443 --> 00:03:14,777
+<i>Hello, Sheriff. It's Marvin.</i>
 
 20
-00:02:58,800 --> 00:03:01,000
-On Quick Hill Road.
-Headed out there now.
+00:03:14,903 --> 00:03:17,113
+<i>I'm two minutes away and closing in.</i>
 
 21
-00:03:01,300 --> 00:03:03,900
-Call for an ambulance,
-in case there's any others still alive.
-
-22
-00:03:04,600 --> 00:03:05,900
-<i>Hey, Sheriff. This is Marvin.</i>
-
-23
-00:03:06,100 --> 00:03:08,300
-<i>I'm only two minutes
-behind you and I'm closing.</i>
-
-24
-00:03:08,400 --> 00:03:10,000
+00:03:17,239 --> 00:03:18,781
 <i>All right, step on it, Marvin.</i>
 
+22
+00:03:20,158 --> 00:03:23,828
+Sheriff, that family is probably armed.
+Are you going to wait for backup?
+
+23
+00:03:23,912 --> 00:03:26,455
+<i>I can't wait. I'm going in.</i>
+
+24
+00:03:33,839 --> 00:03:35,423
+-Oh, God.
+-Come on, let's go.
+
 25
-00:03:11,400 --> 00:03:13,100
-<i>Sheriff, that family is likely armed.</i>
+00:03:35,674 --> 00:03:36,674
+Shit.
 
 26
-00:03:13,200 --> 00:03:15,000
-<i>You gonna wait for backup?</i>
+00:03:45,851 --> 00:03:48,519
+<i>The sheriff wants an ambulance
+at 647 Quick Hill Road.</i>
 
 27
-00:03:15,100 --> 00:03:17,600
-<i>I can't wait. I'm going in now.</i>
+00:03:48,604 --> 00:03:49,645
+<i>Do you copy?</i>
 
 28
-00:03:25,000 --> 00:03:26,500
-- I swear to God.
-- Come on, let's go.
+00:03:56,111 --> 00:03:57,111
+Drayton?
 
 29
-00:03:26,800 --> 00:03:27,800
-Shit.
+00:03:58,196 --> 00:04:01,949
+You know why I'm here! Come
+out and bring your boy, Jed.
 
 30
-00:03:37,000 --> 00:03:40,200
-<i>Sheriff wants
-an ambulance to 647 Quick Hill Road.</i>
+00:04:02,451 --> 00:04:03,618
+Hands on your head.
 
 31
-00:03:40,300 --> 00:03:41,300
-<i>You copy?</i>
+00:04:06,872 --> 00:04:08,164
+I'm not leaving, Drayton.
 
 32
-00:03:47,500 --> 00:03:49,400
-- Drayton?
+00:04:09,499 --> 00:04:12,001
+There's a young woman who
+says they killed her friends.
 
 33
-00:03:49,500 --> 00:03:51,500
-You know why I'm here!
+00:04:12,961 --> 00:04:14,795
+Nobody's going to turn a blind eye to this.
 
 34
-00:03:51,600 --> 00:03:53,000
-Come out and bring your son, Jed.
+00:04:20,344 --> 00:04:22,637
+He protects the house and the family.
 
 35
-00:03:53,600 --> 00:03:55,100
-Hands high above your heads.
+00:04:23,055 --> 00:04:24,639
+That's not what I heard.
 
 36
-00:03:58,300 --> 00:03:59,600
-I ain't leavin', Drayton.
+00:04:37,194 --> 00:04:40,321
+Goddamn it. Come on out!
 
 37
-00:04:00,800 --> 00:04:03,300
-I have a girl says you butchered her friends.
+00:04:40,739 --> 00:04:42,698
+I'm not waiting here all day.
 
 38
-00:04:04,100 --> 00:04:06,200
-No one's turning a blind eye to this.
-
-39
-00:04:11,500 --> 00:04:14,200
-He's protecting the house and the family.
-
-40
-00:04:14,200 --> 00:04:15,900
-Yeah, well that ain't the way I heard it.
-
-41
-00:04:28,300 --> 00:04:31,500
-Oh, damn it. Come on out here!
-
-42
-00:04:31,800 --> 00:04:34,200
-Look, I ain't waiting out here all day.
-
-43
-00:04:34,300 --> 00:04:36,500
-I'll call in the Staties,
+00:04:42,824 --> 00:04:44,992
+I'll call the state police
 if that's what you want.
 
+39
+00:04:46,536 --> 00:04:47,995
+Turn the boy over, Drayton!
+
+40
+00:04:49,164 --> 00:04:51,457
+This doesn't have to get any
+harder than it already is.
+
+41
+00:04:51,541 --> 00:04:53,584
+-You're not taking anyone from this family.
+-Don't make it worse.
+
+42
+00:04:54,211 --> 00:04:56,545
+I'm not leaving without the boy, Drayton.
+
+43
+00:04:56,672 --> 00:04:57,755
+-We're Sawyers!
+-Sure you are!
+
 44
-00:04:37,800 --> 00:04:39,300
-Send the boy out, Drayton!
+00:04:57,839 --> 00:04:59,173
+What are you going to do?
 
 45
-00:04:40,300 --> 00:04:42,600
-Look, this don't have to
-get no uglier than it already is.
+00:04:59,341 --> 00:05:01,133
+Do what you have to, Sheriff!
 
 46
-00:04:42,700 --> 00:04:43,700
-Fuckers ain't getting anybody in this family.
+00:05:01,218 --> 00:05:02,259
+Turn over the boy!
 
 47
-00:04:43,800 --> 00:04:45,300
-You don't wanna make it worse.
+00:05:06,390 --> 00:05:08,933
+Give him the boy. He's an idiot anyway.
 
 48
-00:04:45,400 --> 00:04:47,700
-I ain't leaving without the boy, Drayton.
-
-49
-00:04:47,800 --> 00:04:48,900
-We're Sawyers!
-
-50
-00:04:49,000 --> 00:04:50,400
-- Hell, yeah!
-- What's it gonna be?
-
-51
-00:04:50,500 --> 00:04:52,300
-You do what you have to do, Sheriff!
-
-52
-00:04:52,400 --> 00:04:53,500
-Send the boy out!
-
-53
-00:04:57,700 --> 00:05:00,000
-Give him the boy. He's simple anyway.
-
-54
-00:05:00,400 --> 00:05:01,900
+00:05:09,226 --> 00:05:10,851
 He's family.
 
+49
+00:05:32,207 --> 00:05:33,874
+We're going to hand Jed over.
+
+50
+00:05:34,710 --> 00:05:37,044
+All right. Bring him out.
+
+51
+00:05:38,046 --> 00:05:39,046
+Hold on, Marvin.
+
+52
+00:05:40,215 --> 00:05:41,716
+Make sure he gets a good lawyer!
+
+53
+00:05:42,634 --> 00:05:43,634
+Done.
+
+54
+00:05:45,137 --> 00:05:46,387
+This is your fault, boy!
+
 55
-00:05:23,500 --> 00:05:25,000
-We're gonna send out Jed.
+00:05:47,431 --> 00:05:48,889
+You let that bitch get away.
 
 56
-00:05:25,900 --> 00:05:28,200
-All right. Send him.
-
-57
-00:05:29,300 --> 00:05:30,300
-Hold it up, Marvin.
-
-58
-00:05:31,400 --> 00:05:32,900
-And he gets a good lawyer!
-
-59
-00:05:33,700 --> 00:05:34,700
-Agreed.
-
-60
-00:05:36,400 --> 00:05:37,500
-You did it now, boy!
-
-61
-00:05:38,600 --> 00:05:39,900
-You let that bitch meat get away.
-
-62
-00:05:45,200 --> 00:05:46,700
-- Oh, shit.
-
-63
-00:05:52,600 --> 00:05:54,800
-- Come on out, Sawyer!
-- Give us that retard!
-
-64
-00:05:58,000 --> 00:05:59,900
-There's more! Them ain't cops.
-
-65
-00:06:01,600 --> 00:06:02,900
-Get back here, Drayton!
-
-66
-00:06:03,900 --> 00:06:04,900
-We got trouble!
-
-67
-00:06:08,300 --> 00:06:10,200
-All right, just stay back now, Burt. I got this.
-
-68
-00:06:11,600 --> 00:06:13,100
-- We're here to back you up.
-- Yeah, you can start
-
-69
-00:06:13,200 --> 00:06:15,600
-by getting everybody back in their cars
-and high-tailing it outta here.
-
-70
-00:06:15,700 --> 00:06:16,900
-Yeah, that ain't gonna happen.
-
-71
-00:06:17,000 --> 00:06:19,500
-Let's go, boys!
-Lynch these son of a bitches.
-
-72
-00:06:19,700 --> 00:06:20,700
-I've got control of this.
-
-73
-00:06:20,800 --> 00:06:22,100
-He's bringing the boy out, okay?
-
-74
-00:06:23,300 --> 00:06:24,300
-What are we doing there, Sheriff?
-
-75
-00:06:24,500 --> 00:06:25,500
-Kick his ass out!
-
-76
-00:06:25,600 --> 00:06:27,100
-Look, he's bringing his son out here.
-
-77
-00:06:27,300 --> 00:06:28,600
-Bring him out!
-
-78
-00:06:28,900 --> 00:06:31,100
-- Light 'em up, Ollie!
-- Special delivery!
-
-79
-00:06:31,800 --> 00:06:33,600
-- No!
-- Motherfuckers!
-
-80
-00:07:25,900 --> 00:07:28,000
-Hell, yeah. Sawyer bonfire.
-
-81
-00:07:29,400 --> 00:07:30,400
-This is on you, Burt.
-
-82
-00:07:32,400 --> 00:07:35,400
-Eye for an eye, Sheriff.
-Can't get around the Good Book.
-
-83
-00:07:39,700 --> 00:07:40,700
-Helluva job, boys!
-
-84
-00:07:41,100 --> 00:07:42,400
-Whoo!
-
-85
-00:07:56,500 --> 00:07:58,900
-Keep looking.
-When they're charred, they're hard to find.
-
-86
-00:08:00,300 --> 00:08:02,800
-Ah, hell. Hey, Burt!
-
-87
-00:08:05,200 --> 00:08:06,500
-- Yeah?
-- Looky here.
-
-88
-00:08:08,000 --> 00:08:09,900
-I'm hanging this bad boy over the bar.
-
-89
-00:08:11,700 --> 00:08:13,900
-- This baby's coming home with me.
-- We gonna be heroes.
-
-90
-00:08:30,600 --> 00:08:32,100
-- Son of a bitch.
-
-91
-00:08:32,900 --> 00:08:34,100
-Help us.
-
-92
-00:08:35,800 --> 00:08:38,200
-Yeah. Yeah. Come here.
-
-93
-00:08:38,600 --> 00:08:41,000
-Come on. Come here. Come on.
-
-94
-00:08:41,300 --> 00:08:42,900
-Come on. Let her go. Let her go.
-
-95
-00:08:43,400 --> 00:08:46,200
-Come on. Yeah. Yeah.
-
-96
-00:08:47,400 --> 00:08:49,200
-I got her. Everything's okay.
-
-97
-00:08:52,700 --> 00:08:54,300
-Shh! Shh!
-
-98
-00:08:55,200 --> 00:08:56,200
-It's okay.
-
-99
-00:09:05,300 --> 00:09:08,500
-Hey, Gavin, where've you been? What is...
-
-100
-00:09:09,100 --> 00:09:10,400
-Oh, my God. It's a baby.
-
-101
-00:09:10,600 --> 00:09:12,500
-Found her.
-Brought her out through the woods.
-
-102
-00:09:14,300 --> 00:09:16,100
-Gavin! Come on, man,
-we're gonna be in the paper.
-
-103
-00:09:16,200 --> 00:09:17,600
-Yeah, man, I'll be right there.
-
-104
-00:09:18,300 --> 00:09:19,300
-Yeah, yeah.
-
-105
-00:09:19,600 --> 00:09:20,500
-Come on now, you're gonna miss it!
-
-106
-00:09:20,600 --> 00:09:21,800
-- Gavin...
-- Come on!
-
-107
-00:09:21,800 --> 00:09:23,600
-She's been burned.
-
-108
-00:09:24,300 --> 00:09:25,600
-Okay. Yeah, yeah, brother!
-
-109
-00:09:26,400 --> 00:09:27,400
-Be right there, my man!
-
-110
-00:09:27,400 --> 00:09:28,600
-We're gonna keep her, right?
-
-111
-00:09:28,800 --> 00:09:29,800
-I got her for you, Arlene.
-
-112
-00:09:29,900 --> 00:09:32,400
-You never know how you look
-till you get that picture took.
-
-113
-00:10:10,000 --> 00:10:11,000
-I'll be right back.
-
-114
-00:10:16,000 --> 00:10:17,700
-Come on, what were you thinking?
-
-115
-00:10:17,800 --> 00:10:20,300
-Hey. He was Ryan's idea. I warned you.
-
-116
-00:10:20,900 --> 00:10:22,600
-Well, next time your raunchy-ass boyfriend
-
-117
-00:10:22,700 --> 00:10:25,500
-tries to stick me with one of his
-high school band buddies,
-
-118
-00:10:26,700 --> 00:10:29,000
-- kiss him for me.
-- What?
-
-119
-00:10:29,100 --> 00:10:31,300
-I like him. He was pretty cool.
-
-120
-00:10:31,700 --> 00:10:35,000
-We started talking
-and he made these incredible crepes.
-
-121
-00:10:35,400 --> 00:10:36,500
-Amazing.
-
-122
-00:10:36,700 --> 00:10:38,400
-He's got this thing about becoming a chef.
-
-123
-00:10:38,500 --> 00:10:41,700
-And there's actually a lot more to him
-than meets the eye.
-
-124
-00:10:41,900 --> 00:10:44,800
-So, do you think you can handle this
-four-day road trip with him to New Orleans?
-
-125
-00:10:44,900 --> 00:10:47,700
-I am way ahead of you, girl.
-He even volunteered to drive.
-
-126
-00:10:48,100 --> 00:10:50,100
-- Seriously? Wow.
-- Hell, yeah!
-
-127
-00:10:50,200 --> 00:10:52,100
-- I was talking to...
-- Hey, Nikki!
-
-128
-00:10:52,400 --> 00:10:53,900
-Bobby wants you back at your register.
-
-129
-00:10:55,100 --> 00:10:57,700
-All right. I'm gonna go work
-on my Halloween costume.
-
-130
-00:10:58,200 --> 00:10:59,400
-And I don't mean scary.
-
-131
-00:11:25,000 --> 00:11:27,500
-Nikki digs your old high school friend.
-
-132
-00:11:27,600 --> 00:11:30,500
-- Something about crepes?
-- That's Kenny's signature move.
-
-133
-00:11:31,400 --> 00:11:32,600
-Nikki had no chance.
-
-134
-00:11:36,200 --> 00:11:38,400
-I thought we weren't gonna
-bring our work home with us.
-
-135
-00:11:39,500 --> 00:11:40,500
-You think I'm cracked?
-
-136
-00:11:41,300 --> 00:11:44,900
-No. But you might
-wanna broaden your extracurriculars.
-
-137
-00:11:47,500 --> 00:11:48,700
-Get over here and tear this up.
-
-138
-00:11:49,400 --> 00:11:50,700
-I'm not up for a bruising.
-
-139
-00:11:51,500 --> 00:11:52,700
-I wasn't talking about the bag.
-
-140
-00:11:54,000 --> 00:11:55,100
-Neither was I.
-
-141
-00:12:09,300 --> 00:12:10,900
-I love your crazy little birthmark.
-
-142
-00:12:15,800 --> 00:12:16,800
-Fuck.
-
-143
-00:12:18,100 --> 00:12:19,100
-Who is that?
-
-144
-00:12:19,800 --> 00:12:22,900
-Shit. That, it might be my contract.
-
-145
-00:12:27,800 --> 00:12:28,900
-I'm coming!
-
-146
-00:12:45,600 --> 00:12:47,300
-- It's for you.
-- Me?
-
-147
-00:12:48,100 --> 00:12:49,900
-Some law office in Dallas, yeah.
-
-148
-00:12:55,400 --> 00:12:57,100
-My grandmother died three weeks ago.
-
-149
-00:12:58,100 --> 00:12:59,800
-I thought all your grandparents were dead.
-
-150
-00:12:59,900 --> 00:13:00,900
-So did I.
-
-151
-00:13:02,200 --> 00:13:04,300
-I just wanted to have a child.
-
-152
-00:13:04,400 --> 00:13:05,400
-Enough.
-
-153
-00:13:05,400 --> 00:13:06,800
-- I wanted to have a child so bad...
-- Enough!
-
-154
-00:13:06,900 --> 00:13:09,500
-- ...and I couldn't!
-- Enough, Arlene. Enough!
-
-155
-00:13:11,200 --> 00:13:12,200
-Why couldn't you tell me?
-
-156
-00:13:12,500 --> 00:13:13,700
-Tell you what?
-
-157
-00:13:13,800 --> 00:13:15,300
-Your mother has a defective uterus?
-
-158
-00:13:16,800 --> 00:13:18,800
-She wanted a kid. End of story.
-
-159
-00:13:19,800 --> 00:13:22,000
-So what? We're not
-good enough for you now?
-
-160
-00:13:22,300 --> 00:13:23,300
-I didn't say that.
-
-161
-00:13:24,000 --> 00:13:26,300
-I just wanna know where I came from
-
-162
-00:13:26,400 --> 00:13:27,400
-and who I came from.
-
-163
-00:13:27,700 --> 00:13:29,700
-Well, we're the ones that raised you.
-
-164
-00:13:29,800 --> 00:13:32,000
-And you were damn lucky, I'd say.
-
-165
-00:13:32,500 --> 00:13:33,700
-Those people were...
-
-166
-00:13:34,600 --> 00:13:35,900
-I can't even put that into words.
-
-167
-00:13:36,000 --> 00:13:37,100
-- There are no words...
-- Shut up, Arlene.
-
-168
-00:13:37,200 --> 00:13:38,800
-- ...for that, Heather.
-- Shut up!
-
-169
-00:13:43,000 --> 00:13:44,500
-You came from a shit heap.
-
-170
-00:13:46,800 --> 00:13:48,600
-There. Now you know.
-
-171
-00:13:49,400 --> 00:13:51,300
-If I'd had half a mind, I'd've left you there.
-
-172
-00:13:56,400 --> 00:13:57,900
-I'm out! I'm done.
-
-173
-00:13:58,000 --> 00:13:59,100
-Don't even think about going down there!
-
-174
-00:13:59,600 --> 00:14:00,700
-Heather!
-
-175
-00:14:02,800 --> 00:14:03,800
-Heather.
-
-176
-00:14:05,400 --> 00:14:08,500
-Heather. You go down there
-you're gonna bring trouble on us.
-
-177
-00:14:08,500 --> 00:14:09,800
-What are you talking about?
-
-178
-00:14:11,400 --> 00:14:12,500
-Trust me.
-
-179
-00:14:12,800 --> 00:14:16,200
-Newt, Texas is the last place you wanna be.
-
-180
-00:14:37,100 --> 00:14:39,000
-- How'd it go?
-- Like shit.
-
-181
-00:14:39,800 --> 00:14:41,000
-It sucks when you find out
-
-182
-00:14:41,100 --> 00:14:43,100
-your parents have been
-lying to you your whole life.
-
-183
-00:14:43,200 --> 00:14:44,600
-Baby, I'm sorry.
-
-184
-00:14:44,700 --> 00:14:45,900
-I was adopted.
-
-185
-00:14:49,500 --> 00:14:51,400
-I never felt right about them.
-
-186
-00:14:54,000 --> 00:14:55,100
-I'm gonna go pack.
-
-187
-00:14:55,300 --> 00:14:57,100
-- For Texas, not New Orleans.
-- Wait.
-
-188
-00:14:57,200 --> 00:14:58,900
-- Hold on.
-- No, Ryan. I have to go.
-
-189
-00:14:59,000 --> 00:15:01,100
-- Forget Halloween.
-- Wait. Wait, just listen to me, please.
-
-190
-00:15:01,300 --> 00:15:02,300
-Hey.
-
-191
-00:15:06,200 --> 00:15:08,000
-Oh. Ryan called us.
-
-192
-00:15:08,100 --> 00:15:10,800
-- Kenny!
-- That's really cool art.
-
-193
-00:15:11,200 --> 00:15:13,700
-See, I kinda figured you'd wanna deal with
-
-194
-00:15:13,800 --> 00:15:15,100
-your grandmother's stuff so...
-
-195
-00:15:15,200 --> 00:15:17,300
-So, knowing how hard-headed you are,
-
-196
-00:15:17,400 --> 00:15:18,900
-we have decided to come with you.
-
-197
-00:15:19,400 --> 00:15:21,200
-Really? You guys would do that?
-
-198
-00:15:21,500 --> 00:15:22,500
-Are you kidding me?
-
-199
-00:15:23,200 --> 00:15:27,300
-Come here. Of course!
-Come on. You're our girl.
-
-200
-00:15:28,400 --> 00:15:31,400
-Listen, I wasn't gonna send you to some
-cousin-fuck town all alone.
-
-201
-00:15:32,600 --> 00:15:33,700
-I don't mind driving to Texas.
-
-202
-00:15:33,800 --> 00:15:35,100
-I hear they got great barbecue.
-
-203
-00:15:35,200 --> 00:15:38,800
-So, maybe so, maybe no?
-
-204
-00:15:38,800 --> 00:15:41,100
-All right. Sounds like a plan.
-
-205
-00:15:41,200 --> 00:15:42,600
-- Let's do this.
-- Oh, yeah.
-
-206
-00:15:53,900 --> 00:15:55,000
-What! What!
-
-207
-00:15:55,300 --> 00:15:56,900
-What! What!
-
-208
-00:16:03,000 --> 00:16:04,100
-Texas here we come!
-
-209
-00:16:10,000 --> 00:16:11,800
-Oh, my God. Are you kidding me?
-
-210
-00:16:11,800 --> 00:16:13,200
-Jesus Christ.
-
-211
-00:16:13,300 --> 00:16:14,500
-Go, go!
-
-212
-00:16:20,500 --> 00:16:21,500
-Fuck.
-
-213
-00:16:23,100 --> 00:16:24,600
-- What'd you get?
-- All this.
-
-214
-00:16:25,800 --> 00:16:28,100
-You like? 'Cause it was, like, 25 bucks.
-
-215
-00:16:28,200 --> 00:16:30,000
-Get out. That's a rip-off.
-
-216
-00:16:30,400 --> 00:16:32,900
-Don't worry about it, honey.
-It's on your credit card.
-
-217
-00:16:33,200 --> 00:16:35,900
-Oh, yeah? Well, that's okay. You know why?
-
-218
-00:16:36,500 --> 00:16:37,500
-Because...
-
-219
-00:16:38,700 --> 00:16:41,100
-- Kenny paid for the gas.
-- What?
-
-220
-00:16:41,500 --> 00:16:42,900
-What the... Give me that.
-
-221
-00:16:43,000 --> 00:16:44,800
-- How'd you get that, man?
-- Oh, Kenny.
-
-222
-00:16:44,900 --> 00:16:48,100
-- Don't cry.
-- It's okay. Let's go, baby.
-
-223
-00:16:48,200 --> 00:16:49,700
-- Ready?
-- Baby, let's go.
-
-224
-00:16:54,300 --> 00:16:55,300
-What was that?
-
-225
-00:16:59,100 --> 00:17:00,400
-Jesus, dude, you all right?
-
-226
-00:17:01,100 --> 00:17:02,100
-Oh, my God.
-
-227
-00:17:02,500 --> 00:17:04,200
-- Yeah, it's all right.
-- You hit him, Kenny.
-
-228
-00:17:05,900 --> 00:17:07,400
-Sorry, I didn't see you, man.
-
-229
-00:17:07,500 --> 00:17:08,500
-It's all right.
-
-230
-00:17:11,100 --> 00:17:12,400
-I should probably sue.
-
-231
-00:17:14,300 --> 00:17:16,000
-But I'll settle for a stick of that jerky.
-
-232
-00:17:18,700 --> 00:17:20,200
-Say, where y'all headed?
-
-233
-00:17:20,800 --> 00:17:21,800
-New Orleans.
-
-234
-00:17:22,300 --> 00:17:23,900
-You're kiddin'! That's great!
-
-235
-00:17:24,400 --> 00:17:26,000
-- That where you goin'?
-- No, no.
-
-236
-00:17:26,200 --> 00:17:28,300
-Shreveport? It's on the way.
-
-237
-00:17:28,500 --> 00:17:30,300
-Did your car break? Where's your car?
-
-238
-00:17:31,000 --> 00:17:33,400
-Uh, that's a bit of a long story.
-
-239
-00:17:33,800 --> 00:17:35,000
-Short of it is
-
-240
-00:17:35,300 --> 00:17:38,300
-my lady dumped my butt and I've been
-thumbing my way back from Tulsa.
-
-241
-00:17:39,900 --> 00:17:40,900
-I sure could use a ride.
-
-242
-00:17:43,200 --> 00:17:44,600
-Ain't got no problem paying my way.
-
-243
-00:17:44,900 --> 00:17:45,900
-60 bucks.
-
-244
-00:17:46,400 --> 00:17:48,600
-You'll be doing a guy a favor.
-Help a fella out.
-
-245
-00:17:49,600 --> 00:17:50,600
-Rain?
-
-246
-00:17:51,300 --> 00:17:53,100
-- Okay. Come on.
-- Yeah?
-
-247
-00:17:54,300 --> 00:17:56,100
-We have to stop in Texas on the way.
-
-248
-00:17:56,300 --> 00:17:58,300
-Well, sure beats walking.
-
-249
-00:17:59,200 --> 00:18:00,200
-All right.
-
-250
-00:18:34,100 --> 00:18:35,100
-You Okay?
-
-251
-00:18:36,700 --> 00:18:38,000
-Yeah. I'm good.
-
-252
-00:18:39,700 --> 00:18:42,500
-- You scared at all?
-- No.
-
-253
-00:18:44,900 --> 00:18:47,100
-I'm just wondering where I fit, you know?
-
-254
-00:18:47,500 --> 00:18:48,600
-Yeah.
-
-255
-00:18:50,700 --> 00:18:51,700
-So, what's in Newt?
-
-256
-00:18:54,000 --> 00:18:55,400
-One-sided family reunion.
-
-257
-00:18:56,700 --> 00:18:59,200
-My grandmother died.
-I gotta sign some papers.
-
-258
-00:18:59,700 --> 00:19:03,100
-My condolences. Were you two close?
-
-259
-00:19:03,500 --> 00:19:05,600
-I just learned about her yesterday.
-
-260
-00:19:05,700 --> 00:19:07,100
-But family's family.
-
-261
-00:19:07,800 --> 00:19:08,800
-Amen, sister.
-
-262
-00:19:12,300 --> 00:19:14,700
-Family is a messy business.
-
-263
-00:19:14,800 --> 00:19:16,500
-Ain't nothin' thicker than blood.
-
-264
-00:19:47,200 --> 00:19:49,100
-So, do you know anything about this place?
-
-265
-00:19:50,100 --> 00:19:51,300
-Just the address.
-
-266
-00:19:51,900 --> 00:19:53,300
-We're just in and out, right?
-
-267
-00:19:53,700 --> 00:19:54,900
-That's the deal.
-
-268
-00:19:56,400 --> 00:19:57,400
-We'd never find this at night.
-
-269
-00:19:57,500 --> 00:19:59,800
-What the hell?
-We wouldn't be able to see anything.
-
-270
-00:20:00,300 --> 00:20:01,300
-Hey, this is it.
-
-271
-00:20:01,500 --> 00:20:03,400
-This is Homestead Road. Make a left.
-
-272
-00:20:16,400 --> 00:20:17,600
-This can't be it, right?
-
-273
-00:20:18,200 --> 00:20:19,400
-He said a big gate.
-
-274
-00:20:22,400 --> 00:20:23,400
-Wow.
-
-275
-00:20:28,600 --> 00:20:30,100
-- Wow.
-
-276
-00:20:32,100 --> 00:20:33,400
-Well, there's gotta be
-something behind there.
-
-277
-00:20:33,800 --> 00:20:34,800
-Like a castle or somethin'.
-
-278
-00:20:35,600 --> 00:20:36,800
-All right.
-
-279
-00:21:05,000 --> 00:21:07,000
-Mr. Farnsworth? I'm Heather.
-
-280
-00:21:07,100 --> 00:21:10,300
-I could tell from the car. Dead ringer.
-
-281
-00:21:10,500 --> 00:21:12,200
-Thank you for coming
-all the way from Dallas.
-
-282
-00:21:12,300 --> 00:21:13,800
-Anything for Verna.
-
-283
-00:21:13,900 --> 00:21:16,300
-She was a good woman. Salt of the earth.
-
-284
-00:21:17,500 --> 00:21:20,600
-Though not the most popular in these parts.
-
-285
-00:21:21,700 --> 00:21:24,000
-I didn't know you were bringing friends.
-
-286
-00:21:24,500 --> 00:21:25,500
-Is that okay?
-
-287
-00:21:26,900 --> 00:21:29,500
-Well, it's your house, if you want it.
-
-288
-00:21:31,000 --> 00:21:32,000
-Just so you know...
-
-289
-00:21:32,500 --> 00:21:34,900
-Verna's trust forbids you from selling it.
-
-290
-00:21:35,300 --> 00:21:36,700
-It's all described in these papers.
-
-291
-00:21:37,000 --> 00:21:38,600
-Okay. Thanks.
-
-292
-00:21:38,900 --> 00:21:41,800
-You can't quite see the house from here.
-
-293
-00:21:42,500 --> 00:21:45,300
-But it's just up beyond those trees.
-
-294
-00:21:48,700 --> 00:21:53,200
-These keys, they open
-everything inside and out.
-
-295
-00:21:53,700 --> 00:21:55,600
-Verna was big on security.
-
-296
-00:21:57,900 --> 00:22:01,100
-0-8-19.
-
-297
-00:22:02,500 --> 00:22:03,900
-Best to remember it as a date.
-
-298
-00:22:04,200 --> 00:22:05,200
-August 19th.
-
-299
-00:22:05,200 --> 00:22:07,100
-Right. And the gates work automatically
-
-300
-00:22:07,200 --> 00:22:08,200
-from the other side.
-
-301
-00:22:09,900 --> 00:22:12,000
-- I have a house.
-- And a whole list of assets
-
-302
-00:22:12,100 --> 00:22:13,300
-that I'll be forwarding to you
-
-303
-00:22:13,400 --> 00:22:15,200
-as soon as the accountants sign off.
-
-304
-00:22:16,900 --> 00:22:19,100
-Oh. I almost forgot.
-
-305
-00:22:20,500 --> 00:22:22,100
-The most important thing.
-
-306
-00:22:23,000 --> 00:22:25,300
-It's from Verna. Make sure you read it.
-
-307
-00:22:25,400 --> 00:22:26,800
-Okay. I will.
-
-308
-00:22:26,900 --> 00:22:30,400
-And call me if you have any questions.
-
-309
-00:22:33,200 --> 00:22:34,600
-You're not coming in?
-
-310
-00:22:36,100 --> 00:22:37,100
-Uh...
-
-311
-00:22:37,200 --> 00:22:39,900
-No. I promised some other folks I'd stop by.
-
-312
-00:22:40,100 --> 00:22:41,600
-Don't forget to read Verna's letter.
-
-313
-00:22:43,100 --> 00:22:44,100
-Hey.
-
-314
-00:22:44,900 --> 00:22:45,900
-How did you find me?
-
-315
-00:22:46,400 --> 00:22:49,600
-Find you? Honey, you were never lost.
-
-316
-00:23:35,200 --> 00:23:36,700
-It's a mansion! Oh, my God!
-
-317
-00:23:43,700 --> 00:23:46,500
-- Wow.
-- Sweet.
-
-318
-00:23:47,000 --> 00:23:50,100
-No way. Oh, my God, girl!
-
-319
-00:23:50,200 --> 00:23:51,600
-- Wow.
-- Are you kidding?
-
-320
-00:23:51,700 --> 00:23:53,300
-This is nicer than the outside.
-
-321
-00:23:54,300 --> 00:23:56,300
-- I don't know where to start.
-- How about here?
-
-322
-00:24:00,900 --> 00:24:02,800
-What is going on here?
-
-323
-00:24:02,900 --> 00:24:05,200
-Wow.
-
-324
-00:24:05,700 --> 00:24:06,900
-Some fine dining.
-
-325
-00:24:09,100 --> 00:24:11,500
-- Heather, can I open this one?
-- Yeah.
-
-326
-00:24:14,100 --> 00:24:15,900
-- Wow.
-- Wow.
-
-327
-00:24:17,800 --> 00:24:19,600
-This is definitely worth coming home to.
-
-328
-00:24:19,700 --> 00:24:20,700
-Want some tea?
-
-329
-00:24:21,700 --> 00:24:22,700
-It's all set up.
-
-330
-00:24:23,000 --> 00:24:24,100
-So, Heather.
-
-331
-00:24:24,200 --> 00:24:27,200
-What exactly did Granny do for a living?
-
-332
-00:24:28,200 --> 00:24:29,400
-I have no idea.
-
-333
-00:24:29,500 --> 00:24:31,200
-Hey! Check this out!
-
-334
-00:24:34,500 --> 00:24:36,300
-Look like Granny liked to play a little pool.
-
-335
-00:24:37,500 --> 00:24:39,000
-- Who wanna play?
-- I do.
-
-336
-00:24:39,200 --> 00:24:41,900
-- Got money, bitch?
-- Okay, I'm a bitch now.
-
-337
-00:24:42,200 --> 00:24:43,400
-Yeah, you're my bitch.
-
-338
-00:24:43,600 --> 00:24:44,800
-Okay, rack 'em up.
-
-339
-00:24:44,900 --> 00:24:46,700
-- What'd you say about my rack?
-- Rack 'em up.
-
-340
-00:24:48,000 --> 00:24:49,100
-- Oh!
-- Whoo.
-
-341
-00:24:49,200 --> 00:24:50,900
-Now it's a party!
-
-342
-00:24:51,900 --> 00:24:53,500
-- Nice.
-- Oh, I scratched.
-
-343
-00:24:54,600 --> 00:24:55,900
-Oh, too bad.
-
-344
-00:24:56,800 --> 00:24:57,900
-Ouch!
-
-345
-00:24:58,400 --> 00:24:59,500
-All right. You wanna see me?
-
-346
-00:24:59,500 --> 00:25:01,300
-I'm gonna dominate you.
-Where's the white one?
-
-347
-00:26:11,300 --> 00:26:12,300
-Thank you.
-
-348
-00:26:32,500 --> 00:26:34,300
-Hey! What's going on?
-
-349
-00:26:34,400 --> 00:26:36,500
-This house is insane!
-
-350
-00:26:36,600 --> 00:26:38,500
-God, we gotta stay the night. It's too cool.
-
-351
-00:26:38,600 --> 00:26:40,300
-That kitchen is so amazing.
-
-352
-00:26:40,400 --> 00:26:41,800
-Y'all have to let me cook for you tonight.
-
-353
-00:26:42,100 --> 00:26:43,500
-Yeah. And you can thank Darryl.
-
-354
-00:26:43,800 --> 00:26:46,000
-He's the one
-splurging on the steaks, ain't that right?
-
-355
-00:26:46,100 --> 00:26:47,600
-Hey, Shreveport can wait.
-
-356
-00:26:47,600 --> 00:26:49,400
-I needed something like this for a long time.
-
-357
-00:26:49,500 --> 00:26:50,500
-Thanks, you guys.
-
-358
-00:26:51,000 --> 00:26:52,800
-God, is he a Boy Scout or what?
-
-359
-00:26:54,100 --> 00:26:56,400
-- Come on.
-- No, I'm overkill on this mission.
-
-360
-00:26:57,000 --> 00:26:59,400
-I'm gonna get the bags, clean up a little.
-
-361
-00:27:23,100 --> 00:27:24,900
-Yeah, I'm a regular Boy Scout.
-
-362
-00:28:03,000 --> 00:28:06,600
-All right. So let's, uh, divide and conquer.
-
-363
-00:28:06,700 --> 00:28:08,100
-Will you take care of that for me?
-
-364
-00:28:15,100 --> 00:28:16,700
-We'll see you in a few weeks, Mr. Mayor.
-
-365
-00:28:18,900 --> 00:28:22,900
-Burt. Wish I had a swing
-like that in my backyard.
-
-366
-00:28:22,900 --> 00:28:24,300
-Yeah, that's something all right.
-
-367
-00:28:25,300 --> 00:28:26,600
-Hello, precious.
-
-368
-00:28:26,900 --> 00:28:28,000
-Whoo.
-
-369
-00:28:36,200 --> 00:28:37,200
-Come on, baby.
-
-370
-00:28:39,400 --> 00:28:42,000
-Where's your mama? Where's your mama?
-
-371
-00:28:43,000 --> 00:28:44,000
-Where's your mama?
-
-372
-00:28:45,100 --> 00:28:47,400
-I'm gonna get, like,
-one more thing and then I'm done.
-
-373
-00:28:47,500 --> 00:28:49,400
-- All right. I'll meet you outside.
-- Cool.
-
-374
-00:28:49,500 --> 00:28:51,800
-There's, like, a carnival
-or something going on?
-
-375
-00:28:57,400 --> 00:28:59,400
-Price check.
-- Fuck are you doing?
-
-376
-00:29:00,300 --> 00:29:01,300
-Nobody's looking.
-
-377
-00:29:02,700 --> 00:29:03,800
-Listen, it was one time.
-
-378
-00:29:03,900 --> 00:29:07,400
-One time. And I had,
-like, 18 kamikazes. Come on.
-
-379
-00:29:09,000 --> 00:29:10,300
-Come on. You begged for it.
-
-380
-00:29:11,200 --> 00:29:14,500
-And now I'm begging you to
-keep your hands off my shit.
-
-381
-00:29:17,500 --> 00:29:19,000
-- Okay.
-- All right.
-
-382
-00:30:14,700 --> 00:30:18,100
-Beautiful big door for a beautiful big key.
-
-383
-00:30:24,500 --> 00:30:26,800
-Oh, I got your stash now, you old cunt.
-
-384
-00:30:32,800 --> 00:30:34,400
-What am I gonna do with a bunch of wine?
-
-385
-00:30:46,000 --> 00:30:47,000
-What the hell is this?
-
-386
-00:30:57,700 --> 00:30:59,000
-Here we go. Come on.
-
-387
-00:31:01,800 --> 00:31:02,900
-Come on!
-
-388
-00:31:04,100 --> 00:31:05,800
-I've dealt with stubborn bitches before.
-
-389
-00:31:06,800 --> 00:31:09,000
-You just need some kicking.
-
-390
-00:31:09,900 --> 00:31:10,900
-Now, honey.
-
-391
-00:31:22,100 --> 00:31:25,000
-I'm coming back here. I don't quit easy!
-
-392
-00:31:56,400 --> 00:31:57,400
-You're asking for trouble.
-
-393
-00:32:00,000 --> 00:32:02,100
-That wouldn't burn
-if you doused it with a fuel tanker.
-
-394
-00:32:04,500 --> 00:32:06,200
-This here will give you some good flavor.
-
-395
-00:32:06,400 --> 00:32:08,500
-But if you wanna unleash some hellfire,
-
-396
-00:32:09,900 --> 00:32:11,100
-this here's the stuff.
-
-397
-00:32:12,600 --> 00:32:13,600
-Good to know.
-
-398
-00:32:17,400 --> 00:32:18,800
-In town for the carnival?
-
-399
-00:32:20,400 --> 00:32:21,700
-Just a little housewarming.
-
-400
-00:32:23,900 --> 00:32:26,000
-Well, you best keep it down.
-
-401
-00:32:26,000 --> 00:32:27,300
-I'd hate to have to haul you in.
-
-402
-00:32:27,800 --> 00:32:28,900
-I'll try to behave.
-
-403
-00:32:30,000 --> 00:32:31,600
-- How much is this?
-- That'll be $9.
-
-404
-00:32:31,700 --> 00:32:33,000
-So, whereabouts is this shindig?
-
-405
-00:32:35,200 --> 00:32:36,200
-Homestead Road.
-
-406
-00:32:37,300 --> 00:32:39,200
-Ain't nothing out there
-but the old Carson place.
-
-407
-00:32:39,200 --> 00:32:40,200
-That's the one.
-
-408
-00:32:41,000 --> 00:32:42,300
-I thought that place was empty.
-
-409
-00:32:42,600 --> 00:32:43,600
-Not anymore.
-
-410
-00:32:43,700 --> 00:32:45,200
-This officer bothering you?
-
-411
-00:32:46,600 --> 00:32:48,300
-Say the word and I'll shoot him.
-
-412
-00:32:48,400 --> 00:32:49,400
-He will, too.
-
-413
-00:32:50,600 --> 00:32:52,100
-Go read some meters.
-
-414
-00:32:55,200 --> 00:32:58,300
-Burt Hartman, proud mayor
-of this little slice of paradise.
-
-415
-00:32:58,400 --> 00:32:59,400
-How're you doin'?
-
-416
-00:33:01,400 --> 00:33:03,300
-- Heather.
-- Nice to meet you, Heather.
-
-417
-00:33:04,900 --> 00:33:06,300
-Now, my ears aren't what they used to be,
-
-418
-00:33:06,300 --> 00:33:07,700
-but I swear I coulda heard you say
-
-419
-00:33:07,800 --> 00:33:09,100
-something about the Carson place.
-
-420
-00:33:09,800 --> 00:33:10,800
-I inherited it.
-
-421
-00:33:11,800 --> 00:33:14,000
-- You're a Carson?
-- No.
-
-422
-00:33:15,600 --> 00:33:17,500
-- You're not a Sawyer.
-- Yep.
-
-423
-00:33:19,300 --> 00:33:20,500
-Yeah, you've got her eyes.
-
-424
-00:33:20,900 --> 00:33:22,200
-- You knew her?
-- Yeah.
-
-425
-00:33:22,300 --> 00:33:23,800
-Me and your family go way back.
-
-426
-00:33:24,100 --> 00:33:25,100
-And I know they wouldn't want you
-
-427
-00:33:25,200 --> 00:33:27,300
-to be burdened with that beat-up old trap.
-
-428
-00:33:27,400 --> 00:33:28,400
-Tell you what.
-
-429
-00:33:28,800 --> 00:33:30,600
-I'll take the whole place off your hands.
-
-430
-00:33:30,900 --> 00:33:31,900
-No, thanks.
-
-431
-00:33:32,100 --> 00:33:34,900
-Gonna hardball me, huh?
-Hell, I like you already.
-
-432
-00:33:35,100 --> 00:33:36,100
-Come on, let's go.
-
-433
-00:33:36,700 --> 00:33:38,200
-Come on. Give me a number.
-
-434
-00:33:45,100 --> 00:33:46,300
-Yo!
-
-435
-00:33:46,800 --> 00:33:47,800
-Oh.
-
-436
-00:33:48,000 --> 00:33:50,000
-- Oh, shit.
-- What?
-
-437
-00:33:50,500 --> 00:33:51,500
-Fucking thief.
-
-438
-00:33:54,500 --> 00:33:55,600
-He took my keys.
-
-439
-00:33:56,500 --> 00:33:59,300
-- Wow, he played that smooth.
-- Yeah, he did.
-
-440
-00:33:59,600 --> 00:34:00,800
-We should've never picked that guy up.
-
-441
-00:34:00,900 --> 00:34:01,900
-Yo!
-
-442
-00:34:03,600 --> 00:34:05,100
-- Whoo!
-- Let's do this right.
-
-443
-00:34:06,800 --> 00:34:08,600
-- What's wrong?
-- Darryl ripped us off.
-
-444
-00:34:09,700 --> 00:34:12,600
-So he heisted some ashtrays
-and candlesticks.
-
-445
-00:34:12,700 --> 00:34:15,800
-That shouldn't keep you
-from having a good time. Come on.
-
-446
-00:34:16,000 --> 00:34:17,600
-- Cheers, you guys.
-- Yeah.
-
-447
-00:34:18,000 --> 00:34:19,000
-To happiness.
-
-448
-00:34:19,400 --> 00:34:22,400
-- To the queen.
-- Yeah.
-
-449
-00:34:22,500 --> 00:34:25,000
-- To the Sawyers.
-- To the Sawyers.
-
-450
-00:34:25,100 --> 00:34:26,300
-Sawyers. All right.
-
-451
-00:35:55,600 --> 00:35:57,800
-Hey, there's a butler's pantry in here!
-
-452
-00:36:48,200 --> 00:36:49,200
-Darryl?
-
-453
-00:36:55,500 --> 00:36:56,500
-Darryl?
-
-454
-00:37:01,600 --> 00:37:03,300
-Yo, Darryl!
-
-455
-00:37:18,700 --> 00:37:19,700
-Darryl!
-
-456
-00:38:05,700 --> 00:38:06,800
-Oh, my God, you've gotta see this!
-
-457
-00:38:06,900 --> 00:38:07,900
-What?
-
-458
-00:38:08,100 --> 00:38:10,100
-- It's so fucked up! Come on!
-- Whoa, what's wrong?
-
-459
-00:38:10,400 --> 00:38:11,400
-Come on!
-
-460
-00:38:14,600 --> 00:38:16,300
-- It's right down there.
-- Where?
-
-461
-00:38:16,400 --> 00:38:18,600
-- It's right down there.
-- Where?
-
-462
-00:38:18,700 --> 00:38:20,600
-It's in that stall, right there.
-
-463
-00:38:21,200 --> 00:38:22,900
-- In here?
-- Oh, God!
-
-464
-00:38:24,900 --> 00:38:26,000
-Nikki, I don't see shit.
-
-465
-00:38:26,100 --> 00:38:29,500
-It's right under that bucket.
-It's under that bucket right there.
-
-466
-00:38:29,600 --> 00:38:30,700
-It's right under that bucket.
-
-467
-00:38:32,400 --> 00:38:33,400
-Okay.
-
-468
-00:38:42,100 --> 00:38:43,300
-What the hell, Nikki?
-
-469
-00:38:45,300 --> 00:38:46,800
-What are you doing?
-
-470
-00:38:53,100 --> 00:38:54,300
-I told you it was fucked up.
-
-471
-00:39:53,000 --> 00:39:54,000
-Ryan!
-
-472
-00:39:56,300 --> 00:39:57,300
-Ryan!
-
-473
-00:40:00,100 --> 00:40:01,100
-You guys!
-
-474
-00:40:08,300 --> 00:40:09,300
-Kenny?
-
-475
-00:44:33,900 --> 00:44:34,900
-Dude, what the...
-
-476
-00:44:36,100 --> 00:44:38,200
-What is that? What the... What is he doing?
-
-477
-00:44:40,100 --> 00:44:41,100
-Who is that?
-
-478
-00:44:42,600 --> 00:44:44,700
-Hey! Hey!
-
-479
-00:44:49,300 --> 00:44:50,300
-Hey!
-
-480
-00:44:52,800 --> 00:44:53,800
-- Go.
-- What?
-
-481
-00:44:54,000 --> 00:44:55,000
-- Oh, my God!
-- Go!
-
-482
-00:45:01,100 --> 00:45:02,600
-- Move. Move!
-- Close the door!
-
-483
-00:45:31,800 --> 00:45:33,600
-Welcome to Texas, motherfucker!
-
-484
-00:45:40,700 --> 00:45:41,700
-Did you hit him?
-
-485
-00:45:42,300 --> 00:45:43,300
-I don't know.
-
-486
-00:45:43,700 --> 00:45:45,000
-- Did you hit him?
-- I don't know!
-
-487
-00:45:49,000 --> 00:45:50,100
-Something's coming. Back up.
-
-488
-00:45:50,500 --> 00:45:51,800
-Back up! Back up, Nikki!
-
-489
-00:45:54,900 --> 00:45:56,200
-- Get in the van!
-- It's Heather!
-
-490
-00:45:57,200 --> 00:45:58,300
-Move over, move over!
-
-491
-00:45:58,400 --> 00:46:00,500
-Let me in! Hurry and get us out of here! Go!
-
-492
-00:46:01,100 --> 00:46:02,200
-Go, go, go, go!
-
-493
-00:46:07,900 --> 00:46:09,100
-Go!
-
-494
-00:46:11,800 --> 00:46:12,800
-Go! Go!
-
-495
-00:46:15,000 --> 00:46:16,100
-Go, go, go!
-
-496
-00:46:17,600 --> 00:46:18,700
-What the hell was that?
-
-497
-00:46:21,800 --> 00:46:22,800
-Where's Kenny?
-
-498
-00:46:24,000 --> 00:46:25,400
-He's dead. They're fucking dead!
-
-499
-00:46:31,700 --> 00:46:33,000
-Ryan, slow down. Slow down.
-
-500
-00:46:33,100 --> 00:46:34,600
-The gate, the gate needs to open!
-
-501
-00:46:34,800 --> 00:46:36,300
-- Give it time to open!
-- We got to go.
-
-502
-00:46:36,400 --> 00:46:37,500
-Fuck the gate! Buckle up!
-
-503
-00:46:46,500 --> 00:46:48,300
-- What happened?
-- The car stopped.
-
-504
-00:46:48,400 --> 00:46:49,400
-Why?
-
-505
-00:46:49,700 --> 00:46:51,200
-Okay, back it up. Back...
-
-506
-00:46:54,700 --> 00:46:56,600
-- Ryan!
-- Back it up, back it up, back it up!
-
-507
-00:46:56,700 --> 00:46:58,300
-- Back up the car!
-- What's wrong with it?
-
-508
-00:46:58,800 --> 00:47:00,100
-- Ryan, go!
-- I'm fucking trying!
-
-509
-00:47:00,300 --> 00:47:02,000
-- Back up the car!
-- It won't start!
-
-510
-00:47:04,400 --> 00:47:05,900
-Fuck, fuck, fuck, fuck, fuck!
-
-511
-00:47:06,200 --> 00:47:08,100
-- Back up!
-- Here we go. Here we go.
-
-512
-00:47:13,100 --> 00:47:14,600
-Wait for the gate to open.
-
-513
-00:47:16,500 --> 00:47:17,900
-- Fuck!
-- Ryan!
-
-514
-00:47:18,000 --> 00:47:19,000
-Ryan! Start it!
-
-515
-00:47:20,900 --> 00:47:22,400
-- Go Ryan, go!
-- It won't start!
-
-516
-00:47:23,900 --> 00:47:25,300
-Now, go, go, go!
-
-517
-00:47:25,800 --> 00:47:27,400
-- Ryan, go!
-- Ryan, go!
-
-518
-00:47:27,800 --> 00:47:29,300
-- Ryan, go!
-- Come on!
-
-519
-00:47:29,400 --> 00:47:30,700
-- Go, go!
-- Please, go!
-
-520
-00:47:32,000 --> 00:47:33,000
-Come on!
-
-521
-00:47:41,600 --> 00:47:42,600
-Here he comes!
-
-522
-00:48:06,100 --> 00:48:09,700
-Ryan. Ryan.
-
-523
-00:48:36,200 --> 00:48:37,800
-Heather, what happened?
-
-524
-00:48:42,800 --> 00:48:43,900
-What?
-
-525
-00:48:44,100 --> 00:48:48,000
-Quiet. Quiet.
-
-526
-00:48:52,000 --> 00:48:53,500
-We gotta get outta here now.
-
-527
-00:48:53,600 --> 00:48:55,300
-We gotta get outta here right now!
-
-528
-00:49:04,100 --> 00:49:06,700
-Get away, get away, he's coming over here!
-
-529
-00:49:11,300 --> 00:49:12,300
-My leg.
-
-530
-00:49:14,700 --> 00:49:15,700
-No, Nikki!
-
-531
-00:49:48,900 --> 00:49:51,500
-Hey! Hey, you country fuck!
-
-532
-00:50:30,700 --> 00:50:31,700
-Run, run!
-
-533
-00:50:38,800 --> 00:50:40,300
-Hey, Wanna play a game?
-
-534
-00:50:42,600 --> 00:50:43,600
-Call the police!
-
-535
-00:50:49,100 --> 00:50:51,300
-Get out of the way! Call the police!
-
-536
-00:50:54,200 --> 00:50:56,000
-- Go! Get out of the way!
-- What the hell?
-
-537
-00:51:02,200 --> 00:51:03,300
-What is going on?
-
-538
-00:51:04,300 --> 00:51:05,400
-Hey! Hey!
-
-539
-00:51:40,000 --> 00:51:41,000
-Drop the fucking saw!
-
-540
-00:51:42,600 --> 00:51:43,600
-I said, drop it!
-
-541
-00:51:43,700 --> 00:51:44,700
-Put it down!
-
-542
-00:52:06,700 --> 00:52:07,800
-Where's the girl?
-
-543
-00:52:07,800 --> 00:52:09,400
-Carl is tending to her in the back.
-
-544
-00:52:09,400 --> 00:52:10,600
-All right.
-
-545
-00:52:18,400 --> 00:52:21,200
-<i>Sheriff? This is Marvin. I'm at the crash site.</i>
-
-546
-00:52:21,300 --> 00:52:23,200
-<i>- You copy?</i>
-- Go ahead, Marvin.
-
-547
-00:52:23,900 --> 00:52:25,300
-Approaching the vehicle now.
-
-548
-00:52:25,700 --> 00:52:28,200
-Late model VW bus on its side.
-
-549
-00:52:30,300 --> 00:52:31,300
-It's a real mess.
-
-550
-00:52:32,600 --> 00:52:34,300
-- Do you need an ambulance?
-<i>- Checking now.</i>
-
-551
-00:52:37,700 --> 00:52:39,800
-That's a negative.
-No one. No victims on the scene.
-
-552
-00:52:41,600 --> 00:52:44,900
-Sheriff? There's blood everywhere.
-
-553
-00:52:45,500 --> 00:52:49,200
-Seat's all sawed up.
-Somebody died out here.
-
-554
-00:52:49,900 --> 00:52:52,200
-All right, stay where you are, Marvin.
-I'll get back at ya.
-
-555
-00:52:52,600 --> 00:52:53,600
-Roger that.
-
-556
-00:53:10,300 --> 00:53:12,900
-- Hey.
-- They find her?
-
-557
-00:53:14,400 --> 00:53:15,400
-We Will.
-
-558
-00:53:17,800 --> 00:53:20,500
-- Got you a shirt here.
-- Thanks.
-
-559
-00:53:20,600 --> 00:53:21,600
-At least it's clean.
-
-560
-00:53:25,200 --> 00:53:26,700
-I should've never brought them here.
-
-561
-00:53:29,600 --> 00:53:33,100
-Look, this town ain't much,
-but we take care of our own here.
-
-562
-00:53:33,900 --> 00:53:35,600
-He'll be a sack of meat scraps by dawn.
-
-563
-00:53:36,800 --> 00:53:38,000
-You can count on it.
-
-564
-00:53:39,300 --> 00:53:40,300
-Carl!
-
-565
-00:53:45,000 --> 00:53:46,900
-- Take your time.
-- Okay.
-
-566
-00:53:57,900 --> 00:53:59,500
-Sheriff Hooper? This is Heather.
-
-567
-00:53:59,600 --> 00:54:00,600
-Hi.
-
-568
-00:54:00,800 --> 00:54:01,800
-You the girl that guy was chasing?
-
-569
-00:54:01,900 --> 00:54:02,900
-Yeah.
-
-570
-00:54:03,100 --> 00:54:05,300
-He killed my friends, but Nikki...
-
-571
-00:54:06,100 --> 00:54:07,600
-She was still alive after the crash.
-
-572
-00:54:07,800 --> 00:54:09,500
-Yeah, we're on it,
-but there was no one at the site.
-
-573
-00:54:09,700 --> 00:54:12,100
-No, she was there. I left her there.
-He must have moved them.
-
-574
-00:54:12,100 --> 00:54:13,200
-Do you know who he is?
-
-575
-00:54:13,300 --> 00:54:16,200
-No. He was in the house, he was...
-
-576
-00:54:16,400 --> 00:54:18,300
-- What house?
-- The Carson Estate.
-
-577
-00:54:20,600 --> 00:54:23,000
-My grandmother left it to me. Verna Carson.
-
-578
-00:54:23,500 --> 00:54:24,900
-We just got here a few hours ago.
-
-579
-00:54:26,600 --> 00:54:28,400
-I'm a Sawyer, if that's your next question.
-
-580
-00:54:28,700 --> 00:54:30,700
-Sheriff, I dug through the evidence room.
-
-581
-00:54:31,400 --> 00:54:32,900
-Pulled out what we had on Verna Carson.
-
-582
-00:54:33,900 --> 00:54:35,400
-Also pulled a big file on the Sawyers.
-
-583
-00:54:35,500 --> 00:54:36,900
-You get a good look at him?
-
-584
-00:54:37,200 --> 00:54:38,400
-He was wearing a face.
-
-585
-00:54:39,300 --> 00:54:40,300
-A mask?
-
-586
-00:54:42,900 --> 00:54:44,000
-A human face.
-
-587
-00:54:47,600 --> 00:54:49,000
-Carl, we're a little short-handed.
-
-588
-00:54:49,200 --> 00:54:51,600
-I'm gonna need you out on the street.
-Get going.
-
-589
-00:54:53,700 --> 00:54:55,300
-<i>Sheriff, the mayor just got here.</i>
-
-590
-00:54:55,400 --> 00:54:56,700
-<i>He's looking for you.</i>
-
-591
-00:54:58,000 --> 00:54:59,000
-Thanks.
-
-592
-00:54:59,900 --> 00:55:02,100
-Take a seat. I'll be back in a minute.
-
-593
-00:55:06,400 --> 00:55:08,200
-Some fucking crazy just tore up the carnival!
-
-594
-00:55:08,400 --> 00:55:10,100
-I need to know
-what the police are gonna do about it!
-
-595
-00:55:10,400 --> 00:55:11,400
-My office.
-
-596
-00:55:15,700 --> 00:55:16,800
-I think it may be Jed.
-
-597
-00:55:17,300 --> 00:55:18,300
-Jed Sawyer?
-
-598
-00:55:18,500 --> 00:55:19,900
-No way.
-
-599
-00:55:20,200 --> 00:55:21,900
-We burned that place
-to the ground years ago, Hooper.
-
-600
-00:55:22,000 --> 00:55:23,300
-You were there. No one escaped.
-
-601
-00:55:23,500 --> 00:55:25,400
-Well, maybe he crawled out
-through the back. I don't know.
-
-602
-00:55:25,700 --> 00:55:27,200
-You telling me he's been
-holed up all these years
-
-603
-00:55:27,300 --> 00:55:28,400
-and now he's running around on the loose?
-
-604
-00:55:28,600 --> 00:55:31,100
-I'm telling you a 6'5" man
-
-605
-00:55:31,300 --> 00:55:32,800
-came out of Verna Carson's house
-
-606
-00:55:32,900 --> 00:55:35,400
-wearing a skin mask and wielding that.
-
-607
-00:55:35,900 --> 00:55:37,000
-Sheriff?
-
-608
-00:55:37,400 --> 00:55:38,900
-I'm at the Carson place.
-
-609
-00:55:39,600 --> 00:55:40,800
-<i>Gate's busted open.</i>
-
-610
-00:55:41,700 --> 00:55:42,900
-There's a broken side mirror that looks like
-
-611
-00:55:43,000 --> 00:55:44,100
-it matches the van.
-
-612
-00:55:44,200 --> 00:55:46,200
-Marvin, I told you to stay at the van.
-
-613
-00:55:46,300 --> 00:55:47,300
-Now, that's an order. Do you copy?
-
-614
-00:55:47,400 --> 00:55:48,900
-Hell, no! That's not how we play this!
-
-615
-00:55:49,100 --> 00:55:50,900
-There's a blood trail on the pavement.
-
-616
-00:55:51,200 --> 00:55:53,200
-Sheriff, no disrespect,
-but I think I need to move on this.
-
-617
-00:55:53,300 --> 00:55:54,900
-<i>That's not your call, Officer.</i>
-
-618
-00:55:55,200 --> 00:55:57,600
-<i>Marvin! This is Mayor Hartman.
-You got your Eagle?</i>
-
-619
-00:55:57,900 --> 00:55:59,300
-You know it, with an extended clip.
-
-620
-00:56:00,800 --> 00:56:02,300
-Just looking for a reason, sir.
-
-621
-00:56:02,500 --> 00:56:04,000
-Then what the hell are you waiting for?
-
-622
-00:56:04,900 --> 00:56:06,800
-Marvin, stand down.
-
-623
-00:56:06,900 --> 00:56:08,600
-Now, we believe Jed Sawyer may be alive.
-
-624
-00:56:08,800 --> 00:56:09,900
-<i>And he may be in that house.</i>
-
-625
-00:56:10,000 --> 00:56:13,800
-Copy that, sir,
-but a chainsaw don't make you bulletproof.
-
-626
-00:57:40,900 --> 00:57:42,000
-Door's wide open.
-
-627
-00:57:42,700 --> 00:57:44,100
-This is a mistake.
-
-628
-00:57:44,100 --> 00:57:45,800
-Now, stop it now before you get him hurt.
-
-629
-00:57:45,800 --> 00:57:47,500
-- It's hot pursuit, Hooper.
-- I'm <i>going</i> in.
-
-630
-00:57:52,800 --> 00:57:53,800
-Police!
-
-631
-00:58:04,800 --> 00:58:05,800
-Yeah.
-
-632
-00:58:05,900 --> 00:58:08,400
-- Give me a visual.
-- You got it.
-
-633
-00:58:12,400 --> 00:58:13,400
-Movin'.
-
-634
-00:59:03,900 --> 00:59:05,000
-This is on you, Burt.
-
-635
-00:59:05,100 --> 00:59:06,500
-Eye for an eye, Sheriff.
-
-636
-00:59:06,600 --> 00:59:07,800
-Can't get around the Good Book.
-
-637
-00:59:16,300 --> 00:59:17,500
-<i>Entering the kitchen.</i>
-
-638
-00:59:17,800 --> 00:59:18,800
-Proceed.
-
-639
-00:59:26,400 --> 00:59:27,500
-What the hell?
-
-640
-00:59:32,200 --> 00:59:33,600
-<i>Following the blood.</i>
-
-641
-00:59:37,700 --> 00:59:38,700
-Jesus!
-
-642
-00:59:40,900 --> 00:59:41,900
-<i>You seeing this?</i>
-
-643
-00:59:42,800 --> 00:59:43,800
+00:05:54,062 --> 00:05:55,604
 Shit.
 
-644
-00:59:48,400 --> 00:59:50,300
-Looks like it leads to this door.
+57
+00:06:01,319 --> 00:06:02,319
+Come here, Sawyer!
 
-645
-00:59:51,500 --> 00:59:52,500
-<i>Push it open.</i>
+58
+00:06:02,404 --> 00:06:03,654
+Give us the retard!
 
-646
-01:00:01,000 --> 01:00:02,100
+59
+00:06:06,742 --> 00:06:08,659
+More of them are here! Those aren't cops.
+
+60
+00:06:10,912 --> 00:06:12,580
+Get back, Drayton!
+
+61
+00:06:12,664 --> 00:06:13,664
+We've got trouble!
+
+62
+00:06:17,085 --> 00:06:21,005
+-Stay out of this, Burt. I've got it under control.
+-We came to help.
+
+63
+00:06:21,256 --> 00:06:23,257
+Then start by making everybody
+get back in their cars
+
+64
+00:06:23,341 --> 00:06:24,467
+and get the hell out of here.
+
+65
+00:06:24,593 --> 00:06:25,593
+That's not going to happen.
+
+66
+00:06:25,761 --> 00:06:28,429
+Come on, boys! Let's lynch
+these sons of bitches.
+
+67
+00:06:28,597 --> 00:06:30,765
+I've got this under control.
+He's turning over the boy.
+
+68
+00:06:31,975 --> 00:06:33,100
+What's going on in there, Sheriff?
+
+69
+00:06:33,351 --> 00:06:35,853
+-Kick him out!
+-He's handing over his son.
+
+70
+00:06:35,937 --> 00:06:37,480
+Bring him out!
+
+71
+00:06:37,606 --> 00:06:39,857
+-Burn them, Ollie!
+-Special delivery!
+
+72
+00:06:40,525 --> 00:06:41,650
+No!
+
+73
+00:06:41,777 --> 00:06:42,777
+You bastards!
+
+74
+00:07:34,329 --> 00:07:36,497
+That's it. A Sawyer bonfire.
+
+75
+00:07:38,083 --> 00:07:39,166
+You're responsible for this, Burt.
+
+76
+00:07:41,044 --> 00:07:43,921
+An eye for an eye, Sheriff.
+Nobody escapes biblical justice.
+
+77
+00:07:48,510 --> 00:07:49,552
+That's right, boys!
+
+78
+00:08:05,360 --> 00:08:07,736
+Keep looking. It's hard to find
+them when they're burned to a crisp.
+
+79
+00:08:09,030 --> 00:08:11,532
+Hell. Burt!
+
+80
+00:08:14,035 --> 00:08:15,369
+-Yeah?
+-Look at this.
+
+81
+00:08:16,788 --> 00:08:18,706
+I'm going to hang this thing up in the bar.
+
+82
+00:08:20,542 --> 00:08:22,293
+-This beauty's coming with me.
+-We'll be heroes.
+
+83
+00:08:39,436 --> 00:08:40,978
+Son of a bitch.
+
+84
+00:08:41,771 --> 00:08:42,938
+Help us.
+
+85
+00:08:44,608 --> 00:08:47,067
+Yeah. Come here.
+
+86
+00:08:47,235 --> 00:08:49,653
+Come on. Come here.
+
+87
+00:08:49,988 --> 00:08:51,572
+Come on. Let her go.
+
+88
+00:08:52,240 --> 00:08:54,575
+Come on. Yeah.
+
+89
+00:08:56,119 --> 00:08:58,162
+I've got her. Easy now.
+
+90
+00:09:04,085 --> 00:09:05,085
+Easy.
+
+91
+00:09:14,095 --> 00:09:17,264
+Gavin, where have you been? What is...?
+
+92
+00:09:17,933 --> 00:09:19,266
+Oh, my God. It's a baby.
+
+93
+00:09:19,351 --> 00:09:21,268
+I found her. I got her out of the woods.
+
+94
+00:09:22,020 --> 00:09:23,020
+Gavin!
+
+95
+00:09:23,104 --> 00:09:26,148
+-Come on, we're going to be in the paper.
+-Yeah, I'll be right there.
+
+96
+00:09:26,983 --> 00:09:28,150
+Yeah.
+
+97
+00:09:28,276 --> 00:09:30,569
+Come on, you're going to miss it!
+
+98
+00:09:30,654 --> 00:09:32,488
+She got burned.
+
+99
+00:09:33,114 --> 00:09:34,490
+All right. Yeah, brother!
+
+100
+00:09:35,116 --> 00:09:36,200
+I'm coming, buddy!
+
+101
+00:09:36,284 --> 00:09:38,702
+-We're keeping her, right?
+-I brought her for you, Arlene.
+
+102
+00:09:38,787 --> 00:09:41,330
+You never know what you look
+like until you see the picture.
+
+103
+00:10:18,994 --> 00:10:19,994
+I'll be right back.
+
+104
+00:10:24,708 --> 00:10:26,583
+What were you thinking?
+
+105
+00:10:26,668 --> 00:10:29,378
+It was Ryan's idea. I warned you.
+
+106
+00:10:29,504 --> 00:10:32,089
+Next time your sleazy
+boyfriend tries to set me up
+
+107
+00:10:32,173 --> 00:10:33,841
+with one of his high-school buddies,
+
+108
+00:10:35,510 --> 00:10:37,720
+-give him a kiss for me.
+-What?
+
+109
+00:10:37,846 --> 00:10:40,180
+I like him. We got along.
+
+110
+00:10:40,265 --> 00:10:43,892
+We started talking, and he made
+me some delicious pancakes.
+
+111
+00:10:44,019 --> 00:10:45,311
+Excellent.
+
+112
+00:10:45,395 --> 00:10:47,271
+He wants to be a chef.
+
+113
+00:10:47,355 --> 00:10:50,607
+And he's much more interesting than he looks.
+
+114
+00:10:50,692 --> 00:10:53,569
+Can you handle the four-day
+trip to New Orleans with him?
+
+115
+00:10:53,737 --> 00:10:56,530
+I got you beat, girl. He
+even offered to drive.
+
+116
+00:10:56,948 --> 00:10:58,949
+-Really? Wow.
+-You bet!
+
+117
+00:10:59,034 --> 00:11:00,534
+-I was talking to...
+-Nikki!
+
+118
+00:11:01,119 --> 00:11:02,536
+Bobby wants you back at the register.
+
+119
+00:11:03,872 --> 00:11:06,415
+Fine. I'm going to get my
+Halloween costume ready.
+
+120
+00:11:06,750 --> 00:11:08,208
+And it won't be scary at all.
+
+121
+00:11:33,735 --> 00:11:35,611
+Nikki likes your friend from high school.
+
+122
+00:11:36,404 --> 00:11:37,613
+Something about pancakes?
+
+123
+00:11:37,739 --> 00:11:38,822
+That's Kenny's famous trick.
+
+124
+00:11:40,241 --> 00:11:41,408
+Nikki never stood a chance.
+
+125
+00:11:45,080 --> 00:11:47,081
+I thought we weren't bringing work home.
+
+126
+00:11:48,333 --> 00:11:49,333
+Do you think I'm crazy?
+
+127
+00:11:50,168 --> 00:11:53,754
+No, but you should broaden your interests.
+
+128
+00:11:56,257 --> 00:11:57,508
+Come work up a sweat.
+
+129
+00:11:58,259 --> 00:11:59,593
+I don't want any bruises.
+
+130
+00:12:00,303 --> 00:12:01,595
+I wasn't talking about the punching bag.
+
+131
+00:12:02,847 --> 00:12:03,931
+Neither was I.
+
+132
+00:12:18,113 --> 00:12:19,780
+I love your strange birthmark.
+
+133
+00:12:24,452 --> 00:12:27,621
+-Damn it.
+-Who is it?
+
+134
+00:12:28,623 --> 00:12:31,291
+Shit. It could be my contract.
+
+135
+00:12:36,631 --> 00:12:37,631
+Coming!
+
+136
+00:12:54,357 --> 00:12:56,024
+-It's for you.
+-For me?
+
+137
+00:12:56,985 --> 00:12:58,485
+From a law firm in Dallas.
+
+138
+00:13:04,242 --> 00:13:05,909
+My grandmother died three weeks ago.
+
+139
+00:13:06,828 --> 00:13:08,078
+I thought you didn't have
+any living grandparents.
+
+140
+00:13:08,538 --> 00:13:09,538
+So did I.
+
+141
+00:13:11,040 --> 00:13:13,125
+I just wanted to have a baby.
+
+142
+00:13:13,209 --> 00:13:14,918
+-Enough.
+-I wanted children so badly,
+
+143
+00:13:15,003 --> 00:13:17,337
+-but I couldn't have them!
+-Enough, Arlene.
+
+144
+00:13:19,924 --> 00:13:21,175
+Why didn't you tell me?
+
+145
+00:13:21,342 --> 00:13:24,178
+Tell you what? That your
+mother has a defective uterus?
+
+146
+00:13:25,513 --> 00:13:27,514
+I wanted a child. Period.
+
+147
+00:13:28,516 --> 00:13:30,934
+So what? Aren't we good enough for you?
+
+148
+00:13:31,019 --> 00:13:32,019
+I didn't say that.
+
+149
+00:13:32,729 --> 00:13:36,356
+I just want to know where I
+come from, and who my family is.
+
+150
+00:13:36,441 --> 00:13:40,694
+Well, we raised you. And I'd
+say you were pretty lucky.
+
+151
+00:13:41,362 --> 00:13:42,529
+Those people were...
+
+152
+00:13:43,448 --> 00:13:44,740
+I can't even describe them.
+
+153
+00:13:44,866 --> 00:13:46,575
+-Shut up, Arlene.
+-There are no words, Heather.
+
+154
+00:13:46,701 --> 00:13:47,701
+Shut up!
+
+155
+00:13:51,873 --> 00:13:53,290
+You come from a pile of shit.
+
+156
+00:13:55,627 --> 00:13:57,419
+There. Now you know.
+
+157
+00:13:58,213 --> 00:14:00,214
+If I'd been smart, I'd have left you there.
+
+158
+00:14:05,136 --> 00:14:06,720
+I'm leaving! I've had enough.
+
+159
+00:14:06,804 --> 00:14:08,055
+Don't you dare go there!
+
+160
+00:14:08,139 --> 00:14:09,139
+Heather!
+
+161
+00:14:11,684 --> 00:14:12,684
+Heather.
+
+162
+00:14:14,062 --> 00:14:17,314
+Heather, if you go there,
+you'll bring trouble on us.
+
+163
+00:14:17,398 --> 00:14:18,774
+What are you talking about?
+
+164
+00:14:20,235 --> 00:14:21,235
+Trust me.
+
+165
+00:14:21,694 --> 00:14:25,030
+Newt, Texas, is the last
+place you want to be.
+
+166
+00:14:45,718 --> 00:14:47,594
+-How'd it go?
+-Awful.
+
+167
+00:14:48,680 --> 00:14:51,557
+It sucks finding out your parents
+lied to you your whole life.
+
+168
+00:14:52,058 --> 00:14:53,141
+I'm sorry, honey.
+
+169
+00:14:53,268 --> 00:14:54,476
+I'm adopted.
+
+170
+00:14:58,106 --> 00:14:59,982
+I've never felt comfortable around them.
+
+171
+00:15:02,860 --> 00:15:03,944
+I'm going to pack
+
+172
+00:15:04,028 --> 00:15:05,946
+-for Texas, not New Orleans.
+-Wait.
+
+173
+00:15:06,030 --> 00:15:07,948
+-Wait.
+-No, Ryan. I have to go.
+
+174
+00:15:08,032 --> 00:15:10,033
+-Forget Halloween.
+-Please listen to me.
+
+175
+00:15:10,118 --> 00:15:11,118
+Hey.
+
+176
+00:15:14,956 --> 00:15:16,873
+Ryan called us.
+
+177
+00:15:16,958 --> 00:15:19,585
+-Kenny!
+-I love your artwork.
+
+178
+00:15:20,086 --> 00:15:23,922
+I figured you'd want to sort out
+your grandmother's affairs, so...
+
+179
+00:15:24,007 --> 00:15:25,882
+Knowing how stubborn you are,
+
+180
+00:15:26,259 --> 00:15:27,843
+we decided to go with you.
+
+181
+00:15:28,261 --> 00:15:30,095
+Really? You'd do that?
+
+182
+00:15:30,346 --> 00:15:31,346
+Are you kidding?
+
+183
+00:15:32,056 --> 00:15:35,976
+Come here. Of course! You're our friend.
+
+184
+00:15:37,270 --> 00:15:40,272
+I wasn't going to let you
+go alone to some hick town.
+
+185
+00:15:41,441 --> 00:15:44,568
+I don't mind driving to Texas.
+I hear the barbecue's amazing.
+
+186
+00:15:44,652 --> 00:15:47,404
+What do you think?
+
+187
+00:15:47,488 --> 00:15:49,781
+Okay. Sounds like a good plan.
+
+188
+00:15:50,158 --> 00:15:51,742
+-Let's go.
+-Yeah.
+
+189
+00:16:12,055 --> 00:16:13,055
+Texas, here we come!
+
+190
+00:16:18,144 --> 00:16:22,022
+Oh, my God. Can you believe this? Oh, my God.
+
+191
+00:16:22,106 --> 00:16:23,315
+Go!
+
+192
+00:16:31,908 --> 00:16:33,408
+-What did you get?
+-All this.
+
+193
+00:16:34,661 --> 00:16:36,953
+You like it? Because it cost me 25 dollars.
+
+194
+00:16:37,038 --> 00:16:38,830
+No way. That's a rip-off.
+
+195
+00:16:39,082 --> 00:16:41,792
+Don't worry, honey. I used your credit card.
+
+196
+00:16:41,918 --> 00:16:44,836
+Yeah? That's fine. Know why?
+
+197
+00:16:45,338 --> 00:16:46,338
+Because
+
+198
+00:16:47,340 --> 00:16:50,050
+-Kenny paid for the gas.
+-What?
+
+199
+00:16:50,134 --> 00:16:51,677
+What...? Give me that.
+
+200
+00:16:51,761 --> 00:16:53,637
+-How'd you get that out of my pocket?
+-Kenny.
+
+201
+00:16:53,721 --> 00:16:55,555
+-Don't cry.
+-It's okay. Let's go, babe.
+
+202
+00:16:57,016 --> 00:16:58,517
+-Ready?
+-Let's go, babe.
+
+203
+00:17:03,189 --> 00:17:04,189
+What was that?
+
+204
+00:17:07,777 --> 00:17:09,361
+Jeez, are you okay?
+
+205
+00:17:10,113 --> 00:17:11,113
+Oh, God.
+
+206
+00:17:11,197 --> 00:17:12,614
+-Yeah, I'm fine.
+-You hit him, Kenny.
+
+207
+00:17:14,742 --> 00:17:16,243
+Sorry, I didn't see you.
+
+208
+00:17:16,327 --> 00:17:17,327
+I'm fine.
+
+209
+00:17:19,997 --> 00:17:21,206
+I ought to sue you.
+
+210
+00:17:23,000 --> 00:17:24,543
+I'll settle for a beef jerky stick.
+
+211
+00:17:27,588 --> 00:17:29,047
+Where are you headed?
+
+212
+00:17:29,632 --> 00:17:30,632
+New Orleans.
+
+213
+00:17:31,134 --> 00:17:32,843
+You're kidding! Awesome!
+
+214
+00:17:33,219 --> 00:17:34,803
+-You headed there too?
+-Nah.
+
+215
+00:17:35,054 --> 00:17:37,222
+Shreveport? It's on the way.
+
+216
+00:17:37,306 --> 00:17:39,266
+What about your car? Did it break down?
+
+217
+00:17:39,726 --> 00:17:42,185
+It's a long story.
+
+218
+00:17:42,687 --> 00:17:43,812
+Long story short,
+
+219
+00:17:43,896 --> 00:17:46,982
+my girlfriend kicked me out, and
+I've been hitchhiking since Tulsa.
+
+220
+00:17:48,776 --> 00:17:49,776
+I'd really appreciate a ride.
+
+221
+00:17:52,029 --> 00:17:53,155
+I don't mind paying you.
+
+222
+00:17:53,614 --> 00:17:54,614
+Sixty bucks.
+
+223
+00:17:55,199 --> 00:17:57,451
+You'd be doing me a big favor.
+It'd really help me out.
+
+224
+00:17:58,453 --> 00:17:59,453
+In this rain?
+
+225
+00:18:00,163 --> 00:18:01,830
+-All right. Let's go.
+-Really?
+
+226
+00:18:02,999 --> 00:18:04,875
+We have to make a stop in Texas on the way.
+
+227
+00:18:05,084 --> 00:18:07,085
+Beats walking.
+
+228
+00:18:07,920 --> 00:18:08,920
+Okay.
+
+229
+00:18:21,934 --> 00:18:23,894
+WELCOME TO TEXAS
+DRIVE FRIENDLY — THE TEXAS WAY
+
+230
+00:18:42,705 --> 00:18:43,705
+Are you okay?
+
+231
+00:18:45,374 --> 00:18:46,666
+Yeah. I'm fine.
+
+232
+00:18:48,461 --> 00:18:51,296
+-Are you scared?
+-No.
+
+233
+00:18:53,716 --> 00:18:56,843
+-I just want to know where I belong.
+-Yeah.
+
+234
+00:18:59,514 --> 00:19:00,514
+What's in Newt?
+
+235
+00:19:02,850 --> 00:19:04,226
+A one-sided family reunion.
+
+236
+00:19:05,561 --> 00:19:08,188
+My grandmother died. I
+have to sign some papers.
+
+237
+00:19:08,523 --> 00:19:11,983
+I'm sorry for your loss. Were you close?
+
+238
+00:19:12,193 --> 00:19:16,154
+I only found out she existed
+yesterday. But family is family.
+
+239
+00:19:16,572 --> 00:19:17,572
+Amen, sister.
+
+240
+00:19:21,118 --> 00:19:25,413
+Family is complicated. Blood
+ties are the strongest.
+
+241
+00:19:32,380 --> 00:19:38,510
+WELCOME TO NEWT
+Population: 2,306
+
+242
+00:19:56,070 --> 00:19:57,612
+Do you know anything about this place?
+
+243
+00:19:58,906 --> 00:19:59,906
+I've only got the address.
+
+244
+00:20:00,533 --> 00:20:01,867
+We get in and get out, right?
+
+245
+00:20:02,535 --> 00:20:03,535
+That's the plan.
+
+246
+00:20:05,121 --> 00:20:06,454
+We'd have been lost if it was dark.
+
+247
+00:20:06,539 --> 00:20:08,707
+What the hell? We wouldn't have seen a thing.
+
+248
+00:20:09,208 --> 00:20:12,377
+This is it. Homestead Road. Turn left.
+
+249
+00:20:12,461 --> 00:20:13,753
+HOMESTEAD ROAD
+CALDWELL ROAD
+
+250
+00:20:25,141 --> 00:20:26,141
+This can't be it, can it?
+
+251
+00:20:26,934 --> 00:20:28,268
+He said there'd be a big gate.
+
+252
+00:20:31,230 --> 00:20:38,403
+Wow.
+
+253
+00:20:40,865 --> 00:20:42,365
+There must be something back there.
+
+254
+00:20:42,700 --> 00:20:43,783
+Like a castle.
+
+255
+00:20:44,493 --> 00:20:45,827
+Okay.
+
+256
+00:21:13,522 --> 00:21:15,815
+Mr. Farnsworth? I'm Heather.
+
+257
+00:21:15,900 --> 00:21:19,194
+I recognized the car. It's identical.
+
+258
+00:21:19,278 --> 00:21:20,654
+Thanks for coming all the way from Dallas.
+
+259
+00:21:21,197 --> 00:21:25,158
+Anything for Verna. She was
+a good woman. A great person.
+
+260
+00:21:26,369 --> 00:21:28,328
+Though she wasn't very popular in this town.
+
+261
+00:21:28,412 --> 00:21:29,454
+BITCH
+
+262
+00:21:30,581 --> 00:21:32,874
+I didn't realize you were bringing friends.
+
+263
+00:21:33,292 --> 00:21:34,292
+Is that a problem?
+
+264
+00:21:35,002 --> 00:21:38,463
+The house is yours, if you want it.
+
+265
+00:21:39,674 --> 00:21:40,966
+You should know
+
+266
+00:21:41,133 --> 00:21:43,677
+Verna's trust prohibits you from selling it.
+
+267
+00:21:44,095 --> 00:21:45,512
+These documents explain everything.
+
+268
+00:21:45,596 --> 00:21:47,180
+Okay. Thank you.
+
+269
+00:21:47,723 --> 00:21:50,684
+You can't see the house from here.
+
+270
+00:21:51,352 --> 00:21:54,187
+But it's behind that grove of trees.
+
+271
+00:21:57,274 --> 00:22:01,778
+These keys open everything inside and out.
+
+272
+00:22:02,530 --> 00:22:04,406
+Verna took security seriously.
+
+273
+00:22:06,575 --> 00:22:09,953
+Zero-eight-one-nine.
+
+274
+00:22:11,330 --> 00:22:12,747
+It's easier to remember as a date.
+
+275
+00:22:12,999 --> 00:22:13,999
+August nineteenth.
+
+276
+00:22:14,083 --> 00:22:17,002
+Right. The gate opens
+automatically from the other side.
+
+277
+00:22:18,587 --> 00:22:20,880
+-I have a house.
+-And a whole list of assets
+
+278
+00:22:20,965 --> 00:22:24,342
+which I'll send as soon as
+the accountants sign off.
+
+279
+00:22:25,594 --> 00:22:27,846
+I almost forgot.
+
+280
+00:22:29,223 --> 00:22:30,515
+The most important thing.
+
+281
+00:22:31,892 --> 00:22:35,311
+-It's from Verna. Make sure you read it.
+-Okay. I will.
+
+282
+00:22:35,688 --> 00:22:39,149
+And call me if you have any questions.
+
+283
+00:22:41,902 --> 00:22:42,902
+Aren't you coming in?
+
+284
+00:22:46,073 --> 00:22:48,783
+No. I have other people waiting for me.
+
+285
+00:22:48,868 --> 00:22:50,368
+Don't forget to read Verna's letter.
+
+286
+00:22:51,829 --> 00:22:52,829
+Sir?
+
+287
+00:22:53,706 --> 00:22:54,706
+How did you find me?
+
+288
+00:22:55,124 --> 00:22:58,293
+Find you? Honey, you were never lost.
+
+289
+00:23:44,006 --> 00:23:45,632
+It's a mansion! Oh, my God!
+
+290
+00:23:52,515 --> 00:23:55,266
+-Wow.
+-Amazing.
+
+291
+00:23:55,726 --> 00:23:59,646
+-Unbelievable. Oh, my God! Are you serious?
+-Wow.
+
+292
+00:24:00,523 --> 00:24:01,856
+It's even prettier on the inside.
+
+293
+00:24:03,192 --> 00:24:05,276
+-I don't know where to start.
+-How about here?
+
+294
+00:24:09,740 --> 00:24:13,952
+-What are you doing?
+-Wow.
+
+295
+00:24:14,537 --> 00:24:15,703
+Look at that fancy china.
+
+296
+00:24:17,873 --> 00:24:20,375
+-Heather, can I open this door?
+-Yeah.
+
+297
+00:24:22,837 --> 00:24:24,629
+-Wow.
+-Wow.
+
+298
+00:24:26,674 --> 00:24:28,591
+Makes you want to come home again.
+
+299
+00:24:28,717 --> 00:24:29,717
+Anybody want some tea?
+
+300
+00:24:30,469 --> 00:24:31,553
+It's all set up.
+
+301
+00:24:31,887 --> 00:24:35,849
+Heather, what did Grandma do for a living?
+
+302
+00:24:36,559 --> 00:24:37,976
+I have no idea.
+
+303
+00:24:38,394 --> 00:24:39,936
+Look at this!
+
+304
+00:24:43,315 --> 00:24:44,983
+Looks like Grandma liked pool.
+
+305
+00:24:46,318 --> 00:24:47,819
+<i>-Who wants to play?
+-Me.</i>
+
+306
+00:24:48,070 --> 00:24:50,864
+-You got any money, bitch?
+-I'm a bitch now?
+
+307
+00:24:50,948 --> 00:24:52,157
+Yeah, my bitch.
+
+308
+00:24:52,241 --> 00:24:53,616
+Rack 'em up.
+
+309
+00:24:53,701 --> 00:24:55,368
+-Rack up what?
+-The balls.
+
+310
+00:25:00,624 --> 00:25:02,292
+-All right.
+-Nice shot.
+
+311
+00:25:03,419 --> 00:25:04,794
+Too bad.
+
+312
+00:25:05,629 --> 00:25:07,172
+Ow!
+
+313
+00:25:07,256 --> 00:25:09,841
+All right. Want to see me play? I'm
+going to own you. Where's the cue ball?
+
+314
+00:25:57,348 --> 00:25:59,182
+ELI THEODORE SAWYER
+AUGUST 19
+
+315
+00:26:20,120 --> 00:26:21,120
+Thank you.
+
+316
+00:26:32,925 --> 00:26:36,177
+LORETTA SISSY SAWYER
+Beloved Daughter — AUGUST 19
+
+317
+00:26:41,183 --> 00:26:43,184
+What's wrong?
+
+318
+00:26:43,269 --> 00:26:47,355
+This house is amazing! God, let's
+spend the night here. It's fantastic.
+
+319
+00:26:47,439 --> 00:26:50,692
+That kitchen is fabulous. You
+have to let me cook dinner.
+
+320
+00:26:50,818 --> 00:26:52,193
+Yeah. And thank Darryl.
+
+321
+00:26:52,695 --> 00:26:54,862
+He's paying for the steaks, right?
+
+322
+00:26:54,947 --> 00:26:57,907
+Shreveport can wait. I've needed
+something like this for a long time.
+
+323
+00:26:58,284 --> 00:26:59,284
+Thanks, guys.
+
+324
+00:26:59,994 --> 00:27:01,619
+God, isn't he a Boy Scout?
+
+325
+00:27:02,413 --> 00:27:03,413
+Come on.
+
+326
+00:27:03,497 --> 00:27:05,290
+No, I'm the odd man out on this mission.
+
+327
+00:27:05,791 --> 00:27:08,084
+I'll bring down the bags
+and do some cleaning.
+
+328
+00:27:31,900 --> 00:27:33,735
+Yeah, I'm a regular Boy Scout.
+
+329
+00:28:11,732 --> 00:28:15,234
+All right. Let's split up to save time.
+
+330
+00:28:15,319 --> 00:28:16,736
+Would you buy that for me?
+
+331
+00:28:23,744 --> 00:28:25,328
+See you in a few weeks, Mayor.
+
+332
+00:28:27,623 --> 00:28:31,584
+Burt. Wish I had a hammock
+like that in my backyard.
+
+333
+00:28:31,794 --> 00:28:33,169
+Yeah, she's a beauty.
+
+334
+00:28:34,129 --> 00:28:35,505
+Hello, gorgeous.
+
+335
+00:28:45,057 --> 00:28:46,057
+Come on, sweetheart.
+
+336
+00:28:48,143 --> 00:28:52,855
+What door are you opening?
+
+337
+00:28:53,899 --> 00:28:55,483
+Just one more thing and I'm done.
+
+338
+00:28:56,402 --> 00:28:58,111
+-All right. I'll wait outside.
+-Great.
+
+339
+00:28:58,195 --> 00:29:00,613
+Is there a fair in town?
+
+340
+00:29:06,245 --> 00:29:08,246
+-I'll check the price.
+-What the hell are you doing?
+
+341
+00:29:09,164 --> 00:29:10,164
+Nobody can see us.
+
+342
+00:29:10,999 --> 00:29:12,667
+It happened once.
+
+343
+00:29:12,751 --> 00:29:16,379
+Once. And I was completely wasted. Come on.
+
+344
+00:29:17,756 --> 00:29:19,090
+Come on. You begged me.
+
+345
+00:29:19,925 --> 00:29:23,553
+And now I'm begging you
+not to touch my shirt.
+
+346
+00:29:26,223 --> 00:29:27,765
+-Fine.
+-Okay.
+
+347
+00:30:23,489 --> 00:30:26,908
+A nice big door for a nice big key.
+
+348
+00:30:33,290 --> 00:30:35,541
+Found your hiding place, old lady.
+
+349
+00:30:41,507 --> 00:30:43,007
+What do I need bottles of wine for?
+
+350
+00:30:54,895 --> 00:30:55,895
 What the hell is this?
 
-647
-01:00:02,700 --> 01:00:03,900
-<i>Proceed, Officer.</i>
+351
+00:31:06,823 --> 00:31:07,823
+Here we go. Come on.
 
-648
-01:00:09,100 --> 01:00:10,300
-I don't know about this, Burt.
+352
+00:31:10,786 --> 00:31:12,036
+Come on!
 
-649
-01:00:10,500 --> 01:00:12,900
-God damn it. Do I gotta come down there
-and hold your hand?
+353
+00:31:12,913 --> 00:31:14,580
+I know how to handle stubborn bitches.
 
-650
-01:00:41,200 --> 01:00:42,500
-<i>So, where are you now?</i>
+354
+00:31:15,666 --> 00:31:17,959
+All it takes is a few kicks.
 
-651
-01:00:42,500 --> 01:00:43,700
-<i>I'm in the wine cellar.</i>
+355
+00:31:18,961 --> 00:31:20,002
+Come on, baby.
 
-652
-01:00:50,400 --> 01:00:52,400
-There's an opening to some kind of...
+356
+00:31:30,889 --> 00:31:33,849
+I'll be back. I don't give up that easily!
 
-653
-01:00:54,800 --> 01:00:55,800
+357
+00:32:05,173 --> 00:32:06,591
+You're making things hard on yourself.
+
+358
+00:32:08,802 --> 00:32:10,678
+That stuff wouldn't burn
+with a tanker full of gas.
+
+359
+00:32:13,390 --> 00:32:14,765
+This one will give you a nice flavor.
+
+360
+00:32:15,309 --> 00:32:19,604
+But if you want a raging fire, take this one.
+
+361
+00:32:21,440 --> 00:32:22,440
+Good to know.
+
+362
+00:32:26,320 --> 00:32:27,320
+You here for the fair?
+
+363
+00:32:29,239 --> 00:32:30,531
+To break in a new house.
+
+364
+00:32:32,868 --> 00:32:36,078
+Don't make too much noise. I
+wouldn't want to have to arrest you.
+
+365
+00:32:36,622 --> 00:32:37,788
+I'll try to behave.
+
+366
+00:32:38,915 --> 00:32:40,541
+-How much is it?
+-Nine dollars.
+
+367
+00:32:40,626 --> 00:32:41,834
+Where's the party?
+
+368
+00:32:44,212 --> 00:32:45,212
+On Homestead Road.
+
+369
+00:32:46,298 --> 00:32:47,757
+The only place there is the Carson house.
+
+370
+00:32:48,258 --> 00:32:49,258
+That's the one.
+
+371
+00:32:49,926 --> 00:32:51,135
+I thought it was vacant.
+
+372
+00:32:51,470 --> 00:32:52,470
+Not anymore.
+
+373
+00:32:52,638 --> 00:32:54,096
+Is the officer bothering you?
+
+374
+00:32:55,474 --> 00:32:57,224
+If he is, I'll shoot him.
+
+375
+00:32:57,309 --> 00:32:58,476
+I'm sure you would.
+
+376
+00:32:59,144 --> 00:33:00,144
+Go check some parking meters.
+
+377
+00:33:04,107 --> 00:33:08,527
+Burt Hartman, proud mayor of this
+little paradise. How are you?
+
+378
+00:33:10,155 --> 00:33:11,155
+Heather.
+
+379
+00:33:11,239 --> 00:33:12,239
+Pleased to meet you, Heather.
+
+380
+00:33:13,825 --> 00:33:14,992
+My hearing isn't so good anymore,
+
+381
+00:33:15,077 --> 00:33:17,787
+but I could've sworn I heard
+you mention the Carson house.
+
+382
+00:33:18,664 --> 00:33:19,664
+I inherited it.
+
+383
+00:33:20,666 --> 00:33:22,917
+-You're a Carson?
+-No.
+
+384
+00:33:24,503 --> 00:33:26,379
+-You're not a Sawyer.
+-Yes, I am.
+
+385
+00:33:28,298 --> 00:33:29,507
+Yes, you've got their eyes.
+
+386
+00:33:29,591 --> 00:33:30,591
+Did you know her?
+
+387
+00:33:30,676 --> 00:33:32,885
+Yeah. Your family and I go way back.
+
+388
+00:33:32,969 --> 00:33:36,305
+And I know they wouldn't want
+you stuck with that rundown dump.
+
+389
+00:33:36,390 --> 00:33:39,642
+I'll make you a deal. I'll buy the house.
+
+390
+00:33:39,893 --> 00:33:40,893
+No, thank you.
+
+391
+00:33:40,977 --> 00:33:43,813
+Oh, you're going to play hard to
+get. Hell, I like you already.
+
+392
+00:33:44,064 --> 00:33:45,064
+Let's go.
+
+393
+00:33:45,357 --> 00:33:46,732
+Come on. Name your price.
+
+394
+00:33:54,032 --> 00:33:55,241
+Hello!
+
+395
+00:33:57,119 --> 00:33:59,078
+-Shit.
+-What?
+
+396
+00:33:59,413 --> 00:34:00,413
+That damn thief.
+
+397
+00:34:03,458 --> 00:34:04,500
+He took my keys.
+
+398
+00:34:06,086 --> 00:34:08,421
+Wow, he really fooled us. Seriously.
+
+399
+00:34:08,505 --> 00:34:09,714
+We never should've picked him up.
+
+400
+00:34:09,923 --> 00:34:10,923
+Hey!
+
+401
+00:34:12,843 --> 00:34:13,843
+Let's do this right.
+
+402
+00:34:15,721 --> 00:34:17,638
+-What's going on?
+-Darryl robbed us.
+
+403
+00:34:18,765 --> 00:34:21,100
+He took some ashtrays and candlesticks.
+
+404
+00:34:21,560 --> 00:34:24,687
+Don't let that ruin your night. Come on.
+
+405
+00:34:24,980 --> 00:34:26,522
+-Cheers, guys.
+-Yeah.
+
+406
+00:34:26,982 --> 00:34:27,982
+To happiness.
+
+407
+00:34:28,358 --> 00:34:31,485
+-To the queen.
+-Yeah.
+
+408
+00:34:31,570 --> 00:34:33,946
+-To the Sawyers.
+-To the Sawyers.
+
+409
+00:34:34,030 --> 00:34:35,448
+Sawyer. All right.
+
+410
+00:36:04,579 --> 00:36:06,872
+There's a whole dining set in here!
+
+411
+00:36:57,132 --> 00:37:05,222
+Darryl?
+
+412
+00:37:10,395 --> 00:37:28,495
+Darryl!
+
+413
+00:38:14,626 --> 00:38:16,377
+-Oh, my God! You have to see this!
+-What?
+
+414
+00:38:16,962 --> 00:38:19,129
+It's disgusting! Hurry up!
+
+415
+00:38:19,214 --> 00:38:20,214
+Hurry!
+
+416
+00:38:23,551 --> 00:38:27,554
+-It's down here.
+-Where?
+
+417
+00:38:27,639 --> 00:38:30,516
+-In that shed, right there.
+-In here?
+
+418
+00:38:30,767 --> 00:38:31,767
+God!
+
+419
+00:38:33,979 --> 00:38:34,979
+Nikki, I can't see anything.
+
+420
+00:38:35,063 --> 00:38:37,106
+It's under that bucket over there.
+
+421
+00:38:38,525 --> 00:38:39,858
+It's under that bucket.
+
+422
+00:38:41,319 --> 00:38:42,319
+All right.
+
+423
+00:38:50,996 --> 00:38:52,162
+What the hell is wrong with you, Nikki?
+
+424
+00:38:54,082 --> 00:38:55,082
+What are you doing?
+
+425
+00:39:02,007 --> 00:39:03,173
+I told you it was disgusting.
+
+426
+00:40:01,816 --> 00:40:06,278
+Ryan!
+
+427
+00:40:08,948 --> 00:40:09,948
+Guys!
+
+428
+00:40:17,332 --> 00:40:18,332
+Kenny?
+
+429
+00:44:42,805 --> 00:44:43,805
+What...?
+
+430
+00:44:45,016 --> 00:44:47,684
+What's that? What is he doing?
+
+431
+00:44:49,062 --> 00:44:50,062
+Who is that?
+
+432
+00:44:51,522 --> 00:44:59,196
+Hey!
+
+433
+00:45:01,866 --> 00:45:02,866
+-Run.
+-What?
+
+434
+00:45:03,034 --> 00:45:04,034
+-Oh, my God!
+-Run!
+
+435
+00:45:10,041 --> 00:45:11,750
+-Hurry!
+-Close the door!
+
+436
+00:45:40,780 --> 00:45:42,531
+Welcome to Texas, asshole!
+
+437
+00:45:49,705 --> 00:45:50,705
+Did you hit him?
+
+438
+00:45:51,290 --> 00:45:52,290
 I don't know.
 
-654
-01:00:58,600 --> 01:00:59,600
-Going through.
+439
+00:45:52,625 --> 00:45:53,959
+-Did you hit him?
+-I don't know!
 
-655
-01:01:05,100 --> 01:01:08,600
-Looks like some kind of crazy catacomb.
+440
+00:45:57,964 --> 00:45:59,089
+Something's coming. Back up.
 
-656
-01:01:13,000 --> 01:01:14,500
-Still following the blood.
+441
+00:45:59,465 --> 00:46:00,882
+Back up, Nikki!
 
-657
-01:01:27,700 --> 01:01:29,900
-Getting a bad feeling here.
+442
+00:46:03,886 --> 00:46:05,303
+-Get in the van!
+-It's Heather!
 
-658
-01:01:48,900 --> 01:01:50,600
-Jesus Christ. What is this?
+443
+00:46:06,139 --> 00:46:09,558
+-Move over!
+-Let me in! Hurry, get us out of here!
 
-659
-01:01:57,800 --> 01:01:58,800
-It's a haven?
+444
+00:46:09,642 --> 00:46:25,157
+Hurry!
 
-660
-01:02:12,000 --> 01:02:13,000
-Dresses.
+445
+00:46:26,576 --> 00:46:27,742
+What the hell was that?
 
-661
-01:02:18,300 --> 01:02:19,300
-High heels.
+446
+00:46:30,621 --> 00:46:31,955
+Where's Kenny?
 
-662
-01:02:21,200 --> 01:02:22,600
-<i>Little farm toys.</i>
+447
+00:46:32,999 --> 00:46:34,499
+He's dead. They're fucking dead!
 
-663
-01:02:23,300 --> 01:02:24,400
-<i>Bones.</i>
+448
+00:46:40,673 --> 00:46:43,467
+Ryan, slow down! The gate has to open!
 
-664
-01:02:25,000 --> 01:02:26,000
-<i>Man.</i>
+449
+00:46:43,676 --> 00:46:45,177
+-Give it time!
+-We have to get out.
 
-665
-01:02:31,100 --> 01:02:35,300
-Ladies makeup? What a fruitcake.
+450
+00:46:45,261 --> 00:46:46,595
+Screw the gate! Seat belts!
 
-666
-01:03:18,600 --> 01:03:20,000
-<i>This is the most disturbing place</i>
+451
+00:46:55,521 --> 00:46:57,272
+-What happened?
+-The car stalled.
 
-667
-01:03:20,100 --> 01:03:21,200
-<i>that I have ever been.</i>
+452
+00:46:57,356 --> 00:46:58,356
+Why?
 
-668
-01:03:21,400 --> 01:03:22,500
-What's that to your left?
+453
+00:46:58,608 --> 00:47:00,317
+Okay. Back up.
 
-669
-01:03:23,100 --> 01:03:24,100
-It's a door.
+454
+00:47:03,696 --> 00:47:05,489
+-Ryan!
+-Back up!
 
-670
-01:03:24,200 --> 01:03:26,000
-<i>Marvin, keep your hands
-on that gun!</i>
+455
+00:47:05,698 --> 00:47:07,324
+-Put it in reverse!
+-What's wrong with it?
 
-671
-01:03:31,200 --> 01:03:32,900
-My fucking God.
+456
+00:47:07,658 --> 00:47:09,201
+-Ryan, hurry!
+-I'm fucking trying!
 
-672
-01:03:34,400 --> 01:03:35,400
-<i>How many?</i>
+457
+00:47:10,328 --> 00:47:11,328
+It won't start!
 
-673
-01:03:37,600 --> 01:03:39,100
-<i>You tell me.</i>
-
-674
-01:03:39,300 --> 01:03:40,700
-What fucking human does that?
-
-675
-01:03:44,900 --> 01:03:46,800
-Shit, this is fucked up.
-
-676
-01:03:52,000 --> 01:03:53,200
-What's in there?
-
-677
-01:03:53,500 --> 01:03:54,600
-<i>What's in the freezer?</i>
-
-678
-01:03:59,700 --> 01:04:00,800
-<i>Be careful, Marvin.</i>
-
-679
-01:04:20,000 --> 01:04:21,000
-Oh!
-
-680
-01:04:22,400 --> 01:04:23,400
+458
+00:47:13,331 --> 00:47:14,873
 Shit!
 
-681
-01:04:23,700 --> 01:04:24,700
-It's okay! It's okay. Didn't happen!
+459
+00:47:14,999 --> 00:47:17,125
+-Back up!
+-Here we go.
 
-682
-01:04:24,900 --> 01:04:26,900
-Marvin! You get the hell
-out of there right now!
+460
+00:47:21,797 --> 00:47:23,798
+Wait for the gate to open.
 
-683
-01:04:31,500 --> 01:04:32,700
-That sick fuck'll be back out there tonight.
+461
+00:47:25,218 --> 00:47:26,968
+-Shit!
+-Ryan!
 
-684
-01:04:33,200 --> 01:04:34,200
-We rally the boys,
+462
+00:47:27,053 --> 00:47:28,053
+Ryan! Start it!
 
-685
-01:04:34,300 --> 01:04:35,900
-we torch that place to the ground!
+463
+00:47:29,555 --> 00:47:31,473
+-Hurry, Ryan!
+-It won't start!
 
-686
-01:04:36,000 --> 01:04:38,400
-End this! Finish what we started years ago.
+464
+00:47:32,808 --> 00:47:34,309
+Now! Hurry!
 
-687
-01:04:38,900 --> 01:04:40,400
+465
+00:47:34,727 --> 00:47:36,394
+-Ryan, hurry!
+-Ryan, hurry!
+
+466
+00:47:36,687 --> 00:47:38,230
+-Ryan, hurry!
+-Come on!
+
+467
+00:47:38,314 --> 00:47:39,856
+-Hurry!
+-Please, hurry!
+
+468
+00:47:40,983 --> 00:47:41,983
+Come on!
+
+469
+00:47:50,743 --> 00:47:52,035
+Here he comes!
+
+470
+00:48:15,226 --> 00:48:18,562
+Ryan.
+
+471
+00:48:44,922 --> 00:48:46,923
+Heather, what happened?
+
+472
+00:48:51,637 --> 00:48:56,308
+-What?
+-Quiet.
+
+473
+00:49:00,855 --> 00:49:04,316
+We have to get out of here right now!
+
+474
+00:49:12,825 --> 00:49:15,827
+Get back, he's coming this way!
+
+475
+00:49:20,207 --> 00:49:21,207
+My leg.
+
+476
+00:49:23,544 --> 00:49:24,586
+No, Nikki!
+
+477
+00:49:57,787 --> 00:50:00,372
+Fucking redneck!
+
+478
+00:50:39,578 --> 00:50:40,578
+Run!
+
+479
+00:50:47,670 --> 00:50:49,337
+You want to play?
+
+480
+00:50:51,507 --> 00:50:52,674
+Call the police!
+
+481
+00:50:57,972 --> 00:50:59,139
+Get out of the way!
+
+482
+00:50:59,306 --> 00:51:00,306
+Call the police!
+
+483
+00:51:03,102 --> 00:51:04,936
+-Hurry! Get out of the way!
+-What the hell?
+
+484
+00:51:48,981 --> 00:51:49,981
+Drop the damn saw!
+
+485
+00:51:51,484 --> 00:51:52,525
+I said drop it!
+
+486
+00:51:52,651 --> 00:51:53,651
+Put it down!
+
+487
+00:52:15,591 --> 00:52:16,591
+Where's the girl?
+
+488
+00:52:16,675 --> 00:52:18,843
+-Carl's taking care of her in the back.
+-All right.
+
+489
+00:52:27,228 --> 00:52:29,979
+<i>Sheriff? It's Marvin. I'm at the crash site.</i>
+
+490
+00:52:30,064 --> 00:52:32,190
+<i>-Do you copy?
+-Go ahead, Marvin.</i>
+
+491
+00:52:32,733 --> 00:52:33,775
+I'm approaching the vehicle.
+
+492
+00:52:34,610 --> 00:52:37,028
+An old VW van on its side.
+
+493
+00:52:39,198 --> 00:52:40,198
+It's completely wrecked.
+
+494
+00:52:41,492 --> 00:52:43,243
+<i>-Do you need an ambulance?
+-I'm checking.</i>
+
+495
+00:52:46,539 --> 00:52:47,539
+Negative.
+
+496
+00:52:47,623 --> 00:52:48,915
+No victims at the scene.
+
+497
+00:52:50,292 --> 00:52:53,586
+Sheriff? There's blood everywhere.
+
+498
+00:52:54,380 --> 00:52:58,132
+The seat's been cut up with
+a saw. Someone died here.
+
+499
+00:52:58,759 --> 00:53:01,177
+All right, stay where you are,
+Marvin. I'll call you right back.
+
+500
+00:53:01,470 --> 00:53:02,470
+Copy that.
+
+501
+00:53:19,196 --> 00:53:21,781
+-Hi.
+-Did you find her?
+
+502
+00:53:23,242 --> 00:53:24,242
+We'll find her.
+
+503
+00:53:26,620 --> 00:53:29,330
+-I brought you a shirt.
+-Thanks.
+
+504
+00:53:29,498 --> 00:53:30,498
+At least it's clean.
+
+505
+00:53:34,086 --> 00:53:35,461
+I shouldn't have brought them here.
+
+506
+00:53:38,465 --> 00:53:40,592
+This town isn't much,
+
+507
+00:53:40,676 --> 00:53:42,260
+but we take care of our own.
+
+508
+00:53:42,761 --> 00:53:44,512
+By sunrise, he'll be good and dead.
+
+509
+00:53:45,639 --> 00:53:46,973
+You can count on that.
+
+510
+00:53:48,392 --> 00:53:49,392
+Carl!
+
+511
+00:53:53,397 --> 00:53:55,940
+-Take your time.
+-Okay.
+
+512
+00:54:06,744 --> 00:54:09,621
+-Sheriff Hooper? This is Heather.
+-Hello.
+
+513
+00:54:09,705 --> 00:54:11,789
+-You're the girl he was chasing?
+-Yes.
+
+514
+00:54:11,957 --> 00:54:14,208
+He killed my friends, but Nikki
+
+515
+00:54:15,002 --> 00:54:16,669
+survived the crash.
+
+516
+00:54:16,754 --> 00:54:18,630
+We're investigating, but
+there was nobody there.
+
+517
+00:54:18,714 --> 00:54:20,882
+No, I left her there. He must've taken them.
+
+518
+00:54:20,966 --> 00:54:22,091
+Do you know who he is?
+
+519
+00:54:22,176 --> 00:54:25,303
+No. He was in the house, he was...
+
+520
+00:54:25,387 --> 00:54:27,639
+-What house?
+-The Carson estate.
+
+521
+00:54:29,558 --> 00:54:31,684
+My grandmother left it to me. Verna Carson.
+
+522
+00:54:32,436 --> 00:54:33,937
+We only got here a few hours ago.
+
+523
+00:54:35,439 --> 00:54:37,357
+My last name is Sawyer, in
+case you were going to ask.
+
+524
+00:54:37,524 --> 00:54:39,776
+Sheriff, I dug around in the evidence room.
+
+525
+00:54:40,194 --> 00:54:41,694
+I brought everything we have on Verna Carson.
+
+526
+00:54:42,738 --> 00:54:44,280
+And a thick file on the Sawyers.
+
+527
+00:54:44,365 --> 00:54:45,823
+Did you get a good look at him?
+
+528
+00:54:46,158 --> 00:54:47,367
+He was wearing a face.
+
+529
+00:54:48,160 --> 00:54:49,160
+A mask?
+
+530
+00:54:51,872 --> 00:54:52,872
+A human face.
+
+531
+00:54:56,502 --> 00:54:58,002
+Carl, we're short-handed.
+
+532
+00:54:58,087 --> 00:54:59,921
+I need you out on the street. Go.
+
+533
+00:55:02,549 --> 00:55:05,343
+<i>Sheriff, the mayor just
+arrived. He's looking for you.</i>
+
+534
+00:55:06,845 --> 00:55:07,845
+Thank you.
+
+535
+00:55:08,722 --> 00:55:10,890
+Have a seat. I'll be back in a minute.
+
+536
+00:55:15,354 --> 00:55:17,021
+Some goddamn lunatic ruined the fair!
+
+537
+00:55:17,106 --> 00:55:19,148
+I demand to know what the
+police are going to do about it!
+
+538
+00:55:19,233 --> 00:55:20,233
+In my office.
+
+539
+00:55:24,613 --> 00:55:25,697
+I think it could be Jed.
+
+540
+00:55:26,281 --> 00:55:27,281
+Jed Sawyer?
+
+541
+00:55:27,366 --> 00:55:28,950
+Impossible.
+
+542
+00:55:29,034 --> 00:55:30,743
+We burned that house down years ago, Hooper.
+
+543
+00:55:30,869 --> 00:55:32,286
+You were there. Nobody escaped.
+
+544
+00:55:32,371 --> 00:55:34,414
+Maybe he slipped out the back. I don't know.
+
+545
+00:55:34,540 --> 00:55:35,999
+You're saying he's been
+hiding all these years
+
+546
+00:55:36,083 --> 00:55:37,375
+and now he's running loose around town?
+
+547
+00:55:37,459 --> 00:55:41,587
+I'm saying a six-foot-six man
+came out of Verna Carson's house
+
+548
+00:55:41,797 --> 00:55:44,549
+wearing a skin mask and holding that thing.
+
+549
+00:55:44,800 --> 00:55:45,883
+<i>Sheriff?</i>
+
+550
+00:55:46,301 --> 00:55:47,885
+I'm at the Carson house.
+
+551
+00:55:48,429 --> 00:55:49,721
+<i>The gate's been forced open.</i>
+
+552
+00:55:50,556 --> 00:55:52,890
+There's a broken side
+mirror. It matches the van.
+
+553
+00:55:52,975 --> 00:55:54,892
+Marvin, you were supposed to stay by the van.
+
+554
+00:55:55,227 --> 00:55:56,269
+That's an order. Do you copy?
+
+555
+00:55:56,395 --> 00:55:57,895
+Absolutely not! We're not doing it that way!
+
+556
+00:55:57,980 --> 00:55:59,981
+There's a trail of blood on the pavement.
+
+557
+00:56:00,065 --> 00:56:02,150
+Sheriff, with all due respect,
+we have to follow the trail.
+
+558
+00:56:02,234 --> 00:56:03,943
+<i>-That's not your decision, Deputy.
+-Marvin!</i>
+
+559
+00:56:04,403 --> 00:56:06,571
+<i>This is Mayor Hartman. Do you have your gun?</i>
+
+560
+00:56:06,780 --> 00:56:07,947
+Of course. Extended magazine.
+
+561
+00:56:09,616 --> 00:56:11,075
+All I need is an excuse, sir.
+
+562
+00:56:11,285 --> 00:56:12,827
+Then what the hell are you waiting for?
+
+563
+00:56:13,746 --> 00:56:17,540
+Marvin, stay put. We think Jed
+Sawyer might still be alive.
+
+564
+00:56:17,624 --> 00:56:18,708
+<i>And he might be in that house.</i>
+
+565
+00:56:18,792 --> 00:56:23,004
+Copy that, sir, but a chainsaw
+doesn't make him bulletproof.
+
+566
+00:56:55,120 --> 00:56:56,621
+LOCAL HEROES!
+
+567
+00:57:01,668 --> 00:57:04,504
+ONE VICTIM ESCAPED
+"He sawed up my paraplegic brother."
+
+568
+00:57:06,215 --> 00:57:11,886
+Four young people brutally murdered
+
+569
+00:57:13,388 --> 00:57:14,764
+Gruesome discoveries
+
+570
+00:57:14,848 --> 00:57:17,683
+Slaughterhouse family
+turned their farm into one
+
+571
+00:57:17,810 --> 00:57:22,647
+The Sawyers refused to surrender
+
+572
+00:57:22,731 --> 00:57:25,108
+A deadly shootout
+
+573
+00:57:25,192 --> 00:57:32,156
+The farmhouse fire
+
+574
+00:57:35,202 --> 00:57:37,495
+SUNDAY, AUGUST 19
+
+575
+00:57:49,758 --> 00:57:50,842
+The door's open.
+
+576
+00:57:51,510 --> 00:57:54,554
+This is a mistake. Stop him
+now before he gets hurt.
+
+577
+00:57:54,680 --> 00:57:56,347
+<i>-It's a fresh lead, Hooper.
+-I'm going in.</i>
+
+578
+00:58:01,687 --> 00:58:02,687
+Police!
+
+579
+00:58:13,574 --> 00:58:14,574
+Yeah.
+
+580
+00:58:14,700 --> 00:58:17,201
+-I want to see.
+-Sure.
+
+581
+00:58:21,373 --> 00:58:22,373
+Moving forward.
+
+582
+00:58:28,547 --> 00:58:29,547
+CONFIDENTIAL
+
+583
+00:58:35,637 --> 00:58:37,263
+SWORN STATEMENT OF:
+SHERIFF HOOPER
+
+584
+00:58:39,600 --> 00:58:43,853
+The Sawyers were complying
+
+585
+00:58:43,937 --> 00:58:47,231
+BURT HARTMAN
+led the mob
+
+586
+00:58:47,316 --> 00:58:50,401
+A shootout began
+
+587
+00:58:50,485 --> 00:58:53,946
+Escalated
+brutal
+
+588
+00:58:54,072 --> 00:58:55,489
+Slaughter
+
+589
+00:58:55,574 --> 00:58:57,074
+Burned
+
+590
+00:58:57,159 --> 00:58:58,409
+Death
+
+591
+00:58:58,493 --> 00:58:59,744
+Family
+
+592
+00:58:59,828 --> 00:59:01,746
+Massacred
+
+593
+00:59:06,168 --> 00:59:10,254
+I confronted Burt Hartman
+
+594
+00:59:12,758 --> 00:59:13,799
+You're responsible for this, Burt.
+
+595
+00:59:13,967 --> 00:59:16,636
+An eye for an eye, Sheriff.
+Nobody escapes biblical justice.
+
+596
+00:59:18,263 --> 00:59:21,682
+Nobody escapes biblical justice
+
+597
+00:59:25,145 --> 00:59:26,145
+<i>Entering the kitchen.</i>
+
+598
+00:59:26,647 --> 00:59:27,647
+Proceed.
+
+599
+00:59:35,113 --> 00:59:36,280
+What the hell is that?
+
+600
+00:59:40,953 --> 00:59:42,453
+<i>I'm following the blood.</i>
+
+601
+00:59:46,458 --> 00:59:47,458
+Jesus!
+
+602
+00:59:49,878 --> 00:59:50,878
+Are you seeing this?
+
+603
+00:59:51,713 --> 00:59:52,713
+Shit.
+
+604
+00:59:57,135 --> 00:59:59,011
+Looks like it leads to this door.
+
+605
+01:00:00,347 --> 01:00:01,347
+<i>Open it.</i>
+
+606
+01:00:09,856 --> 01:00:10,982
+What the hell is this?
+
+607
+01:00:11,525 --> 01:00:12,692
+<i>Proceed, Deputy.</i>
+
+608
+01:00:18,156 --> 01:00:19,407
+I don't know if I should, Burt.
+
+609
+01:00:19,491 --> 01:00:21,492
+Goddamn it. Do I have to come hold your hand?
+
+610
+01:00:50,188 --> 01:00:51,188
+<i>Where are you now?</i>
+
+611
+01:00:51,356 --> 01:00:52,565
+<i>In the cellar.</i>
+
+612
+01:00:59,197 --> 01:01:00,865
+There's an opening to some kind of...
+
+613
+01:01:03,618 --> 01:01:04,618
+I don't know.
+
+614
+01:01:07,456 --> 01:01:08,456
+I'm going in.
+
+615
+01:01:13,962 --> 01:01:17,423
+Looks like some really weird catacomb.
+
+616
+01:01:21,928 --> 01:01:23,429
+Still following the blood.
+
+617
+01:01:36,610 --> 01:01:38,903
+I've got a bad feeling about this.
+
+618
+01:01:57,923 --> 01:01:59,590
+Holy shit. What is this?
+
+619
+01:02:06,765 --> 01:02:07,765
+Is this a shelter?
+
+620
+01:02:20,946 --> 01:02:21,946
+Dresses.
+
+621
+01:02:27,285 --> 01:02:28,285
+High heels.
+
+622
+01:02:30,163 --> 01:02:31,539
+<i>Little farm toys.</i>
+
+623
+01:02:32,290 --> 01:02:33,290
+<i>Bones.</i>
+
+624
+01:02:33,959 --> 01:02:34,959
+<i>Jesus.</i>
+
+625
+01:02:40,465 --> 01:02:44,635
+Women's makeup? What a freak.
+
+626
+01:02:53,061 --> 01:02:55,062
+VICTIM: LORETTA SAWYER
+AGE: UNKNOWN — AUGUST 19
+
+627
+01:03:13,665 --> 01:03:19,044
+Loretta Sawyer — F
+Age 27, single, daughter not found
+
+628
+01:03:19,171 --> 01:03:21,672
+Presumed dead
+
+629
+01:03:27,345 --> 01:03:30,181
+<i>I've never been in a place this disturbing.</i>
+
+630
+01:03:30,390 --> 01:03:31,515
+What's to your left?
+
+631
+01:03:32,184 --> 01:03:33,142
+A door.
+
+632
+01:03:33,226 --> 01:03:34,685
+<i>Marvin, keep your gun ready!</i>
+
+633
+01:03:40,066 --> 01:03:41,859
+Oh, God. Shit.
+
+634
+01:03:43,528 --> 01:03:44,528
+<i>How many?</i>
+
+635
+01:03:46,531 --> 01:03:48,157
+<i>You tell me.</i>
+
+636
+01:03:48,241 --> 01:03:49,700
+Who the fuck could do something like this?
+
+637
+01:03:53,872 --> 01:03:56,040
+Shit, this is horrible.
+
+638
+01:04:01,046 --> 01:04:02,046
+What's in there?
+
+639
+01:04:02,380 --> 01:04:03,380
+<i>What's in the freezer?</i>
+
+640
+01:04:08,595 --> 01:04:09,720
+<i>Be careful, Marvin.</i>
+
+641
+01:04:31,493 --> 01:04:32,493
+Shit!
+
+642
+01:04:32,577 --> 01:04:33,577
+Calm down! That didn't happen!
+
+643
+01:04:33,828 --> 01:04:35,871
+Marvin! Get out of there right now!
+
+644
+01:04:35,956 --> 01:04:37,248
+CONNECTION LOST
+
+645
+01:04:40,418 --> 01:04:41,919
+That sick bastard will
+come back there tonight.
+
+646
+01:04:42,337 --> 01:04:44,797
+Let's round up the boys and
+burn the whole house down!
+
+647
+01:04:44,923 --> 01:04:47,299
+Let's finish this! Finish
+what we started years ago.
+
+648
+01:04:47,801 --> 01:04:49,510
 Not this time. Not on my watch!
 
-688
-01:05:30,400 --> 01:05:33,200
-- What happened that day was a travesty.
-- It was justice!
+649
+01:05:39,352 --> 01:05:42,479
+-What happened that day was a disgrace.
+-We delivered justice!
 
-689
-01:05:35,400 --> 01:05:36,500
-I wanna see the Sawyer girl.
+650
+01:05:44,316 --> 01:05:45,441
+I want to see the Sawyer girl.
 
-690
-01:05:37,100 --> 01:05:39,400
+651
+01:05:45,984 --> 01:05:48,360
 She's a victim, Burt!
 She hasn't done anything!
 
-691
-01:05:40,100 --> 01:05:41,600
-She's breathing, ain't she?
+652
+01:05:48,987 --> 01:05:51,030
+She's breathing, isn't she?
 
-692
-01:05:53,500 --> 01:05:54,600
+653
+01:05:58,371 --> 01:06:00,623
+MURDERERS
+
+654
+01:06:02,500 --> 01:06:03,709
 Yeah, I know what you're thinking, Burt.
 
-693
-01:05:54,900 --> 01:05:56,100
+655
+01:06:03,835 --> 01:06:05,002
 You have no idea!
 
-694
-01:05:58,500 --> 01:06:00,200
-Nothing better happen to that girl, Burt!
+656
+01:06:07,464 --> 01:06:09,548
+That girl had better not get hurt, Burt!
 
-695
-01:06:17,100 --> 01:06:19,200
-- Hello, Farnsworth here.
-- Hi. This is Heather Miller.
+657
+01:06:25,649 --> 01:06:26,774
+Hello, Farnsworth speaking.
 
-696
-01:06:20,100 --> 01:06:21,900
-My friends have all been killed.
+658
+01:06:26,858 --> 01:06:28,025
+Hi. This is Heather Miller.
 
-697
-01:06:21,900 --> 01:06:23,700
-I just found out about August 19th.
+659
+01:06:29,027 --> 01:06:32,613
+All my friends have been murdered. I
+found out what happened on August 19.
 
-698
-01:06:23,800 --> 01:06:25,000
-How could you leave us
-alone in that house?
+660
+01:06:32,697 --> 01:06:34,156
+How could you leave us alone in that house?
 
-699
-01:06:25,300 --> 01:06:27,500
-Okay. Where are you?
+661
+01:06:34,240 --> 01:06:36,659
+All right. Where are you?
 
-700
-01:06:28,300 --> 01:06:29,700
-I'm at the bank on Main Street.
+662
+01:06:37,202 --> 01:06:38,702
+At the bank on Main Street.
 
-701
-01:06:30,500 --> 01:06:32,100
-Uh, meet me at Johnny B. Red's.
+663
+01:06:39,496 --> 01:06:42,665
+Meet me at Johnny B. Red's
+bar, about a quarter mile
 
-702
-01:06:32,200 --> 01:06:33,700
-It's a bar about a quarter mile
+664
+01:06:42,749 --> 01:06:44,792
+<i>east of Fifth and Main.</i>
 
-703
-01:06:33,900 --> 01:06:35,800
-<i>east on Fifth and Main.</i>
-
-704
-01:06:36,000 --> 01:06:37,100
+665
+01:06:44,876 --> 01:06:46,043
 I'll be there in 20 minutes.
 
-705
-01:06:39,300 --> 01:06:41,900
+666
+01:06:48,380 --> 01:06:50,923
 I want your Halloween candy!
 
-706
-01:06:42,100 --> 01:06:43,500
-Come on and party with us!
+667
+01:06:51,049 --> 01:06:52,424
+Come celebrate with us!
 
-707
-01:08:49,700 --> 01:08:50,800
+668
+01:08:58,635 --> 01:08:59,760
 Why didn't you warn me?
 
-708
-01:08:50,900 --> 01:08:52,000
-All my friends are dead.
+669
+01:08:59,844 --> 01:09:03,305
+All my friends are dead. This
+crazy town destroyed my family.
 
-709
-01:08:52,100 --> 01:08:54,200
-My family was wiped out by this crazy town.
+670
+01:09:03,389 --> 01:09:05,682
+-Did you read Verna's letter?
+-No.
 
-710
-01:08:54,600 --> 01:08:56,800
-- Did you read Verna's letter?
-- No.
+671
+01:09:06,309 --> 01:09:08,143
+I asked you to, didn't I?
 
-711
-01:08:57,300 --> 01:08:58,800
-Well, I asked you to, right?
+672
+01:09:09,521 --> 01:09:12,189
+Verna was very thorough. I'm
+sure she explained everything.
 
-712
-01:09:00,600 --> 01:09:03,200
-Verna was very particular.
-I'm sure she laid it all out.
+673
+01:09:12,398 --> 01:09:15,400
+But you knew about him. You knew
+about this town. You knew everything.
 
-713
-01:09:03,500 --> 01:09:04,600
-But you knew about him.
+674
+01:09:15,527 --> 01:09:16,527
+All right.
 
-714
-01:09:04,600 --> 01:09:06,400
-You knew about this town.
-You knew everything.
+675
+01:09:17,237 --> 01:09:18,403
+Then who is he?
 
-715
-01:09:06,600 --> 01:09:07,600
-Oh, okay.
+676
+01:09:19,280 --> 01:09:22,741
+The person in the basement
 
-716
-01:09:08,300 --> 01:09:09,300
-Okay, so who is he?
-
-717
-01:09:10,200 --> 01:09:13,800
-Well, the person in the basement
-
-718
-01:09:15,200 --> 01:09:16,700
+677
+01:09:24,202 --> 01:09:25,744
 is Jedidiah Sawyer.
 
-719
-01:09:17,500 --> 01:09:18,500
-Goes by Jed.
+678
+01:09:26,454 --> 01:09:27,454
+They call him Jed.
 
-720
-01:09:19,500 --> 01:09:20,500
+679
+01:09:28,373 --> 01:09:29,456
 He's your cousin.
 
-721
-01:09:22,200 --> 01:09:23,700
-For years I suspected something,
+680
+01:09:31,125 --> 01:09:34,503
+I suspected something for years,
+but I wasn't sure about Jed
 
-722
-01:09:23,700 --> 01:09:25,600
-but I never knew for sure about Jed
+681
+01:09:34,587 --> 01:09:37,381
+until four months ago, when Verna,
 
-723
-01:09:25,700 --> 01:09:28,400
-until about four months ago when Verna,
+682
+01:09:38,758 --> 01:09:41,552
+who was very sick, introduced me to him.
 
-724
-01:09:29,800 --> 01:09:32,500
-who was very sick, presented him to me.
+683
+01:09:42,220 --> 01:09:45,722
+A huge grown man, but mentally disabled,
 
-725
-01:09:33,300 --> 01:09:36,800
-A grown man, huge, but mentally stunted.
+684
+01:09:46,933 --> 01:09:49,476
+with the mind of an eight-year-old child.
 
-726
-01:09:38,000 --> 01:09:40,500
-With emotions of an eight-year-old.
+685
+01:09:50,812 --> 01:09:52,604
+To be honest, he scared me to death.
 
-727
-01:09:41,800 --> 01:09:43,700
-Frankly, he scared the shit out of me.
+686
+01:09:53,481 --> 01:09:54,481
+Why did she take care of him?
 
-728
-01:09:44,500 --> 01:09:45,500
-Why'd she keep him?
+687
+01:09:56,150 --> 01:09:58,569
+Nobody loves you like family.
 
-729
-01:09:47,200 --> 01:09:49,500
-Nobody loves you like your family, I guess.
+688
+01:09:58,778 --> 01:10:00,237
+She took care of you, too.
 
-730
-01:09:49,900 --> 01:09:51,200
-She preserved you, too.
+689
+01:10:01,239 --> 01:10:04,116
+She looked into everyone involved
 
-731
-01:09:52,200 --> 01:09:55,200
-She investigated everyone
-who was involved with the...
+690
+01:10:04,909 --> 01:10:05,993
+in what happened on August nineteenth.
 
-732
-01:09:55,900 --> 01:09:57,000
-August 19th.
+691
+01:10:06,619 --> 01:10:09,079
+-She found you right away.
+-And let me live with those people?
 
-733
-01:09:57,600 --> 01:09:58,600
-Found you right away.
-
-734
-01:09:58,700 --> 01:10:00,200
-And she let me live with those people?
-
-735
-01:10:00,600 --> 01:10:02,000
+692
+01:10:09,581 --> 01:10:10,956
 You were safer there.
 
-736
-01:10:03,400 --> 01:10:06,200
-And she knew
-there would always come a day.
+693
+01:10:12,458 --> 01:10:15,335
+And she always knew this day would come.
 
-737
-01:10:07,700 --> 01:10:09,200
+694
+01:10:16,754 --> 01:10:18,255
 Jed knows about you, too.
 
-738
-01:10:09,700 --> 01:10:10,900
-That was some welcome.
+695
+01:10:18,756 --> 01:10:19,798
+Some welcome.
 
-739
-01:10:13,300 --> 01:10:15,100
+696
+01:10:22,260 --> 01:10:24,094
 He doesn't know who you are.
 
-740
-01:10:15,500 --> 01:10:17,300
-And the last time a girl got away,
+697
+01:10:24,345 --> 01:10:27,973
+And the last time a girl escaped
+from him, he lost his entire family.
 
-741
-01:10:17,400 --> 01:10:19,100
-Jed lost his whole family.
+698
+01:10:28,099 --> 01:10:30,976
+That's why he's hunting you.
+He doesn't know any other way.
 
-742
-01:10:19,200 --> 01:10:22,100
-So, he'll stay after you.
-He doesn't know any better.
+699
+01:10:31,311 --> 01:10:32,603
+Neither does Burt Hartman.
 
-743
-01:10:22,400 --> 01:10:23,700
-Burt Hartman, too.
+700
+01:10:33,646 --> 01:10:37,941
+Now that you've read that police file,
+you know this town's dirty secret.
 
-744
-01:10:24,700 --> 01:10:27,200
-After reading that police file,
+701
+01:10:41,779 --> 01:10:44,531
+-Burt!
+-Yeah!
 
-745
-01:10:27,300 --> 01:10:29,900
-you know this town's dirty little secret.
-
-746
-01:10:32,700 --> 01:10:35,300
-- Burt. Burt!
-- Yeah!
-
-747
-01:10:36,800 --> 01:10:37,800
+702
+01:10:45,783 --> 01:10:46,783
 Let me through.
 
-748
-01:10:38,000 --> 01:10:39,500
+703
+01:10:46,951 --> 01:10:48,452
 Let's go. I'm getting you out of here.
 
-749
-01:10:40,600 --> 01:10:41,700
-- Move!
-- Hey!
+704
+01:10:49,454 --> 01:10:50,454
+-Move!
+-Hey!
 
-750
-01:10:41,700 --> 01:10:43,300
-- Out of my way!
-- What's your problem?
+705
+01:10:50,705 --> 01:10:52,664
+-Get out of my way!
+-What's wrong with you?
 
-751
-01:10:43,300 --> 01:10:44,700
-Use the back door. Yeah, take it!
+706
+01:10:52,957 --> 01:10:54,374
+Use the back door. Take this!
 
-752
-01:10:46,700 --> 01:10:47,700
+707
+01:10:55,627 --> 01:10:57,044
 Burt.
 
-753
-01:11:02,300 --> 01:11:03,600
+708
+01:11:11,184 --> 01:11:12,893
 I got her, Burt!
 
-754
-01:11:06,500 --> 01:11:07,500
-She's right here.
+709
+01:11:15,480 --> 01:11:16,480
+Here she is.
 
-755
-01:11:09,400 --> 01:11:11,100
-You going somewhere, precious?
+710
+01:11:18,316 --> 01:11:20,150
+Going somewhere, sweetheart?
 
-756
-01:11:11,400 --> 01:11:12,400
-Huh?
+711
+01:11:25,657 --> 01:11:28,075
+He cut me! Burt!
 
-757
-01:11:12,600 --> 01:11:13,800
-Oh.
+712
+01:11:32,538 --> 01:11:36,166
+Little bitch. She's not
+getting far, that's for sure.
 
-758
-01:11:16,600 --> 01:11:18,900
-She cut me. Burt!
+713
+01:11:37,085 --> 01:11:38,377
+Come on. Get up!
 
-759
-01:11:23,600 --> 01:11:25,200
-That little bitch.
+714
+01:11:44,258 --> 01:11:47,094
+Stop!
 
-760
-01:11:25,300 --> 01:11:26,800
-She won't get far, that's for sure.
-
-761
-01:11:28,200 --> 01:11:29,400
-Come on. Get up now!
-
-762
-01:11:35,300 --> 01:11:38,100
-Stop! Stop! Stop!
-
-763
-01:11:41,000 --> 01:11:42,000
+715
+01:11:49,931 --> 01:11:50,931
 What's going on?
 
-764
-01:11:42,100 --> 01:11:43,300
-Burt Hartman and his guys,
+716
+01:11:51,015 --> 01:11:52,391
+Burt Hartman and his men
 
-765
-01:11:43,500 --> 01:11:45,200
-they beat up my lawyer at the bar.
+717
+01:11:52,517 --> 01:11:55,352
+attacked my lawyer at the
+bar. And they're after me.
 
-766
-01:11:45,300 --> 01:11:46,400
-And they're after me.
+718
+01:11:56,854 --> 01:11:58,438
+Come on. I'll give you a ride.
 
-767
-01:11:47,800 --> 01:11:49,500
-Okay, come on. Let's give you a ride.
+719
+01:11:59,357 --> 01:12:01,274
+We have to stop at the
+bar. We have to go back.
 
-768
-01:11:50,400 --> 01:11:52,300
-We have to stop at the bar.
-We have to go back.
+720
+01:12:01,359 --> 01:12:02,401
+All right.
 
-769
-01:11:52,400 --> 01:11:53,500
-Okay.
-
-770
-01:12:07,900 --> 01:12:09,200
+721
+01:12:16,541 --> 01:12:18,166
 There he is. That's Farnsworth.
 
-771
-01:12:09,300 --> 01:12:10,700
+722
+01:12:18,251 --> 01:12:19,710
 That's the place! Stop the car!
 
-772
-01:12:11,200 --> 01:12:12,200
+723
+01:12:20,128 --> 01:12:21,128
 Stop the car!
 
-773
-01:12:12,700 --> 01:12:13,900
+724
+01:12:21,713 --> 01:12:22,879
 That's the bar! Stop!
 
-774
-01:12:14,000 --> 01:12:15,300
+725
+01:12:23,047 --> 01:12:24,423
 Let me out! What are you doing?
 
-775
-01:12:18,500 --> 01:12:19,900
-Stop the fucking car!
+726
+01:12:27,468 --> 01:12:29,052
+Stop the damn car!
 
-776
-01:12:20,200 --> 01:12:21,300
+727
+01:12:29,220 --> 01:12:30,262
 What are you doing?
 
-777
-01:12:23,900 --> 01:12:24,900
-Yep?
+728
+01:12:32,974 --> 01:12:33,974
+Yeah?
 
-778
-01:12:25,100 --> 01:12:26,900
-Sawyer girl's loose.
-She's headed towards town.
+729
+01:12:34,058 --> 01:12:36,059
+The Sawyer girl escaped.
+She's headed toward town.
 
-779
-01:12:27,300 --> 01:12:29,500
-Yeah, yeah. I got her. She's in the back.
+730
+01:12:36,269 --> 01:12:38,603
+Yeah. I've got her. I'm taking her out back.
 
-780
-01:12:29,700 --> 01:12:31,100
+731
+01:12:38,730 --> 01:12:39,771
 What do you want me to do with her?
 
-781
-01:12:31,200 --> 01:12:32,800
-<i>Tell you what,</i>
+732
+01:12:39,897 --> 01:12:43,400
+<i>Take her to the slaughterhouse
+and keep her there.</i>
 
-782
-01:12:32,900 --> 01:12:34,700
-<i>take her up to
-the slaughterhouse and hold her.</i>
+733
+01:12:44,610 --> 01:12:47,612
+I'm dealing with Ollie.
+She cut him pretty bad.
 
-783
-01:12:35,900 --> 01:12:38,600
-I'm dealing with Ollie. She sliced him good.
+734
+01:12:48,281 --> 01:12:49,573
+<i>Give me a few minutes.</i>
 
-784
-01:12:39,400 --> 01:12:40,500
-<i>Just give me a few minutes.</i>
+735
+01:12:50,408 --> 01:12:51,408
+All right.
 
-785
-01:12:41,400 --> 01:12:42,400
-Okay.
+736
+01:12:51,576 --> 01:12:52,576
+Sure, Dad.
 
-786
-01:12:42,700 --> 01:12:43,700
-You got it, Dad.
+737
+01:12:54,287 --> 01:12:55,787
+He's your dad, you bastard?
 
-787
-01:12:45,300 --> 01:12:46,800
-That's your fucking dad?
+738
+01:12:57,749 --> 01:12:59,249
+Stop the damn car!
 
-788
-01:12:48,700 --> 01:12:50,300
-Fucking stop the car!
-
-789
-01:12:50,600 --> 01:12:51,600
+739
+01:12:59,584 --> 01:13:00,584
 Let me out!
 
-790
-01:12:51,900 --> 01:12:54,200
+740
+01:13:00,835 --> 01:13:03,336
 Open the door, you liar!
 
-791
-01:12:57,700 --> 01:12:59,800
-<i>Okay, Marvin, do you copy?</i>
+741
+01:13:06,591 --> 01:13:11,094
+<i>Marvin, do you copy? We've got
+the girl from the Carson house.</i>
 
-792
-01:13:00,100 --> 01:13:01,800
-<i>We have the girl from the Carson house.</i>
+742
+01:13:12,013 --> 01:13:15,599
+<i>Come on, Marvin, answer. Are
+you there? Come on, Marvin.</i>
 
-793
-01:13:03,000 --> 01:13:04,500
-<i>Come on, Marvin, pick up.</i>
+743
+01:13:18,811 --> 01:13:21,772
+<i>Is that you, Marvin? If you can hear me,</i>
 
-794
-01:13:05,300 --> 01:13:07,000
-<i>Are you there? Come on, Marvin.</i>
+744
+01:13:22,106 --> 01:13:23,482
+<i>meet us at the slaughterhouse.</i>
 
-795
-01:13:09,800 --> 01:13:12,800
-<i>That you, Marvin? If you can hear me,</i>
+745
+01:13:40,208 --> 01:13:43,460
+Sheriff, I represent Verna Carson's
+estate and her granddaughter, Heather.
 
-796
-01:13:13,000 --> 01:13:14,600
-<i>then meet us out at the slaughterhouse.</i>
-
-797
-01:13:31,200 --> 01:13:33,200
-Sheriff, I represent Verna Carson's estate
-
-798
-01:13:33,200 --> 01:13:34,500
-and her granddaughter, Heather.
-
-799
-01:13:34,700 --> 01:13:35,700
+746
+01:13:43,628 --> 01:13:44,586
 I know who she is.
 
-800
-01:13:35,700 --> 01:13:37,300
-Well, at this very moment,
-she's in the back of
+747
+01:13:44,670 --> 01:13:48,298
+Right now, she's in one of your
+patrol cars, against her will,
 
-801
-01:13:37,400 --> 01:13:39,400
-one of your police cars against her will
+748
+01:13:48,382 --> 01:13:50,509
+leaving town. They passed
+Johnny B. Red's bar.
 
-802
-01:13:39,500 --> 01:13:41,300
-heading out of town,
-out past Johnny B. Red's.
-
-803
-01:13:41,800 --> 01:13:42,800
+749
+01:13:50,802 --> 01:13:51,802
 All right, come with me.
 
-804
-01:13:46,800 --> 01:13:48,200
-She's headed out Highway 28.
+750
+01:13:55,473 --> 01:13:57,224
+He's heading for Highway 28.
 
-805
-01:13:49,400 --> 01:13:50,600
+751
+01:13:58,309 --> 01:13:59,476
 There's nothing out there.
 
-806
-01:13:52,800 --> 01:13:55,000
-Oh, shit. I know where he's headed.
+752
+01:14:01,813 --> 01:14:04,064
+Shit. I know where he's going.
 
-807
-01:14:07,400 --> 01:14:08,400
+753
+01:14:16,327 --> 01:14:17,327
 You know,
 
-808
-01:14:10,700 --> 01:14:12,200
-I thought you were pretty cute.
+754
+01:14:19,664 --> 01:14:21,915
+I thought you were a nice guy.
 
-809
-01:14:22,800 --> 01:14:24,400
-So you're a Hartman, huh?
+755
+01:14:31,717 --> 01:14:33,343
+So you're a Hartman?
 
-810
-01:14:26,600 --> 01:14:27,600
-Yep.
+756
+01:14:35,555 --> 01:14:36,555
+Yeah.
 
-811
-01:14:30,800 --> 01:14:31,800
-Whoa!
+757
+01:14:44,355 --> 01:14:45,438
+Well, I'm a Sawyer.
 
-812
-01:14:35,400 --> 01:14:36,600
-I'm a Sawyer.
+758
+01:15:04,542 --> 01:15:05,542
+Please, stop!
 
-813
-01:14:55,700 --> 01:14:56,700
-Please stop!
+759
+01:15:26,814 --> 01:15:27,981
+Stop it!
 
-814
-01:15:17,800 --> 01:15:19,000
-CARLI Quit it!
-
-815
-01:15:30,000 --> 01:15:31,000
+760
+01:15:38,910 --> 01:15:39,910
 Don't tempt me.
 
-816
-01:15:33,900 --> 01:15:35,800
-You should feel
-right at home in this nasty place.
+761
+01:15:42,788 --> 01:15:44,664
+You should feel right at
+home in this awful place.
 
-817
-01:15:36,700 --> 01:15:38,400
-Your family used to work this shithole.
+762
+01:15:45,625 --> 01:15:47,626
+Your family used to work in this filth.
 
-818
-01:16:46,100 --> 01:16:49,500
-We'll take it from here.
-No place for a cop, son.
+763
+01:16:55,069 --> 01:16:58,405
+Leave her to us. This is
+no place for a cop, son.
 
-819
-01:17:36,300 --> 01:17:37,300
+764
+01:17:45,202 --> 01:17:46,202
 It's me!
 
-820
-01:17:37,600 --> 01:17:38,600
-It's Heather!
+765
+01:17:46,579 --> 01:17:47,579
+I'm Heather!
 
-821
-01:17:39,300 --> 01:17:40,300
-It's your cousin!
+766
+01:17:48,247 --> 01:17:49,331
+I'm your cousin!
 
-822
-01:17:40,500 --> 01:17:42,700
+767
+01:17:49,415 --> 01:17:51,583
 It's me! I'm Heather!
 
-823
-01:17:43,200 --> 01:17:44,400
+768
+01:17:52,251 --> 01:17:53,710
 Please, it's Heather!
 
-824
-01:17:55,500 --> 01:17:56,900
-Come here. You remember me?
+769
+01:18:04,472 --> 01:18:06,181
+Come here. Remember me?
 
-825
-01:18:06,400 --> 01:18:08,400
-Come on, Ollie.
-Let's feed his ass to the shark.
+770
+01:18:15,358 --> 01:18:17,609
+Come on, Ollie. Let's put
+him in the grinder. Hurry!
 
-826
-01:18:08,500 --> 01:18:09,500
-- Move!
-- Hit him, Burt.
+771
+01:18:17,693 --> 01:18:18,693
+Hit him, Burt.
 
-827
-01:18:09,800 --> 01:18:11,100
+772
+01:18:18,778 --> 01:18:20,236
 Come here! Move your big ass!
 
-828
-01:18:11,900 --> 01:18:13,100
+773
+01:18:20,488 --> 01:18:21,488
 Get up there!
 
-829
-01:18:15,700 --> 01:18:17,200
-You about to die, motherfucker.
+774
+01:18:24,617 --> 01:18:26,284
+You're going to die, bastard.
 
-830
-01:18:17,200 --> 01:18:20,900
-Just like your gammy, your sick cousins
-and your damn horrible brother.
+775
+01:18:31,374 --> 01:18:32,374
+Hurry!
 
-831
-01:18:21,300 --> 01:18:23,200
-- Get down! Move!
+776
+01:18:34,835 --> 01:18:37,045
+Tonight I'm going to wipe out
+the entire Sawyer bloodline.
 
-832
-01:18:25,900 --> 01:18:28,100
-I'm gonna end the whole
-Sawyer bloodline tonight.
+777
+01:18:37,129 --> 01:18:38,922
+You and that pretty little
+bitch cousin of yours.
 
-833
-01:18:28,200 --> 01:18:29,900
-You and your pretty bitch cousin.
+778
+01:18:39,965 --> 01:18:41,132
+That's right, Burt. Hit him again.
 
-834
-01:18:30,900 --> 01:18:32,400
-Atta boy, Burt. Hit him again.
+779
+01:18:42,927 --> 01:18:45,178
+You're about to die, bastard.
 
-835
-01:18:34,000 --> 01:18:36,000
-Motherfucker, you're about to die, boy.
-
-836
-01:18:37,000 --> 01:18:38,200
+780
+01:18:45,596 --> 01:18:47,097
 Son of a bitch!
 
-837
-01:18:38,300 --> 01:18:40,600
-- Go get that chain, Ollie.
-- All right. I'll get it, Burt.
+781
+01:18:47,181 --> 01:18:49,265
+-Get that chain, Ollie.
+-Okay. Right away, Burt.
 
-838
-01:18:43,200 --> 01:18:44,700
-Grotesque excuse for a man.
+782
+01:18:52,144 --> 01:18:53,895
+You're a grotesque excuse for a man.
 
-839
-01:18:45,600 --> 01:18:46,700
-You're not gonna get off that easy, boy.
+783
+01:18:54,438 --> 01:18:55,772
+You're not getting away that easily.
 
-840
-01:18:47,100 --> 01:18:48,700
-I'm gonna enjoy this shit, you hear me?
+784
+01:18:56,065 --> 01:18:57,524
+I'm going to enjoy this, you hear me?
 
-841
-01:18:48,900 --> 01:18:50,100
-- Hurry up, Ollie.
-- I got it.
+785
+01:18:57,775 --> 01:18:59,150
+-Hurry up, Ollie.
+-It's ready.
 
-842
-01:18:50,400 --> 01:18:51,400
+786
+01:18:59,276 --> 01:19:00,276
 Give me that.
 
-843
-01:18:54,400 --> 01:18:56,200
-You're about to
-get chewed up like a fucking cow!
+787
+01:19:03,280 --> 01:19:05,073
+You're going to be ground up like a damn cow!
 
-844
-01:18:56,200 --> 01:18:58,400
-Fit for a pig meal, is what you'll be.
+788
+01:19:05,157 --> 01:19:07,450
+You'll be turned into pig feed.
 
-845
-01:19:00,900 --> 01:19:02,400
-Turn it on, Ollie and fire it up. Let's go.
+789
+01:19:09,870 --> 01:19:12,664
+-Turn it on, Ollie. Come on.
+-All right, Burt. Right away!
 
-846
-01:19:02,600 --> 01:19:03,800
-All right, Burt. I'm on it!
+790
+01:19:12,748 --> 01:19:13,998
+You can count on that.
 
-847
-01:19:03,900 --> 01:19:04,900
-Bet your ass, boy.
+791
+01:19:14,875 --> 01:19:16,418
+I'm going to enjoy watching it chew you up.
 
-848
-01:19:06,000 --> 01:19:07,600
-I'm gonna enjoy
-watching you get chewed up.
+792
+01:19:24,301 --> 01:19:27,262
+You're a son of a bitch. This is
+my town, you fucking cockroach.
 
-849
-01:19:15,300 --> 01:19:16,700
-You son of a bitch.
+793
+01:19:27,721 --> 01:19:28,721
+It's running, Burt!
 
-850
-01:19:16,900 --> 01:19:18,500
-This is my town, you fucking cockroach.
+794
+01:19:32,101 --> 01:19:34,811
+Of all the Sawyers, all you sick bastards,
 
-851
-01:19:18,600 --> 01:19:19,600
-She rolling, Burt!
+795
+01:19:34,937 --> 01:19:37,355
+the only one who gets out of
+the fire is a goddamn retard?
 
-852
-01:19:23,600 --> 01:19:25,900
-Out of all you Sawyers, all you sick fucks,
+796
+01:19:37,565 --> 01:19:38,815
+How the hell did that happen?
 
-853
-01:19:26,000 --> 01:19:27,200
-the only one that gets out of the fire
+797
+01:19:41,152 --> 01:19:42,152
+Remember me?
 
-854
-01:19:27,300 --> 01:19:28,400
-is a fucking retard?
+798
+01:19:55,082 --> 01:19:57,250
+You got nine lives like a cat?
 
-855
-01:19:28,600 --> 01:19:29,800
-How the fuck did that happen?
+799
+01:19:57,334 --> 01:20:01,129
+You came back. But today you'll
+die, bastard, just like your daddy.
 
-856
-01:19:32,100 --> 01:19:33,100
-You remember me?
-
-857
-01:19:46,200 --> 01:19:48,200
-You got nine lives? Are you a cat?
-
-858
-01:19:48,400 --> 01:19:50,700
-You came back. But you're gonna die today,
-
-859
-01:19:50,700 --> 01:19:52,300
-you motherfucker, just like your daddy.
-
-860
-01:19:52,700 --> 01:19:54,100
+800
+01:20:01,589 --> 01:20:03,047
 Your day has come!
 
-861
-01:20:05,300 --> 01:20:06,300
+801
+01:20:14,268 --> 01:20:15,268
 Hey!
 
-862
-01:20:06,900 --> 01:20:07,900
-- Fucker!
-- Hey!
+802
+01:20:15,811 --> 01:20:16,811
+-Idiot!
+-Hey!
 
-863
-01:20:08,600 --> 01:20:09,600
+803
+01:20:17,605 --> 01:20:18,605
 Hey!
 
-864
-01:20:10,300 --> 01:20:11,300
-Oh-ho.
-
-865
-01:20:11,400 --> 01:20:12,400
+804
+01:20:20,316 --> 01:20:21,524
 Look who's back.
 
-866
-01:20:13,600 --> 01:20:14,800
+805
+01:20:22,234 --> 01:20:23,693
 That's right.
 
-867
-01:20:18,300 --> 01:20:19,500
-Do your thing, coz.
+806
+01:20:26,989 --> 01:20:28,406
+Do your thing, cuz.
 
-868
-01:20:29,800 --> 01:20:31,900
-- You cockroach.
+807
+01:20:38,709 --> 01:20:39,709
+Cockroach.
 
-869
-01:20:32,000 --> 01:20:33,000
-Bitch, you're dead now.
+808
+01:20:40,920 --> 01:20:41,961
+Bitch, you're dead.
 
-870
-01:20:33,400 --> 01:20:35,800
-I will fuck you up, you hear me?
-You piece of fucking trash.
+809
+01:20:42,379 --> 01:20:43,379
+I'm going to tear you to pieces, you hear me?
 
-871
-01:21:06,600 --> 01:21:07,700
-Oh, thank God, Hooper!
+810
+01:20:43,464 --> 01:20:44,631
+You worthless scum.
 
-872
-01:21:08,100 --> 01:21:09,100
+811
+01:21:15,746 --> 01:21:16,746
+Thank God, Hooper!
+
+812
+01:21:17,206 --> 01:21:18,206
 Shoot him!
 
-873
-01:21:09,700 --> 01:21:11,500
-Come on, shoot him! Shoot him!
+813
+01:21:18,666 --> 01:21:20,542
+Come on, shoot him!
 
-874
-01:21:11,600 --> 01:21:12,600
+814
+01:21:20,626 --> 01:21:21,626
 Don't shoot!
 
-875
-01:21:12,800 --> 01:21:14,200
-Hooper! Take him out!
+815
+01:21:21,710 --> 01:21:23,336
+Hooper! Finish him!
 
-876
-01:21:15,500 --> 01:21:17,200
-Shoot the fuck. Kill him!
+816
+01:21:24,421 --> 01:21:26,422
+Shoot the idiot. Kill him!
 
-877
-01:21:19,100 --> 01:21:20,900
-Pull the trigger, you weak son of a bitch!
+817
+01:21:28,008 --> 01:21:30,260
+Pull the trigger, you
+spineless son of a bitch!
 
-878
-01:21:21,700 --> 01:21:22,800
-He's gonna kill me!
+818
+01:21:30,594 --> 01:21:31,844
+He's going to kill me!
 
-879
-01:21:24,300 --> 01:21:25,900
-- Oh, God!
-- Don't shoot him!
+819
+01:21:32,888 --> 01:21:33,888
+God!
 
-880
-01:21:26,100 --> 01:21:29,000
+820
+01:21:33,973 --> 01:21:34,973
+Don't shoot!
+
+821
+01:21:35,057 --> 01:21:38,017
 Hooper! Finish what we started!
 
-881
-01:21:56,000 --> 01:21:58,200
-Can't get around the Good Book, Burt.
+822
+01:22:04,878 --> 01:22:07,505
+Nobody escapes biblical justice, Burt.
 
-882
-01:22:08,800 --> 01:22:10,000
-Clean this shit up.
+823
+01:22:17,516 --> 01:22:18,725
+Clean up this mess.
 
-883
-01:24:14,800 --> 01:24:16,200
-<i>Dearest Granddaughter.</i>
+824
+01:24:23,767 --> 01:24:25,268
+<i>Dear granddaughter:</i>
 
-884
-01:24:17,600 --> 01:24:21,300
-<i>This home and all it
-comes with, is now yours.</i>
+825
+01:24:26,603 --> 01:24:30,273
+<i>This house and everything
+in it now belong to you.</i>
 
-885
-01:24:22,900 --> 01:24:26,900
-<i>Just know that these gifts
-come with certain burdens.</i>
+826
+01:24:31,859 --> 01:24:35,778
+<i>But you should know that these gifts
+come with certain responsibilities.</i>
 
-886
-01:24:28,800 --> 01:24:33,100
+827
+01:24:37,698 --> 01:24:41,576
 <i>Your real name is Edith Rose Sawyer.</i>
 
-887
-01:24:35,400 --> 01:24:37,200
-<i>Farnsworth was instructed to give you</i>
+828
+01:24:44,371 --> 01:24:47,957
+<i>I instructed Farnsworth to give
+you a set of keys to the estate.</i>
 
-888
-01:24:37,400 --> 01:24:39,200
-<i>a set of keys to the manor.</i>
+829
+01:24:48,459 --> 01:24:52,128
+<i>The big key opens the
+reinforced door to the cellar.</i>
 
-889
-01:24:39,400 --> 01:24:41,900
-<i>The large key opens the fortified door</i>
+830
+01:24:52,796 --> 01:24:55,923
+<i>There you'll find a metal door.</i>
 
-890
-01:24:42,000 --> 01:24:43,100
-<i>to the wine cellar.</i>
-
-891
-01:24:43,900 --> 01:24:47,000
-<i>There you will discover a metal door.</i>
-
-892
-01:24:47,500 --> 01:24:49,300
+831
+01:24:56,467 --> 01:24:58,509
 <i>Behind it lives your cousin,</i>
 
-893
-01:24:50,100 --> 01:24:51,100
+832
+01:24:59,094 --> 01:25:00,261
 <i>Jedidiah Sawyer,</i>
 
-894
-01:24:53,200 --> 01:24:56,000
-<i>your only remaining blood relative.</i>
+833
+01:25:01,930 --> 01:25:04,766
+<i>the only blood relative you have left.</i>
 
-895
-01:24:56,400 --> 01:24:59,600
-<i>He's family-bound and will protect you.</i>
+834
+01:25:05,434 --> 01:25:08,644
+<i>He is devoted to the family
+and will protect you.</i>
 
-896
-01:25:00,500 --> 01:25:03,400
-<i>He simply requires your care in return.</i>
+835
+01:25:09,521 --> 01:25:12,440
+<i>In return, he only asks
+that you care for him.</i>
 
-897
-01:25:05,900 --> 01:25:09,900
-<i>Edith, you are the last of my line of Sawyer.</i>
+836
+01:25:14,985 --> 01:25:19,280
+<i>Edith, you are the last
+of the Sawyer bloodline.</i>
 
-898
-01:25:12,100 --> 01:25:14,400
-<i>My blood runs through you.</i>
+837
+01:25:21,158 --> 01:25:23,409
+<i>My blood runs through your veins.</i>
 
-899
-01:25:16,300 --> 01:25:19,100
-<i>The decision to stay is yours.</i>
+838
+01:25:25,287 --> 01:25:28,080
+<i>Whether you stay is your choice.</i>
 
-900
-01:25:20,000 --> 01:25:22,900
-<i>Just remember, you're a Sawyer</i>
+839
+01:25:29,041 --> 01:25:31,918
+<i>But remember, you are a Sawyer,</i>
 
-901
-01:25:23,500 --> 01:25:25,300
-<i>and this is home.</i>
+840
+01:25:32,503 --> 01:25:34,337
+<i>and this is your home.</i>
 
-902
-01:26:24,600 --> 01:26:27,300
-<i>Now, it's your time.</i>
+841
+01:26:33,647 --> 01:26:36,274
+<i>It's your time.</i>
 
-903
+842
+01:31:31,486 --> 01:31:34,321
+Remember to tell her you love her.
+
+843
+01:31:36,032 --> 01:31:39,326
+With all the money she
+has now, it's almost true.
+
+844
 01:31:39,932 --> 01:32:29,326
 ENCODER BY | <font color="#FF0000">EstefanHD</font>
 <font color="#FFFFFF">>>></font> <font color="#00FFFF">wWw.PocosMegasHD.Com</font> <font color="#FFFFFF"><<<</font>
-
