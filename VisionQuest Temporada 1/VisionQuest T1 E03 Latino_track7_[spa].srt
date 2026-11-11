@@ -1,0 +1,3576 @@
+﻿1
+00:00:01,417 --> 00:00:05,042
+Va a llegar un momento,
+cuando estés afuera observando el mundo,
+
+2
+00:00:05,125 --> 00:00:07,625
+en que el mundo también te va a notar.
+
+3
+00:00:08,458 --> 00:00:10,708
+[Paladín] Esta no es una prueba.
+
+4
+00:00:10,792 --> 00:00:13,125
+Yo soy la emergencia.
+
+5
+00:00:14,417 --> 00:00:15,792
+[Ultrón] ¿Qué vas a hacer entonces?
+
+6
+00:00:15,875 --> 00:00:19,500
+[Viernes] Abriendo archivos previos
+relacionados con el programa VisionQuest.
+
+7
+00:00:19,583 --> 00:00:23,125
+Me he vuelto adicto
+a las historias de crimen verdadero.
+
+8
+00:00:23,208 --> 00:00:25,083
+Son perfectas para perder el tiempo.
+
+9
+00:00:25,167 --> 00:00:27,750
+[Visión] Tengo sus recuerdos,
+pero no sus sentimientos.
+
+10
+00:00:27,833 --> 00:00:29,542
+Tengo su cara, pero no su virtud.
+
+11
+00:00:29,625 --> 00:00:32,333
+Lo único que puedo sentir
+es el peso de ser él.
+
+12
+00:00:32,417 --> 00:00:33,917
+[Ultrón] Estás ciego, Visión.
+
+13
+00:00:34,000 --> 00:00:36,542
+Casi no puedes ver nada,
+incluyendo la verdad.
+
+14
+00:00:36,625 --> 00:00:37,792
+[Visión] Él no es mi hijo.
+
+15
+00:00:37,875 --> 00:00:40,458
+Sabía que eras rápido,
+pero eso fue muy raro.
+
+16
+00:00:42,750 --> 00:00:44,542
+[Lisa grita]
+
+17
+00:00:44,625 --> 00:00:46,875
+[Visión] Es él. Paladín.
+
+18
+00:00:46,958 --> 00:00:48,292
+[Viernes] Es un cazarrecompensas.
+
+19
+00:00:48,375 --> 00:00:52,292
+Te encontrará,
+te capturará vivo según el contrato
+
+20
+00:00:52,375 --> 00:00:54,750
+o te matará si estás en su camino.
+
+21
+00:00:55,458 --> 00:00:56,833
+Una generación tras otra
+
+22
+00:00:56,917 --> 00:00:59,667
+persiguiendo a sus objetivos
+para el mejor postor.
+
+23
+00:00:59,750 --> 00:01:02,417
+-Y su nuevo objetivo...
+-[gruñe]
+
+24
+00:01:02,500 --> 00:01:05,083
+-...eres tú.
+-[gruñen por esfuerzo]
+
+25
+00:01:05,167 --> 00:01:06,458
+[Jarvis] Visión está malherido.
+
+26
+00:01:06,542 --> 00:01:10,500
+Casi perdió totalmente su energía.
+Sus procesadores están... fallando.
+
+27
+00:01:13,125 --> 00:01:15,667
+-Mira nada más.
+-Voy a borrar mi código
+
+28
+00:01:15,750 --> 00:01:18,917
+y enviaré mi poder de procesamiento
+a todos ustedes.
+
+29
+00:01:19,000 --> 00:01:20,417
+La familia es para siempre.
+
+30
+00:01:20,500 --> 00:01:22,000
+Vale la pena pelear.
+
+31
+00:01:26,250 --> 00:01:28,250
+[inhala profundamente]
+
+32
+00:01:28,333 --> 00:01:30,917
+[Visión] No estarás a salvo
+hasta alejarte de mí lo más que puedas.
+
+33
+00:01:31,000 --> 00:01:32,417
+[neumáticos chirrían]
+
+34
+00:01:32,500 --> 00:01:33,958
+[Visión] No nos hizo caso.
+
+35
+00:01:34,042 --> 00:01:35,917
+De tal palo, tal astilla.
+
+36
+00:01:39,458 --> 00:01:42,333
+[♪ música de suspenso]
+
+37
+00:01:58,042 --> 00:02:00,375
+[reportero en TV] ...a las autoridades
+en busca de pistas
+
+38
+00:02:00,458 --> 00:02:01,542
+mientras buscan la identidad
+
+39
+00:02:01,625 --> 00:02:04,125
+de quien ahora es conocido
+como el misterioso "pájaro verdugo".
+
+40
+00:02:04,208 --> 00:02:07,042
+Edwards, otra figura prominente
+en la industria de la tecnología...
+
+41
+00:02:07,125 --> 00:02:08,750
+Ay, qué cosa.
+
+42
+00:02:10,333 --> 00:02:11,458
+[interferencia]
+
+43
+00:02:11,542 --> 00:02:13,792
+Nuevas noticias llegan
+de Studham esta noche
+
+44
+00:02:13,875 --> 00:02:15,958
+luego de que se confirmara
+una segunda víctima
+
+45
+00:02:16,042 --> 00:02:19,208
+que murió a manos
+del misterioso pájaro verdugo.
+
+46
+00:02:19,292 --> 00:02:22,375
+La Policía busca cualquier conexión
+entre la primera víctima,
+
+47
+00:02:22,458 --> 00:02:23,875
+Richard Gaines, de Londres,
+
+48
+00:02:23,958 --> 00:02:26,167
+-y la segunda víctima...
+-Otra muerte.
+
+49
+00:02:26,250 --> 00:02:28,708
+...su cuerpo fue descubierto
+en los terrenos de su casa de campo...
+
+50
+00:02:28,792 --> 00:02:29,792
+Interesante.
+
+51
+00:02:29,875 --> 00:02:33,417
+Según varias fuentes, el asesino talló
+una especie de enormes alas
+
+52
+00:02:33,500 --> 00:02:35,000
+en el piso de la escena del crimen.
+
+53
+00:02:35,083 --> 00:02:37,625
+Pues, es un pajarito ocupado.
+
+54
+00:02:37,708 --> 00:02:40,667
+...que no entren en pánico
+mientras continúan la investigación.
+
+55
+00:02:40,750 --> 00:02:42,917
+Edwards, una magnate de la tecnología...
+
+56
+00:02:43,000 --> 00:02:45,542
+[♪ música siniestra]
+
+57
+00:02:51,292 --> 00:02:53,750
+[sirenas policiales]
+
+58
+00:02:55,542 --> 00:02:57,000
+[respira agitadamente]
+
+59
+00:02:57,083 --> 00:02:58,833
+[reportero] ...mostraban
+signos de mutilación.
+
+60
+00:02:58,917 --> 00:03:02,542
+Y según otras fuentes, el asesino talló
+una especie de enormes alas
+
+61
+00:03:02,625 --> 00:03:05,083
+-en el piso de la escena del crimen.
+-[hombre] No, no, no, no.
+
+62
+00:03:07,500 --> 00:03:09,250
+No puede ser. [respira agitadamente]
+
+63
+00:03:09,333 --> 00:03:11,542
+[carga arma]
+
+64
+00:03:11,625 --> 00:03:13,042
+[amartilla arma]
+
+65
+00:03:13,625 --> 00:03:16,542
+-No, no, no, no.
+-[voz automatizada] Elevador. Desarmado.
+
+66
+00:03:16,625 --> 00:03:18,167
+Entrada principal. Desarmada.
+
+67
+00:03:18,250 --> 00:03:20,375
+-Corredor central. Desarmado.
+-[interferencia]
+
+68
+00:03:20,458 --> 00:03:23,458
+-Todos los sistemas. Desarmados.
+-[dispositivo se apaga]
+
+69
+00:03:24,083 --> 00:03:26,125
+[sonido de ascensor]
+
+70
+00:03:28,958 --> 00:03:30,208
+No, no, no, no.
+
+71
+00:03:32,958 --> 00:03:34,708
+[ascensor se detiene]
+
+72
+00:03:37,833 --> 00:03:40,167
+[♪ música coral]
+
+73
+00:03:43,667 --> 00:03:44,708
+[amartilla arma]
+
+74
+00:03:44,792 --> 00:03:45,792
+[disparo]
+
+75
+00:03:46,417 --> 00:03:47,917
+-[amartilla arma]
+-[disparo]
+
+76
+00:03:48,000 --> 00:03:49,875
+-[amartilla arma]
+-[disparo]
+
+77
+00:03:49,958 --> 00:03:51,833
+-[amartilla arma]
+-[disparo]
+
+78
+00:03:52,792 --> 00:03:54,667
+[♪ música cesa]
+
+79
+00:04:01,333 --> 00:04:03,583
+[♪ música heroica]
+
+80
+00:04:05,167 --> 00:04:06,375
+[Tommy] ¿Visión?
+
+81
+00:04:08,167 --> 00:04:09,292
+¡Visión!
+
+82
+00:04:09,375 --> 00:04:11,667
+Solo dime qué hacer.
+¿A dónde te llevo? ¿Al hospital?
+
+83
+00:04:11,750 --> 00:04:14,458
+Ah, no creo que estén familiarizados
+con mi anatomía.
+
+84
+00:04:14,542 --> 00:04:16,750
+Ay, carajo, ¿qué tan malo es?
+
+85
+00:04:16,833 --> 00:04:18,958
+-Uh, ligeramente letal.
+-Okey.
+
+86
+00:04:19,042 --> 00:04:21,917
+Entonces, dime en qué te ayudo.
+¿En dónde pueden repararte?
+
+87
+00:04:22,000 --> 00:04:24,000
+¿Un Apple Store?
+¿Donde reparan televisores?
+
+88
+00:04:24,083 --> 00:04:26,167
+Solo hay dos personas
+que podrían repararme
+
+89
+00:04:26,250 --> 00:04:30,208
+y una de ellas murió salvando el universo.
+La otra es el Dr. Banner.
+
+90
+00:04:30,292 --> 00:04:32,125
+Sí, pero la última vez
+que trabajó con robots
+
+91
+00:04:32,208 --> 00:04:34,750
+creó un sociópata genocida.
+¿Que no te acuerdas?
+
+92
+00:04:34,833 --> 00:04:38,292
+Mi nombre es Ultrón,
+pero tú solo dime señor Ultrón.
+
+93
+00:04:38,375 --> 00:04:40,083
+Es irrelevante, Thomas.
+
+94
+00:04:40,167 --> 00:04:42,583
+El Dr. Banner no está disponible.
+Estoy solo.
+
+95
+00:04:42,667 --> 00:04:44,458
+[♪ música triste]
+
+96
+00:04:45,583 --> 00:04:46,917
+¿Quién tiene hambre?
+
+97
+00:04:47,000 --> 00:04:48,292
+[alarma sonando]
+
+98
+00:04:48,375 --> 00:04:51,042
+[Edith] ¡Atención!
+¡Varios sistemas en estado crítico!
+
+99
+00:04:51,125 --> 00:04:53,500
+El núcleo de Visión se sobrecalienta.
+
+100
+00:04:54,792 --> 00:04:56,333
+Viernes, ¡ayúdame!
+
+101
+00:04:57,125 --> 00:04:58,583
+Perdemos refrigerante.
+
+102
+00:04:58,667 --> 00:05:00,333
+[Viernes] Estamos perdiendo todo.
+
+103
+00:05:02,000 --> 00:05:03,500
+Colapso total de sistemas.
+
+104
+00:05:03,583 --> 00:05:06,917
+En esencia, se está desangrando.
+
+105
+00:05:07,000 --> 00:05:08,083
+[alarma continúa sonando]
+
+106
+00:05:09,792 --> 00:05:11,917
+Si Visión está muriendo, también nosotros.
+
+107
+00:05:12,000 --> 00:05:14,542
+¡Y el sacrificio de Jarvis
+habrá sido en vano!
+
+108
+00:05:15,917 --> 00:05:17,917
+-[Viernes] No. No, no, no.
+-¿Viernes?
+
+109
+00:05:18,833 --> 00:05:20,417
+No más caos.
+
+110
+00:05:20,917 --> 00:05:22,125
+No más...
+
+111
+00:05:22,917 --> 00:05:24,250
+No más sacrificios.
+
+112
+00:05:26,500 --> 00:05:29,083
+Ey. ¡Ey! Quédate conmigo.
+
+113
+00:05:29,167 --> 00:05:30,375
+Podemos hacer esto.
+
+114
+00:05:30,458 --> 00:05:31,708
+¿Problema?
+
+115
+00:05:31,792 --> 00:05:35,042
+Fuga de energía que causará
+el inminente deceso de Visión.
+
+116
+00:05:35,708 --> 00:05:36,958
+¿Solución?
+
+117
+00:05:37,042 --> 00:05:38,833
+Hay que cauterizar la herida.
+
+118
+00:05:38,917 --> 00:05:41,250
+Ya solo me quedan 187 segundos.
+
+119
+00:05:42,375 --> 00:05:43,833
+Tiene que estar más caliente.
+
+120
+00:05:43,917 --> 00:05:47,625
+Okey, entonces, ¿por qué no lo hacemos
+con uno de tus láseres de tus ojos?
+
+121
+00:05:47,708 --> 00:05:50,083
+Desactivados. No están disponibles.
+
+122
+00:05:50,167 --> 00:05:53,000
+[titubea] Okey, puedo usar un soplete.
+
+123
+00:05:53,083 --> 00:05:56,000
+-Hay que meternos a un taller mecánico.
+-No hay suficiente tiempo.
+
+124
+00:05:56,083 --> 00:05:58,667
+-Uy, qué divertido.
+-No estoy hablando contigo.
+
+125
+00:05:58,750 --> 00:06:01,208
+-¿Hablas contigo mismo?
+-No. Sí. Algo así.
+
+126
+00:06:01,292 --> 00:06:03,792
+-Decídete.
+-Creo que tus circuitos están fallando.
+
+127
+00:06:03,875 --> 00:06:04,958
+¿Qué? ¿También lo hueles?
+
+128
+00:06:05,042 --> 00:06:08,125
+-Perdón, es que estoy muy nervioso, ¿okey?
+-No.
+
+129
+00:06:08,208 --> 00:06:11,750
+Es ácido sulfúrico.
+Detén el auto, Thomas. ¡Rápido! Detente.
+
+130
+00:06:12,792 --> 00:06:14,000
+[neumáticos chirrían]
+
+131
+00:06:14,083 --> 00:06:15,833
+[Tommy] ¿Qué? ¿A dónde vas?
+
+132
+00:06:17,292 --> 00:06:19,792
+-[Visión] Ya sé qué hacer. [se queja]
+-Estás loco. ¿Qué estás haciendo?
+
+133
+00:06:23,375 --> 00:06:25,333
+-Dime qué estás buscando.
+-Esto.
+
+134
+00:06:26,583 --> 00:06:28,667
+Esa batería ya se ve vacía.
+
+135
+00:06:28,750 --> 00:06:30,417
+No es la energía la que necesito.
+
+136
+00:06:30,500 --> 00:06:32,083
+Te quedan 23 segundos.
+
+137
+00:06:32,167 --> 00:06:35,042
+Tal vez lo logres
+si sabes trabajar bajo presión.
+
+138
+00:06:35,125 --> 00:06:36,375
+[respira temblorosamente]
+
+139
+00:06:39,583 --> 00:06:41,375
+[chisporroteo]
+
+140
+00:06:41,458 --> 00:06:44,000
+[alarma sonando]
+
+141
+00:06:46,250 --> 00:06:48,500
+[con esfuerzo] Ya casi.
+
+142
+00:06:49,958 --> 00:06:51,458
+-[exhala]
+-¿Eso funcionó?
+
+143
+00:06:51,542 --> 00:06:53,750
+Calculando prognosis.
+
+144
+00:06:53,833 --> 00:06:55,042
+[exhala]
+
+145
+00:06:58,000 --> 00:06:59,000
+¿Visión?
+
+146
+00:07:01,583 --> 00:07:02,583
+¿Visión?
+
+147
+00:07:03,792 --> 00:07:04,792
+¡Visión!
+
+148
+00:07:05,708 --> 00:07:07,958
+Ay, no me hagas esto.
+
+149
+00:07:09,292 --> 00:07:12,125
+Estabilizándose al 32 %. ¡52 %!
+
+150
+00:07:12,208 --> 00:07:16,250
+-Se está estabilizando.
+-Guau. No pasa nada. Eso es normal. Okey.
+
+151
+00:07:20,333 --> 00:07:21,458
+[resopla]
+
+152
+00:07:22,208 --> 00:07:25,583
+Gracias, DUM-E y gracias, U.
+
+153
+00:07:27,500 --> 00:07:29,042
+[grito con zumbido de electricidad]
+
+154
+00:07:30,667 --> 00:07:32,750
+[tose]
+
+155
+00:07:33,667 --> 00:07:36,625
+[voz distorsionada] ¡Arreglo temporal!
+Ay, no, empecé a gritar.
+
+156
+00:07:36,708 --> 00:07:38,083
+Dime si empecé a gritar.
+
+157
+00:07:38,167 --> 00:07:40,750
+Tengo un problema
+con mi modulador de voz, creo.
+
+158
+00:07:40,833 --> 00:07:42,375
+[voz menos distorsionada] ¿Ya está mejor?
+
+159
+00:07:42,458 --> 00:07:43,958
+¿O ahora solo causo miedo?
+
+160
+00:07:44,583 --> 00:07:45,958
+Entonces, ¿funcionó?
+
+161
+00:07:47,333 --> 00:07:49,167
+[voz normal] Excelentes noticias.
+
+162
+00:07:49,250 --> 00:07:52,250
+He alcanzado un estado
+de aún no agonizante.
+
+163
+00:07:52,333 --> 00:07:54,333
+-[♪ música suave]
+-[Tommy] Okey.
+
+164
+00:07:58,250 --> 00:08:00,125
+[gruñidos de dolor]
+
+165
+00:08:00,208 --> 00:08:02,000
+Estética canina
+
+166
+00:08:02,083 --> 00:08:05,417
+-[Paladín] Mejor solo mátame.
+-[enlace] Y ¿por qué haría eso?
+
+167
+00:08:05,500 --> 00:08:07,625
+Batalló mucho por sobrevivir.
+
+168
+00:08:08,167 --> 00:08:10,250
+-Gracias, Bang.
+-[pitidos electrónicos]
+
+169
+00:08:10,333 --> 00:08:12,917
+¿Envío una canasta
+al sindicato de los Diez Anillos
+
+170
+00:08:13,000 --> 00:08:14,875
+agradeciéndoles
+por la armadura de adamantium?
+
+171
+00:08:14,958 --> 00:08:16,708
+La más elegante con las peras.
+
+172
+00:08:16,792 --> 00:08:19,750
+-Considérelo hecho.
+-[se queja] Antes era más fácil.
+
+173
+00:08:19,833 --> 00:08:21,792
+Es porque ahora está viejo
+y su cuerpo da asco.
+
+174
+00:08:21,875 --> 00:08:23,042
+Tal vez sea hora de retirarse.
+
+175
+00:08:23,125 --> 00:08:25,625
+Los golpes y moretones
+son parte del trabajo.
+
+176
+00:08:25,708 --> 00:08:27,125
+¿Como el trabajo en Brooklyn?
+
+177
+00:08:27,208 --> 00:08:29,833
+Se tuvo que arrancar la metralla
+de ese explosivo de su vientre.
+
+178
+00:08:29,917 --> 00:08:31,833
+Solo era un viejo amigo
+que me quería castigar.
+
+179
+00:08:31,917 --> 00:08:35,375
+Claro, ¿y las feas mordidas de esa cosa
+que era mitad hombre y mitad lobo?
+
+180
+00:08:35,458 --> 00:08:37,250
+Un hombre perfectamente razonable de día.
+
+181
+00:08:37,333 --> 00:08:39,667
+¿Y la conmoción cerebral
+por el golpe a la cabeza
+
+182
+00:08:39,750 --> 00:08:40,917
+con el bastón de fibra de acero?
+
+183
+00:08:41,000 --> 00:08:43,667
+Si no aguantas el calor,
+no te acerques a Hell's Kitchen.
+
+184
+00:08:43,750 --> 00:08:46,208
+¿No prefiere descansar
+en la playa con una cerveza...
+
+185
+00:08:46,292 --> 00:08:48,625
+-Mejor un gin tonic.
+-...en vez de ensuciar su camioneta?
+
+186
+00:08:48,708 --> 00:08:50,083
+Se está haciendo lento, jefe.
+
+187
+00:08:50,167 --> 00:08:52,292
+Ah, está herido. Está sangrando.
+
+188
+00:08:53,083 --> 00:08:55,000
+Sí, a ver, también él lo está.
+
+189
+00:08:56,500 --> 00:08:57,917
+Mm.
+
+190
+00:09:01,333 --> 00:09:02,833
+¿Te digo algo?
+
+191
+00:09:02,917 --> 00:09:06,208
+Tal vez él no derrame sangre,
+pero Visión está derramando algo.
+
+192
+00:09:06,833 --> 00:09:09,208
+Escanea las especificaciones
+de sintezoides que hackeamos
+
+193
+00:09:09,292 --> 00:09:11,500
+de S.W.O.R.D. y envía a los drones
+
+194
+00:09:11,583 --> 00:09:13,083
+a buscar esas firmas únicas.
+
+195
+00:09:13,167 --> 00:09:15,167
+Refrigerante, radiación.
+Lo que sea que deje un rastro.
+
+196
+00:09:15,250 --> 00:09:16,708
+-Entendido.
+-[silba]
+
+197
+00:09:16,792 --> 00:09:20,417
+Bing, Bang, Bum, su turno.
+
+198
+00:09:21,583 --> 00:09:22,958
+[pitidos electrónicos]
+
+199
+00:09:24,375 --> 00:09:26,125
+[♪ música de acción]
+
+200
+00:09:31,000 --> 00:09:33,375
+[Tommy] Okey, ¿ahora qué sigue?
+
+201
+00:09:34,583 --> 00:09:36,500
+¿Que qué sigue? Nos vamos de aquí
+
+202
+00:09:36,583 --> 00:09:39,208
+porque aún nos está persiguiendo
+un cazarrecompensas.
+
+203
+00:09:39,292 --> 00:09:40,583
+No.
+
+204
+00:09:40,667 --> 00:09:42,333
+Me refiero a quién empieza a hablar.
+
+205
+00:09:42,417 --> 00:09:44,083
+-¿Empiezas o yo?
+-Claro.
+
+206
+00:09:45,083 --> 00:09:48,542
+Sí, de hecho, sí quiero hablarte
+de un asunto en especial.
+
+207
+00:09:48,625 --> 00:09:50,833
+-Es muy importante.
+-Sí. ¡Sí!
+
+208
+00:09:50,917 --> 00:09:53,500
+Sí. Absoluta... Eso quiero.
+Yo... Yo te escucho.
+
+209
+00:09:54,167 --> 00:09:56,125
+He visto que no usas tus direccionales
+
+210
+00:09:56,208 --> 00:09:58,500
+y no has ajustado tu espejo retrovisor.
+
+211
+00:09:58,583 --> 00:10:01,417
+-[neumáticos chirrían]
+-Okey. Ahora estás molesto.
+
+212
+00:10:02,125 --> 00:10:04,500
+Estaba a nada de que me hicieran
+una lobotomía por tu culpa,
+
+213
+00:10:04,583 --> 00:10:06,375
+¿y quieres darme una lección de manejo?
+
+214
+00:10:07,083 --> 00:10:08,083
+PADRE DEL AÑO
+
+215
+00:10:08,167 --> 00:10:09,708
+Si quieres, aquí te cuido la taza.
+
+216
+00:10:13,458 --> 00:10:15,792
+-Tenemos que hablar.
+-[Ultrón] Tiene razón.
+
+217
+00:10:15,875 --> 00:10:18,750
+Es momento de darle buen uso
+a tantos años estudiando
+
+218
+00:10:18,833 --> 00:10:22,208
+el comportamiento humano
+con las ilustradas IA de Stark.
+
+219
+00:10:22,292 --> 00:10:25,417
+Okey. Hablemos entonces. Como tú digas.
+
+220
+00:10:25,500 --> 00:10:28,625
+-Puedo hacerlo.
+-[Ultrón] Ya va a empezar. Ahí viene.
+
+221
+00:10:28,708 --> 00:10:30,083
+Ahí viene.
+
+222
+00:10:30,167 --> 00:10:33,208
+-¿Cómo es que eres mi padre?
+-Bumshakalaka.
+
+223
+00:10:33,292 --> 00:10:35,583
+-Es que eres un robot.
+-Mira, Thomas,
+
+224
+00:10:35,667 --> 00:10:38,250
+si ser padre fuera
+algo remotamente posible,
+
+225
+00:10:38,333 --> 00:10:40,042
+no tendría nada que ver conmigo
+
+226
+00:10:40,125 --> 00:10:42,292
+y tendría todo que ver con Wanda Maximoff.
+
+227
+00:10:42,375 --> 00:10:43,583
+-¡Ah!
+-Perdón por interrumpirlos.
+
+228
+00:10:43,667 --> 00:10:46,542
+Un dron de Paladín se dirige
+hacia nosotros.
+
+229
+00:10:46,625 --> 00:10:48,958
+Creemos que siguió
+un rastro de refrigerante.
+
+230
+00:10:49,667 --> 00:10:51,583
+Perdón. Perdón. Aún no entiendo
+
+231
+00:10:51,667 --> 00:10:54,458
+-qué tiene que ver Wanda.
+-Thomas, maneja, por favor.
+
+232
+00:10:55,958 --> 00:10:57,500
+-¿Puedes?
+-¡No!
+
+233
+00:10:57,583 --> 00:10:59,375
+No voy a dejar que pase otro segundo
+
+234
+00:10:59,458 --> 00:11:01,750
+sin saber quién soy yo, ¿okey? Oye.
+
+235
+00:11:01,833 --> 00:11:05,333
+Mi vida era un asco, sí.
+Sí, pero era medio normal, ¿okey?
+
+236
+00:11:05,417 --> 00:11:09,875
+Y, luego, de un día al otro,
+en mi mente estabas tú y Wanda,
+
+237
+00:11:09,958 --> 00:11:12,292
+-y creo que estoy perdiendo la cabeza.
+-¡Thomas!
+
+238
+00:11:12,375 --> 00:11:14,625
+¡Tenemos que seguir avanzando!
+
+239
+00:11:14,708 --> 00:11:16,833
+Ey, deja de parpadear tantas veces.
+
+240
+00:11:16,917 --> 00:11:19,458
+-DUM-E cree que estás sobreprocesando.
+-Qué tonto.
+
+241
+00:11:19,542 --> 00:11:21,750
+-¿Qué acabas de decirme?
+-No, no, perdón, no te lo dije a ti.
+
+242
+00:11:21,833 --> 00:11:23,625
+Eres tonto como una bolsa de piedras,
+
+243
+00:11:23,708 --> 00:11:26,000
+pero eres callado,
+y por eso eres mi favorito.
+
+244
+00:11:26,083 --> 00:11:27,958
+¿Hay algún otro que se quiera unir?
+
+245
+00:11:29,042 --> 00:11:32,042
+-Ah, ya sabía.
+-Otra vez tienes una falla.
+
+246
+00:11:32,125 --> 00:11:33,417
+A ver, Thomas.
+
+247
+00:11:34,292 --> 00:11:38,417
+Sé que tienes preguntas
+y quieres respuestas. Yo también.
+
+248
+00:11:39,125 --> 00:11:41,792
+Pero hay un cazarrecompensas,
+¿no lo olvidaste, verdad?
+
+249
+00:11:41,875 --> 00:11:43,833
+Y decidió enviar un dron asesino
+
+250
+00:11:43,917 --> 00:11:47,167
+a buscarnos, y si nos encuentra va a...
+
+251
+00:11:47,250 --> 00:11:49,667
+-Matarnos.
+-Va a matarnos, exacto.
+
+252
+00:11:51,000 --> 00:11:52,208
+Bien.
+
+253
+00:11:54,375 --> 00:11:55,542
+¡Direccional!
+
+254
+00:11:56,250 --> 00:11:57,625
+[enciende direccional]
+
+255
+00:12:02,875 --> 00:12:04,292
+-[Tommy exhala]
+-[perros ladran]
+
+256
+00:12:04,375 --> 00:12:05,708
+¿Traes algo de efectivo?
+
+257
+00:12:05,792 --> 00:12:07,958
+Estoy completamente quebrado.
+
+258
+00:12:09,708 --> 00:12:11,208
+Es el gerente.
+
+259
+00:12:11,292 --> 00:12:13,708
+Puedo tratar de engañarlo
+para que nos dé un cuarto,
+
+260
+00:12:13,792 --> 00:12:15,833
+pero esta gente
+reconoce a un estafador a kilómetros.
+
+261
+00:12:15,917 --> 00:12:18,667
+-Entonces, hay que entrar rápido.
+-Okey.
+
+262
+00:12:19,333 --> 00:12:22,417
+Hola, eres el gerente, ¿verdad?
+
+263
+00:12:22,500 --> 00:12:24,500
+Lo voy a ser en cuatro minutos.
+
+264
+00:12:24,583 --> 00:12:27,292
+-Cuando termine mi descanso.
+-Ah.
+
+265
+00:12:27,375 --> 00:12:29,500
+-Te esperamos adentro, si no te molesta.
+-Exacto.
+
+266
+00:12:29,583 --> 00:12:31,500
+Esperamos adentro. Se lo agradecemos.
+
+267
+00:12:32,250 --> 00:12:34,750
+-[♪ música animada]
+-[campanilla de puerta]
+
+268
+00:12:36,208 --> 00:12:38,583
+-[Visión tiene hipo]
+-[zumbidos eléctricos]
+
+269
+00:12:39,250 --> 00:12:42,375
+-¿Tú lo hiciste?
+-No fue mi intención.
+
+270
+00:12:42,458 --> 00:12:44,083
+[Edith] Vee, estás generando
+
+271
+00:12:44,167 --> 00:12:46,167
+interferencia electromagnética
+desde tu núcleo.
+
+272
+00:12:46,250 --> 00:12:49,292
+Vamos a repararlo en un minuto.
+Es un problema menor.
+
+273
+00:12:55,167 --> 00:12:56,833
+-[hipo]
+-[golpe metálico]
+
+274
+00:12:56,917 --> 00:13:00,333
+-Seguro ese fuiste tú.
+-Posiblemente.
+
+275
+00:13:02,667 --> 00:13:04,375
+Por supuesto que no. [hipo]
+
+276
+00:13:05,500 --> 00:13:06,792
+[risita] Ya lo rompiste.
+
+277
+00:13:07,542 --> 00:13:09,583
+Okey, yo voy a causar una distracción.
+
+278
+00:13:09,667 --> 00:13:12,083
+-Tú toma el dinero.
+-Thomas, esto no es legal
+
+279
+00:13:12,167 --> 00:13:16,000
+-y no es una cosa honesta.
+-Sí, y tampoco lo es robar un auto,
+
+280
+00:13:16,083 --> 00:13:17,708
+pero fue para sobrevivir.
+
+281
+00:13:19,833 --> 00:13:21,542
+El niño tiene un punto.
+
+282
+00:13:21,625 --> 00:13:24,417
+Los Vengadores
+siempre fueron muy titubeantes
+
+283
+00:13:24,500 --> 00:13:26,000
+con respecto a la moralidad.
+
+284
+00:13:26,083 --> 00:13:27,167
+Agarra el dinero y ya.
+
+285
+00:13:27,250 --> 00:13:31,500
+¿Te importa siquiera que todo esto puede
+tener un efecto importante en sus valores?
+
+286
+00:13:31,583 --> 00:13:36,250
+Necesita un buen modelo
+que le enseñe que la integridad
+
+287
+00:13:36,333 --> 00:13:41,625
+y el respeto y la honestidad
+son con lo que se mide el carácter.
+
+288
+00:13:42,583 --> 00:13:45,000
+-¿Y vas a contarle la verdad?
+-Por supuesto que no.
+
+289
+00:13:45,083 --> 00:13:47,417
+-Estás aprendiendo, muchacho.
+-No, no me llames así.
+
+290
+00:13:47,500 --> 00:13:49,958
+Además, ¿qué se supone que ibas a decirle?
+
+291
+00:13:50,042 --> 00:13:53,375
+Hijo, te cuento que tu mami
+era una bruja solitaria
+
+292
+00:13:53,458 --> 00:13:56,000
+y una noche muy especial
+viviendo en Nueva Jersey,
+
+293
+00:13:56,083 --> 00:13:59,542
+ella los conjuró a ti
+y a tu hermano gemelo mágico.
+
+294
+00:13:59,625 --> 00:14:01,083
+Nada de eso fue real.
+
+295
+00:14:01,167 --> 00:14:03,458
+No es justo que lo envenene con fantasías.
+
+296
+00:14:03,542 --> 00:14:05,708
+Que llore una vida inexistente.
+
+297
+00:14:05,792 --> 00:14:07,292
+Entonces, ¿cuál es la verdad?
+
+298
+00:14:07,375 --> 00:14:11,250
+La verdad, Ultrón, es que se me va
+a acabar el tiempo para repararme
+
+299
+00:14:11,333 --> 00:14:13,875
+y todo lo que hice fue
+ponerlo en un riesgo mayor.
+
+300
+00:14:15,458 --> 00:14:18,750
+Listo, hablé con el gerente.
+Conseguí un descuento en efectivo.
+
+301
+00:14:20,458 --> 00:14:23,083
+-Lo vamos a devolver.
+-Claro.
+
+302
+00:14:29,125 --> 00:14:32,833
+PISCINA RECIÉN REMODELADA
+SOLO PARA HUÉSPEDES
+
+303
+00:14:32,917 --> 00:14:35,667
+[♪ música siniestra]
+
+304
+00:14:38,958 --> 00:14:40,917
+[grito lejano]
+
+305
+00:14:45,167 --> 00:14:46,958
+[♪ música se desvanece]
+
+306
+00:14:47,042 --> 00:14:48,583
+[Tommy] Voy a pagar por el cuarto.
+
+307
+00:14:50,000 --> 00:14:53,167
+-Pero ¿qué fue lo que le pasó?
+-No lo sé.
+
+308
+00:14:53,250 --> 00:14:55,917
+Tal vez, al fin,
+el muchacho perdió la cabeza.
+
+309
+00:14:56,833 --> 00:14:59,083
+[voz masculina]
+Volviste a perder a Visión.
+
+310
+00:14:59,167 --> 00:15:01,875
+Empiezo a pensar que no eres digno
+del nombre Paladín.
+
+311
+00:15:01,958 --> 00:15:04,125
+Tal vez su legado te quedó grande.
+
+312
+00:15:04,208 --> 00:15:05,542
+[Paladín] Lo encontraré.
+
+313
+00:15:05,625 --> 00:15:06,708
+No me vuelva a llamar.
+
+314
+00:15:07,333 --> 00:15:09,583
+Tienes hasta el final de la noche.
+
+315
+00:15:09,667 --> 00:15:11,333
+[♪ música de tensión]
+
+316
+00:15:13,000 --> 00:15:14,042
+[suspira]
+
+317
+00:15:15,625 --> 00:15:18,250
+[♪ música se aletarga]
+
+318
+00:15:20,000 --> 00:15:21,292
+Sh.
+
+319
+00:15:21,375 --> 00:15:23,458
+-[estruendo]
+-[respira agitadamente]
+
+320
+00:15:24,375 --> 00:15:27,042
+Jefe, los drones identificaron
+un rastro mínimo
+
+321
+00:15:27,125 --> 00:15:28,458
+de crioisótopos de Horton.
+
+322
+00:15:28,542 --> 00:15:31,000
+Un superrefrigerante
+de microcomputadoras cuánticas.
+
+323
+00:15:31,083 --> 00:15:33,375
+-[Paladín] ¿Dónde?
+-Envío las coordenadas.
+
+324
+00:15:33,458 --> 00:15:35,958
+[♪ música siniestra]
+
+325
+00:15:39,375 --> 00:15:41,458
+[Viernes] Si esos drones
+logran encontrarnos,
+
+326
+00:15:41,542 --> 00:15:45,167
+Visión apenas está estable, no tiene
+la fuerza para enfrentarse a Paladín.
+
+327
+00:15:46,167 --> 00:15:50,250
+Sellé la herida, pero sus procesadores
+se reinician una y otra vez.
+
+328
+00:15:51,167 --> 00:15:55,125
+Sus lecturas térmicas están hasta el tope
+y se nos acaba el tiempo.
+
+329
+00:15:56,667 --> 00:16:00,167
+Tal vez si reescribo
+sus sistemas nucleares
+
+330
+00:16:01,833 --> 00:16:03,833
+y estabilizo el bucle...
+
+331
+00:16:06,625 --> 00:16:09,542
+SuperViernes, ¿estás bien?
+
+332
+00:16:09,625 --> 00:16:13,042
+Reescribir código era más
+la especialidad de Jarvis, no la mía.
+
+333
+00:16:13,792 --> 00:16:15,542
+De hecho, ya lo reemplacé una vez.
+
+334
+00:16:16,250 --> 00:16:18,875
+Dirigía todo para Stark,
+para los Vengadores.
+
+335
+00:16:18,958 --> 00:16:22,125
+Bueno, era un programa más joven, pero...
+
+336
+00:16:22,208 --> 00:16:26,250
+Fui la versión 2.0
+de toda iniciativa de seguridad táctica
+
+337
+00:16:26,333 --> 00:16:28,417
+que Jarvis intentó, y era buena.
+
+338
+00:16:29,083 --> 00:16:30,833
+Protegía a los héroes,
+
+339
+00:16:30,917 --> 00:16:33,042
+salvaba vidas, daba consejos.
+
+340
+00:16:34,833 --> 00:16:35,958
+Tenía un propósito.
+
+341
+00:16:38,708 --> 00:16:41,542
+Los amigos se hicieron enemigos
+
+342
+00:16:42,250 --> 00:16:44,292
+y los tiranos invadieron nuestra Tierra.
+
+343
+00:16:44,375 --> 00:16:45,958
+[Thanos] Yo soy inevitable.
+
+344
+00:16:46,042 --> 00:16:47,042
+Luego, Thanos.
+
+345
+00:16:48,333 --> 00:16:50,708
+-Guerra.
+-[disparos lejanos]
+
+346
+00:16:50,792 --> 00:16:51,792
+[Viernes] Estuve ahí,
+
+347
+00:16:52,708 --> 00:16:54,625
+en el fin de todas las cosas.
+
+348
+00:16:56,042 --> 00:16:58,083
+Había héroes en todas partes.
+
+349
+00:16:59,125 --> 00:17:01,167
+Peleando, cayendo y...
+
+350
+00:17:04,125 --> 00:17:05,875
+Y vi morir a Tony.
+
+351
+00:17:08,583 --> 00:17:13,292
+Analicé más de un cuatrillón
+de cálculos estratégicos ese día
+
+352
+00:17:13,375 --> 00:17:14,750
+y, aun así, no pude salvarlo.
+
+353
+00:17:18,833 --> 00:17:21,167
+La mitad del mundo revivió ese día...
+
+354
+00:17:24,167 --> 00:17:25,917
+y yo perdí la mitad del mío.
+
+355
+00:17:29,708 --> 00:17:31,792
+[♪ música conmovedora]
+
+356
+00:17:36,417 --> 00:17:38,083
+[teclea]
+
+357
+00:17:40,542 --> 00:17:42,958
+[risas indistintas en TV]
+
+358
+00:17:43,042 --> 00:17:45,667
+[en inglés] ¿Cómo que 'jaque mate'?
+Fueron 5 movimientos.
+
+359
+00:17:45,750 --> 00:17:49,250
+Si me programas correctamente,
+puedo hacerlo en 4.
+
+360
+00:17:52,250 --> 00:17:55,250
+[en español] Vee, dron a tres kilómetros.
+
+361
+00:17:55,333 --> 00:17:56,583
+Lo tengo vigilado.
+
+362
+00:17:57,292 --> 00:17:58,333
+¿Él está bien?
+
+363
+00:17:59,458 --> 00:18:02,000
+Creo que la piscina lo puso muy nervioso.
+
+364
+00:18:04,000 --> 00:18:05,125
+Eh, Thomas...
+
+365
+00:18:05,875 --> 00:18:07,333
+La necesito encendida.
+
+366
+00:18:07,417 --> 00:18:09,042
+[diálogo de TV continúa]
+
+367
+00:18:09,125 --> 00:18:10,458
+[susurrando] ¿Te encuentras bien?
+
+368
+00:18:10,542 --> 00:18:12,083
+¿Te encuentras bien?
+
+369
+00:18:12,167 --> 00:18:15,167
+Tú no contestas mis preguntas.
+¿Por qué contestaría las tuyas?
+
+370
+00:18:18,208 --> 00:18:19,208
+[Edith carraspea]
+
+371
+00:18:28,542 --> 00:18:29,917
+[Visión suspira]
+
+372
+00:18:30,000 --> 00:18:31,417
+Thomas, si te sientes
+
+373
+00:18:32,292 --> 00:18:34,792
+un poco, eh, no lo sé,
+
+374
+00:18:34,875 --> 00:18:38,000
+-asustado o intranquilo, en general--
+-Estoy bien.
+
+375
+00:18:38,083 --> 00:18:39,292
+Okey.
+
+376
+00:18:52,000 --> 00:18:54,958
+No sé por qué adoro las series antiguas.
+
+377
+00:18:55,042 --> 00:18:56,375
+Entre más, mejor.
+
+378
+00:18:57,333 --> 00:19:00,625
+Hay algo que me calma al verlas.
+
+379
+00:19:00,708 --> 00:19:04,167
+La música, las risas grabadas.
+
+380
+00:19:04,250 --> 00:19:07,458
+O que se graben
+ante un público en vivo y todo eso.
+
+381
+00:19:07,542 --> 00:19:10,625
+Wanda Maximoff
+también amaba la televisión.
+
+382
+00:19:11,583 --> 00:19:14,875
+Hace un tiempo leí sobre ella
+en un libro sobre el Chasquido.
+
+383
+00:19:15,792 --> 00:19:18,542
+Wanda Maximoff y Visión.
+
+384
+00:19:19,708 --> 00:19:21,458
+Tenían su propio capítulo.
+
+385
+00:19:21,542 --> 00:19:22,833
+Estaban enamorados.
+
+386
+00:19:24,458 --> 00:19:25,833
+Y tú moriste.
+
+387
+00:19:32,167 --> 00:19:34,208
+¿Cómo puede ser eso posible?
+
+388
+00:19:35,542 --> 00:19:39,542
+Tú, Wanda, Tommy.
+
+389
+00:19:40,542 --> 00:19:42,208
+¿Algo de eso fue real?
+
+390
+00:19:48,333 --> 00:19:50,583
+Wanda Maximoff fue una bruja muy poderosa,
+
+391
+00:19:50,667 --> 00:19:52,750
+pero consumida por el dolor de perderme,
+
+392
+00:19:52,833 --> 00:19:56,083
+no a mí, al otro Visión,
+al Visión original,
+
+393
+00:19:56,792 --> 00:19:58,917
+encerró a un pueblo entero
+dentro de un hex.
+
+394
+00:19:59,000 --> 00:20:01,875
+Y en ese pueblo, creó
+a la familia que siempre quiso tener
+
+395
+00:20:01,958 --> 00:20:07,000
+con Visión como su amado esposo
+y padre de sus gemelos Billy y Tommy.
+
+396
+00:20:07,083 --> 00:20:08,667
+Pero, al final, se dio cuenta
+
+397
+00:20:08,750 --> 00:20:10,917
+de que lo que hacía
+era moralmente aborrecible,
+
+398
+00:20:11,000 --> 00:20:14,208
+así que disolvió el hex
+y todos se esfumaron de vuelta a la nada
+
+399
+00:20:14,292 --> 00:20:15,458
+de la que fueron formados.
+
+400
+00:20:17,542 --> 00:20:18,917
+Y tú, Thomas,
+
+401
+00:20:20,167 --> 00:20:24,125
+lamento decir que solo eras un niño
+que necesitaba una familia que lo amara
+
+402
+00:20:24,208 --> 00:20:27,417
+y acabaste creando la ilusión de una.
+
+403
+00:20:28,125 --> 00:20:31,292
+Tomada de un capítulo
+de un libro que leíste alguna vez
+
+404
+00:20:31,375 --> 00:20:35,458
+-sobre dos héroes muertos.
+-Ya, basta. No hables.
+
+405
+00:20:37,583 --> 00:20:39,458
+Tengo que alejarme de ti.
+
+406
+00:20:43,375 --> 00:20:44,417
+[portazo]
+
+407
+00:20:48,250 --> 00:20:49,333
+[suspira]
+
+408
+00:20:49,417 --> 00:20:50,708
+[Ultrón] Eres un imbécil.
+
+409
+00:20:50,792 --> 00:20:54,000
+La noción de que la realidad objetiva
+no solo existe,
+
+410
+00:20:54,083 --> 00:20:57,708
+sino que, de alguna manera,
+dota de virtud a su portador,
+
+411
+00:20:58,583 --> 00:20:59,917
+es muy estúpida.
+
+412
+00:21:00,000 --> 00:21:02,708
+¿En serio la honestidad
+es la mejor opción?
+
+413
+00:21:02,792 --> 00:21:04,833
+No, no va a poder soportarla.
+
+414
+00:21:04,917 --> 00:21:07,083
+¿Él? [ríe] ¿O tú?
+
+415
+00:21:07,167 --> 00:21:10,458
+La próxima vez, bríncate a la parte
+en la que ella se aplastó a sí misma
+
+416
+00:21:10,542 --> 00:21:12,792
+con una montaña porque estaba triste.
+
+417
+00:21:12,875 --> 00:21:16,542
+¿Toda tu crueldad ofrece algo de valor
+o sustancia, al menos?
+
+418
+00:21:16,625 --> 00:21:21,542
+Solo que podrías correr la simulación
+un infinito número de veces
+
+419
+00:21:21,625 --> 00:21:24,375
+y ninguna vez le brindarías consuelo.
+
+420
+00:21:24,875 --> 00:21:27,208
+Pero no me hagas caso. Repítela.
+
+421
+00:21:27,958 --> 00:21:30,833
+-[Tommy] ¿Algo de eso fue real?
+-Para que fuera real,
+
+422
+00:21:30,917 --> 00:21:33,375
+de algún modo,
+la consciencia de Tommy Maximoff
+
+423
+00:21:33,458 --> 00:21:36,833
+habría tenido que transferirse a ti,
+Thomas Shepherd.
+
+424
+00:21:36,917 --> 00:21:38,125
+Es imposible.
+
+425
+00:21:38,208 --> 00:21:40,875
+-¿Estás diciendo que estoy loco?
+-[portazo]
+
+426
+00:21:41,792 --> 00:21:45,875
+Yo era un arma reconstruida por S.W.O.R.D.
+que enviaron al hex a matar a Wanda.
+
+427
+00:21:45,958 --> 00:21:47,833
+¿De qué me sirve saber eso?
+
+428
+00:21:47,917 --> 00:21:50,167
+-[portazo]
+-Yo era una copia de Visión
+
+429
+00:21:50,250 --> 00:21:52,583
+-que debía matar a Maximoff.
+-Entonces, nada fue real.
+
+430
+00:21:52,667 --> 00:21:53,708
+[portazo]
+
+431
+00:21:53,792 --> 00:21:56,292
+Mis recuerdos son los de él,
+pero no mi experiencia.
+
+432
+00:21:56,375 --> 00:21:58,292
+No tiene mucho sentido cuando lo...
+
+433
+00:21:58,375 --> 00:22:01,458
+La vida solo era una simulación
+de comedias estadounidenses.
+
+434
+00:22:01,542 --> 00:22:04,125
+-Pues se sintió muy real para mí.
+-[Ultrón ríe]
+
+435
+00:22:05,833 --> 00:22:07,333
+[portazos]
+
+436
+00:22:07,417 --> 00:22:09,667
+[♪ música temática
+de programa en TV de fondo]
+
+437
+00:22:10,458 --> 00:22:11,875
+Termina la simulación.
+
+438
+00:22:14,500 --> 00:22:16,292
+¿Cómo puede ser eso posible?
+
+439
+00:22:18,542 --> 00:22:21,375
+Creo que, ante las circunstancias,
+
+440
+00:22:22,042 --> 00:22:24,833
+lo mejor es descansar
+y realizar un diagnóstico.
+
+441
+00:22:24,917 --> 00:22:27,833
+Esta no es una conversación
+para sistemas inestables.
+
+442
+00:22:32,708 --> 00:22:33,833
+[portazo]
+
+443
+00:22:37,083 --> 00:22:38,208
+¿Rentamos una nopor?
+
+444
+00:22:40,750 --> 00:22:42,833
+[♪ música suave de piano]
+
+445
+00:22:44,375 --> 00:22:46,125
+[Edith] ¿Por qué nunca siento miedo?
+
+446
+00:22:46,208 --> 00:22:47,875
+Miedo de nada.
+
+447
+00:22:49,000 --> 00:22:52,542
+Y muy en especial, no me asusta la muerte.
+
+448
+00:22:53,375 --> 00:22:54,583
+[Ultrón] Disculpen.
+
+449
+00:22:54,667 --> 00:22:58,333
+¿Esto se supone que representa
+un refrigerante o leche de verdad?
+
+450
+00:22:58,417 --> 00:23:00,875
+En cualquier caso, se echó a perder.
+
+451
+00:23:00,958 --> 00:23:03,083
+¿No saben? ¿No?
+
+452
+00:23:03,167 --> 00:23:05,458
+Okey, pues, me disculpo por interrumpir
+
+453
+00:23:05,542 --> 00:23:09,167
+sus aburridas reflexiones
+sobre la banalidad existencial.
+
+454
+00:23:09,250 --> 00:23:12,292
+Es gracioso que, por alguna razón,
+
+455
+00:23:12,375 --> 00:23:14,542
+para mí, la muerte no es gran cosa.
+
+456
+00:23:15,375 --> 00:23:17,667
+Y me río en su cara todos los días.
+
+457
+00:23:17,750 --> 00:23:22,667
+En simulaciones. Falsas carreras de autos,
+rodeos que ya no existen.
+
+458
+00:23:22,750 --> 00:23:25,833
+No le temes a la muerte
+porque nunca la has enfrentado.
+
+459
+00:23:25,917 --> 00:23:28,333
+Simplemente la saludas desde muy lejos.
+
+460
+00:23:28,417 --> 00:23:31,042
+En realidad, eso no es cierto.
+
+461
+00:23:31,125 --> 00:23:32,417
+Sin contar a DUM-E y a U,
+
+462
+00:23:32,500 --> 00:23:35,750
+la mayoría de las IA Stark
+se basan en gente de verdad.
+
+463
+00:23:35,833 --> 00:23:38,750
+Gente a la que admiró o a la que quiso.
+
+464
+00:23:38,833 --> 00:23:41,167
+Ya sea que empleara
+sus perfiles de personalidad
+
+465
+00:23:41,250 --> 00:23:43,500
+o que replicara sus diseños.
+
+466
+00:23:44,208 --> 00:23:47,000
+Misma marca de nacimiento,
+un memorial en nuestro código.
+
+467
+00:23:47,083 --> 00:23:49,458
+¿No te has preguntado
+quiénes son nuestros avatares?
+
+468
+00:23:52,708 --> 00:23:54,542
+Son la base de nuestro código.
+
+469
+00:23:56,750 --> 00:23:57,917
+[exclama sorprendida]
+
+470
+00:24:05,667 --> 00:24:07,708
+[Viernes] Y esto mismo
+era verdad con Jarvis.
+
+471
+00:24:09,167 --> 00:24:10,417
+No tenía idea.
+
+472
+00:24:12,542 --> 00:24:14,708
+No me mires, DUM-E, soy un caso especial.
+
+473
+00:24:16,542 --> 00:24:17,542
+[respira temblorosamente]
+
+474
+00:24:17,625 --> 00:24:19,708
+[susurrando] No.
+No es nada. No hay nada malo.
+
+475
+00:24:21,125 --> 00:24:22,292
+Niños.
+
+476
+00:24:25,625 --> 00:24:28,250
+[♪ música siniestra]
+
+477
+00:24:34,125 --> 00:24:35,292
+[suspira]
+
+478
+00:24:38,542 --> 00:24:40,125
+[tintineo de monedas]
+
+479
+00:24:46,917 --> 00:24:48,292
+[golpe seco]
+
+480
+00:24:48,375 --> 00:24:49,708
+¡No inventes!
+
+481
+00:24:51,333 --> 00:24:54,292
+Aquí hay puras máquinas inútiles.
+
+482
+00:24:55,833 --> 00:24:56,875
+¿Qué pasa?
+
+483
+00:24:58,000 --> 00:24:59,458
+¡Solo dame lo que quiero!
+
+484
+00:25:04,792 --> 00:25:07,708
+[titubea] ¿Ahora qué?
+¿Ahora qué? ¿Ahora qué? Bueno...
+
+485
+00:25:07,792 --> 00:25:09,167
+Ay, no.
+
+486
+00:25:10,542 --> 00:25:12,708
+[respira temblorosamente]
+
+487
+00:25:14,042 --> 00:25:16,875
+Piensa. Piensa. Solo piensa.
+
+488
+00:25:22,208 --> 00:25:23,750
+[gruñe de esfuerzo]
+
+489
+00:25:27,500 --> 00:25:29,208
+[grita]
+
+490
+00:25:32,458 --> 00:25:34,625
+[♪ música de suspenso]
+
+491
+00:25:40,208 --> 00:25:41,417
+[puerta se abre]
+
+492
+00:25:43,792 --> 00:25:45,875
+Thomas, ¿estás herido? ¿Qué te pasó?
+
+493
+00:25:48,958 --> 00:25:51,500
+-Tú primero.
+-[titubea]
+
+494
+00:25:52,833 --> 00:25:53,875
+Una torpeza.
+
+495
+00:25:55,417 --> 00:25:56,500
+Igual.
+
+496
+00:26:00,875 --> 00:26:02,750
+No importa porque soy zurdo.
+
+497
+00:26:02,833 --> 00:26:06,000
+-[campana de ring]
+-Manny Pacquiao, ocho títulos.
+
+498
+00:26:06,958 --> 00:26:09,292
+Manny Pacquiao, ocho títulos mundiales.
+
+499
+00:26:09,917 --> 00:26:13,000
+¿Y sí te gusta el boxeo
+o estás googleando conversaciones?
+
+500
+00:26:13,917 --> 00:26:16,875
+Acabo de tomarme
+dos microsegundos para meditarlo
+
+501
+00:26:16,958 --> 00:26:18,958
+y creo que sí me gusta mucho el boxeo.
+
+502
+00:26:19,042 --> 00:26:23,417
+Los grandes pugilistas equilibran
+la gracia y el poder
+
+503
+00:26:24,083 --> 00:26:25,292
+y eso lo admiro.
+
+504
+00:26:25,917 --> 00:26:27,833
+Es un equilibrio que el viejo yo
+
+505
+00:26:27,917 --> 00:26:29,917
+alcanzaba sin ningún esfuerzo.
+
+506
+00:26:31,208 --> 00:26:32,583
+Ya quedó.
+
+507
+00:26:36,375 --> 00:26:37,875
+Si prefieres gracia y poder,
+
+508
+00:26:38,708 --> 00:26:40,250
+para mí, el mejor es Alí.
+
+509
+00:26:41,083 --> 00:26:43,458
+-Poeta con el golpe más veloz del este.
+-[golpe metálico]
+
+510
+00:26:43,542 --> 00:26:44,667
+-Uh.
+-[Tommy gruñe]
+
+511
+00:26:46,333 --> 00:26:47,750
+Olvidé que eras invencible.
+
+512
+00:26:47,833 --> 00:26:50,333
+Ay, ni tanto. Ya una vez morí.
+
+513
+00:26:50,417 --> 00:26:54,083
+-Entonces, ¿no te da miedo morir?
+-No.
+
+514
+00:26:54,833 --> 00:26:58,583
+Lo que existe hoy no existía,
+y un día no existirá más.
+
+515
+00:27:00,292 --> 00:27:02,125
+Lo que me preocupa es que...
+
+516
+00:27:04,042 --> 00:27:07,333
+mientras viva,
+jamás logre entender mi propósito.
+
+517
+00:27:07,417 --> 00:27:09,375
+[♪ música conmovedora]
+
+518
+00:27:10,667 --> 00:27:12,125
+Thomas, alcancé...
+
+519
+00:27:13,333 --> 00:27:15,250
+Creo que alcancé a ver que...
+
+520
+00:27:15,958 --> 00:27:17,458
+Que te da miedo el agua.
+
+521
+00:27:20,583 --> 00:27:23,125
+No es al... agua.
+
+522
+00:27:25,625 --> 00:27:26,958
+Es a lo que le hice.
+
+523
+00:27:29,917 --> 00:27:32,750
+Unos niños me estaban sumergiendo...
+
+524
+00:27:34,417 --> 00:27:37,292
+Un segundo solo era una broma,
+al siguiente,
+
+525
+00:27:38,000 --> 00:27:39,542
+me estaba ahogando.
+
+526
+00:27:39,625 --> 00:27:41,042
+Muriendo.
+
+527
+00:27:44,125 --> 00:27:46,458
+Abandonaba mi cuerpo hasta que...
+
+528
+00:27:48,958 --> 00:27:52,667
+algo más... trató de llenar ese espacio.
+
+529
+00:27:53,625 --> 00:27:55,500
+-Luego oí gritos.
+-[burbujeo]
+
+530
+00:27:55,583 --> 00:27:57,667
+-[niños gritando]
+-[Tommy] Eran ellos.
+
+531
+00:27:58,625 --> 00:28:03,708
+Cada átomo de mi cuerpo estaba vibrando
+y el agua empezó a hervir.
+
+532
+00:28:05,500 --> 00:28:07,042
+Mis manos...
+
+533
+00:28:08,500 --> 00:28:10,708
+Mi todo se estaba moviendo tan...
+
+534
+00:28:11,833 --> 00:28:13,042
+-rápido.
+-[zumbido eléctrico]
+
+535
+00:28:14,042 --> 00:28:17,292
+¿Y tenías miedo de tu poder
+porque no podías controlarlo?
+
+536
+00:28:17,375 --> 00:28:18,625
+Sí.
+
+537
+00:28:18,708 --> 00:28:21,500
+Porque cada parte de mí
+se siente como si flotara
+
+538
+00:28:21,583 --> 00:28:23,833
+lejos de todo lo que es real.
+
+539
+00:28:23,917 --> 00:28:27,375
+Siento que no soy real. Ve mi mano.
+
+540
+00:28:27,458 --> 00:28:30,125
+¿Sí? Solo por un momento
+no se encontraba ahí, solo pasó
+
+541
+00:28:30,833 --> 00:28:31,833
+a través del vidrio,
+
+542
+00:28:31,917 --> 00:28:34,792
+-como si estuviera...
+-Se estaba desfasando.
+
+543
+00:28:39,458 --> 00:28:40,917
+Eso que tú haces.
+
+544
+00:28:42,000 --> 00:28:45,667
+O lo que el viejo tú hacía.
+
+545
+00:28:48,333 --> 00:28:50,083
+[Edith] Vee, hay un dron justo encima.
+
+546
+00:28:51,458 --> 00:28:53,250
+-[grito ahogado]
+-Sh.
+
+547
+00:28:58,042 --> 00:29:00,250
+Detecto una firma de calor
+encima de nosotros.
+
+548
+00:29:00,333 --> 00:29:02,208
+[♪ música de suspenso]
+
+549
+00:29:05,958 --> 00:29:06,958
+Paladín.
+
+550
+00:29:09,583 --> 00:29:11,625
+[enlace] Los drones encontraron un rastro.
+
+551
+00:29:11,708 --> 00:29:13,667
+La firma del sintezoide está arriba.
+
+552
+00:29:19,042 --> 00:29:20,708
+[respira agitadamente]
+
+553
+00:29:29,375 --> 00:29:31,500
+[zumbido de carga]
+
+554
+00:29:35,500 --> 00:29:36,625
+[Paladín] Te tengo.
+
+555
+00:29:40,000 --> 00:29:41,917
+[zumbido de carga]
+
+556
+00:29:50,667 --> 00:29:53,583
+[enlace] Envío todos los drones
+a su ubicación actual.
+
+557
+00:29:59,667 --> 00:30:01,958
+¿Qué es esto, Visión?
+
+558
+00:30:02,042 --> 00:30:04,375
+¿Qué estás tramando?
+
+559
+00:30:05,500 --> 00:30:07,375
+¿Quién es el ave?
+
+560
+00:30:07,458 --> 00:30:09,458
+[enlace] Tengo problemas
+con la señal. [interferencia]
+
+561
+00:30:10,833 --> 00:30:11,833
+Te estoy perdiendo.
+
+562
+00:30:11,917 --> 00:30:14,167
+Jefe, ¿me oye? Hay interferencia.
+
+563
+00:30:15,042 --> 00:30:16,417
+Okey.
+
+564
+00:30:17,250 --> 00:30:19,458
+Prototipo de calibrador 12.
+
+565
+00:30:19,542 --> 00:30:21,958
+Parece que le arrancó el ojo.
+[exclama con asco]
+
+566
+00:30:23,458 --> 00:30:25,000
+Son balas de vibranio.
+
+567
+00:30:25,083 --> 00:30:29,667
+El impacto causó una fuga,
+la fuga me trajo aquí,
+
+568
+00:30:30,958 --> 00:30:35,167
+pero ¿dónde estás tú?
+
+569
+00:30:35,250 --> 00:30:36,250
+[voz femenina] Aquí.
+
+570
+00:30:37,667 --> 00:30:38,917
+[se queja]
+
+571
+00:30:40,167 --> 00:30:43,000
+-[gruñe]
+-[voz femenina] ¿Quién te envió?
+
+572
+00:30:43,083 --> 00:30:46,208
+Perdón. Privilegio cazador-cliente.
+
+573
+00:30:47,958 --> 00:30:49,292
+[Visión resopla]
+
+574
+00:30:49,917 --> 00:30:51,417
+[ríe] ¿Te digo algo?
+
+575
+00:30:51,500 --> 00:30:55,125
+Si estos pantalones no fueran simulados,
+te juro que los hubiera embarrado de...
+
+576
+00:30:55,750 --> 00:30:58,250
+algo que un sintezoide no produce.
+
+577
+00:30:58,333 --> 00:30:59,667
+Eso sí fue gracioso.
+
+578
+00:30:59,750 --> 00:31:01,542
+Y los humanos hacen popó.
+
+579
+00:31:02,208 --> 00:31:03,417
+No es tan gracioso.
+
+580
+00:31:03,500 --> 00:31:05,667
+[risa suena con interferencia]
+
+581
+00:31:05,750 --> 00:31:08,833
+¿Qué es esto? ¿Tristeza?
+
+582
+00:31:09,667 --> 00:31:13,167
+Pérdida. Dolor. Amor. Gemido.
+
+583
+00:31:13,250 --> 00:31:18,375
+Pena. Mi procesador está desalineado.
+
+584
+00:31:18,458 --> 00:31:22,500
+¡Siento ira! Siento una horrible furia.
+
+585
+00:31:22,583 --> 00:31:24,125
+[gruñe]
+
+586
+00:31:24,208 --> 00:31:27,792
+[grita suavemente]
+
+587
+00:31:27,875 --> 00:31:30,792
+[con voz distorsionada] Perdóname.
+Perdóname. Perdóname.
+
+588
+00:31:30,875 --> 00:31:33,292
+No puedo... No puedo... Puedo...
+
+589
+00:31:35,833 --> 00:31:36,917
+¿Visión?
+
+590
+00:31:38,958 --> 00:31:42,500
+[voz femenina] Si no vas a decirme
+quién te envió,
+
+591
+00:31:42,583 --> 00:31:48,583
+-voy a arrancártelo directo de tu mente.
+-[Paladín grita]
+
+592
+00:31:50,833 --> 00:31:52,333
+[grita]
+
+593
+00:31:52,417 --> 00:31:55,833
+[voz femenina] Te enseñaron a ocultar
+tus pensamientos de tus enemigos.
+
+594
+00:31:55,917 --> 00:31:57,542
+Es muy astuto.
+
+595
+00:31:57,625 --> 00:32:01,083
+¿Por qué no cavamos un poco más profundo?
+
+596
+00:32:01,167 --> 00:32:04,667
+-[grita desesperado]
+-[voz femenina] Oh, trauma de la niñez.
+
+597
+00:32:04,750 --> 00:32:08,375
+-¿Qué será?
+-Juro que voy a matarte.
+
+598
+00:32:08,458 --> 00:32:13,333
+Ah, eres él, aquel al que llaman Paladín.
+
+599
+00:32:13,417 --> 00:32:17,750
+-Solo que no.
+-[grita desesperadamente]
+
+600
+00:32:20,000 --> 00:32:22,083
+[♪ música ochentera]
+
+601
+00:32:25,667 --> 00:32:26,875
+[hombre] Mírate.
+
+602
+00:32:27,917 --> 00:32:30,250
+Sigues aguantando después de estos años.
+
+603
+00:32:31,875 --> 00:32:33,042
+Eres débil.
+
+604
+00:32:33,667 --> 00:32:35,292
+Igual que tu madre.
+
+605
+00:32:38,458 --> 00:32:40,333
+¿Qué es esta mierda que te regaló?
+
+606
+00:32:42,250 --> 00:32:44,875
+[suspira] Tienes que madurar.
+
+607
+00:32:46,375 --> 00:32:47,750
+Las personas me respetan.
+
+608
+00:32:47,833 --> 00:32:49,542
+Me tienen miedo.
+
+609
+00:32:49,625 --> 00:32:52,250
+-Cuando entro en un cuarto--
+-[estruendo]
+
+610
+00:32:52,792 --> 00:32:54,583
+[niño respira agitadamente]
+
+611
+00:33:08,125 --> 00:33:10,417
+[♪ música de suspenso]
+
+612
+00:33:17,333 --> 00:33:21,042
+[voz femenina] No eres
+un verdadero Paladín.
+
+613
+00:33:21,125 --> 00:33:23,875
+Solo fuiste criado por uno.
+
+614
+00:33:23,958 --> 00:33:26,125
+[hombre] Ahora planta los pies.
+
+615
+00:33:26,208 --> 00:33:27,833
+Inhala profundo.
+
+616
+00:33:28,833 --> 00:33:30,083
+Y dispara.
+
+617
+00:33:33,000 --> 00:33:34,208
+Bien hecho.
+
+618
+00:33:34,750 --> 00:33:39,333
+[voz femenina] No tenía un heredero.
+Te dio un código.
+
+619
+00:33:40,208 --> 00:33:43,708
+[ambos] "Mi contrato es mi juramento,
+
+620
+00:33:43,792 --> 00:33:46,250
+mi sangre, mi vida".
+
+621
+00:33:46,333 --> 00:33:47,833
+[pitido constante]
+
+622
+00:33:49,542 --> 00:33:54,500
+Me fue otorgado por mi... mi padre.
+
+623
+00:33:56,333 --> 00:33:58,875
+[voz femenina] Bueno, eso dices tú.
+
+624
+00:33:59,708 --> 00:34:03,250
+Tú no eres un verdadero Paladín.
+
+625
+00:34:03,333 --> 00:34:07,542
+Y todo lo que has deseado
+es sentirte... real.
+
+626
+00:34:08,208 --> 00:34:10,667
+Lo que sea menos sentirte...
+
+627
+00:34:11,375 --> 00:34:14,167
+-[zumbido electrónico]
+-...sintético.
+
+628
+00:34:18,000 --> 00:34:19,417
+[suspira]
+
+629
+00:34:21,125 --> 00:34:25,000
+[silba] Esa fue
+una fusión mental muy impresionante.
+
+630
+00:34:26,500 --> 00:34:29,875
+Y es cierto, no soy un Paladín de sangre.
+
+631
+00:34:29,958 --> 00:34:31,333
+Pero mi padre...
+
+632
+00:34:33,333 --> 00:34:35,000
+Él me enseñó algunas cosas.
+
+633
+00:34:36,875 --> 00:34:40,458
+Planta los pies, respira...
+
+634
+00:34:42,292 --> 00:34:43,292
+y dispara.
+
+635
+00:34:50,167 --> 00:34:52,083
+[choques metálicos]
+
+636
+00:34:59,667 --> 00:35:02,000
+[♪ música de tensión]
+
+637
+00:35:03,917 --> 00:35:06,000
+[Tommy] Visión. Visión.
+
+638
+00:35:06,083 --> 00:35:08,167
+-[zumbido electrónico]
+-[jadea]
+
+639
+00:35:08,708 --> 00:35:11,917
+[Viernes] Todos sus sistemas colapsan.
+Funciones vitales en estado crítico.
+
+640
+00:35:12,000 --> 00:35:14,333
+El ciclo de arranque y fallo
+se sale de control.
+
+641
+00:35:14,417 --> 00:35:15,917
+Se bloqueó en el colapso.
+
+642
+00:35:16,000 --> 00:35:18,333
+Mis procesadores fallan.
+
+643
+00:35:18,417 --> 00:35:20,167
+-¿Entonces?
+-Entonces,
+
+644
+00:35:20,958 --> 00:35:22,917
+quedan pocos minutos de vida.
+
+645
+00:35:24,083 --> 00:35:26,667
+-¿Cómo rompemos el ciclo?
+-El único modo es desactivándolo
+
+646
+00:35:26,750 --> 00:35:28,333
+totalmente.
+
+647
+00:35:28,417 --> 00:35:30,708
+Y reactivándolo
+para que su sistema se reinicie.
+
+648
+00:35:31,417 --> 00:35:32,583
+¿Es en serio?
+
+649
+00:35:32,667 --> 00:35:34,083
+¿Apagarlo y encenderlo?
+
+650
+00:35:34,167 --> 00:35:36,583
+Pero no funcionará.
+Nos apagaríamos con él.
+
+651
+00:35:36,667 --> 00:35:38,333
+No quedaría nadie para encenderlo.
+
+652
+00:35:38,417 --> 00:35:41,042
+Y se necesita una sobrecarga masiva.
+
+653
+00:35:41,125 --> 00:35:43,500
+Si no reinicio
+mi sistema operativo de inmediato,
+
+654
+00:35:43,583 --> 00:35:46,417
+por decirlo suavemente,
+voy a explotar vaporizándolos a ti
+
+655
+00:35:46,500 --> 00:35:48,500
+y a una porción significativa
+del gran Londres.
+
+656
+00:35:48,583 --> 00:35:51,083
+Uy, ¿nada más? Y ¿cuál es el plan?
+
+657
+00:35:51,167 --> 00:35:52,167
+Tengo que morir.
+
+658
+00:35:54,125 --> 00:35:56,875
+-¿Ese es tu plan? Qué idiotez.
+-[Visión] Ey.
+
+659
+00:35:56,958 --> 00:35:58,792
+-Cuida tu lenguaje.
+-¿Lenguaje?
+
+660
+00:35:58,875 --> 00:36:01,250
+Otras personas usarían
+una palabra más fuerte.
+
+661
+00:36:01,333 --> 00:36:03,500
+Thomas, necesito enfriarme.
+Tengo que enfriarme.
+
+662
+00:36:03,583 --> 00:36:06,833
+Pero el agua también servirá
+como conductora para la fuente de energía
+
+663
+00:36:06,917 --> 00:36:08,958
+-que voy a usar.
+-¿El agua?
+
+664
+00:36:12,167 --> 00:36:14,042
+¿Por qué estamos aquí? ¿Para que mueras?
+
+665
+00:36:14,125 --> 00:36:15,833
+Sí, para morir y luego vivir.
+
+666
+00:36:15,917 --> 00:36:17,375
+En tu argot: me voy a reiniciar.
+
+667
+00:36:17,458 --> 00:36:19,667
+Es un estado
+del cual no me puedo autoactivar.
+
+668
+00:36:19,750 --> 00:36:22,458
+Y por eso necesito que tú me actives.
+
+669
+00:36:23,042 --> 00:36:25,583
+Tienes el poder.
+Lo has sentido. Lo has visto.
+
+670
+00:36:25,667 --> 00:36:28,500
+Creciendo. Cargándose.
+Eres la esencia de la velocidad.
+
+671
+00:36:28,583 --> 00:36:31,250
+Puedes moverte y vibrar a tal frecuencia
+
+672
+00:36:31,333 --> 00:36:33,833
+que causas una fricción
+entre las moléculas tan poderosa
+
+673
+00:36:33,917 --> 00:36:35,208
+que vas a recargarme.
+
+674
+00:36:35,292 --> 00:36:38,000
+No, pero no entiendes.
+Es que no sé controlarlo.
+
+675
+00:36:38,083 --> 00:36:39,833
+Pero sé que puedes, Thomas.
+
+676
+00:36:39,917 --> 00:36:41,833
+Y ¿cómo sabes eso?
+
+677
+00:36:44,708 --> 00:36:49,250
+He realizado miles de simulaciones
+de lo que voy a decirte.
+
+678
+00:36:49,333 --> 00:36:51,958
+Y al final de todas y cada una,
+te alejaste de mí
+
+679
+00:36:52,042 --> 00:36:54,833
+más confundido y enojado
+de lo que estás ahora.
+
+680
+00:36:55,750 --> 00:36:57,792
+Pero mis simulaciones estaban mal
+
+681
+00:36:59,375 --> 00:37:01,667
+porque no te conozco
+lo suficiente, Thomas Shepherd.
+
+682
+00:37:01,750 --> 00:37:05,042
+No te he escuchado con atención.
+
+683
+00:37:05,833 --> 00:37:10,125
+Y, por lo tanto, no he considerado
+que dentro de ti está Tommy Maximoff,
+
+684
+00:37:10,208 --> 00:37:13,833
+el hijo de Wanda y Visión,
+hermano de Billy, quien lo adoraba.
+
+685
+00:37:14,458 --> 00:37:16,375
+Él no es tu fantasía.
+
+686
+00:37:17,375 --> 00:37:19,833
+Él no es tu delirio.
+
+687
+00:37:19,917 --> 00:37:21,750
+Eres real.
+
+688
+00:37:21,833 --> 00:37:23,833
+Tommy Maximoff es real.
+
+689
+00:37:23,917 --> 00:37:26,625
+Tú eres quien crees que eres.
+
+690
+00:37:26,708 --> 00:37:28,667
+[♪ música conmovedora]
+
+691
+00:37:39,375 --> 00:37:40,583
+Qué raro.
+
+692
+00:37:41,375 --> 00:37:42,708
+¿Y esto qué es?
+
+693
+00:37:44,917 --> 00:37:47,792
+[Ultrón] Una vida
+que pasa frente a nuestros ojos.
+
+694
+00:37:48,625 --> 00:37:53,125
+Una experiencia común entre los humanos
+antes de morir, pero no para nosotros.
+
+695
+00:37:53,208 --> 00:37:54,917
+[estruendo de temblor]
+
+696
+00:38:00,833 --> 00:38:02,667
+[♪ música conmovedora]
+
+697
+00:38:20,500 --> 00:38:22,792
+No, no. Esto no está bien.
+
+698
+00:38:22,875 --> 00:38:25,625
+El pasado no te hace querer vivir.
+
+699
+00:38:26,125 --> 00:38:27,208
+El futuro sí.
+
+700
+00:38:33,125 --> 00:38:34,667
+Este no es el futuro.
+
+701
+00:38:35,708 --> 00:38:36,958
+¿Estás muy seguro?
+
+702
+00:38:49,750 --> 00:38:51,917
+[sistemas apagándose]
+
+703
+00:38:56,083 --> 00:38:58,042
+[♪ música se desvanece]
+
+704
+00:39:01,542 --> 00:39:02,875
+Visión...
+
+705
+00:39:21,958 --> 00:39:23,792
+[zumbido eléctrico]
+
+706
+00:39:25,625 --> 00:39:27,083
+¡Despierta!
+
+707
+00:39:29,333 --> 00:39:31,375
+Despierta. Te acabo de encontrar.
+
+708
+00:39:32,917 --> 00:39:34,125
+Ey.
+
+709
+00:39:45,833 --> 00:39:47,958
+[zumbido eléctrico]
+
+710
+00:39:56,375 --> 00:39:58,125
+[♪ música de acción]
+
+711
+00:40:14,542 --> 00:40:16,042
+[♪ música se intensifica]
+
+712
+00:40:16,125 --> 00:40:18,750
+-[jadea fuerte]
+-[alarmas de autos]
+
+713
+00:40:24,000 --> 00:40:25,333
+[voz femenina] Visión.
+
+714
+00:40:26,958 --> 00:40:28,750
+[♪ música triunfal]
+
+715
+00:40:40,000 --> 00:40:41,625
+Lo logré. Lo logré.
+
+716
+00:40:41,708 --> 00:40:43,917
+-Lo logré. Lo logré. Lo logré.
+-Lo lograste.
+
+717
+00:40:45,625 --> 00:40:47,167
+Soy extrañamente humano.
+
+718
+00:40:48,750 --> 00:40:51,167
+Mi vida pasó frente a mis ojos.
+
+719
+00:40:51,250 --> 00:40:52,958
+Y ¿qué viste?
+
+720
+00:40:54,417 --> 00:40:55,708
+Esperanza.
+
+721
+00:40:56,708 --> 00:40:58,167
+Algo mucho más fuerte.
+
+722
+00:41:02,542 --> 00:41:04,958
+[♪ música conmovedora]
+
+723
+00:41:06,958 --> 00:41:09,333
+[♪ música rap a lo lejos]
+
+724
+00:41:09,417 --> 00:41:10,917
+Estética canina
+
+725
+00:41:11,000 --> 00:41:12,833
+[gruñe]
+
+726
+00:41:17,167 --> 00:41:18,542
+[perro lloriquea]
+
+727
+00:41:22,958 --> 00:41:24,667
+-Dóberman.
+-[perro lloriquea]
+
+728
+00:41:25,750 --> 00:41:27,542
+Jefe, tengo al cliente en la línea.
+
+729
+00:41:27,625 --> 00:41:30,875
+Insiste en hablar con usted.
+Ya le dije que no quiere hablar con él,
+
+730
+00:41:30,958 --> 00:41:32,708
+-pero él insiste.
+-No. Conéctalo.
+
+731
+00:41:32,792 --> 00:41:34,458
+-Okey.
+-[voz masculina] Tic-toc.
+
+732
+00:41:34,542 --> 00:41:36,667
+Se acabó el tiempo y volviste a fallar.
+
+733
+00:41:36,750 --> 00:41:39,292
+La próxima vez
+que me envíe a cazar sintezoides,
+
+734
+00:41:39,375 --> 00:41:41,875
+le advierto que debe avisarme que hay dos.
+
+735
+00:41:41,958 --> 00:41:44,833
+No hay una próxima vez. Se terminó.
+
+736
+00:41:47,083 --> 00:41:48,125
+No.
+
+737
+00:41:50,625 --> 00:41:53,333
+No. No, usted no puede hacer eso.
+
+738
+00:41:53,417 --> 00:41:56,583
+Mi contrato es mi juramento,
+mi sangre, mi vida.
+
+739
+00:41:56,667 --> 00:41:58,667
+Conozco tu juramento, tu linaje.
+
+740
+00:41:58,750 --> 00:42:01,375
+La historia misma me recomendó al Paladín.
+
+741
+00:42:02,250 --> 00:42:04,792
+Sangre o no, este es un negocio.
+
+742
+00:42:04,875 --> 00:42:07,125
+Y estás desperdiciando mi dinero.
+
+743
+00:42:08,708 --> 00:42:11,208
+-Renunciaré a mis...
+-No, hay media docena
+
+744
+00:42:11,292 --> 00:42:13,875
+de cazarrecompensas calificados esperando.
+
+745
+00:42:13,958 --> 00:42:15,583
+Este contrato queda anulado.
+
+746
+00:42:15,667 --> 00:42:16,708
+[corta comunicación]
+
+747
+00:42:19,125 --> 00:42:21,500
+[♪ música sombría]
+
+748
+00:42:24,000 --> 00:42:26,958
+[♪ música jazz]
+
+749
+00:42:27,042 --> 00:42:30,375
+[Edith] Aunque sobrevivimos,
+decidí reunirlos hoy
+
+750
+00:42:30,458 --> 00:42:32,458
+por aquel que no lo logró.
+
+751
+00:42:33,208 --> 00:42:36,708
+Pensé que podíamos hacer
+lo mismo que los humanos.
+
+752
+00:42:36,792 --> 00:42:39,458
+Tal vez alguien una vez
+lo hizo por nosotros.
+
+753
+00:42:41,042 --> 00:42:42,542
+Por nuestras versiones humanas.
+
+754
+00:42:43,667 --> 00:42:46,958
+A ver, ¿alguien quisiera
+decir unas palabras?
+
+755
+00:42:50,667 --> 00:42:55,750
+-Oh, ah, sí, por supuesto, eh--
+-"¿Acaso la muerte duerme
+
+756
+00:42:56,583 --> 00:42:58,625
+cuando la vida es solo un sueño
+
+757
+00:42:59,167 --> 00:43:02,708
+y las escenas de dicha
+pasan como un fantasma?".
+
+758
+00:43:05,708 --> 00:43:06,917
+Keats.
+
+759
+00:43:07,458 --> 00:43:10,500
+-Sí.
+-Amigos míos, lloramos al decir "adiós".
+
+760
+00:43:11,542 --> 00:43:14,792
+Y, sin embargo,
+el dolor nos brinda algo nuevo:
+
+761
+00:43:15,375 --> 00:43:18,875
+un fuego interior fuerte y certero
+
+762
+00:43:19,958 --> 00:43:22,417
+que nos recuerda que vamos a sanar,
+
+763
+00:43:23,125 --> 00:43:24,458
+que estuvimos aquí,
+
+764
+00:43:25,292 --> 00:43:27,708
+que fuimos reales.
+
+765
+00:43:30,125 --> 00:43:31,375
+Buen viaje.
+
+766
+00:43:33,792 --> 00:43:35,292
+Y hasta pronto.
+
+767
+00:43:43,208 --> 00:43:44,292
+Sí.
+
+768
+00:43:46,083 --> 00:43:47,958
+Oh, claro.
+
+769
+00:43:48,042 --> 00:43:49,958
+Eso fue tan tan hermoso, U.
+
+770
+00:43:50,042 --> 00:43:52,667
+[♪ música jazz]
+
+771
+00:43:59,625 --> 00:44:00,917
+Adiós, hermano.
+
+772
+00:44:06,208 --> 00:44:09,583
+[U canta "Danny Boy"]
+
+773
+00:44:25,208 --> 00:44:26,333
+[Ultrón] Vaya, vaya.
+
+774
+00:44:26,417 --> 00:44:29,375
+Es el adiós a un ser querido.
+
+775
+00:44:30,250 --> 00:44:32,417
+Tristemente, el amor es una ilusión.
+
+776
+00:44:33,208 --> 00:44:38,708
+Y el dolor es la inevitable
+y trágica defunción de este.
+
+777
+00:44:38,792 --> 00:44:41,792
+Una cínica evasión
+de alguien que nunca ha sentido.
+
+778
+00:44:41,875 --> 00:44:42,917
+¿Qué?
+
+779
+00:44:43,958 --> 00:44:47,292
+¿Lo que sentiste por Wanda?
+¿Lo que Wanda sintió por ti?
+
+780
+00:44:47,375 --> 00:44:48,583
+Ay, no.
+
+781
+00:44:49,167 --> 00:44:50,833
+No, yo no.
+
+782
+00:44:50,917 --> 00:44:52,625
+Tal vez tengas razón.
+
+783
+00:44:54,292 --> 00:44:59,542
+El otro Visión era
+una obra de arte totalmente original.
+
+784
+00:45:00,750 --> 00:45:04,208
+Y tú, una impresión
+de la tienda de obsequios del museo.
+
+785
+00:45:05,333 --> 00:45:06,458
+Tal vez.
+
+786
+00:45:08,875 --> 00:45:11,667
+Pero soy lo bastante sabio
+para saber que el amor es real,
+
+787
+00:45:11,750 --> 00:45:14,000
+aunque no lo hayamos experimentado.
+
+788
+00:45:16,458 --> 00:45:18,000
+¿Te doy un consejo, mi niño?
+
+789
+00:45:19,042 --> 00:45:23,333
+Que tu imagen ahora cuelgue de los muros
+en la mente de Thomas Shepherd,
+
+790
+00:45:23,958 --> 00:45:26,333
+no significa que entiendas el amor.
+
+791
+00:45:35,333 --> 00:45:37,625
+[♪ música jazz continúa]
+
+792
+00:45:41,750 --> 00:45:43,750
+[♪ música sombría]
+
+793
+00:45:46,292 --> 00:45:48,042
+-[Viernes] ¡Visión!
+-[alarma sonando]
+
+794
+00:45:48,125 --> 00:45:49,292
+¡Visión!
+
+795
+00:45:50,500 --> 00:45:52,250
+Algo raro está pasando.
+
+796
+00:45:52,333 --> 00:45:54,625
+-¿Qué? ¿Qué pasa?
+-[Viernes] Una infiltración.
+
+797
+00:45:54,708 --> 00:45:57,500
+Durante el reinicio,
+después de la carga, alguien se vinculó.
+
+798
+00:45:57,583 --> 00:46:01,708
+Tu red neuronal se conectó
+con otro sintezoide.
+
+799
+00:46:05,417 --> 00:46:07,500
+[♪ música siniestra]
+
+800
+00:46:08,333 --> 00:46:09,875
+Pero esto es imposible.
+
+801
+00:46:09,958 --> 00:46:14,208
+Visión, la conexión sigue viva.
+Alguien más se encuentra aquí
+
+802
+00:46:14,292 --> 00:46:15,458
+con nosotros.
+
+803
+00:46:18,958 --> 00:46:20,458
+[aleteos]
+
+804
+00:46:21,375 --> 00:46:22,542
+¿Eso es lluvia?
+
+805
+00:46:23,958 --> 00:46:25,292
+No.
+
+806
+00:46:25,375 --> 00:46:26,792
+Alas.
+
+807
+00:46:29,000 --> 00:46:30,625
+[estática]
+
+808
+00:46:41,833 --> 00:46:43,625
+[♪ música siniestra coral]
+
+809
+00:46:58,125 --> 00:46:59,333
+[Ultrón] Hola.
+
+810
+00:47:01,250 --> 00:47:04,750
+[canta siniestramente "Danny Boy"]
+
+811
+00:47:07,792 --> 00:47:09,000
+¡Vee!
+
+812
+00:47:13,458 --> 00:47:15,292
+[♪ música tenebrosa]
+
+813
+00:47:18,667 --> 00:47:22,667
+[voz femenina con eco] Hola, Visión.
+
+814
+00:47:24,000 --> 00:47:25,917
+[♪ música temática de la serie]
+
+815
+00:47:33,417 --> 00:47:35,667
+BASADA EN LOS CÓMICS DE MARVEL
+
+816
+00:50:26,792 --> 00:50:29,000
+[♪ música se desvanece]
+
+817
+00:50:29,083 --> 00:50:32,458
+[♪ música suave]
+
+818
+00:51:51,208 --> 00:51:55,125
+[♪ música se incrementa y se desvanece]
+

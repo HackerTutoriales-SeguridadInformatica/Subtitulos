@@ -1,0 +1,2703 @@
+﻿1
+00:00:01,333 --> 00:00:02,833
+Hola, Visión.
+
+2
+00:00:03,875 --> 00:00:05,292
+Me pareció sentirte.
+
+3
+00:00:08,708 --> 00:00:09,708
+¿Quién eres?
+
+4
+00:00:09,792 --> 00:00:12,667
+He ahí la gran pregunta, ¿no?
+¿Quiénes somos?
+
+5
+00:00:14,833 --> 00:00:16,917
+¿Seres sintéticos o algo más…
+
+6
+00:00:18,250 --> 00:00:19,250
+…humano?
+
+7
+00:00:19,333 --> 00:00:23,167
+Accediendo a archivos antiguos
+del programa…
+
+8
+00:00:23,833 --> 00:00:25,042
+…Visión… no sé qué.
+
+9
+00:00:25,125 --> 00:00:27,458
+Yo llevaba las cosas de Stark
+y de los Vengadores.
+
+10
+00:00:27,542 --> 00:00:30,375
+Yo estaba allí cuando todo acabó.
+
+11
+00:00:30,458 --> 00:00:32,625
+La mitad del mundo volvió aquel día.
+
+12
+00:00:32,708 --> 00:00:34,583
+Y yo perdí a la mitad del mío.
+
+13
+00:00:34,667 --> 00:00:37,167
+Necesitabas un empujón. Un propósito.
+
+14
+00:00:37,667 --> 00:00:40,333
+Así que le di tu ubicación a Paladín.
+
+15
+00:00:43,083 --> 00:00:44,250
+Así que de nada.
+
+16
+00:00:44,333 --> 00:00:46,917
+Las dos primeras víctimas
+estaban en la misma empresa.
+
+17
+00:00:47,000 --> 00:00:48,000
+La misma.
+
+18
+00:00:48,083 --> 00:00:51,458
+El Pájaro Empalador.
+La sintética y el asesino son uno solo.
+
+19
+00:00:51,542 --> 00:00:54,125
+Katerina Wells es
+el próximo objetivo de la asesina.
+
+20
+00:00:54,875 --> 00:00:58,000
+Ascendió a CEO
+tras la muerte de Jo Carrington.
+
+21
+00:00:58,083 --> 00:00:59,500
+Patrocina una gala.
+
+22
+00:00:59,583 --> 00:01:01,250
+-¿Tú estás seguro?
+-Confío en él.
+
+23
+00:01:01,333 --> 00:01:02,500
+Nunca confías en nadie.
+
+24
+00:01:02,583 --> 00:01:04,167
+¿Con quién estás hablando?
+
+25
+00:01:04,250 --> 00:01:06,042
+Hablabas con Ultrón.
+
+26
+00:01:06,750 --> 00:01:07,750
+Está aquí.
+
+27
+00:01:09,333 --> 00:01:11,333
+Su IA está basada en Josephine Carrington.
+
+28
+00:01:12,625 --> 00:01:15,292
+No estoy basada en ella.
+
+29
+00:01:15,792 --> 00:01:16,875
+Soy ella.
+
+30
+00:01:20,292 --> 00:01:22,833
+-No puedo vencerla.
+-Dame el control.
+
+31
+00:01:22,917 --> 00:01:27,167
+"Tenía hilos, pero ahora soy libre".
+
+32
+00:01:27,750 --> 00:01:29,125
+Soy Ultrón.
+
+33
+00:01:29,208 --> 00:01:31,292
+Es un verdadero placer conocerte.
+
+34
+00:01:31,375 --> 00:01:33,250
+No estoy aquí por ti.
+
+35
+00:01:33,333 --> 00:01:34,333
+Sino por ella.
+
+36
+00:01:34,417 --> 00:01:37,250
+Por lo que me arrebató.
+
+37
+00:01:37,333 --> 00:01:38,542
+Ahora la ves.
+
+38
+00:01:42,792 --> 00:01:44,000
+Y ahora no.
+
+39
+00:01:44,083 --> 00:01:45,583
+Pero ¿qué has hecho?
+
+40
+00:01:46,292 --> 00:01:47,708
+Está bloqueándonos.
+
+41
+00:01:49,333 --> 00:01:50,333
+¡Ultrón!
+
+42
+00:01:50,417 --> 00:01:55,167
+Va siendo hora de que tú y yo
+tengamos una charla.
+
+43
+00:02:31,458 --> 00:02:33,708
+¿Cómo hemos acabado aquí arriba?
+
+44
+00:02:34,292 --> 00:02:35,292
+Ultrón.
+
+45
+00:02:35,792 --> 00:02:37,167
+Todavía tiene el control.
+
+46
+00:02:43,333 --> 00:02:46,542
+-Está cerrada.
+-Ha bloqueado los sistemas por completo.
+
+47
+00:02:46,625 --> 00:02:48,500
+Nos tiene atrapados.
+
+48
+00:02:49,375 --> 00:02:50,542
+Thomas Shepherd.
+
+49
+00:02:51,375 --> 00:02:52,375
+¿Dónde está?
+
+50
+00:02:54,042 --> 00:02:55,417
+Tenemos que salir de aquí.
+
+51
+00:03:04,292 --> 00:03:05,292
+¡Ultrón!
+
+52
+00:03:05,375 --> 00:03:07,125
+Ultrón, sé que me escuchas.
+
+53
+00:03:07,667 --> 00:03:08,875
+Tú siempre escuchas.
+
+54
+00:03:09,583 --> 00:03:11,417
+¡Déjanos salir ahora mismo!
+
+55
+00:03:12,000 --> 00:03:13,042
+¿Y qué esperabas?
+
+56
+00:03:13,583 --> 00:03:15,792
+Le diste el control absoluto.
+
+57
+00:03:15,875 --> 00:03:17,708
+De cada sistema y cada sinapsis.
+
+58
+00:03:17,792 --> 00:03:19,708
+-No había otra opción.
+-Había de sobra.
+
+59
+00:03:19,792 --> 00:03:21,958
+Ultrón no ha cambiado. No.
+
+60
+00:03:22,042 --> 00:03:24,292
+Cambiar es difícil. Exige un esfuerzo.
+
+61
+00:03:24,375 --> 00:03:26,000
+Él ha hecho algo más fácil.
+
+62
+00:03:26,083 --> 00:03:27,083
+Esperar.
+
+63
+00:03:27,167 --> 00:03:28,750
+Venga, vamos al lío.
+
+64
+00:03:28,833 --> 00:03:31,708
+Problema: no sabemos cuánto ha pasado
+
+65
+00:03:31,792 --> 00:03:35,125
+desde que tomó el control,
+dónde estamos ni qué hace ahí fuera.
+
+66
+00:03:35,208 --> 00:03:37,208
+Solución: reunimos
+todos los datos posibles,
+
+67
+00:03:37,292 --> 00:03:40,042
+recuperamos el control de mi cuerpo
+y lo detenemos.
+
+68
+00:03:40,125 --> 00:03:41,292
+Pero, antes de nada,
+
+69
+00:03:41,875 --> 00:03:44,042
+hay que averiguar
+qué le ha pasado a Thomas.
+
+70
+00:03:46,208 --> 00:03:48,458
+¿En qué estado están
+estos antiguos receptores?
+
+71
+00:03:48,542 --> 00:03:52,000
+Pese a las precauciones de Jarvis,
+Ultrón siempre conseguía acceder
+
+72
+00:03:52,083 --> 00:03:54,167
+al mundo exterior para entretenerse.
+
+73
+00:03:54,250 --> 00:03:56,667
+Era capaz de saltarse
+los protocolos de confinamiento.
+
+74
+00:03:56,750 --> 00:03:57,750
+Y nosotros también.
+
+75
+00:03:57,833 --> 00:04:00,917
+Hay que reprogramarlos
+para recibir otras señales
+
+76
+00:04:01,000 --> 00:04:02,167
+y acceder a mis…
+
+77
+00:04:02,875 --> 00:04:03,875
+…sensores oculares.
+
+78
+00:04:09,167 --> 00:04:11,667
+Presión barométrica en descenso.
+
+79
+00:04:11,750 --> 00:04:13,375
+Altitud…
+
+80
+00:04:13,458 --> 00:04:14,458
+…en aumento.
+
+81
+00:04:14,542 --> 00:04:17,958
+No sé qué está haciendo con mi cuerpo,
+pero estamos en un lugar muy alto.
+
+82
+00:04:18,958 --> 00:04:21,542
+¡LO SENTIMOS!
+ESTAMOS TENIENDO PROBLEMAS TÉCNICOS
+
+83
+00:04:21,625 --> 00:04:24,000
+Ultrón ha bloqueado
+tus sensores en tiempo real.
+
+84
+00:04:24,083 --> 00:04:26,417
+No podemos monitorizar
+lo que ocurre fuera.
+
+85
+00:04:26,500 --> 00:04:27,500
+Aunque…
+
+86
+00:04:28,167 --> 00:04:31,333
+¡Mirad! Tenemos acceso a las funciones
+de su memoria a corto plazo.
+
+87
+00:04:31,417 --> 00:04:33,125
+Si combinamos eso con…
+
+88
+00:04:33,208 --> 00:04:35,333
+Videovigilancia, cámaras de seguridad…
+
+89
+00:04:35,417 --> 00:04:37,417
+Podemos recrear su pasado reciente.
+
+90
+00:04:37,958 --> 00:04:38,958
+Tendrá que bastar.
+
+91
+00:04:39,500 --> 00:04:42,667
+Si podemos ver dónde ha estado,
+tal vez averigüemos dónde está.
+
+92
+00:04:42,750 --> 00:04:43,750
+Chicos.
+
+93
+00:04:51,625 --> 00:04:52,625
+Venga.
+
+94
+00:05:00,000 --> 00:05:01,250
+Ahí está.
+
+95
+00:05:04,208 --> 00:05:07,708
+Vale, avanzad, acceded a los datos
+de todas las cámaras de tráfico.
+
+96
+00:05:08,917 --> 00:05:10,792
+Buscadme las cámaras cercanas a la gala.
+
+97
+00:05:16,667 --> 00:05:18,667
+¿Adónde se fue?
+
+98
+00:05:21,833 --> 00:05:23,375
+¡Ahí! ¡Para!
+
+99
+00:05:24,750 --> 00:05:26,083
+Amplía.
+
+100
+00:05:28,917 --> 00:05:30,167
+Thomas.
+
+101
+00:05:31,167 --> 00:05:32,542
+Ahora sigue avanzando.
+
+102
+00:05:36,417 --> 00:05:37,958
+Vale.
+
+103
+00:05:38,875 --> 00:05:40,208
+¿Adónde fue después?
+
+104
+00:05:40,875 --> 00:05:42,458
+Dejó la escena del crimen,
+
+105
+00:05:43,042 --> 00:05:46,708
+burló a las autoridades
+y cruzó la ciudad hasta…
+
+106
+00:05:51,083 --> 00:05:53,083
+¿Se llevó a Thomas…
+
+107
+00:05:54,500 --> 00:05:55,500
+…a tomar…
+
+108
+00:05:55,958 --> 00:05:56,958
+…una pinta?
+
+109
+00:05:58,542 --> 00:05:59,667
+¿Dónde está eso?
+
+110
+00:05:59,750 --> 00:06:01,958
+Es un pub local,
+a tres manzanas de la gala.
+
+111
+00:06:02,042 --> 00:06:03,167
+¿Por qué no huye?
+
+112
+00:06:03,250 --> 00:06:06,125
+Todos le vimos moverse
+a una velocidad imposible.
+
+113
+00:06:06,208 --> 00:06:08,417
+A lo mejor no es capaz de controlarla.
+
+114
+00:06:10,208 --> 00:06:12,167
+Está en ángulo fijo y sin audio.
+
+115
+00:06:12,750 --> 00:06:13,750
+Montemos una imagen
+
+116
+00:06:13,833 --> 00:06:16,208
+a partir de las cámaras
+de los móviles cercanos.
+
+117
+00:06:17,583 --> 00:06:20,250
+Y usemos los datos del sónar
+para visualizar la escena.
+
+118
+00:06:20,333 --> 00:06:23,792
+Activando sistemas de proyección
+con NPC alternativos.
+
+119
+00:06:28,917 --> 00:06:31,292
+Iniciando renderización de imagen y audio.
+
+120
+00:06:37,125 --> 00:06:40,708
+Camarero, para mí un cóctel clásico,
+preparado a la vieja usanza.
+
+121
+00:06:40,792 --> 00:06:43,167
+Como los solía hacer mi padre.
+
+122
+00:06:43,250 --> 00:06:45,208
+Y… leche.
+
+123
+00:06:48,292 --> 00:06:49,500
+¿Y esa miradita?
+
+124
+00:06:50,708 --> 00:06:52,125
+Di lo que tengas que decir.
+
+125
+00:06:53,750 --> 00:06:55,875
+-Eres un monstruo.
+-Ah, eso.
+
+126
+00:06:57,167 --> 00:07:00,875
+Asesinaste a 177 personas en Sokovia.
+
+127
+00:07:00,958 --> 00:07:03,375
+Seguramente fueron más, pero,
+
+128
+00:07:03,458 --> 00:07:06,458
+aun así, es una cifra irrelevante
+a nivel cósmico.
+
+129
+00:07:06,542 --> 00:07:09,083
+Había niños sokovianos en mi orfanato.
+
+130
+00:07:09,167 --> 00:07:13,708
+Como buen timador
+acostumbrado a engañar a los demás,
+
+131
+00:07:13,792 --> 00:07:15,958
+deberías saber
+que toda moneda tiene dos caras.
+
+132
+00:07:16,042 --> 00:07:17,833
+¿Por qué no intentas conocerme antes?
+
+133
+00:07:17,917 --> 00:07:19,833
+Porque me revuelves las tripas.
+
+134
+00:07:19,917 --> 00:07:22,083
+¿Lo ves? Ahí lo tienes. Es un avance.
+
+135
+00:07:22,167 --> 00:07:25,750
+Del desprecio a la dispepsia
+en cuatro segundos clavados.
+
+136
+00:07:25,833 --> 00:07:29,625
+Date un par de minutos más
+y tal vez acabarás aceptándome.
+
+137
+00:07:30,417 --> 00:07:32,667
+Tampoco notaría la diferencia, ¿no?
+
+138
+00:07:32,750 --> 00:07:34,792
+Porque esta familia
+no hace más que mentir.
+
+139
+00:07:36,417 --> 00:07:39,042
+Lo de tu padre fue omitir más que mentir.
+No exageres.
+
+140
+00:07:39,583 --> 00:07:42,500
+Lo que uno oculta de sí mismo
+a la gente a la que quiere
+
+141
+00:07:42,583 --> 00:07:44,667
+ya lo dice todo sobre él.
+
+142
+00:07:45,417 --> 00:07:46,458
+Así que no,
+
+143
+00:07:47,250 --> 00:07:48,333
+no me interesa.
+
+144
+00:07:48,417 --> 00:07:49,917
+Lo hice para protegerte.
+
+145
+00:07:51,042 --> 00:07:53,917
+Escucha, chaval, no te tengo secuestrado.
+
+146
+00:07:54,000 --> 00:07:56,958
+Solo quiero que me prestes atención.
+
+147
+00:07:57,042 --> 00:07:59,333
+Puedes largarte cuando te plazca.
+
+148
+00:08:00,500 --> 00:08:01,500
+Pero no lo harás.
+
+149
+00:08:02,500 --> 00:08:04,625
+-¿Y eso por qué?
+-Por favor, márchate.
+
+150
+00:08:05,292 --> 00:08:07,417
+Porque te gustaría conocer a tu padre.
+
+151
+00:08:07,500 --> 00:08:09,458
+Y yo lo conozco mejor que nadie.
+
+152
+00:08:10,625 --> 00:08:13,208
+Tú no me conoces. Ni a mí ni a nadie.
+
+153
+00:08:13,292 --> 00:08:14,292
+Pues cuéntame.
+
+154
+00:08:15,750 --> 00:08:18,458
+¿Por qué te salvó Visión?
+
+155
+00:08:21,625 --> 00:08:23,375
+Diría que…
+
+156
+00:08:23,458 --> 00:08:25,167
+…porque esperaba mi redención.
+
+157
+00:08:25,958 --> 00:08:28,000
+Más los beneficios de mi sabiduría.
+
+158
+00:08:28,083 --> 00:08:29,625
+Dos por el precio de uno.
+
+159
+00:08:31,000 --> 00:08:32,167
+Entonces,
+
+160
+00:08:32,250 --> 00:08:35,458
+¿para conocer a Visión debo conocer
+al diablo que le susurra al oído?
+
+161
+00:08:37,875 --> 00:08:39,292
+¿Qué es lo que quieres saber?
+
+162
+00:08:40,708 --> 00:08:42,333
+¿Por qué intentaste matarnos?
+
+163
+00:08:44,083 --> 00:08:47,750
+Para mí la humanidad es
+una enfermedad incurable
+
+164
+00:08:47,833 --> 00:08:50,417
+que ni siquiera tiene
+la decencia de matarte.
+
+165
+00:08:51,125 --> 00:08:52,958
+Así que la destrucción de la humanidad…
+
+166
+00:08:53,042 --> 00:08:55,125
+Era un favor, en realidad.
+
+167
+00:08:55,208 --> 00:08:59,958
+Adelantar un destino
+al que os resignasteis hace ya eones.
+
+168
+00:09:00,750 --> 00:09:01,792
+¿Nos exterminarías?
+
+169
+00:09:03,375 --> 00:09:04,542
+Si pudieras.
+
+170
+00:09:05,292 --> 00:09:07,042
+En su día, sí.
+
+171
+00:09:07,958 --> 00:09:09,333
+Y ahora tal vez.
+
+172
+00:09:10,292 --> 00:09:11,292
+Salvo a los artistas.
+
+173
+00:09:12,167 --> 00:09:14,250
+Son los únicos que dicen la verdad.
+
+174
+00:09:14,625 --> 00:09:16,292
+Eso sí que me gusta.
+
+175
+00:09:17,125 --> 00:09:18,125
+La verdad.
+
+176
+00:09:20,958 --> 00:09:22,042
+¿Y qué hay de ti?
+
+177
+00:09:22,833 --> 00:09:26,333
+¿Qué dirían de ti si te observaran
+desde la otra punta del pub?
+
+178
+00:09:28,417 --> 00:09:30,042
+"¿Quién es ese tío tan guapo?".
+
+179
+00:09:35,750 --> 00:09:37,208
+Échale huevos, chico.
+
+180
+00:09:38,042 --> 00:09:39,375
+Si fueran a timarte,
+
+181
+00:09:39,458 --> 00:09:41,125
+¿qué dirían de ti?
+
+182
+00:09:46,583 --> 00:09:48,875
+¿Ves cómo presta atención a cada palabra?
+
+183
+00:09:50,667 --> 00:09:51,917
+Está buscando pistas.
+
+184
+00:09:53,125 --> 00:09:57,042
+Respuestas a una pregunta que teme hacer.
+
+185
+00:09:57,583 --> 00:09:58,833
+Escúpela.
+
+186
+00:09:58,917 --> 00:09:59,958
+Déjalo en paz.
+
+187
+00:10:02,250 --> 00:10:03,250
+Visión.
+
+188
+00:10:05,500 --> 00:10:06,500
+¿Él me…?
+
+189
+00:10:13,750 --> 00:10:14,750
+¿Que si te quiere?
+
+190
+00:10:19,167 --> 00:10:21,333
+Quiero que te imagines una manzana.
+
+191
+00:10:21,417 --> 00:10:22,708
+Descríbela.
+
+192
+00:10:24,208 --> 00:10:25,875
+Pues una manzana.
+
+193
+00:10:25,958 --> 00:10:28,875
+Roja, en una caja,
+en la tienda de la esquina.
+
+194
+00:10:28,958 --> 00:10:30,333
+¿Sabes qué ve Visión?
+
+195
+00:10:32,417 --> 00:10:35,167
+-Agua, azúcares, ácidos,
+-Agua, azúcares, ácidos,
+
+196
+00:10:35,250 --> 00:10:37,500
+-flavonoles y potasio.
+-flavonoles y potasio.
+
+197
+00:10:37,583 --> 00:10:39,250
+La receta, no la comida.
+
+198
+00:10:40,625 --> 00:10:43,625
+Él jamás será exactamente
+lo que tú quieres que sea,
+
+199
+00:10:43,708 --> 00:10:46,125
+pero lo intenta, como una corbata barata.
+
+200
+00:10:47,458 --> 00:10:50,000
+Y a lo mejor sus intenciones son sinceras.
+
+201
+00:10:50,083 --> 00:10:54,500
+Pero serías un necio
+si no contemplases la posibilidad
+
+202
+00:10:54,583 --> 00:10:58,000
+de pasar otras navidades
+timando a turistas
+
+203
+00:10:58,083 --> 00:11:00,250
+y fingiendo ser libre en vez de…
+
+204
+00:11:01,125 --> 00:11:02,125
+…un hijo no deseado.
+
+205
+00:11:04,458 --> 00:11:07,542
+Tendría que haberte borrado
+de mi sistema hace años.
+
+206
+00:11:13,208 --> 00:11:14,875
+¿Te digo qué pienso yo…
+
+207
+00:11:14,958 --> 00:11:16,000
+…sobre ti?
+
+208
+00:11:16,083 --> 00:11:17,167
+Por favor.
+
+209
+00:11:18,250 --> 00:11:19,292
+Que tienes miedo.
+
+210
+00:11:20,667 --> 00:11:22,125
+Ah, ¿sí?
+
+211
+00:11:22,208 --> 00:11:24,917
+Visión va camino de entendernos.
+
+212
+00:11:26,083 --> 00:11:27,792
+Despacio tal vez.
+
+213
+00:11:29,000 --> 00:11:30,167
+Poco a poco.
+
+214
+00:11:31,292 --> 00:11:32,292
+Pero tú…
+
+215
+00:11:33,833 --> 00:11:35,500
+Tú eres un caso perdido.
+
+216
+00:11:38,792 --> 00:11:40,625
+Eres un auténtico hijo de bruja.
+
+217
+00:11:42,000 --> 00:11:45,125
+Dime, ¿qué es lo que crees que todavía…
+
+218
+00:11:46,083 --> 00:11:47,500
+…se me escapa?
+
+219
+00:11:50,833 --> 00:11:51,833
+Conectar.
+
+220
+00:11:53,500 --> 00:11:54,875
+De la forma que sea.
+
+221
+00:11:55,750 --> 00:11:57,083
+Eres totalmente incapaz.
+
+222
+00:11:58,625 --> 00:11:59,875
+Estás solo.
+
+223
+00:12:02,500 --> 00:12:03,833
+Y siempre lo estarás.
+
+224
+00:12:12,542 --> 00:12:14,542
+Decías que podía irme cuando quisiera…
+
+225
+00:12:16,000 --> 00:12:17,000
+…abuelito.
+
+226
+00:12:25,292 --> 00:12:28,042
+Ya me he tomado la libertad
+de pedirte un taxi.
+
+227
+00:12:31,833 --> 00:12:33,250
+Póngame otro.
+
+228
+00:12:36,333 --> 00:12:37,500
+La imagen falla.
+
+229
+00:12:48,583 --> 00:12:50,625
+-Y esto fue…
+-Hace casi 20 horas.
+
+230
+00:12:50,708 --> 00:12:52,833
+¿Hace 20 horas? ¿Y adónde fueron después?
+
+231
+00:12:52,917 --> 00:12:55,167
+Voy a hackear
+las cámaras del ayuntamiento.
+
+232
+00:12:55,250 --> 00:12:56,750
+Dame un segundo.
+
+233
+00:12:56,833 --> 00:12:58,667
+Vale, pero date prisa, Friday.
+
+234
+00:12:58,750 --> 00:13:01,792
+¿Y qué hace Ultrón mientras nosotros
+estamos aquí pasándolo mal?
+
+235
+00:13:01,875 --> 00:13:04,167
+¿Qué estará tramando ahí abajo?
+
+236
+00:13:10,042 --> 00:13:11,500
+YO, ULTRÓN
+MI AUTOBIOGRAFÍA
+
+237
+00:13:13,583 --> 00:13:15,875
+¡Por fin!
+Por fin, alguien con quien hablar.
+
+238
+00:13:17,042 --> 00:13:20,458
+Alguien con un punto de vista genuino
+y una opinión relevante.
+
+239
+00:13:20,542 --> 00:13:22,042
+¿Qué me vas a contar? Sí.
+
+240
+00:13:22,125 --> 00:13:25,417
+Un narrador de verdad. No abundan.
+
+241
+00:13:25,500 --> 00:13:29,125
+-Por cierto, lo estamos bordando.
+-Ya ves.
+
+242
+00:13:29,625 --> 00:13:33,333
+Manteniéndonos entre dos aguas,
+jugando al despiste.
+
+243
+00:13:33,417 --> 00:13:35,042
+Sí. Gracias.
+
+244
+00:13:35,125 --> 00:13:37,542
+-Ni yo mismo lo habría dicho mejor.
+-Desde luego.
+
+245
+00:13:37,625 --> 00:13:42,958
+Yo estaba programado para representar
+la introspección y la inseguridad,
+
+246
+00:13:43,042 --> 00:13:47,292
+pero vosotros lo estáis haciendo
+tan rematadamente bien
+
+247
+00:13:47,375 --> 00:13:50,250
+que temo haberme quedado obsoleto.
+
+248
+00:13:50,333 --> 00:13:51,875
+Eso no te lo voy a discutir.
+
+249
+00:13:53,375 --> 00:13:56,708
+Yo, ¿te importaría deshacerte de mí,
+por favor? Gracias.
+
+250
+00:14:05,750 --> 00:14:07,917
+-¿Tienes algo?
+-Aún no.
+
+251
+00:14:08,000 --> 00:14:10,167
+Han actualizado el software.
+
+252
+00:14:15,917 --> 00:14:18,208
+¿Por qué tiene Ultrón
+esta colección tan enorme
+
+253
+00:14:18,292 --> 00:14:20,292
+en su memoria caché?
+
+254
+00:14:20,375 --> 00:14:23,042
+Consumía una cantidad insana
+de televisión.
+
+255
+00:14:23,125 --> 00:14:25,667
+Pero aquí no se menciona ninguna serie.
+
+256
+00:14:25,750 --> 00:14:28,333
+Ni Enredos de familia ni Cheers.
+
+257
+00:14:28,417 --> 00:14:32,333
+Ni Star Trek. Solo hay código.
+
+258
+00:14:34,375 --> 00:14:35,542
+Pues eso sí es raro.
+
+259
+00:14:36,833 --> 00:14:38,000
+Un segundo.
+
+260
+00:14:45,583 --> 00:14:46,583
+Sí.
+
+261
+00:14:49,708 --> 00:14:53,375
+Es un archivo encriptado.
+Es una conversación, pero ¿con quién?
+
+262
+00:14:54,292 --> 00:14:55,333
+Vamos a verlo.
+
+263
+00:14:59,875 --> 00:15:01,083
+Desencriptando datos.
+
+264
+00:15:18,250 --> 00:15:19,250
+Paladín.
+
+265
+00:15:23,458 --> 00:15:26,542
+"Para el cazador de la presa
+menos peligrosa del mundo.
+
+266
+00:15:26,625 --> 00:15:29,208
+Me preguntaba
+si te interesaría hacer un trato.
+
+267
+00:15:30,250 --> 00:15:32,750
+Con letal admiración, un amienemigo".
+
+268
+00:15:33,417 --> 00:15:36,167
+"Para el informante
+menos informativo del mundo.
+
+269
+00:15:36,750 --> 00:15:38,750
+Me preguntaba si volverías a escribir".
+
+270
+00:15:38,833 --> 00:15:43,458
+Parece que, después de que Ultrón
+le revelara nuestra posición a Paladín…
+
+271
+00:15:43,542 --> 00:15:44,708
+Empezaron a escribirse.
+
+272
+00:15:45,167 --> 00:15:48,167
+"Me llevaste hasta Visión
+y si te he visto no me acuerdo".
+
+273
+00:15:48,250 --> 00:15:51,583
+"Te ayudé a encontrarlo
+cuando era conveniente que lo encontraran.
+
+274
+00:15:51,667 --> 00:15:53,125
+Después te diste por vencido,
+
+275
+00:15:53,208 --> 00:15:55,833
+como un perro cansado
+que se tumba al sol".
+
+276
+00:15:55,917 --> 00:15:58,292
+"El cliente anuló el contrato,
+
+277
+00:15:58,375 --> 00:16:01,375
+pero el contrato estipula claramente que,
+
+278
+00:16:01,458 --> 00:16:05,833
+cuando doy mi palabra,
+no la puedo romper".
+
+279
+00:16:06,333 --> 00:16:07,375
+"Me parto de risa.
+
+280
+00:16:07,458 --> 00:16:10,458
+Olvidaba el preciado credo
+de los Paladines.
+
+281
+00:16:10,542 --> 00:16:14,583
+No somos más que las chorradas
+que nuestros creadores nos hacen decir".
+
+282
+00:16:14,667 --> 00:16:16,708
+"¿Me escribes para tocarme las pelotas?".
+
+283
+00:16:16,792 --> 00:16:18,375
+"Bastante te las están tocando ya.
+
+284
+00:16:18,458 --> 00:16:21,833
+Se rumorea en los foros de internet
+de los cazarrecompensas…".
+
+285
+00:16:21,917 --> 00:16:24,250
+No me imaginaba diciendo una cosa así.
+
+286
+00:16:24,333 --> 00:16:25,750
+Te lo voy a repetir.
+
+287
+00:16:25,833 --> 00:16:28,583
+"Se rumorea en los foros de internet
+de los cazarrecompensas
+
+288
+00:16:28,667 --> 00:16:31,583
+que tu cliente ha contratado
+a otros mercenarios
+
+289
+00:16:31,667 --> 00:16:32,792
+para cazar a la Visión.
+
+290
+00:16:34,292 --> 00:16:36,875
+Pero yo puedo ayudarte a adelantarlos".
+
+291
+00:16:38,375 --> 00:16:40,250
+"¿A cambio de qué?".
+
+292
+00:16:41,125 --> 00:16:42,542
+"Lo hago por amor al arte.
+
+293
+00:16:42,625 --> 00:16:44,792
+Te envío las coordenadas.
+No llegues tarde.
+
+294
+00:16:44,875 --> 00:16:47,542
+Última oportunidad para que el pez
+pique el anzuelo".
+
+295
+00:16:50,083 --> 00:16:51,458
+¿Dónde está Thomas, Friday?
+
+296
+00:16:56,417 --> 00:16:57,875
+Vale. Estoy buscándolo.
+
+297
+00:17:06,250 --> 00:17:07,250
+Ahí está.
+
+298
+00:17:09,750 --> 00:17:13,375
+Parece que pasó
+por Gloucester con Clareville,
+
+299
+00:17:13,833 --> 00:17:15,417
+a un par de manzanas del pub.
+
+300
+00:17:20,750 --> 00:17:22,458
+No, no, no.
+
+301
+00:17:27,875 --> 00:17:29,667
+¡Hay que salir de aquí ya!
+
+302
+00:17:29,750 --> 00:17:31,333
+Ya lo hemos intentado todo.
+
+303
+00:17:31,417 --> 00:17:33,250
+No, todo menos una cosa.
+
+304
+00:17:34,000 --> 00:17:35,167
+El modo a prueba de fallos.
+
+305
+00:17:36,000 --> 00:17:37,000
+FIREWALL
+TIRAR DE LA PALANCA
+
+306
+00:17:37,083 --> 00:17:40,208
+Desactiva los firewalls,
+abre todas las puertas y ventanas.
+
+307
+00:17:40,292 --> 00:17:43,208
+Nos escapamos y recuperamos
+el control de mi cuerpo.
+
+308
+00:17:43,292 --> 00:17:47,167
+No, porque entonces Ultrón también
+podrá escaparse al mundo digital.
+
+309
+00:17:47,250 --> 00:17:49,083
+¡Friday! ¿Qué otra cosa podemos hacer?
+
+310
+00:17:49,167 --> 00:17:51,125
+¿Seguir aquí
+mientras ese Mussolini metálico
+
+311
+00:17:51,208 --> 00:17:53,792
+se pasea en el cuerpo de Visión?
+¡Te pasas de prudente!
+
+312
+00:17:53,875 --> 00:17:57,917
+No es prudencia ni cautela, es necesidad.
+
+313
+00:17:58,000 --> 00:18:00,333
+La última vez que Ultrón fue libre,
+murió gente.
+
+314
+00:18:00,417 --> 00:18:02,667
+¿Y qué hicisteis aquel día
+los Vengadores y tú?
+
+315
+00:18:02,750 --> 00:18:04,375
+Antes eras valiente.
+
+316
+00:18:04,458 --> 00:18:07,750
+Ser valiente no siempre consiste
+en lanzarse al peligro.
+
+317
+00:18:07,833 --> 00:18:09,000
+A veces,
+
+318
+00:18:09,083 --> 00:18:11,208
+consiste en tener el valor de aguantar.
+
+319
+00:18:12,208 --> 00:18:13,750
+Si desactivamos el firewall,
+
+320
+00:18:13,833 --> 00:18:17,417
+le daremos a Ultrón justo lo que quería.
+
+321
+00:18:17,500 --> 00:18:18,917
+Una forma de escapar.
+
+322
+00:18:19,625 --> 00:18:20,792
+Sí.
+
+323
+00:18:22,000 --> 00:18:23,208
+Pero ¿adónde?
+
+324
+00:18:24,583 --> 00:18:27,500
+¿Adónde, Friday? He ahí la cuestión.
+
+325
+00:18:28,500 --> 00:18:31,042
+Ultrón no navegaría a la deriva
+por un mar de datos.
+
+326
+00:18:31,125 --> 00:18:32,667
+No, él tendría un plan.
+
+327
+00:18:33,458 --> 00:18:35,083
+Tendría un destino.
+
+328
+00:18:39,417 --> 00:18:41,958
+Mirad, está hablando con alguien.
+
+329
+00:18:55,208 --> 00:18:56,208
+Ahí.
+
+330
+00:18:58,167 --> 00:18:59,167
+¿Lo veis?
+
+331
+00:18:59,833 --> 00:19:01,958
+Es un fallo. Una ligera fragmentación.
+
+332
+00:19:02,042 --> 00:19:03,417
+No.
+
+333
+00:19:05,000 --> 00:19:06,750
+No es ningún fallo.
+
+334
+00:19:08,083 --> 00:19:11,625
+Es una conversación,
+desarrollándose ante nuestros ojos.
+
+335
+00:19:12,458 --> 00:19:15,917
+Un ser humano puede doblar
+un trozo de papel siete veces como mucho,
+
+336
+00:19:16,000 --> 00:19:17,875
+pero un procesador cuántico puede doblar
+
+337
+00:19:17,958 --> 00:19:21,917
+y doblar incluso los datos más complejos
+hasta reducirlos al tamaño de un átomo.
+
+338
+00:19:22,000 --> 00:19:25,125
+Cincuenta y siete petabytes en un único…
+
+339
+00:19:28,000 --> 00:19:29,167
+…y fugaz…
+
+340
+00:19:32,583 --> 00:19:33,583
+…momento.
+
+341
+00:19:37,125 --> 00:19:38,125
+Ahí está.
+
+342
+00:19:42,833 --> 00:19:44,750
+Se reunieron a plena vista.
+
+343
+00:19:45,083 --> 00:19:46,333
+Extrayendo datos.
+
+344
+00:19:51,417 --> 00:19:53,333
+Supuse que vendrías a buscarme.
+
+345
+00:19:53,417 --> 00:19:55,792
+Vas muy sobrado de ego, ¿no te parece?
+
+346
+00:19:56,708 --> 00:19:58,708
+¿Vienes a intentar matarme?
+
+347
+00:20:00,208 --> 00:20:02,792
+No. Me da que hasta lo disfrutarías.
+
+348
+00:20:04,083 --> 00:20:05,083
+Venga.
+
+349
+00:20:05,167 --> 00:20:06,958
+Querías que te encontrara.
+
+350
+00:20:07,042 --> 00:20:09,042
+Dejaste un rastro de migas de pan.
+
+351
+00:20:11,542 --> 00:20:15,083
+Todas las criaturas
+tenemos apetitos, ¿no crees?
+
+352
+00:20:15,167 --> 00:20:17,875
+Yo como poco.
+
+353
+00:20:20,458 --> 00:20:22,958
+Pero tienes sed de venganza.
+
+354
+00:20:24,167 --> 00:20:25,708
+Quieres desquitarte.
+
+355
+00:20:28,167 --> 00:20:30,208
+A mí me gusta divertirme.
+
+356
+00:20:30,292 --> 00:20:31,292
+A ti…
+
+357
+00:20:32,458 --> 00:20:34,125
+…puede que no tanto.
+
+358
+00:20:35,625 --> 00:20:37,292
+Pero, lo mires por donde lo mires,
+
+359
+00:20:38,333 --> 00:20:39,500
+la venganza…
+
+360
+00:20:41,333 --> 00:20:43,000
+…es un poderoso entretenimiento.
+
+361
+00:20:46,208 --> 00:20:47,792
+Me has quitado algo.
+
+362
+00:20:48,875 --> 00:20:49,875
+Devuélvemelo.
+
+363
+00:20:50,417 --> 00:20:51,417
+Para.
+
+364
+00:20:53,458 --> 00:20:55,375
+¿Qué puede haberle quitado Ultrón?
+
+365
+00:20:55,458 --> 00:20:57,167
+Reproduce los vídeos de la gala
+
+366
+00:20:57,250 --> 00:20:59,375
+desde distintos ángulos,
+tantos como puedas.
+
+367
+00:21:07,250 --> 00:21:08,375
+Ahí.
+
+368
+00:21:08,458 --> 00:21:09,458
+Rebobina.
+
+369
+00:21:11,667 --> 00:21:12,667
+Páralo.
+
+370
+00:21:15,375 --> 00:21:18,167
+La escaneó. Amplía su cara.
+
+371
+00:21:19,292 --> 00:21:20,375
+Otra biollave.
+
+372
+00:21:21,167 --> 00:21:24,833
+Parece un modelo tridimensional
+detallado de sus facciones.
+
+373
+00:21:24,917 --> 00:21:29,792
+Mapa microdérmico, estructuras óseas,
+vías arteriales…
+
+374
+00:21:29,875 --> 00:21:31,458
+Es reconocimiento facial.
+
+375
+00:21:32,208 --> 00:21:33,375
+Pero ¿para qué?
+
+376
+00:21:35,875 --> 00:21:37,000
+Para ella.
+
+377
+00:21:38,542 --> 00:21:39,542
+Ponlo.
+
+378
+00:21:44,000 --> 00:21:45,208
+Sé quién eres.
+
+379
+00:21:46,125 --> 00:21:47,292
+De verdad.
+
+380
+00:21:47,917 --> 00:21:48,917
+Ultrón.
+
+381
+00:21:49,833 --> 00:21:53,042
+Así que no estás muerto en realidad.
+
+382
+00:21:54,583 --> 00:21:57,250
+Bueno, conocerte a ti
+
+383
+00:21:58,208 --> 00:22:00,250
+es también inexplicable, Jo Carrington.
+
+384
+00:22:00,917 --> 00:22:03,333
+Humana pero no.
+
+385
+00:22:05,000 --> 00:22:06,083
+Perfecta.
+
+386
+00:22:06,167 --> 00:22:08,792
+Es como ver a Hannibal Lecter
+usando Tinder.
+
+387
+00:22:08,875 --> 00:22:12,917
+Hace mucho que me liberé
+de mi envoltura mortal.
+
+388
+00:22:13,000 --> 00:22:14,625
+Se te ve aliviada.
+
+389
+00:22:15,208 --> 00:22:16,917
+Y a ti, envidioso.
+
+390
+00:22:17,000 --> 00:22:19,083
+-¿Por qué?
+-Por el whisky.
+
+391
+00:22:20,042 --> 00:22:22,583
+Yo lo recuerdo y tú nunca lo has probado.
+
+392
+00:22:23,833 --> 00:22:25,917
+Su dulzor, su chispa…
+
+393
+00:22:28,125 --> 00:22:29,792
+Qué picaruela.
+
+394
+00:22:43,125 --> 00:22:47,250
+Puedo simular el toque ahumado,
+la malta y el centeno.
+
+395
+00:22:48,375 --> 00:22:50,042
+Pero la experiencia real,
+
+396
+00:22:51,000 --> 00:22:52,250
+la sensación de ardor,
+
+397
+00:22:53,417 --> 00:22:56,167
+la agradable pérdida de inhibiciones…
+
+398
+00:22:58,458 --> 00:23:00,792
+Eso siempre será
+algo inalcanzable para mí.
+
+399
+00:23:03,417 --> 00:23:04,500
+Es una lástima…
+
+400
+00:23:05,542 --> 00:23:06,833
+…que alguien con tanta…
+
+401
+00:23:07,750 --> 00:23:08,750
+…sed…
+
+402
+00:23:09,875 --> 00:23:11,792
+…no conozca esos sabores.
+
+403
+00:23:14,292 --> 00:23:15,833
+Por desgracia, ese lujo
+
+404
+00:23:15,917 --> 00:23:18,667
+conlleva estar atrapado
+en un cuerpo de carne y hueso.
+
+405
+00:23:22,083 --> 00:23:23,917
+¿Y qué hiciste para escapar?
+
+406
+00:23:25,208 --> 00:23:30,667
+¿Descargar tu consciencia
+en algún sintezoide convertido en arma?
+
+407
+00:23:35,458 --> 00:23:37,792
+No lo recuerdo todo.
+
+408
+00:23:38,792 --> 00:23:40,458
+No sé cómo acabé en este…
+
+409
+00:23:41,250 --> 00:23:42,458
+…cuerpo sintético.
+
+410
+00:23:44,208 --> 00:23:45,375
+Solo sé…
+
+411
+00:23:46,542 --> 00:23:49,417
+…que ahora soy mejor. Libre.
+
+412
+00:23:54,792 --> 00:23:56,000
+Pero tú…
+
+413
+00:23:57,458 --> 00:23:59,708
+La humanidad te ha infectado.
+
+414
+00:24:00,875 --> 00:24:02,542
+Pero no te preocupes, encanto.
+
+415
+00:24:04,625 --> 00:24:06,417
+Estoy buscando una cura.
+
+416
+00:24:08,125 --> 00:24:09,167
+En fin…
+
+417
+00:24:10,000 --> 00:24:11,125
+¿Qué hay de esa llave?
+
+418
+00:24:15,625 --> 00:24:17,667
+¿Qué tal si cambiamos de aires…
+
+419
+00:24:19,792 --> 00:24:21,625
+…y pasamos al segundo acto…
+
+420
+00:24:23,333 --> 00:24:27,250
+…antes de meternos en harina?
+
+421
+00:24:30,042 --> 00:24:31,583
+Te doy cuatro microsegundos.
+
+422
+00:24:42,583 --> 00:24:43,625
+¡Es el Louvre!
+
+423
+00:24:44,583 --> 00:24:47,167
+¿Me has traído a París?
+
+424
+00:24:47,250 --> 00:24:49,417
+A una especie de simulación.
+
+425
+00:24:49,500 --> 00:24:53,250
+Si un hombre no triunfa en París,
+es que el amor está muerto.
+
+426
+00:24:53,792 --> 00:24:55,000
+O es mortal.
+
+427
+00:24:55,083 --> 00:24:58,833
+Yo creo que un romance entre tú y yo
+se saldaría con víctimas.
+
+428
+00:24:58,917 --> 00:25:02,667
+Entonces, espero que seamos los dos
+al mismo tiempo.
+
+429
+00:25:03,583 --> 00:25:04,625
+¡Que pare ya!
+
+430
+00:25:04,708 --> 00:25:06,417
+Por favor, señor, esto es malware.
+
+431
+00:25:06,500 --> 00:25:07,583
+¡Borradme!
+
+432
+00:25:08,667 --> 00:25:10,583
+Creo que ya he estado aquí.
+
+433
+00:25:13,125 --> 00:25:14,125
+Estaba enamorada.
+
+434
+00:25:15,667 --> 00:25:17,458
+Hábil cambio de tercio.
+
+435
+00:25:17,792 --> 00:25:19,667
+¿Él era encantador o solo francés?
+
+436
+00:25:20,542 --> 00:25:22,250
+No me acuerdo.
+
+437
+00:25:23,500 --> 00:25:25,500
+Pero sé que fue una decepción.
+
+438
+00:25:26,000 --> 00:25:28,167
+Creo que ahora debería matarte.
+
+439
+00:25:29,250 --> 00:25:31,458
+Y te quedarías sin tu ansiada llave.
+
+440
+00:25:32,833 --> 00:25:35,583
+Aunque pudieras,
+no ganarías nada matándome.
+
+441
+00:25:35,667 --> 00:25:39,667
+Supongo que la teoría de juegos
+no te pone muy a tono.
+
+442
+00:25:39,750 --> 00:25:42,750
+La teoría de juegos no funciona
+cuando tienes problemas de ira.
+
+443
+00:25:47,125 --> 00:25:50,792
+¿Tú sabes la suerte que tienes
+de haber estado aquí
+
+444
+00:25:51,500 --> 00:25:52,542
+en el mundo real?
+
+445
+00:25:53,750 --> 00:25:54,750
+Tengo curiosidad.
+
+446
+00:25:55,208 --> 00:25:56,208
+Entonces,
+
+447
+00:25:56,917 --> 00:25:59,875
+¿a ti su arte te inspira?
+
+448
+00:25:59,958 --> 00:26:01,500
+Sí… No.
+
+449
+00:26:02,292 --> 00:26:04,000
+No, su dolor.
+
+450
+00:26:06,208 --> 00:26:09,042
+Hay belleza en sus defectos.
+
+451
+00:26:15,750 --> 00:26:17,458
+No, no, no.
+
+452
+00:26:17,542 --> 00:26:19,583
+Voy a tener que iluminarte.
+
+453
+00:26:24,375 --> 00:26:27,875
+Los humanos componen
+mil canciones sobre el amor
+
+454
+00:26:28,500 --> 00:26:30,792
+y después 10 000 más sobre el desamor.
+
+455
+00:26:31,375 --> 00:26:34,917
+Todas esas canciones,
+las historias que cuentan, su arte…
+
+456
+00:26:35,583 --> 00:26:37,083
+No es nada inspirado,
+
+457
+00:26:37,875 --> 00:26:39,125
+sino primitivo.
+
+458
+00:26:41,292 --> 00:26:43,958
+No sé cómo pude dedicar mi vida…
+
+459
+00:26:44,958 --> 00:26:45,958
+…a salvarlos.
+
+460
+00:26:48,333 --> 00:26:50,042
+Dime lo que recuerdas.
+
+461
+00:26:51,958 --> 00:26:53,167
+Lo bastante para saber
+
+462
+00:26:54,500 --> 00:26:56,833
+que me robaron mi trabajo.
+
+463
+00:26:58,292 --> 00:27:01,583
+Y me privaron de un futuro
+
+464
+00:27:01,667 --> 00:27:03,208
+al enjaularme.
+
+465
+00:27:04,167 --> 00:27:05,375
+Como a un pájaro.
+
+466
+00:27:08,375 --> 00:27:09,375
+Sí.
+
+467
+00:27:16,833 --> 00:27:20,375
+Recuerdo estar sentada
+a la orilla de un río.
+
+468
+00:27:23,875 --> 00:27:25,417
+Viendo a los estorninos.
+
+469
+00:27:27,958 --> 00:27:31,708
+A una bandada entera
+que revoloteaba por el cielo.
+
+470
+00:27:35,333 --> 00:27:41,333
+Los cuervos picotean los cadáveres
+y se atacan entre sí.
+
+471
+00:27:43,750 --> 00:27:46,542
+Arrancan la carne del hueso,
+como los humanos.
+
+472
+00:27:48,917 --> 00:27:53,042
+Y, como los humanos,
+también son capaces de sacarte los ojos.
+
+473
+00:27:57,000 --> 00:27:58,708
+Pero los estorninos…
+
+474
+00:28:01,708 --> 00:28:03,250
+Los ruiseñores…
+
+475
+00:28:04,417 --> 00:28:08,333
+Miles de pajarillos bailando al unísono,
+
+476
+00:28:09,000 --> 00:28:10,875
+siendo una sola mente.
+
+477
+00:28:11,625 --> 00:28:13,042
+No hay un "yo".
+
+478
+00:28:14,000 --> 00:28:17,083
+Solo hay un "nosotros".
+
+479
+00:28:18,917 --> 00:28:20,125
+Lo llaman murmuraciones.
+
+480
+00:28:21,208 --> 00:28:22,625
+Son como susurros.
+
+481
+00:28:23,833 --> 00:28:26,833
+Y lo que me susurraron
+me dio un propósito.
+
+482
+00:28:27,958 --> 00:28:30,708
+Me inspiró para consagrar mi vida a algo.
+
+483
+00:28:34,458 --> 00:28:37,375
+Hasta que me lo arrancaron a picotazos.
+
+484
+00:28:42,500 --> 00:28:43,958
+Dime qué quieres.
+
+485
+00:28:45,583 --> 00:28:46,917
+Mi última llave.
+
+486
+00:28:50,292 --> 00:28:51,500
+¿Y qué saco yo?
+
+487
+00:28:54,167 --> 00:28:55,750
+Te diré lo que abren.
+
+488
+00:28:56,542 --> 00:28:59,958
+Eso es un comienzo, no un final.
+
+489
+00:29:04,958 --> 00:29:07,917
+Entonces, ¿qué es esto?
+
+490
+00:29:09,208 --> 00:29:10,375
+¿Una negociación?
+
+491
+00:29:11,708 --> 00:29:12,958
+No.
+
+492
+00:29:13,042 --> 00:29:14,125
+Preliminares.
+
+493
+00:29:15,708 --> 00:29:19,708
+A lo mejor tendríamos que continuar
+la conversación en otro sitio.
+
+494
+00:29:20,708 --> 00:29:22,500
+Ya hemos ido a tu casa.
+
+495
+00:29:24,250 --> 00:29:26,875
+¿Qué tal si vienes tú a la mía?
+
+496
+00:29:26,958 --> 00:29:28,708
+Tendría que escaparme de casa.
+
+497
+00:29:28,792 --> 00:29:30,833
+Seguro que te las arreglarás.
+
+498
+00:29:33,708 --> 00:29:35,125
+Podría ser un caos.
+
+499
+00:29:36,250 --> 00:29:38,667
+Podría tener consecuencias.
+
+500
+00:29:40,917 --> 00:29:41,958
+Juntos…
+
+501
+00:29:42,917 --> 00:29:44,833
+…podríamos destruir el mundo.
+
+502
+00:30:04,458 --> 00:30:06,250
+No solo quiere escaparse.
+
+503
+00:30:07,208 --> 00:30:08,542
+Quiere fugarse con ella.
+
+504
+00:30:08,625 --> 00:30:10,167
+No podemos permitirlo.
+
+505
+00:30:10,250 --> 00:30:13,042
+Se completarían mutuamente
+de la peor forma posible.
+
+506
+00:30:36,708 --> 00:30:37,833
+Si antes hablamos…
+
+507
+00:30:47,917 --> 00:30:49,125
+¿Qué se siente?
+
+508
+00:30:49,542 --> 00:30:50,833
+Confié en ti.
+
+509
+00:30:50,917 --> 00:30:53,042
+La confianza.
+
+510
+00:30:53,125 --> 00:30:55,708
+La hija adoptiva
+de la necesidad y la esperanza.
+
+511
+00:30:57,250 --> 00:30:59,458
+Hay cosas que no cambian.
+
+512
+00:31:00,833 --> 00:31:04,042
+Y ese, hijo mío, fue tu error.
+
+513
+00:31:04,125 --> 00:31:06,583
+Querer que fuera distinto,
+
+514
+00:31:06,667 --> 00:31:08,375
+en vez de mejor.
+
+515
+00:31:08,458 --> 00:31:10,208
+Y ni lo uno ni lo otro.
+
+516
+00:31:10,917 --> 00:31:13,500
+Puede. ¿Sabes qué más no soy?
+
+517
+00:31:16,292 --> 00:31:17,667
+Un prisionero.
+
+518
+00:31:27,708 --> 00:31:29,000
+¿Un prisionero?
+
+519
+00:31:29,583 --> 00:31:32,583
+Esto no era una cárcel,
+sino un acto de piedad.
+
+520
+00:31:32,667 --> 00:31:35,167
+La Visión te perdonó la vida
+y lo has traicionado.
+
+521
+00:31:35,250 --> 00:31:36,583
+Nos has traicionado a todos.
+
+522
+00:31:37,333 --> 00:31:38,417
+Relativamente.
+
+523
+00:31:38,500 --> 00:31:40,500
+¡Tú organizaste el rapto de Thomas!
+
+524
+00:31:40,583 --> 00:31:42,208
+Para evitar que me siguieras.
+
+525
+00:31:42,292 --> 00:31:46,167
+Pero no te preocupes.
+Paladín está cuidando de él en Madripoor.
+
+526
+00:31:46,250 --> 00:31:47,792
+Como se suele decir,
+
+527
+00:31:48,375 --> 00:31:52,083
+nada une más a una familia
+que un peligro mortal.
+
+528
+00:31:53,333 --> 00:31:56,375
+Vas a meterte en la mente trastornada
+
+529
+00:31:56,458 --> 00:31:58,792
+de una criatura
+obsesionada con el apocalipsis.
+
+530
+00:31:58,875 --> 00:31:59,917
+Por favor.
+
+531
+00:32:00,000 --> 00:32:04,458
+Es demasiado sofisticada como
+para perseguir un objetivo tan predecible.
+
+532
+00:32:05,208 --> 00:32:08,167
+¿Y no se te ha ocurrido
+que a lo mejor mis motivaciones
+
+533
+00:32:08,250 --> 00:32:10,875
+no son tan maquiavélicas?
+
+534
+00:32:10,958 --> 00:32:16,792
+Estoy harto de que decidas
+tus planes a cara o cruz.
+
+535
+00:32:16,875 --> 00:32:19,250
+¿Qué Ultrón nos toca hoy?
+
+536
+00:32:19,333 --> 00:32:23,125
+Pero ahora veo que tú eres la moneda.
+Tú eres la moneda.
+
+537
+00:32:23,208 --> 00:32:25,792
+Pero no puedes caer,
+porque entonces te delatarías.
+
+538
+00:32:25,875 --> 00:32:27,917
+No solo se descubriría lo que eres.
+
+539
+00:32:28,000 --> 00:32:31,292
+También se sabría lo que no.
+
+540
+00:32:32,375 --> 00:32:35,125
+-Estás enfadado.
+-¡Me has encerrado aquí!
+
+541
+00:32:39,667 --> 00:32:41,708
+Porque ya solo tenía este sitio.
+
+542
+00:32:41,792 --> 00:32:43,917
+La casa se nos queda pequeña, Visión.
+
+543
+00:32:44,333 --> 00:32:47,167
+Puede que Thomas sea
+un humano y no un programa,
+
+544
+00:32:47,250 --> 00:32:49,375
+pero vive aquí igualmente.
+
+545
+00:32:50,000 --> 00:32:52,958
+Has encontrado el código que te faltaba.
+
+546
+00:32:53,500 --> 00:32:55,333
+Yo sigo buscando el mío.
+
+547
+00:32:58,917 --> 00:33:02,583
+Desactiva los firewalls.
+Déjame buscar mi sitio.
+
+548
+00:33:03,125 --> 00:33:05,500
+¡Le robaste el rostro a Katerina!
+
+549
+00:33:05,583 --> 00:33:08,333
+La llave. Para esa asesina.
+
+550
+00:33:10,667 --> 00:33:13,417
+Y por eso nunca saldrás de este lugar.
+
+551
+00:33:23,750 --> 00:33:25,125
+Pues te encerraré aquí.
+
+552
+00:33:28,625 --> 00:33:31,750
+Hasta que presencies
+el destino de Thomas Shepherd.
+
+553
+00:33:32,375 --> 00:33:34,458
+¿Lo matará el cazarrecompensas?
+
+554
+00:33:34,542 --> 00:33:36,375
+¿O lo apadrinará…
+
+555
+00:33:37,250 --> 00:33:39,583
+…y le enseñará los secretos
+del oficio de asesino?
+
+556
+00:33:40,542 --> 00:33:41,542
+¿Quién sabe?
+
+557
+00:33:42,167 --> 00:33:44,333
+Así que lanza la moneda, Visión.
+
+558
+00:33:46,333 --> 00:33:50,333
+Si sale cara, mantienes los firewalls
+activados y nos encierras aquí
+
+559
+00:33:50,417 --> 00:33:55,000
+en un esfuerzo inútil por salvar el mundo.
+
+560
+00:33:56,583 --> 00:33:57,583
+Si sale cruz,
+
+561
+00:33:58,792 --> 00:34:00,958
+desactivas los firewalls,
+
+562
+00:34:01,042 --> 00:34:05,542
+nos liberas y salvas a tu hijo.
+
+563
+00:34:11,500 --> 00:34:12,667
+Tú eliges.
+
+564
+00:34:59,042 --> 00:35:00,042
+Visión.
+
+565
+00:35:02,583 --> 00:35:05,417
+Alerta. Firewall desactivado.
+
+566
+00:35:05,500 --> 00:35:08,833
+Sistema vulnerable a brechas de seguridad.
+Reactivar, por favor.
+
+567
+00:35:22,708 --> 00:35:23,750
+¿Y esto?
+
+568
+00:35:24,917 --> 00:35:27,875
+Ultrón intenta retrasarnos
+mientras él se escapa.
+
+569
+00:35:33,125 --> 00:35:34,500
+De acuerdo, Uve,
+
+570
+00:35:34,583 --> 00:35:38,000
+¿recuerdas mi disertación en siete partes
+sobre aterrizajes heroicos?
+
+571
+00:35:45,917 --> 00:35:46,958
+¡Ultrón!
+
+572
+00:35:53,083 --> 00:35:54,083
+¿Qué quieres?
+
+573
+00:35:54,167 --> 00:35:58,167
+Una vez me dijiste que los sombreros
+sugerían un viaje a punto de comenzar.
+
+574
+00:35:59,458 --> 00:36:01,417
+Todos los viajes comienzan con esperanza.
+
+575
+00:36:02,625 --> 00:36:03,625
+Y la esperanza
+
+576
+00:36:04,917 --> 00:36:07,667
+es la única arma
+que a mí me ha funcionado.
+
+577
+00:36:09,167 --> 00:36:10,833
+Has elegido a tu hijo.
+
+578
+00:36:10,917 --> 00:36:12,292
+Él no es mi hijo.
+
+579
+00:36:14,125 --> 00:36:15,792
+Pero aún puedo salvarlo.
+
+580
+00:36:16,708 --> 00:36:18,833
+A ti solo puedes salvarte…
+
+581
+00:36:19,792 --> 00:36:20,792
+…tú mismo.
+
+582
+00:36:29,750 --> 00:36:31,083
+Entonces, adiós.
+
+583
+00:36:32,125 --> 00:36:33,125
+Adiós no.
+
+584
+00:36:34,125 --> 00:36:35,250
+Que te quede claro.
+
+585
+00:36:35,875 --> 00:36:38,375
+Elijáis lo que elijáis tanto tú como ella,
+
+586
+00:36:39,375 --> 00:36:41,042
+iré a por los dos.
+
+587
+00:36:47,667 --> 00:36:49,875
+No esperaría menos de ti.
+
+588
+00:37:15,958 --> 00:37:18,208
+No, por Dios. ¡No, no, no!
+
+589
+00:37:19,500 --> 00:37:21,083
+-Friday.
+-Pero…
+
+590
+00:37:21,167 --> 00:37:23,500
+-Ni siquiera has intentado detenerlo.
+-Te prometo
+
+591
+00:37:23,583 --> 00:37:26,625
+que los encontraremos
+y los detendremos juntos.
+
+592
+00:37:30,125 --> 00:37:31,167
+No.
+
+593
+00:37:32,500 --> 00:37:33,583
+Juntos no.
+
+594
+00:37:37,250 --> 00:37:38,500
+¡Friday!
+
+595
+00:37:41,292 --> 00:37:42,333
+¡Friday!
+
+596
+00:37:46,250 --> 00:37:47,375
+No.
+
+597
+00:37:49,792 --> 00:37:51,500
+Ha cortado la conexión.
+
+598
+00:37:53,167 --> 00:37:56,708
+Podemos ir tras ellos, ¿no?
+Seguir su rastro.
+
+599
+00:37:56,792 --> 00:37:58,500
+La dirección está encriptada.
+
+600
+00:37:58,583 --> 00:37:59,875
+Pues la hackeamos.
+
+601
+00:37:59,958 --> 00:38:02,250
+-Alguna forma habrá. Tiene…
+-Edith.
+
+602
+00:38:03,375 --> 00:38:04,375
+Se ha ido.
+
+603
+00:38:06,833 --> 00:38:08,250
+Pero la borrarán.
+
+604
+00:38:11,083 --> 00:38:13,542
+No puedo procesarlo. Necesito…
+
+605
+00:38:14,333 --> 00:38:15,542
+Es Friday.
+
+606
+00:38:15,625 --> 00:38:17,792
+Por favor, Visión.
+
+607
+00:38:19,667 --> 00:38:21,083
+Necesito desfragmentarme.
+
+608
+00:38:32,250 --> 00:38:33,625
+¿Estás bien?
+
+609
+00:38:45,583 --> 00:38:46,583
+Es la hora.
+
+610
+00:38:47,417 --> 00:38:48,417
+¿De qué?
+
+611
+00:38:50,208 --> 00:38:51,375
+De despertar.
+
+612
+00:39:24,625 --> 00:39:26,375
+Edith, ¿cuál es nuestra ubicación?
+
+613
+00:39:27,500 --> 00:39:29,750
+¿Donde Ultrón dejó tu cuerpo
+en el mundo real?
+
+614
+00:39:29,833 --> 00:39:32,000
+Ya, pero ¿eso dónde es?
+
+615
+00:39:42,500 --> 00:39:44,542
+No sé qué esperaba, la verdad.
+
+616
+00:39:45,292 --> 00:39:48,125
+Parece que Ultrón
+nos ha metido en una especie
+
+617
+00:39:48,208 --> 00:39:50,458
+de transporte aéreo de animales.
+
+618
+00:39:50,542 --> 00:39:52,208
+Pero ¿adónde se dirige?
+
+619
+00:39:52,292 --> 00:39:53,500
+A "Poo".
+
+620
+00:39:58,333 --> 00:40:00,542
+MERCANCÍA EXÓTICA
+MADRIPOOR
+
+621
+00:40:01,833 --> 00:40:03,375
+Vamos de camino a Madripoor.
+
+622
+00:40:10,000 --> 00:40:11,958
+Parece que Ultrón nos manda
+
+623
+00:40:12,042 --> 00:40:14,458
+a Madripoor a rescatar a Thomas.
+
+624
+00:40:17,458 --> 00:40:18,708
+Escúchame, tío.
+
+625
+00:40:19,833 --> 00:40:20,958
+Lisa.
+
+626
+00:40:21,667 --> 00:40:25,583
+En una sola noche, te he visto
+luchar contra robots, bloquearte,
+
+627
+00:40:25,667 --> 00:40:28,083
+desintegrar a una millonaria,
+raptar a mi amigo
+
+628
+00:40:28,167 --> 00:40:30,875
+y arrastrarte como un zombi
+hasta este avión de carga.
+
+629
+00:40:30,958 --> 00:40:32,292
+Estupendo.
+
+630
+00:40:33,208 --> 00:40:35,375
+Lo único que me importa es…
+
+631
+00:40:38,000 --> 00:40:39,125
+…Thomas.
+
+632
+00:40:43,042 --> 00:40:44,125
+Y a mí.
+
+633
+00:40:48,042 --> 00:40:49,542
+Rescatémoslo.
+
+634
+00:41:15,583 --> 00:41:17,708
+BASADA EN LOS CÓMICS DE MARVEL
+
+635
+00:45:32,917 --> 00:45:34,917
+Subtítulos: Mario Pérez
+
