@@ -1,0 +1,2718 @@
+﻿1
+00:00:14,889 --> 00:00:17,017
+♪ <i>Juntos de la mano, todos al fin, </i>♪
+
+2
+00:00:17,600 --> 00:00:22,063
+<i>♪ saltamos riendo sin parar. </i>♪
+
+3
+00:00:22,147 --> 00:00:24,274
+<i>♪ Gira y gira sin parar. </i>♪
+
+4
+00:00:24,357 --> 00:00:26,234
+<i>Diez.</i>
+
+5
+00:00:26,317 --> 00:00:28,361
+¡Dos!
+
+6
+00:00:28,445 --> 00:00:31,072
+¡Me faltan ocho!
+¡Ocho aquí! ¡Rápido!
+
+7
+00:00:31,156 --> 00:00:33,116
+¿Qué haces ahí? ¿No tienes equipo?
+
+8
+00:00:33,199 --> 00:00:35,493
+- Oye, ¿ustedes cuántos son?
+- Somos cuatro.
+
+9
+00:00:35,577 --> 00:00:37,662
+¡Ah! Entonces, seríamos nueve.
+
+10
+00:00:37,746 --> 00:00:40,832
+¿Son cinco? También somos cinco.
+¡Hagamos equipo!
+
+11
+00:00:40,915 --> 00:00:44,961
+¡Señor! ¡Señor! ¡Venga con nosotros!
+¡Somos cinco! ¡Venga!
+
+12
+00:00:47,088 --> 00:00:49,924
+Tenemos que irnos.
+Se nos acaba el tiempo, Gi-hun.
+
+13
+00:00:50,008 --> 00:00:51,259
+¡Nos falta uno!
+
+14
+00:00:52,927 --> 00:00:56,014
+- ¡Ya somos diez!
+-¡A la 44! ¡A la puerta verde!
+
+15
+00:00:56,097 --> 00:00:58,183
+-¡Mamá!
+-¡Corran!
+
+16
+00:00:58,266 --> 00:01:02,145
+¡Mamá! ¡Puerta 44!
+¡Corre! ¡Corre! ¡Entra! ¡Entra! ¡Entra!
+
+17
+00:01:02,228 --> 00:01:04,689
+¡Rápido! ¡Rápido!
+
+18
+00:01:09,694 --> 00:01:11,988
+¡Espera! ¡No dispares, por favor!
+
+19
+00:01:16,576 --> 00:01:20,622
+-¡Por favor, no me mates!
+-No, señor. Señor, por favor…
+
+20
+00:01:31,424 --> 00:01:33,510
+¡Gracias a mí todos ustedes están vivos!
+
+21
+00:01:33,593 --> 00:01:35,470
+Oiga, ¿qué le pasa?
+
+22
+00:01:51,486 --> 00:01:55,615
+Por algo tu vida ha sido
+más larga de lo que dictaba el destino.
+
+23
+00:01:57,700 --> 00:02:01,371
+Y te trajeron a este lugar
+por alguna razón.
+
+24
+00:02:20,390 --> 00:02:22,851
+<i>Los jugadores eliminados son:</i>
+
+25
+00:02:23,434 --> 00:02:24,978
+<i>jugador 013,</i>
+
+26
+00:02:25,061 --> 00:02:26,938
+<i>jugador 043,</i>
+
+27
+00:02:27,021 --> 00:02:28,940
+<i>jugador 049,</i>
+
+28
+00:02:29,023 --> 00:02:30,441
+<i>jugador 054…</i>
+
+29
+00:02:30,525 --> 00:02:32,152
+<i>…jugador 051…</i>
+
+30
+00:02:38,283 --> 00:02:42,996
+EL JUEGO DEL CALAMAR 2
+
+31
+00:02:44,164 --> 00:02:46,166
+♪ <i>Gira y gira sin parar. </i>♪
+
+32
+00:02:46,249 --> 00:02:48,626
+<i>♪ Gira y gira sin parar. </i>♪
+
+33
+00:02:48,710 --> 00:02:53,131
+<i>♪ Demos vueltas sin pausa</i>
+<i>por todo el lugar. </i>♪
+
+34
+00:02:53,214 --> 00:02:55,383
+<i>♪ Hay que aplaudir </i>♪
+
+35
+00:02:55,466 --> 00:02:57,760
+<i>♪ y también cantar. </i>♪
+
+36
+00:02:57,844 --> 00:03:02,307
+<i>♪ ¡Ay, qué divertido que es bailar! </i>♪
+
+37
+00:03:02,390 --> 00:03:04,392
+<i>♪ Tin, tilín, tilín, </i>♪
+
+38
+00:03:04,475 --> 00:03:06,644
+<i>♪ tilín, tilín, tilín. </i>♪
+
+39
+00:03:06,728 --> 00:03:08,938
+<i>♪ Tin, tilín, tilín, </i>♪
+
+40
+00:03:09,022 --> 00:03:11,566
+<i>♪ tilín, tilín, tilín. </i>♪
+
+41
+00:03:11,649 --> 00:03:16,029
+<i>♪ Juntos de la mano, todos al fin, </i>♪
+
+42
+00:03:16,112 --> 00:03:20,575
+<i>♪saltamos riendo sin parar. </i>♪
+
+43
+00:03:20,658 --> 00:03:22,076
+<i>♪ Gira y gira sin parar. </i>♪
+
+44
+00:03:23,536 --> 00:03:24,662
+<i>Cuatro.</i>
+
+45
+00:03:29,083 --> 00:03:29,918
+Hola.
+
+46
+00:03:30,001 --> 00:03:32,337
+- Gyeong-su, ¡adiós!
+-Soy tu fan…
+
+47
+00:03:32,420 --> 00:03:34,923
+-Gyeong-su…
+-¡A correr!
+
+48
+00:03:35,006 --> 00:03:35,965
+Gyeong-su.
+
+49
+00:03:42,138 --> 00:03:44,641
+- Ustedes vayan…
+- No, ve con ellos. Yo buscaré.
+
+50
+00:03:44,724 --> 00:03:48,144
+Vayan. Rápido. ¡Tres personas!
+¡Necesito tres personas!
+
+51
+00:03:48,228 --> 00:03:50,355
+-No tenemos tiempo.
+- Young-il…
+
+52
+00:03:50,438 --> 00:03:51,689
+¡Tres personas!
+
+53
+00:04:01,574 --> 00:04:04,244
+-¿Qué esperas?
+-<i>Diez, nueve,</i>
+
+54
+00:04:04,327 --> 00:04:07,830
+<i>ocho, siete, seis, cinco…</i>
+
+55
+00:04:07,914 --> 00:04:09,791
+- ¡Aquí dos personas!
+- <i>…cuatro, tres…</i>
+
+56
+00:04:09,874 --> 00:04:12,043
+-Gi-hun.
+- <i>…dos, uno.</i>
+
+57
+00:04:19,217 --> 00:04:21,719
+Nam-gyu, ¿qué le va a pasar a Gyeong-su?
+
+58
+00:04:21,803 --> 00:04:23,596
+Vete a la mierda, imbécil.
+
+59
+00:04:24,097 --> 00:04:26,307
+Si vuelves a hablarme
+como si fuera tu amigo,
+
+60
+00:04:26,808 --> 00:04:28,559
+vas a ser el siguiente, ¿oíste?
+
+61
+00:04:29,060 --> 00:04:29,978
+¡Oigan!
+
+62
+00:04:34,524 --> 00:04:36,067
+¿Qué hicieron con Gyeong-su?
+
+63
+00:04:36,651 --> 00:04:37,777
+Respondan rápido.
+
+64
+00:04:41,447 --> 00:04:42,282
+Mierda.
+
+65
+00:04:42,365 --> 00:04:44,200
+¡Gyeong-su!
+
+66
+00:04:53,835 --> 00:04:55,670
+Está bien. No se dieron cuenta.
+
+67
+00:05:01,175 --> 00:05:03,761
+<i>Habitación 33 eliminada.</i>
+
+68
+00:05:12,603 --> 00:05:14,230
+Ay, no, no, no. ¡No, espera!
+
+69
+00:05:58,358 --> 00:05:59,484
+¡Oye, Min-su!
+
+70
+00:06:00,651 --> 00:06:01,944
+¡Ven aquí, pequeño!
+
+71
+00:06:02,028 --> 00:06:02,862
+¡Ven!
+
+72
+00:06:42,151 --> 00:06:44,362
+- ¡Señor Young-il!
+-¡Young-il!
+
+73
+00:06:45,947 --> 00:06:46,781
+¡Gi-hun!
+
+74
+00:06:47,907 --> 00:06:50,368
+-¡Señor!
+-Qué alivio…
+
+75
+00:06:51,369 --> 00:06:53,204
+- Estás vivo.
+- Estoy bien.
+
+76
+00:06:53,287 --> 00:06:55,164
+Sabía que lo lograrías, ¿eh?
+
+77
+00:06:55,248 --> 00:06:58,751
+Desde que te vi, supe que no eras
+un hombre normal.
+
+78
+00:06:58,835 --> 00:07:02,547
+- Young-il, me alegra que estés bien.
+- Soy sociable por naturaleza.
+
+79
+00:07:02,630 --> 00:07:05,341
+Se me dan los juegos como este.
+
+80
+00:07:05,425 --> 00:07:07,301
+¡Ah! Jun-hee, ¿estás bien?
+
+81
+00:07:07,385 --> 00:07:10,596
+Sí, te lo agradezco.
+Me alegra que hayas regresado.
+
+82
+00:07:13,182 --> 00:07:14,600
+Esperen un momento.
+
+83
+00:07:14,684 --> 00:07:16,811
+Si nos piden hacer
+grupos de seis personas,
+
+84
+00:07:16,894 --> 00:07:18,938
+¿no estaríamos completos ya?
+
+85
+00:07:20,648 --> 00:07:21,482
+¿Por qué?
+
+86
+00:07:22,900 --> 00:07:24,652
+¡Ah! ¿Por el bebé?
+
+87
+00:07:25,736 --> 00:07:28,656
+¡Ah!¡Qué gran broma!
+
+88
+00:07:30,491 --> 00:07:32,994
+Es cierto.
+Pero ¿y si son gemelos?
+
+89
+00:07:33,077 --> 00:07:35,997
+Pues seríamos siete.
+
+90
+00:07:40,251 --> 00:07:44,714
+<i>Jugadores, por favor,</i>
+<i>suban otra vez a la plataforma central.</i>
+
+91
+00:07:50,511 --> 00:07:51,554
+Comiencen.
+
+92
+00:07:55,850 --> 00:07:57,768
+♪ <i>Gira y gira sin parar. </i>♪
+
+93
+00:07:57,852 --> 00:08:00,062
+♪ <i>Gira y gira sin parar. </i>♪
+
+94
+00:08:00,146 --> 00:08:04,775
+<i>♪ Demos vueltas sin pausa</i>
+<i>por todo el lugar. </i>♪
+
+95
+00:08:04,859 --> 00:08:07,069
+<i>♪ Hay que aplaudir </i>♪
+
+96
+00:08:07,153 --> 00:08:09,405
+<i>♪ y también cantar. </i>♪
+
+97
+00:08:09,489 --> 00:08:11,365
+<i>Tres.</i>
+
+98
+00:08:13,493 --> 00:08:14,785
+¿Qué hacemos?
+
+99
+00:08:14,869 --> 00:08:18,831
+- En parejas y encontremos a otro.
+-Sí. Vayan. Hay que seguir.
+
+100
+00:08:19,332 --> 00:08:21,542
+- ¿A quién escoges?
+- Piedra, papel o tijera.
+
+101
+00:08:21,626 --> 00:08:23,461
+- ¡Jueguen!
+- Hay que irnos juntos.
+
+102
+00:08:26,172 --> 00:08:28,925
+Piedra, papel o tijera,
+o eres un perdedor.
+
+103
+00:08:31,344 --> 00:08:33,721
+Min-su, ganaste.
+
+104
+00:08:33,804 --> 00:08:35,640
+- Usó tijeras.
+-¡Ganaste!
+
+105
+00:08:36,432 --> 00:08:38,392
+- ¿Qué esperas?
+-¡Rápido!
+
+106
+00:08:38,476 --> 00:08:41,145
+-Vayan ustedes. ¡Rápido!
+-Vayan.
+
+107
+00:08:41,229 --> 00:08:42,813
+- ¡Una persona!
+- ¡Uno más!
+
+108
+00:08:42,897 --> 00:08:45,942
+- Necesitamos uno.
+-Una persona más. ¿Alguien?
+
+109
+00:08:46,025 --> 00:08:49,529
+-¡Necesitamos uno! ¿Alguien?
+-¡Vendrás con nosotros!
+
+110
+00:08:50,112 --> 00:08:52,532
+¡Solo vas a venir tú con nosotros!
+
+111
+00:08:52,615 --> 00:08:54,075
+¡Pero estoy con mi mamá!
+
+112
+00:08:54,784 --> 00:08:56,285
+¡Rápido! ¡Vámonos!
+
+113
+00:08:56,369 --> 00:08:57,745
+¡Mamá!
+
+114
+00:09:12,969 --> 00:09:14,804
+¡Ya vienen! ¡Ya vienen!
+
+115
+00:09:18,891 --> 00:09:21,060
+<i>Los jugadores eliminados son:</i>
+
+116
+00:09:21,644 --> 00:09:23,187
+<i>jugador 034,</i>
+
+117
+00:09:23,271 --> 00:09:24,897
+<i>jugador 038,</i>
+
+118
+00:09:24,981 --> 00:09:26,649
+<i>jugador 104,</i>
+
+119
+00:09:26,732 --> 00:09:28,568
+<i>jugadora 109,</i>
+
+120
+00:09:28,651 --> 00:09:30,486
+<i>jugador 291,</i>
+
+121
+00:09:30,570 --> 00:09:32,196
+<i>jugador 309,</i>
+
+122
+00:09:32,280 --> 00:09:34,490
+<i>jugadora 335,</i>
+
+123
+00:09:34,574 --> 00:09:36,701
+<i>jugador 345,</i>
+
+124
+00:09:36,784 --> 00:09:37,618
+<i>jugador…</i>
+
+125
+00:09:37,702 --> 00:09:39,161
+¿Se encuentra bien, señora?
+
+126
+00:09:39,245 --> 00:09:41,414
+<i>…jugador 365,</i>
+
+127
+00:09:41,497 --> 00:09:42,999
+<i>jugadora 368…</i>
+
+128
+00:09:43,082 --> 00:09:46,502
+¡Ah! Sí, sí. Se lo agradezco.
+
+129
+00:09:46,586 --> 00:09:49,005
+Ustedes dos me salvaron la vida.
+
+130
+00:09:49,088 --> 00:09:50,798
+Oiga, ¿y adónde fue su hijo?
+
+131
+00:09:50,881 --> 00:09:52,675
+<i>…jugadora 430…</i>
+
+132
+00:09:52,758 --> 00:09:53,676
+¿Quién?
+
+133
+00:09:53,759 --> 00:09:55,177
+¿No estaba con usted?
+
+134
+00:09:55,261 --> 00:09:57,096
+<i>…eliminados.</i>
+
+135
+00:09:57,179 --> 00:09:58,472
+¡Ah!
+
+136
+00:09:58,556 --> 00:10:02,226
+Mi hijo. Eh… sí, sin querer nos separamos.
+
+137
+00:10:02,310 --> 00:10:07,189
+Él me dijo que traería a una persona más
+y me pidió que lo esperara,
+
+138
+00:10:07,273 --> 00:10:09,483
+pero luego me desorienté y…
+
+139
+00:10:09,567 --> 00:10:11,193
+¿Y él no la buscó?
+
+140
+00:10:19,910 --> 00:10:21,579
+Déjeme decirle algo.
+
+141
+00:10:21,662 --> 00:10:23,414
+Él no es esa clase de persona.
+
+142
+00:10:24,040 --> 00:10:27,293
+Aunque no tengamos dinero,
+en el fondo es un buen hombre.
+
+143
+00:10:27,835 --> 00:10:30,212
+Otros se han aprovechado de él por idiota,
+
+144
+00:10:30,296 --> 00:10:33,132
+pero él jamás se ha aprovechado
+de nadie en toda su vida.
+
+145
+00:10:33,215 --> 00:10:35,384
+¡Así que no piense mal de mi hijo!
+
+146
+00:10:36,802 --> 00:10:37,762
+Disculpe.
+
+147
+00:10:37,845 --> 00:10:39,430
+No fue mi intención.
+
+148
+00:10:50,399 --> 00:10:52,360
+Ya volvimos, amigos míos.
+
+149
+00:10:52,902 --> 00:10:53,736
+Sí.
+
+150
+00:11:15,383 --> 00:11:16,926
+¡Por aquí, señora!
+
+151
+00:11:17,009 --> 00:11:19,345
+¡Ah! ¡Young-mi!
+¡Gracias al cielo!
+
+152
+00:11:19,428 --> 00:11:21,138
+¡Me alegra saber que están bien!
+
+153
+00:11:21,222 --> 00:11:24,100
+- ¡Ah! ¿Cómo están? ¿No se lastimaron?
+-No.
+
+154
+00:11:25,017 --> 00:11:26,811
+Él fue quien nos ayudó.
+
+155
+00:11:26,894 --> 00:11:31,607
+Se estaba acabando el tiempo
+cuando de repente apareció 246.
+
+156
+00:11:31,691 --> 00:11:35,528
+- ¡Como caballero en un cuento de hadas!
+- Gracias, señor. Es un caballero.
+
+157
+00:11:35,611 --> 00:11:37,488
+Se lo agradezco mucho.
+
+158
+00:11:37,571 --> 00:11:41,659
+No me agradezca.
+Ellas fueron quienes me salvaron a mí.
+
+159
+00:11:41,742 --> 00:11:42,868
+¿Dónde está Yong-sik?
+
+160
+00:11:44,078 --> 00:11:44,954
+Mamá…
+
+161
+00:11:57,174 --> 00:11:59,844
+Estoy bien. Estoy viva. Sigo aquí.
+
+162
+00:12:00,845 --> 00:12:02,763
+Dime, ¿tú estás bien? ¿Eh?
+
+163
+00:12:03,973 --> 00:12:05,015
+Mamá…
+
+164
+00:12:06,726 --> 00:12:07,560
+Yo…
+
+165
+00:12:09,478 --> 00:12:11,981
+Yo…
+
+166
+00:12:12,064 --> 00:12:14,525
+-Ma, perdóname.
+- No, no, no.
+
+167
+00:12:14,608 --> 00:12:17,361
+- Ya, no llores…
+- Mamá, perdóname.
+
+168
+00:12:17,987 --> 00:12:19,655
+Los dos estamos vivos.
+
+169
+00:12:19,739 --> 00:12:21,949
+- Perdóname, mamá.
+- No llores. Está bien.
+
+170
+00:12:22,032 --> 00:12:25,453
+- Estás vivo. Yo estoy viva. Ya.
+- Mamá…
+
+171
+00:12:25,536 --> 00:12:28,581
+Mamá…
+
+172
+00:12:28,664 --> 00:12:29,915
+¿Qué pasó?
+
+173
+00:12:43,637 --> 00:12:45,681
+<i>♪ Gira y gira sin parar. </i>♪
+
+174
+00:12:45,765 --> 00:12:48,142
+<i>♪ Gira y gira sin parar. </i>♪
+
+175
+00:12:48,225 --> 00:12:52,229
+<i>♪ Demos vueltas sin pausa</i>
+<i>por todo el lugar. </i>♪
+
+176
+00:12:52,313 --> 00:12:54,190
+<i>Seis.</i>
+
+177
+00:12:54,273 --> 00:12:56,776
+Cuatro mujeres, dos hombres.
+
+178
+00:12:56,859 --> 00:12:58,861
+- ¿Quién?
+- Mi madre va conmigo.
+
+179
+00:12:58,944 --> 00:13:00,446
+¡Yo voy con ustedes!
+
+180
+00:13:00,529 --> 00:13:04,033
+Seis personas. Corran, ¡ya!
+¡Aquí necesitamos a dos!
+
+181
+00:13:04,116 --> 00:13:05,159
+¡A esa!
+
+182
+00:13:09,789 --> 00:13:12,583
+- ¡Largo! ¡Váyanse!
+-¡Sálganse!
+
+183
+00:13:12,666 --> 00:13:15,085
+¡Aquí! ¡Vengan!
+
+184
+00:13:15,669 --> 00:13:17,755
+<i>Diez…</i>
+
+185
+00:13:17,838 --> 00:13:19,131
+<i>…nueve…</i>
+
+186
+00:13:20,216 --> 00:13:22,468
+<i>…ocho…</i>
+
+187
+00:13:23,427 --> 00:13:26,305
+<i>…siete, seis, cinco…</i>
+
+188
+00:13:26,388 --> 00:13:27,473
+- ¿Young-mi?
+- ¡Ayuda!
+
+189
+00:13:27,556 --> 00:13:29,266
+<i>…cuatro, tres…</i>
+
+190
+00:13:29,350 --> 00:13:32,269
+- ¡Young-mi!
+- <i>…dos, uno.</i>
+
+191
+00:13:36,816 --> 00:13:38,359
+Hyun-ju…
+
+192
+00:13:38,442 --> 00:13:40,110
+¡Young-mi! ¡Young-mi!
+
+193
+00:13:40,194 --> 00:13:43,656
+-Hyun-ju…
+- ¡Young-mi! ¡No te voy a dejar afuera!
+
+194
+00:13:43,739 --> 00:13:45,199
+¡Young-mi!
+
+195
+00:13:48,077 --> 00:13:49,954
+No, no…
+
+196
+00:13:51,705 --> 00:13:52,706
+Young-mi…
+
+197
+00:13:53,374 --> 00:13:55,835
+¡No! ¡Young-mi!
+
+198
+00:13:55,918 --> 00:13:59,004
+-No puede ser. ¡Young-mi!
+-¡Young-mi!
+
+199
+00:13:59,088 --> 00:14:03,759
+¡Young-mi! ¡No puede ser!
+
+200
+00:14:03,843 --> 00:14:05,678
+Es tu culpa.
+
+201
+00:14:07,346 --> 00:14:10,766
+Claro que no es mi culpa.
+Si no fuera por mí, no estarías aquí.
+
+202
+00:14:10,850 --> 00:14:14,395
+¡Tú la mataste!
+¡Ella seguiría aquí de no ser por ti!
+
+203
+00:14:14,478 --> 00:14:17,815
+¡Ya no había tiempo! ¡Entiéndelo!
+¡Habrías muerto cuando saliste!
+
+204
+00:14:17,898 --> 00:14:22,611
+¡Entonces todos también habrían muerto
+porque les hubiera faltado un jugador!
+
+205
+00:14:23,279 --> 00:14:25,739
+¡Así que todos estamos vivos gracias a mí!
+
+206
+00:14:26,407 --> 00:14:29,618
+¿Están de acuerdo?
+¡Díganme que no es cierto!
+
+207
+00:14:29,702 --> 00:14:31,078
+¡Abran la puta boca!
+
+208
+00:14:33,831 --> 00:14:34,832
+Es cierto.
+
+209
+00:14:36,584 --> 00:14:38,335
+Es verdad lo que dice.
+
+210
+00:14:40,671 --> 00:14:41,922
+Tienes razón.
+
+211
+00:14:42,840 --> 00:14:44,133
+Ya no había tiempo.
+
+212
+00:15:20,169 --> 00:15:21,211
+Gracias.
+
+213
+00:15:22,963 --> 00:15:24,298
+Ni te emociones.
+
+214
+00:15:24,924 --> 00:15:26,759
+Lo que pasó fue pura suerte.
+
+215
+00:15:51,325 --> 00:15:54,870
+<i>Ahora vamos a comenzar</i>
+<i>con la última ronda del juego.</i>
+
+216
+00:15:56,080 --> 00:15:58,123
+♪ <i>Gira y gira sin parar. </i>♪
+
+217
+00:15:58,207 --> 00:16:00,542
+♪ <i>Gira y gira sin parar. </i>♪
+
+218
+00:16:00,626 --> 00:16:02,753
+¿Qué número crees
+que van a anunciar ahora?
+
+219
+00:16:03,921 --> 00:16:05,047
+El dos.
+
+220
+00:16:05,130 --> 00:16:06,799
+¿Por qué dos?
+
+221
+00:16:06,882 --> 00:16:10,552
+Somos 126 todavía y hay 50 habitaciones.
+
+222
+00:16:10,636 --> 00:16:14,181
+No hay espacio para más de cien personas,
+aunque formen equipos de dos.
+
+223
+00:16:14,264 --> 00:16:18,477
+Sobrevivirán los primeros que lleguen.
+
+224
+00:16:22,648 --> 00:16:25,442
+<i>Dos.</i>
+
+225
+00:16:25,526 --> 00:16:28,529
+Gi-hun.
+
+226
+00:16:30,155 --> 00:16:31,615
+¡Vámonos!
+
+227
+00:16:31,699 --> 00:16:32,700
+¡Corre!
+
+228
+00:16:33,200 --> 00:16:34,994
+¡Brrr!
+
+229
+00:17:37,014 --> 00:17:39,099
+¡Uh!
+
+230
+00:17:46,899 --> 00:17:49,443
+¡Ah! ¡Oye! ¡Suéltame!
+
+231
+00:17:50,736 --> 00:17:52,571
+¡Entra!
+
+232
+00:17:57,201 --> 00:17:59,286
+- Sal.
+- Nosotros llegamos primero.
+
+233
+00:17:59,995 --> 00:18:02,790
+¡Abran, malditos! ¡Llegué primero!
+
+234
+00:18:02,873 --> 00:18:04,792
+-<i>Diez, nueve…</i>
+- Perdón.
+
+235
+00:18:04,875 --> 00:18:07,836
+<i>…ocho, siete, seis,</i>
+
+236
+00:18:07,920 --> 00:18:10,589
+<i>cinco, cuatro, tres…</i>
+
+237
+00:18:10,672 --> 00:18:12,591
+<i>…dos, uno.</i>
+
+238
+00:18:16,303 --> 00:18:18,972
+<i>Terminó el tercer juego.</i>
+
+239
+00:18:45,624 --> 00:18:47,543
+Ayuda…
+
+240
+00:19:15,904 --> 00:19:19,158
+Cuando volvamos,
+contemos cuántas personas quedan.
+
+241
+00:19:20,409 --> 00:19:21,285
+¿Por qué?
+
+242
+00:19:22,119 --> 00:19:26,874
+Porque así veremos quién tiene ventaja
+en las próximas votaciones.
+
+243
+00:19:26,957 --> 00:19:28,917
+Contemos los círculos y las equis.
+
+244
+00:19:30,169 --> 00:19:32,921
+Espero que hayan muerto más
+del lado el círculo.
+
+245
+00:19:43,182 --> 00:19:44,183
+Oye…
+
+246
+00:19:44,725 --> 00:19:46,560
+¿Qué dices que es esa cosa?
+
+247
+00:19:46,643 --> 00:19:48,395
+Esa cosa es un dron.
+
+248
+00:19:48,937 --> 00:19:51,190
+¿"Drong"? Ay, es muy bonito.
+
+249
+00:19:51,773 --> 00:19:54,943
+Antes solo buscábamos con los binoculares.
+
+250
+00:19:55,027 --> 00:19:57,696
+Teníamos que subir a pie
+y buscar solos en la isla.
+
+251
+00:19:57,779 --> 00:19:59,781
+Pero con esa cosa es más fácil.
+
+252
+00:19:59,865 --> 00:20:00,949
+Vuela más bajo.
+
+253
+00:20:01,033 --> 00:20:03,452
+Saben de nosotros.
+Seguro se escondieron mejor.
+
+254
+00:20:03,535 --> 00:20:04,369
+Sí.
+
+255
+00:20:09,166 --> 00:20:12,961
+Pero, si en dos años que los buscaste
+no los encontraste,
+
+256
+00:20:13,045 --> 00:20:14,671
+¿podremos encontrarlos en días?
+
+257
+00:20:14,755 --> 00:20:17,049
+Puedo limitar el rango de nuestra búsqueda
+
+258
+00:20:17,633 --> 00:20:19,259
+excluyendo donde ya busqué.
+
+259
+00:20:19,968 --> 00:20:21,887
+Podremos hacerlo si el clima coopera.
+
+260
+00:20:21,970 --> 00:20:26,016
+Sí, tenemos el barco del capitán Ko
+y también el "drong".
+
+261
+00:20:26,558 --> 00:20:29,895
+- No, capitán. Se dice "dron", no "drong".
+- Como sea.
+
+262
+00:20:41,740 --> 00:20:43,200
+¡El pequeño Min-su!
+
+263
+00:20:45,911 --> 00:20:48,538
+¡Me da mucho gusto
+volver a verte, hermanito!
+
+264
+00:20:49,331 --> 00:20:52,918
+Oye, Min-su, estaba preocupado por ti.
+
+265
+00:20:53,669 --> 00:20:55,420
+Creí que te había tomado la mano,
+
+266
+00:20:55,504 --> 00:20:57,547
+pero, en cuanto volteé,
+
+267
+00:20:58,048 --> 00:20:59,466
+vi a este pendejo.
+
+268
+00:20:59,549 --> 00:21:02,511
+Dije que este estúpido no iba a morir.
+Es una mierdita.
+
+269
+00:21:02,594 --> 00:21:06,181
+Se-mi tenía su mano,
+pero de repente la cortó con las tijeras.
+
+270
+00:21:06,265 --> 00:21:08,684
+Y yo dije: "Guau… ¿De verdad hizo eso?".
+
+271
+00:21:08,767 --> 00:21:11,061
+¿Eh? Fue jodidamente espeluznante.
+
+272
+00:21:11,144 --> 00:21:14,481
+- Hay que jugar un juego más, ¿okey?
+-¿Sí vas a jugar?
+
+273
+00:21:19,403 --> 00:21:20,862
+¿De qué quieres hablar?
+
+274
+00:21:20,946 --> 00:21:21,947
+Que sea rápido.
+
+275
+00:21:22,656 --> 00:21:23,490
+Jun-hee…
+
+276
+00:21:24,491 --> 00:21:27,244
+Cuando salgamos, quiero estar contigo.
+
+277
+00:21:28,036 --> 00:21:28,912
+Ah, ¿sí?
+
+278
+00:21:29,955 --> 00:21:31,206
+¿Como por qué?
+
+279
+00:21:31,290 --> 00:21:33,292
+Te pido otra oportunidad.
+
+280
+00:21:34,501 --> 00:21:37,462
+Criemos al bebé juntos
+y empecemos de cero.
+
+281
+00:21:40,757 --> 00:21:42,968
+Conté a las personas que aún quedan aquí
+
+282
+00:21:43,051 --> 00:21:45,971
+y hay como 300 o 400 millones
+por cada una.
+
+283
+00:21:46,054 --> 00:21:47,764
+Con eso muchos van a querer salir.
+
+284
+00:21:48,348 --> 00:21:49,850
+Podemos ganar la votación.
+
+285
+00:21:51,351 --> 00:21:52,352
+Si salimos,
+
+286
+00:21:53,770 --> 00:21:54,813
+¿cuál es tu plan?
+
+287
+00:21:56,189 --> 00:22:00,360
+Todo el dinero que juntemos entre tú y yo
+lo usaría para pagar mis deudas
+
+288
+00:22:00,444 --> 00:22:03,572
+y después buscaría
+dónde poder invertir el resto del dinero.
+
+289
+00:22:06,074 --> 00:22:08,118
+No volveré a invertir en criptos.
+
+290
+00:22:08,201 --> 00:22:10,871
+Conozco a un equipo
+en el mundo de las acciones.
+
+291
+00:22:10,954 --> 00:22:13,707
+Están especializados
+en inversiones y futuros,
+
+292
+00:22:13,790 --> 00:22:16,543
+y sus rendimientos superaron el 100 %.
+
+293
+00:22:17,461 --> 00:22:19,421
+Solamente quieres mi dinero.
+
+294
+00:22:20,464 --> 00:22:23,717
+- Es lo único que te interesa.
+- No digas eso, Jun-hee.
+
+295
+00:22:24,426 --> 00:22:26,887
+Quiero ganar mucho dinero y así nosotros…
+
+296
+00:22:26,970 --> 00:22:28,096
+¿Mucho dinero?
+
+297
+00:22:29,097 --> 00:22:30,640
+¿Cuánto es mucho para ti?
+
+298
+00:22:30,724 --> 00:22:31,558
+¿Qué?
+
+299
+00:22:34,144 --> 00:22:36,521
+Tú tienes que pagar tus propias deudas.
+
+300
+00:22:37,856 --> 00:22:40,025
+Usaré mi dinero para criar a mi hijo.
+
+301
+00:22:43,737 --> 00:22:44,571
+Jun-hee…
+
+302
+00:22:45,864 --> 00:22:48,784
+♪ <i>¡Min-su,</i>
+<i>Nam-su, Gyeong-su, Thano-su! </i>♪
+
+303
+00:22:48,867 --> 00:22:51,620
+Oye, oye, oye. Mira por allá.
+
+304
+00:22:51,703 --> 00:22:54,706
+No es lo que piensas.
+Realmente quiero construir…
+
+305
+00:22:54,790 --> 00:22:56,833
+- ¿Pasa algo?
+- Creo que hay algo ahí.
+
+306
+00:22:57,584 --> 00:22:58,585
+¿En serio?
+
+307
+00:22:58,668 --> 00:23:01,254
+¿Consiguió una novia? ¡Qué perro mi amigo!
+
+308
+00:23:06,051 --> 00:23:08,929
+No estés triste.
+
+309
+00:23:09,012 --> 00:23:13,600
+Después de todo, muy pronto serás
+su compañera en la otra vida.
+
+310
+00:23:16,561 --> 00:23:19,898
+Todos ustedes están malditos.
+
+311
+00:23:21,400 --> 00:23:24,861
+Recé fervientemente a los dioses
+del Cielo y de la Tierra…
+
+312
+00:23:24,945 --> 00:23:28,615
+…para que mueran en este lugar.
+
+313
+00:23:29,366 --> 00:23:32,744
+Juro que cada uno de ustedes
+morirá como se merece.
+
+314
+00:23:33,995 --> 00:23:36,623
+Así que ninguno de ustedes
+va a salir con vida.
+
+315
+00:23:37,791 --> 00:23:40,544
+Todos van a tener una muerte dolorosa…
+
+316
+00:23:41,503 --> 00:23:44,589
+…y morirán mirándose a los ojos.
+
+317
+00:23:48,051 --> 00:23:49,886
+Mm…
+
+318
+00:23:55,475 --> 00:23:56,351
+¿Qué?
+
+319
+00:23:57,686 --> 00:24:01,148
+¡Ja! Ella no es una chamana,
+
+320
+00:24:01,231 --> 00:24:04,526
+sino que es una perra loca.
+
+321
+00:24:04,609 --> 00:24:05,694
+Qué horror…
+
+322
+00:24:09,364 --> 00:24:11,158
+Límpiense, límpiense…
+
+323
+00:24:12,492 --> 00:24:15,787
+Gi-hun, 55 votaron por círculo.
+
+324
+00:24:15,871 --> 00:24:17,038
+¿Estás seguro?
+
+325
+00:24:17,122 --> 00:24:18,331
+Conté dos veces.
+
+326
+00:24:18,415 --> 00:24:20,625
+¿Y usted, señor? ¿También se contó?
+
+327
+00:24:22,711 --> 00:24:24,004
+Conmigo son 56.
+
+328
+00:24:24,087 --> 00:24:25,714
+Ay, carajo…
+
+329
+00:24:26,298 --> 00:24:29,009
+De equis somos 44, 12 menos.
+
+330
+00:24:29,509 --> 00:24:32,095
+Ay, significa que va a ser difícil ganar…
+
+331
+00:24:32,846 --> 00:24:34,639
+Parece una gran diferencia,
+
+332
+00:24:35,182 --> 00:24:38,560
+pero solo si seis cambian de opinión
+estaríamos igual.
+
+333
+00:24:39,436 --> 00:24:42,189
+Si siete cambian de opinión,
+podríamos ganar.
+
+334
+00:24:42,272 --> 00:24:45,942
+Y también los que votaron por la equis
+podrían votar por el círculo.
+
+335
+00:24:46,026 --> 00:24:49,696
+Es poco probable que ellos
+cambien de opinión y voten por el círculo.
+
+336
+00:24:49,779 --> 00:24:50,780
+¿Por qué?
+
+337
+00:24:51,990 --> 00:24:55,243
+Porque querían salir
+aunque el dinero del premio fuera poco.
+
+338
+00:24:55,744 --> 00:24:58,079
+Así que, ahora que pueden irse
+con más dinero,
+
+339
+00:24:58,663 --> 00:25:01,833
+no van a querer arriesgar sus vidas
+jugando a otro juego.
+
+340
+00:25:01,917 --> 00:25:03,793
+Y, como yo voy a votar por la equis,
+
+341
+00:25:03,877 --> 00:25:06,838
+estaremos empatados
+si cinco cambian su voto,
+
+342
+00:25:06,922 --> 00:25:08,089
+y así podremos ganar.
+
+343
+00:25:08,673 --> 00:25:11,468
+Vayamos entonces
+con los que tengan círculo
+
+344
+00:25:11,551 --> 00:25:12,928
+y tratemos de persuadirlos.
+
+345
+00:25:13,011 --> 00:25:14,054
+No, es peligroso.
+
+346
+00:25:14,679 --> 00:25:18,642
+Estoy muy seguro de que hay personas
+que intentarán seguir jugando los juegos.
+
+347
+00:25:18,725 --> 00:25:22,145
+Y, si nos metemos,
+no se van a quedar quietos jamás.
+
+348
+00:25:22,229 --> 00:25:24,064
+Entonces, ¿qué propones?
+
+349
+00:25:24,898 --> 00:25:27,651
+¿Que nos quedemos
+y recemos para que cambien de opinión?
+
+350
+00:25:29,236 --> 00:25:30,695
+¿Y si volvemos a perder?
+
+351
+00:25:30,779 --> 00:25:34,074
+¿Nos tomamos de la mano
+y juntos nos vamos a jugar de nuevo?
+
+352
+00:25:34,157 --> 00:25:35,700
+Te entiendo perfecto, Gi-hun.
+
+353
+00:25:36,535 --> 00:25:38,662
+También me gustaría irme lo antes posible.
+
+354
+00:25:39,579 --> 00:25:42,249
+Pero tenemos que mantener la calma.
+
+355
+00:25:42,916 --> 00:25:44,334
+¿Mantener la calma?
+
+356
+00:25:44,417 --> 00:25:47,003
+Ya hemos pasado
+por dos votaciones hasta ahora.
+
+357
+00:25:48,004 --> 00:25:49,673
+Si no los convencemos,
+
+358
+00:25:49,756 --> 00:25:52,801
+tomémoslos del cuello
+y arrastrémoslos para que voten.
+
+359
+00:25:52,884 --> 00:25:54,636
+Si provocas a esas personas,
+
+360
+00:25:54,719 --> 00:25:57,597
+podría haber un conflicto
+justo antes de votar.
+
+361
+00:25:57,681 --> 00:25:59,307
+¿Eso es lo que quieres? Dime.
+
+362
+00:26:05,021 --> 00:26:05,981
+Tiene razón.
+
+363
+00:26:06,856 --> 00:26:09,192
+Estoy seguro de que hay
+más jugadores como yo
+
+364
+00:26:09,276 --> 00:26:11,861
+que están demasiado asustados
+para seguir jugando.
+
+365
+00:26:12,362 --> 00:26:15,782
+Oigan, bueno,
+creo que vale la pena arriesgarnos
+
+366
+00:26:15,865 --> 00:26:19,077
+si necesitamos
+solo a cinco o seis personas.
+
+367
+00:26:19,160 --> 00:26:22,581
+El dinero es más de 300 millones
+según mis cálculos.
+
+368
+00:26:22,664 --> 00:26:25,417
+Teniéndolo en cuenta,
+tenemos posibilidades de ganar.
+
+369
+00:26:36,469 --> 00:26:37,679
+Jugadores, una vez más,
+
+370
+00:26:37,762 --> 00:26:40,390
+los que están aquí
+han logrado ganar el tercer juego.
+
+371
+00:26:40,473 --> 00:26:41,933
+Muchas felicidades a todos.
+
+372
+00:26:42,517 --> 00:26:46,646
+Bien, ahora permítanme anunciarles
+el resultado del tercer juego.
+
+373
+00:26:56,531 --> 00:26:59,159
+Espera. Vuelve a la zona
+que acabas de pasar.
+
+374
+00:26:59,242 --> 00:27:00,076
+Sí.
+
+375
+00:27:04,581 --> 00:27:07,459
+- Hay algo en el suelo, en los árboles.
+-¿Qué?
+
+376
+00:27:07,542 --> 00:27:09,502
+¿Será una puerta? Baja un poco más.
+
+377
+00:27:11,588 --> 00:27:13,298
+No puedo por los árboles.
+
+378
+00:27:13,381 --> 00:27:15,008
+Tendremos que subir nosotros.
+
+379
+00:27:17,344 --> 00:27:18,803
+¡Todos a prepararse!
+
+380
+00:27:20,096 --> 00:27:21,765
+356 millones.
+
+381
+00:27:21,848 --> 00:27:25,935
+Con esa cantidad, seguro que algunos
+van a cambiar de opinión.
+
+382
+00:27:27,020 --> 00:27:28,521
+Necesitamos seis personas.
+
+383
+00:27:29,105 --> 00:27:30,607
+Si son siete, ya está.
+
+384
+00:27:30,690 --> 00:27:34,861
+Esta vez, la votación
+se va a volver a hacer en orden inverso.
+
+385
+00:27:34,944 --> 00:27:38,239
+Jugador 456, por favor, pase.
+
+386
+00:27:39,991 --> 00:27:43,244
+Para garantizar
+una votación justa y democrática,
+
+387
+00:27:43,328 --> 00:27:47,374
+a partir de este momento, queda prohibido
+cualquier tipo de acto violento.
+
+388
+00:27:48,500 --> 00:27:50,210
+Queremos que tengan eso en cuenta.
+
+389
+00:28:16,945 --> 00:28:19,114
+Jugador 388.
+
+390
+00:28:22,283 --> 00:28:24,703
+Ya solo faltan seis personas.
+
+391
+00:28:31,042 --> 00:28:32,836
+Jugadora 380.
+
+392
+00:28:36,464 --> 00:28:37,465
+Cinco personas.
+
+393
+00:28:45,014 --> 00:28:48,226
+- Jugador 377.
+-Hija de su puta madre…
+
+394
+00:28:52,772 --> 00:28:53,982
+Número 011,
+
+395
+00:28:54,858 --> 00:28:57,569
+si hubieras cooperado
+y hecho lo que se te pidió,
+
+396
+00:28:57,652 --> 00:29:00,071
+no habrías terminado dañando
+esa cara bonita.
+
+397
+00:29:00,155 --> 00:29:01,698
+Así que haz tu trabajo.
+
+398
+00:29:25,013 --> 00:29:26,473
+Jugador 230.
+
+399
+00:29:36,357 --> 00:29:40,111
+¡Sí se puede! ¡Círculo!
+
+400
+00:29:54,334 --> 00:29:56,669
+¡Oh! Solo cuatro más.
+
+401
+00:29:56,753 --> 00:29:58,463
+Si cuatro votan, ganamos.
+
+402
+00:29:58,546 --> 00:30:00,215
+Jugadora 149.
+
+403
+00:30:01,424 --> 00:30:03,301
+Si vuelves a hacer una estupidez,
+
+404
+00:30:03,384 --> 00:30:05,720
+juro por los dioses
+que me vas a ver ahorcarme.
+
+405
+00:30:05,804 --> 00:30:06,679
+Sí, sí, ve.
+
+406
+00:30:13,853 --> 00:30:15,396
+Jugador 145.
+
+407
+00:30:20,693 --> 00:30:21,778
+Min-su.
+
+408
+00:30:22,445 --> 00:30:23,363
+Un juego más.
+
+409
+00:30:23,446 --> 00:30:26,157
+Thanos, ya está resuelto entre él y yo.
+
+410
+00:30:26,699 --> 00:30:28,201
+Es un pacto de amigos.
+
+411
+00:30:28,284 --> 00:30:29,577
+Un juego más y adiós.
+
+412
+00:30:32,163 --> 00:30:33,665
+Jugador 125.
+
+413
+00:30:34,165 --> 00:30:37,043
+Ya quedamos, Min-su.
+Hazlo, hazlo, hazlo, hazlo…
+
+414
+00:30:57,021 --> 00:31:00,775
+Solo tres personas. Tres personas y ya.
+
+415
+00:31:05,738 --> 00:31:07,490
+Jugador 124.
+
+416
+00:31:19,252 --> 00:31:20,837
+Jugadora 120.
+
+417
+00:31:32,181 --> 00:31:35,393
+¡Solo dos más!
+
+418
+00:31:35,476 --> 00:31:36,811
+Jugador 119.
+
+419
+00:31:36,895 --> 00:31:40,481
+Dos más. Solo dos más.
+Dos más, dos más. Solo dos, solo dos.
+
+420
+00:32:45,838 --> 00:32:48,549
+- Señor, creo que conduce bajo tierra.
+- Revisa.
+
+421
+00:33:05,149 --> 00:33:06,693
+Jugador 015.
+
+422
+00:33:20,748 --> 00:33:23,459
+-¡También cambió su voto!
+-¡Oh!
+
+423
+00:33:23,543 --> 00:33:25,545
+- Okey.
+-Cambió por la equis.
+
+424
+00:33:25,628 --> 00:33:27,296
+¡Es la sexta persona!
+
+425
+00:33:28,089 --> 00:33:30,925
+Entonces, ¿quiere decir
+que nos vamos a ir?
+
+426
+00:33:31,884 --> 00:33:33,177
+Jugadora 009.
+
+427
+00:33:47,358 --> 00:33:50,445
+Oigan, no se preocupen.
+Ella ya había votado por círculo.
+
+428
+00:33:50,528 --> 00:33:51,738
+Jugador 007.
+
+429
+00:33:59,787 --> 00:34:02,415
+Oiga, su hijo va a votar
+por la equis, ¿cierto?
+
+430
+00:34:02,498 --> 00:34:03,958
+Por supuesto.
+
+431
+00:34:04,042 --> 00:34:07,754
+Mi Yong-sik en definitiva
+esta vez votará por la equis.
+
+432
+00:34:10,006 --> 00:34:12,341
+¡Lo cambió! ¡Lo sabía! ¡Lo hizo!
+
+433
+00:34:12,425 --> 00:34:13,760
+¡Lo hizo!
+
+434
+00:34:15,595 --> 00:34:19,098
+- ¡Ya vámonos de aquí!
+- ¡Sí, hijo! ¡Larguémonos!
+
+435
+00:34:20,308 --> 00:34:22,852
+- Jugadora 006.
+-Es la séptima persona.
+
+436
+00:34:28,191 --> 00:34:31,778
+Ya casi. Ya casi, señor. Ganaremos.
+Los últimos votaron equis.
+
+437
+00:34:41,788 --> 00:34:42,830
+Oye, Gi-hun.
+
+438
+00:34:43,623 --> 00:34:44,499
+¿Qué?
+
+439
+00:34:45,249 --> 00:34:46,501
+Es sobre Young-il.
+
+440
+00:34:49,128 --> 00:34:50,046
+¿Qué pasa?
+
+441
+00:34:50,546 --> 00:34:51,756
+No sé, es que…
+
+442
+00:34:53,091 --> 00:34:54,217
+en la habitación…
+
+443
+00:34:59,680 --> 00:35:01,307
+¡Sí! ¡Muy bien!
+
+444
+00:35:01,933 --> 00:35:04,018
+-¡Sí!
+-¡Sí! ¡Sí!
+
+445
+00:35:04,769 --> 00:35:06,062
+¡Gran decisión!
+
+446
+00:35:07,355 --> 00:35:08,314
+¡Bien!
+
+447
+00:35:18,908 --> 00:35:20,993
+Jugador 001, por favor,
+
+448
+00:35:21,661 --> 00:35:22,745
+pase a votar.
+
+449
+00:35:30,002 --> 00:35:31,129
+Sr. Young-il.
+
+450
+00:35:32,046 --> 00:35:32,880
+Hágalo.
+
+451
+00:35:33,798 --> 00:35:37,635
+Oigan, aunque sea 50 y 50,
+sería un empate, ¿verdad?
+
+452
+00:35:38,553 --> 00:35:39,428
+Sí.
+
+453
+00:35:50,731 --> 00:35:53,401
+Creo que Young-il
+me da un poco de miedo.
+
+454
+00:35:55,486 --> 00:35:56,362
+¿Por qué?
+
+455
+00:35:58,948 --> 00:36:02,285
+No me siento muy cómodo
+diciendo esto.
+
+456
+00:36:03,244 --> 00:36:05,746
+En la habitación del último juego…
+
+457
+00:36:08,124 --> 00:36:09,500
+él ma…
+
+458
+00:36:10,710 --> 00:36:12,712
+-¡Sí!
+-¡Bien!
+
+459
+00:36:12,795 --> 00:36:14,547
+Gracias, gracias…
+
+460
+00:36:17,675 --> 00:36:20,428
+Ay, qué alivio… Ya respiro.
+
+461
+00:36:23,222 --> 00:36:26,434
+Ay, por fin, por fin. Estamos empatados.
+
+462
+00:36:26,517 --> 00:36:29,520
+Con este voto,
+se cierra la tercera votación.
+
+463
+00:36:29,604 --> 00:36:31,480
+Bien, ahora estamos empatados.
+
+464
+00:36:32,148 --> 00:36:33,733
+Dígannos, ¿qué va a pasar?
+
+465
+00:36:33,816 --> 00:36:35,693
+Cláusula número tres:
+
+466
+00:36:36,235 --> 00:36:40,448
+"En caso de que haya un empate,
+los jugadores tendrán que volver a votar".
+
+467
+00:36:40,531 --> 00:36:42,909
+Señor, tengo una pregunta.
+
+468
+00:36:42,992 --> 00:36:44,368
+¿Cuándo se volverá a votar?
+
+469
+00:36:44,452 --> 00:36:47,663
+Para que todos los jugadores
+tengan tiempo de pensar,
+
+470
+00:36:47,747 --> 00:36:50,041
+la votación se volverá a hacer mañana.
+
+471
+00:36:50,625 --> 00:36:54,879
+Hasta entonces, les aconsejamos a todos
+que piensen seriamente en su futuro.
+
+472
+00:36:54,962 --> 00:36:56,172
+No puede ser.
+
+473
+00:36:58,466 --> 00:37:00,551
+Estúpidos idiotas de mierda.
+
+474
+00:37:01,177 --> 00:37:03,679
+Solo necesitamos
+convencer a uno más.
+
+475
+00:37:24,033 --> 00:37:27,119
+Oigan, ¿no deberíamos regresar a tierra?
+
+476
+00:37:27,203 --> 00:37:29,914
+¿No hay que encontrar la isla
+antes de que terminen los juegos?
+
+477
+00:37:29,997 --> 00:37:34,085
+Sí, eso es cierto,
+pero él necesita un doctor.
+
+478
+00:37:34,919 --> 00:37:37,004
+Oye, ¿te sientes bien?
+
+479
+00:37:37,880 --> 00:37:39,924
+Sí, aún puedo resistir.
+
+480
+00:37:40,007 --> 00:37:43,052
+La hemorragia se detuvo y lo cosí,
+así que va a estar bien.
+
+481
+00:37:43,135 --> 00:37:45,429
+Bueno, pero aun así
+hay una persona muerta…
+
+482
+00:37:45,513 --> 00:37:46,806
+Hay que seguir.
+
+483
+00:37:46,889 --> 00:37:51,185
+No va a poder descansar plenamente
+hasta encontrar a esos hijos de perra.
+
+484
+00:37:51,269 --> 00:37:54,605
+Jun-ho, entonces,
+si nos pusieron una trampa,
+
+485
+00:37:54,689 --> 00:37:57,149
+significa que ya saben hacia dónde vamos.
+
+486
+00:37:59,777 --> 00:38:02,238
+A partir de ahora,
+cambiaré la frecuencia de radio
+
+487
+00:38:02,321 --> 00:38:04,448
+y el uso de celulares
+va a estar prohibido.
+
+488
+00:38:05,032 --> 00:38:07,118
+- ¿Les quedó claro?
+-Sí, señor.
+
+489
+00:38:07,702 --> 00:38:09,745
+Capitán, avise al otro barco, ¿sí?
+
+490
+00:38:23,551 --> 00:38:25,970
+- ¿Qué es lo que ibas a decirme hace rato?
+- ¿Mm?
+
+491
+00:38:27,179 --> 00:38:28,514
+Sobre Young-il.
+
+492
+00:38:29,098 --> 00:38:30,599
+¿Qué pasó en la habitación?
+
+493
+00:38:33,102 --> 00:38:34,979
+¿Quieres que te dé de lo mío?
+
+494
+00:38:35,521 --> 00:38:37,648
+Sí, muchas gracias. Tengo hambre.
+
+495
+00:38:39,734 --> 00:38:42,862
+Ya no importa.
+Creo que este lugar cambia a la gente.
+
+496
+00:38:44,196 --> 00:38:47,992
+Hay que salir lo antes posible.
+Si no, yo también me voy a volver loco.
+
+497
+00:38:53,581 --> 00:38:54,832
+Oiga, señor Young-il,
+
+498
+00:38:55,583 --> 00:38:56,834
+la verdad es que…
+
+499
+00:38:57,960 --> 00:39:00,713
+por un segundo creí
+que volvería a votar por el círculo
+
+500
+00:39:00,796 --> 00:39:03,841
+y me puse tan nervioso
+que no vi por lo que votó.
+
+501
+00:39:04,425 --> 00:39:06,594
+El Sr. Jung-bae
+nos dijo algo raro de usted…
+
+502
+00:39:06,677 --> 00:39:07,970
+Ya, traga, traga, traga…
+
+503
+00:39:08,471 --> 00:39:09,555
+Tienes hambre.
+
+504
+00:39:11,932 --> 00:39:14,769
+Young-il, muchas gracias.
+Nos diste otra oportunidad.
+
+505
+00:39:14,852 --> 00:39:17,521
+Solo lo hice para poder salvarme.
+
+506
+00:39:20,191 --> 00:39:22,943
+Y además creo que es suficiente dinero
+
+507
+00:39:23,694 --> 00:39:25,071
+para salir de aquí…
+
+508
+00:39:25,780 --> 00:39:26,614
+vivos.
+
+509
+00:39:29,158 --> 00:39:33,913
+¿Pero crees que ganemos
+si volvemos a hacer la votación?
+
+510
+00:39:35,039 --> 00:39:36,499
+Ahora es todo o nada.
+
+511
+00:39:37,917 --> 00:39:39,627
+Hagamos lo que Gi-hun dijo.
+
+512
+00:39:40,211 --> 00:39:44,632
+Deberíamos intentar
+que algunas personas cambien de opinión
+
+513
+00:39:45,341 --> 00:39:46,842
+antes de votar mañana.
+
+514
+00:39:47,468 --> 00:39:48,928
+¿Crees que funcione?
+
+515
+00:39:49,011 --> 00:39:50,179
+Si los ven bien,
+
+516
+00:39:50,262 --> 00:39:52,932
+parece que se volvieron loquitos
+por el dinero.
+
+517
+00:39:53,015 --> 00:39:55,017
+Como lo veo, tenemos ventaja.
+
+518
+00:39:55,601 --> 00:39:56,560
+Esto no es nada.
+
+519
+00:39:56,644 --> 00:39:59,188
+Van a tener hambre
+cuando despierten mañana
+
+520
+00:39:59,271 --> 00:40:00,606
+después de esta porquería.
+
+521
+00:40:00,689 --> 00:40:04,110
+Cuando tienen hambre,
+las personas suelen pensar en casa.
+
+522
+00:40:04,193 --> 00:40:05,319
+Eso es un hecho.
+
+523
+00:40:07,863 --> 00:40:08,697
+¡Oigan!
+
+524
+00:40:10,533 --> 00:40:13,119
+¿Por qué no dejamos de sufrir
+con esta comida?
+
+525
+00:40:13,202 --> 00:40:16,205
+Una sola persona que se una a nosotros
+
+526
+00:40:16,288 --> 00:40:19,875
+para que así mañana podamos irnos de aquí
+
+527
+00:40:19,959 --> 00:40:21,669
+y poder comer algo bueno.
+
+528
+00:40:22,711 --> 00:40:25,214
+Al salir de aquí, yo los invito a todos.
+
+529
+00:40:25,297 --> 00:40:27,758
+Yo les voy a comprar <i>naengmyeon </i>de postre.
+
+530
+00:40:27,842 --> 00:40:30,803
+¡Sí, únanse a nuestro lado!
+¡Les conviene a todos!
+
+531
+00:40:30,886 --> 00:40:34,098
+¿Y si mejor mueren
+en el próximo juego ustedes?
+
+532
+00:40:34,598 --> 00:40:37,726
+¡Así nos iríamos
+con 800 millones cada uno!
+
+533
+00:40:37,810 --> 00:40:42,314
+Con ese dinero, todos podríamos comprar
+un rancho de <i>hanwoos </i>propio.
+
+534
+00:40:42,398 --> 00:40:44,483
+¡Vengan!
+
+535
+00:40:44,567 --> 00:40:47,403
+- ¡Únanse a nosotros!
+-¡Vengan!
+
+536
+00:40:47,486 --> 00:40:49,613
+¿Eso creen? ¿Por qué están tan tranquilos?
+
+537
+00:40:49,697 --> 00:40:52,616
+¿Creen que sobrevivirán
+en el siguiente juego?
+
+538
+00:40:52,700 --> 00:40:55,327
+Si no se van ahora,
+todos ustedes van a morir aquí.
+
+539
+00:40:55,411 --> 00:40:58,038
+Pues veamos quién muere de todos.
+
+540
+00:40:58,122 --> 00:40:59,957
+Quédense un juego más.
+
+541
+00:41:00,040 --> 00:41:02,460
+Dejen de huir como unos inútiles cobardes.
+
+542
+00:41:03,794 --> 00:41:05,671
+¿Cobardes? No.
+
+543
+00:41:05,754 --> 00:41:08,299
+Ven aquí. ¡Te voy a romper el puto hocico!
+
+544
+00:41:08,382 --> 00:41:11,010
+- ¡Ay!
+-No trates así a los civiles.
+
+545
+00:41:14,346 --> 00:41:16,182
+¡Soy un marine, idiota! ¡Respétame!
+
+546
+00:41:18,517 --> 00:41:21,770
+Niño, si en serio eres un marine,
+yo soy un paracaidista.
+
+547
+00:41:21,854 --> 00:41:23,481
+- Qué idiota…
+- ¿Qué dijiste?
+
+548
+00:41:23,564 --> 00:41:26,609
+¿Por qué se comen nuestra comida
+si ya quieren irse a casa?
+
+549
+00:41:26,692 --> 00:41:29,570
+- ¡Muéranse de hambre, idiotas!
+-¡Exacto!
+
+550
+00:41:31,906 --> 00:41:33,407
+No, señor.
+
+551
+00:41:33,491 --> 00:41:36,869
+¡Aquí estoy! ¡Cuando quieras!
+
+552
+00:41:36,952 --> 00:41:40,498
+¡Yo sí soy marine!
+
+553
+00:41:45,544 --> 00:41:48,214
+¡Ya!
+¡Crucen la línea! ¡Muévete!
+
+554
+00:42:00,684 --> 00:42:01,894
+<i>Oye, Min-su.</i>
+
+555
+00:42:02,686 --> 00:42:04,313
+¿Estás enojado conmigo?
+
+556
+00:42:05,064 --> 00:42:06,524
+¡Perdóname!
+
+557
+00:42:07,566 --> 00:42:11,529
+Me romperías el corazón
+si me traicionas, hermanito, por favor.
+
+558
+00:42:12,112 --> 00:42:14,114
+- Abre la puerta ya.
+- Min-su.
+
+559
+00:42:14,198 --> 00:42:16,909
+Dijiste que te estafaron,
+perdiste tu casa y no…
+
+560
+00:42:16,992 --> 00:42:20,079
+-¡Min-su! ¡Abre la puerta!
+-Solo escucha.
+
+561
+00:42:20,162 --> 00:42:24,124
+Un juego más y nosotros
+te vamos a proteger al salir, ¿mm?
+
+562
+00:42:24,208 --> 00:42:27,461
+Cuando votemos mañana,
+quiero que presiones el círculo. Ven aquí.
+
+563
+00:42:27,545 --> 00:42:31,173
+Guau, mi niño, ¿adónde crees que vas?
+
+564
+00:42:32,341 --> 00:42:33,634
+¿Te cuento algo?
+
+565
+00:42:34,843 --> 00:42:38,764
+Antes de venir aquí, me subí
+al puente del río Han para suicidarme.
+
+566
+00:42:39,306 --> 00:42:40,975
+Pero, en ese puente,
+
+567
+00:42:41,058 --> 00:42:42,685
+conocí al hombre de traje
+
+568
+00:42:43,519 --> 00:42:44,979
+que me dio esa tarjeta.
+
+569
+00:42:45,729 --> 00:42:48,732
+- También te la dio a ti, ¿verdad?
+-Sí.
+
+570
+00:42:49,316 --> 00:42:52,361
+No soy religioso ni nada de eso,
+pero sentí que esto…
+
+571
+00:42:53,779 --> 00:42:56,490
+era una señal de Dios,
+
+572
+00:42:57,157 --> 00:43:00,369
+como si me hubiera dado
+la oportunidad de nacer de nuevo.
+
+573
+00:43:00,452 --> 00:43:01,328
+¿Me entiendes?
+
+574
+00:43:01,412 --> 00:43:06,000
+Por eso decidí darle un giro a mi vida
+y que mi mamá se sienta orgullosa de mí.
+
+575
+00:43:06,083 --> 00:43:10,087
+Pero, si no me dejas,
+entonces, ¡me vas a hacer encabronar!
+
+576
+00:43:10,170 --> 00:43:12,256
+¡Pero ya es muy tarde porque ya lo estoy!
+
+577
+00:43:12,339 --> 00:43:13,591
+Déjalo en paz.
+
+578
+00:43:20,306 --> 00:43:22,975
+Oye, no me fastidies y lárgate.
+
+579
+00:43:23,058 --> 00:43:24,643
+Eso está prohibido.
+
+580
+00:43:24,727 --> 00:43:27,563
+Oye, Myung-gi, ¿quién crees que eres?
+
+581
+00:43:27,646 --> 00:43:30,024
+¿Eh? ¿La Comisión Electoral Nacional?
+
+582
+00:43:30,107 --> 00:43:31,108
+MG Coin.
+
+583
+00:43:32,401 --> 00:43:36,655
+Tú eres el siguiente,
+así que no te metas y lárgate a orinar.
+
+584
+00:43:38,741 --> 00:43:40,743
+Equis, ¡escúchenme!
+
+585
+00:43:40,826 --> 00:43:43,746
+¡Estos imbéciles
+están amenazando a los nuestros!
+
+586
+00:43:43,829 --> 00:43:46,415
+¡Quieren obligarlos
+a votar mañana por el círculo!
+
+587
+00:43:46,498 --> 00:43:47,791
+¿Eso es cierto?
+
+588
+00:43:47,875 --> 00:43:51,003
+Oigan, lo que quieren hacer es trampa.
+
+589
+00:43:51,086 --> 00:43:52,087
+Oigan, inútiles,
+
+590
+00:43:52,171 --> 00:43:55,674
+¿dónde aprendieron a meterles
+tanta mierda en la cabeza a las personas?
+
+591
+00:43:55,758 --> 00:43:58,594
+¡Ey! ¡Ey!
+
+592
+00:43:58,677 --> 00:44:00,638
+¡Equipo círculo!
+
+593
+00:44:00,721 --> 00:44:03,098
+¡Los idiotas del equipo equis
+quieren atacarnos!
+
+594
+00:44:03,182 --> 00:44:06,143
+- ¡Es verdad!
+- ¿Y esos idiotas por qué quieren atacar?
+
+595
+00:44:06,226 --> 00:44:08,395
+Cállate, ¿por qué gritas?
+
+596
+00:44:08,479 --> 00:44:10,898
+Mejor cállense
+y orínense en los pantalones.
+
+597
+00:44:10,981 --> 00:44:12,524
+Ya déjennos en paz, idiotas.
+
+598
+00:44:12,608 --> 00:44:14,276
+Ya orinamos, tarado.
+
+599
+00:44:16,153 --> 00:44:17,529
+Min-su, ven.
+
+600
+00:44:19,740 --> 00:44:20,866
+MG Coin.
+
+601
+00:44:22,034 --> 00:44:23,202
+¿Estás drogado?
+
+602
+00:44:24,703 --> 00:44:26,246
+¿Acaso puedes verme?
+
+603
+00:44:27,081 --> 00:44:29,416
+Estás haciendo esto por ella, ¿verdad?
+
+604
+00:44:29,500 --> 00:44:33,796
+Thanos, al parecer sí tiene algo que ver
+con la mujer con la que lo vimos.
+
+605
+00:44:35,798 --> 00:44:38,342
+Con que te andas cogiendo
+a alguien, pilluelo.
+
+606
+00:44:38,926 --> 00:44:41,929
+Después, la volví a ver
+de cerca por ahí caminando.
+
+607
+00:44:42,888 --> 00:44:45,891
+Me di cuenta de que camina chistoso.
+Es que su estómago…
+
+608
+00:44:45,974 --> 00:44:48,102
+¡No se metan con ella, idiotas!
+
+609
+00:44:50,104 --> 00:44:53,148
+Oye, mira cómo te pones por ella.
+
+610
+00:44:53,232 --> 00:44:54,566
+Sí están cogiendo.
+
+611
+00:44:55,359 --> 00:44:57,027
+- MG Coin.
+-Se le nota.
+
+612
+00:44:57,111 --> 00:45:00,489
+Si escoges otra vez la equis
+mañana en la votación,
+
+613
+00:45:01,073 --> 00:45:02,866
+juro que te voy a cortar el dedo
+
+614
+00:45:03,617 --> 00:45:05,077
+y se lo daré de premio.
+
+615
+00:45:05,786 --> 00:45:07,746
+Y le pediré que sea mi novia.
+
+616
+00:45:09,498 --> 00:45:10,499
+Seguro lo va a amar.
+
+617
+00:45:10,582 --> 00:45:13,627
+¡Eres un hijo de puta!
+
+618
+00:45:13,711 --> 00:45:14,878
+¡Oye!
+
+619
+00:45:22,511 --> 00:45:23,512
+¡Quítate!
+
+620
+00:45:25,681 --> 00:45:27,182
+¡No te atrevas a tocarme!
+
+621
+00:45:37,067 --> 00:45:38,360
+¡Tu dinero…
+
+622
+00:45:38,444 --> 00:45:39,903
+será mío!
+
+623
+00:45:39,987 --> 00:45:42,156
+¡Y tu mujer! ¡Me robaré tu vida!
+
+624
+00:45:43,198 --> 00:45:45,409
+¡Todo lo que tienes va a ser de Thanos!
+
+625
+00:45:48,454 --> 00:45:53,417
+¡Eres una mierda de persona!
+¡Eres un hijo de perra!
+
+626
+00:48:35,454 --> 00:48:40,459
+Subtítulos: Alejandra Garbarello
+
