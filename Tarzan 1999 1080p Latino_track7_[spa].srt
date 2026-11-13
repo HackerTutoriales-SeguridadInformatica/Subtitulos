@@ -1,0 +1,3882 @@
+﻿1
+00:00:58,944 --> 00:01:02,464
+Pon tu fe en lo que
+tú más creas,
+
+2
+00:01:03,064 --> 00:01:04,224
+dos mundos,
+
+3
+00:01:04,424 --> 00:01:05,824
+una familia.
+
+4
+00:01:07,264 --> 00:01:08,424
+Confía en tu corazón,
+
+5
+00:01:09,264 --> 00:01:10,944
+deja que el destino decida
+
+6
+00:01:11,104 --> 00:01:14,144
+guiar esas vidas que vemos.
+
+7
+00:01:16,344 --> 00:01:19,264
+Un paraíso que el hombre
+no ha tocado aún,
+
+8
+00:01:20,304 --> 00:01:23,624
+en este mundo repleto de amor
+
+9
+00:01:25,264 --> 00:01:28,544
+su sencilla vida
+viven en paz.
+
+10
+00:01:29,104 --> 00:01:32,864
+Suaves huellas
+dejan tus pies en la arena,
+
+11
+00:01:33,464 --> 00:01:34,264
+dos mundos,
+
+12
+00:01:34,944 --> 00:01:36,624
+una familia.
+
+13
+00:01:37,304 --> 00:01:38,944
+Confía en tu corazón,
+
+14
+00:01:39,304 --> 00:01:41,224
+deja que el destino decida
+
+15
+00:01:41,944 --> 00:01:44,984
+guiar esas vidas que vemos.
+
+16
+00:01:46,464 --> 00:01:49,384
+Bajo el cobijo de los árboles
+
+17
+00:01:51,064 --> 00:01:54,064
+solo el amor puede entrar.
+
+18
+00:01:56,024 --> 00:01:59,424
+Su sencilla vida
+viven en paz.
+
+19
+00:02:00,144 --> 00:02:01,184
+Yergue la cabeza,
+
+20
+00:02:01,344 --> 00:02:03,384
+trabaja con ahínco,
+
+21
+00:02:03,504 --> 00:02:06,504
+quienes te necesitan
+te darán fuerzas.
+
+22
+00:02:07,664 --> 00:02:11,664
+Alza altas paredes,
+monta sólidas vigas,
+
+23
+00:02:12,304 --> 00:02:14,344
+una nueva vida te espera,
+
+24
+00:02:14,504 --> 00:02:17,944
+mas el peligro acecha.
+
+25
+00:02:42,584 --> 00:02:45,464
+No hay palabras para describir
+el llanto de una madre,
+
+26
+00:02:47,024 --> 00:02:50,184
+ni para sanar
+un corazón roto.
+
+27
+00:02:51,704 --> 00:02:55,424
+Se ha desvanecido un sueño,
+mas donde hay esperanza,
+
+28
+00:02:55,984 --> 00:02:58,624
+en algún lugar,
+alguien te está llamando.
+
+29
+00:03:00,264 --> 00:03:03,304
+Dos mundos, una familia.
+
+30
+00:03:04,024 --> 00:03:07,584
+Confía en tu corazón,
+deja que el destino decida
+
+31
+00:03:08,224 --> 00:03:11,264
+guiar esas vidas que vemos.
+
+32
+00:07:50,344 --> 00:07:53,624
+El lazo se va estrechando
+más y más,
+
+33
+00:07:54,624 --> 00:07:57,624
+dos mundos, una familia.
+
+34
+00:07:58,504 --> 00:07:59,864
+Confía en tu corazón,
+
+35
+00:08:00,784 --> 00:08:02,424
+deja que el destino decida
+
+36
+00:08:02,584 --> 00:08:05,704
+guiar esas vidas que vemos.
+STYLE
+::cue()
+
+37
+00:08:17,624 --> 00:08:19,464
+¡Mira, mamá!
+¡Mira ahí!
+
+38
+00:08:19,824 --> 00:08:21,704
+- Kala.
+- Ha vuelto.
+
+39
+00:08:27,264 --> 00:08:28,464
+¿Estás bien?
+
+40
+00:08:28,744 --> 00:08:31,664
+Estoy bien. De verdad.
+Solo me...
+
+41
+00:08:32,584 --> 00:08:33,704
+distraje un poco.
+
+42
+00:08:36,024 --> 00:08:37,824
+Vaya, ¿no es...?
+
+43
+00:08:38,904 --> 00:08:41,064
+Es tan... tan...
+
+44
+00:08:42,424 --> 00:08:44,704
+Es horrible, eso es lo que es.
+
+45
+00:08:44,864 --> 00:08:46,544
+- ¡Terkina!
+- Lo es.
+
+46
+00:08:46,824 --> 00:08:48,984
+De todas formas, ¿qué es?
+
+47
+00:08:49,704 --> 00:08:50,664
+Es un bebé.
+
+48
+00:08:52,664 --> 00:08:53,624
+No puedo...
+
+49
+00:08:57,544 --> 00:08:58,904
+¿Dónde está su mamá?
+
+50
+00:08:59,064 --> 00:09:01,864
+Bueno, ahora yo voy a ser
+su madre.
+
+51
+00:09:07,064 --> 00:09:08,024
+No está tan mal
+
+52
+00:09:08,344 --> 00:09:09,824
+cuando te acostumbras a él.
+
+53
+00:09:11,744 --> 00:09:13,584
+Kala va a ser su madre.
+
+54
+00:09:19,904 --> 00:09:22,784
+Kerchak, lo salvé de Sabor.
+
+55
+00:09:25,744 --> 00:09:26,624
+Kala...
+
+56
+00:09:26,744 --> 00:09:28,744
+no reemplazará al que perdimos.
+
+57
+00:09:28,904 --> 00:09:32,464
+Lo sé, pero me necesita.
+
+58
+00:09:34,584 --> 00:09:35,544
+Pero...
+
+59
+00:09:36,584 --> 00:09:37,704
+Kala, míralo.
+
+60
+00:09:38,024 --> 00:09:39,704
+No es de nuestra especie.
+
+61
+00:09:40,944 --> 00:09:43,544
+No. Tienes que devolverlo.
+
+62
+00:09:44,704 --> 00:09:46,824
+¿Devolverlo? Morirá.
+
+63
+00:09:46,944 --> 00:09:49,104
+- Si la selva lo quiere...
+- Yo lo quiero.
+
+64
+00:09:49,464 --> 00:09:51,584
+No puedes poner a la familia
+en peligro.
+
+65
+00:09:51,704 --> 00:09:53,064
+¿Te parece peligroso?
+
+66
+00:10:04,144 --> 00:10:05,064
+¿Estaba solo?
+
+67
+00:10:05,544 --> 00:10:07,784
+Sí. Sabor mató a su familia.
+
+68
+00:10:07,944 --> 00:10:08,984
+¿Estás segura?
+
+69
+00:10:09,144 --> 00:10:11,624
+Sí. No queda nadie.
+
+70
+00:10:14,824 --> 00:10:16,144
+Entonces, quédatelo.
+
+71
+00:10:18,064 --> 00:10:21,904
+- Kerchak, sé que será un buen hijo.
+- He dicho que podía quedarse.
+
+72
+00:10:22,784 --> 00:10:24,464
+Eso no lo convierte
+en mi hijo.
+
+73
+00:10:27,824 --> 00:10:29,464
+Pasaremos la noche aquí.
+
+74
+00:10:35,584 --> 00:10:36,664
+Esto...
+
+75
+00:10:36,664 --> 00:10:37,824
+¿Cómo vas a llamarlo?
+
+76
+00:10:38,504 --> 00:10:41,584
+Voy a llamarlo Tarzán.
+
+77
+00:10:42,504 --> 00:10:45,744
+¿Tarzán?
+Bueno, es tu bebé.
+
+78
+00:10:45,824 --> 00:10:47,664
+Vamos, jovencita,
+
+79
+00:10:47,784 --> 00:10:48,824
+es hora de ir al nido.
+
+80
+00:10:48,984 --> 00:10:50,984
+- ¡Mamá! ¿Cinco minutos más?
+- No.
+
+81
+00:10:51,504 --> 00:10:52,984
+- ¿Dos minutos más?
+- No.
+
+82
+00:10:53,464 --> 00:10:54,584
+Un "minutos" más.
+
+83
+00:11:00,144 --> 00:11:01,824
+No, no.
+
+84
+00:11:03,784 --> 00:11:06,424
+No llores. Estoy aquí.
+Vamos.
+
+85
+00:11:08,064 --> 00:11:10,064
+Vamos, deja de llorar,
+
+86
+00:11:10,664 --> 00:11:12,184
+todo irá bien.
+
+87
+00:11:13,704 --> 00:11:15,184
+Cógeme la mano,
+
+88
+00:11:15,744 --> 00:11:17,504
+agárrala fuerte.
+
+89
+00:11:18,184 --> 00:11:19,824
+Yo te protegeré
+
+90
+00:11:19,944 --> 00:11:22,544
+de todo cuanto te rodea.
+
+91
+00:11:23,024 --> 00:11:26,104
+Yo estaré aquí, no llores.
+
+92
+00:11:28,704 --> 00:11:32,464
+Para ser tan pequeño
+pareces muy fuerte.
+
+93
+00:11:33,584 --> 00:11:37,224
+Te abrazaré, te protegeré
+y te daré calor,
+
+94
+00:11:38,464 --> 00:11:40,184
+este lazo entre nosotros
+
+95
+00:11:40,624 --> 00:11:42,584
+nadie puede romper.
+
+96
+00:11:43,224 --> 00:11:46,504
+Yo estaré aquí, no llores.
+
+97
+00:11:47,544 --> 00:11:50,504
+Pues estarás en mi corazón,
+
+98
+00:11:52,064 --> 00:11:55,664
+sí, estarás en mi corazón.
+
+99
+00:11:57,024 --> 00:11:58,984
+De ahora en adelante
+
+100
+00:11:59,584 --> 00:12:02,744
+y para siempre jamás.
+
+101
+00:12:06,984 --> 00:12:10,104
+Estarás en mi corazón
+
+102
+00:12:11,584 --> 00:12:14,904
+digan lo que digan.
+
+103
+00:12:16,184 --> 00:12:19,904
+Estarás en mi corazón...
+
+104
+00:12:20,984 --> 00:12:22,264
+siempre.
+
+105
+00:12:26,984 --> 00:12:28,664
+Siempre.
+STYLE
+::cue()
+
+106
+00:12:54,024 --> 00:12:54,864
+¿Tarzán?
+
+107
+00:12:56,104 --> 00:12:57,144
+¿Tarzán?
+
+108
+00:13:00,824 --> 00:13:02,304
+Te he dado
+un buen susto, mamá.
+
+109
+00:13:02,624 --> 00:13:03,624
+Ya lo creo.
+
+110
+00:13:04,864 --> 00:13:07,104
+¿No sabes imitar
+a un animal más silencioso?
+
+111
+00:13:07,224 --> 00:13:10,264
+No son divertidos.
+¿Quieres ver cómo hago el leopardo?
+
+112
+00:13:12,824 --> 00:13:15,064
+¿Por qué no inventas
+tu propio sonido?
+
+113
+00:13:22,024 --> 00:13:23,664
+¡Kala!
+
+114
+00:13:33,184 --> 00:13:35,784
+¡Tarzán!
+¡Menos mal que estás bien!
+
+115
+00:13:36,024 --> 00:13:38,984
+¡Kala y yo estábamos
+tan preocupadas!
+
+116
+00:13:39,984 --> 00:13:42,944
+Muchas gracias
+por encontrarle, Kerchak.
+
+117
+00:13:43,184 --> 00:13:45,824
+Eres un jefe tan sabio
+y tan bueno...
+
+118
+00:13:46,824 --> 00:13:47,864
+¡Corre!
+
+119
+00:13:52,864 --> 00:13:53,744
+¡Hola!
+
+120
+00:13:53,944 --> 00:13:57,104
+¿Eres duro de mollera?
+¿Cuántas veces te lo he dicho?
+
+121
+00:13:57,264 --> 00:14:01,184
+Si quieres caerle bien a Kerchak,
+apártate de él.
+
+122
+00:14:01,264 --> 00:14:04,104
+- ¡Vamos, Terk!
+- ¡Escarabajo pelotero el último!
+
+123
+00:14:04,224 --> 00:14:06,064
+Sí, y el primero
+se lo come.
+
+124
+00:14:06,624 --> 00:14:07,704
+¿Puedo ir?
+
+125
+00:14:07,864 --> 00:14:11,704
+Podrías si pudieses alcanzarnos,
+pero no puedes.
+
+126
+00:14:12,024 --> 00:14:13,064
+¡Esperadme!
+
+127
+00:14:13,224 --> 00:14:15,064
+¡Esperadme!
+¡Voy justo detrás!
+
+128
+00:14:27,944 --> 00:14:31,064
+No te pegues. No te pegues.
+No te pegues.
+
+129
+00:14:31,944 --> 00:14:34,264
+¡Ha llegado la diversión!
+
+130
+00:14:34,864 --> 00:14:35,744
+Muchas gracias.
+
+131
+00:14:35,904 --> 00:14:37,224
+¿Por qué has tardado tanto?
+
+132
+00:14:37,384 --> 00:14:40,904
+Un problema de parásitos,
+pero ya está bajo control.
+
+133
+00:14:43,024 --> 00:14:44,064
+Hola, chicos.
+
+134
+00:14:44,664 --> 00:14:46,864
+Terk, ¿es una broma?
+
+135
+00:14:47,744 --> 00:14:49,904
+Dime que no es
+el prodigio sin pelos.
+
+136
+00:14:50,304 --> 00:14:53,064
+Terk dijo que podía venir
+si os alcanzaba.
+
+137
+00:14:54,664 --> 00:14:56,344
+- Oh, no, Terk.
+- ¡Vamos, Terk!
+
+138
+00:14:57,344 --> 00:14:59,264
+Yo me ocupo de esto, chicos.
+
+139
+00:14:59,424 --> 00:15:00,424
+Ven aquí.
+
+140
+00:15:01,064 --> 00:15:03,864
+Tenemos un problemilla, ¿vale?
+
+141
+00:15:04,024 --> 00:15:07,104
+A mí, personalmente,
+me encantaría que vinieses.
+
+142
+00:15:07,224 --> 00:15:10,104
+Pero a los chicos
+hay que convencerles, ¿sabes?
+
+143
+00:15:10,264 --> 00:15:11,944
+Bien, ¿qué tengo que hacer?
+
+144
+00:15:12,104 --> 00:15:16,104
+¿Hacer? ¿Qué tienes que hacer?
+Es tal estupidez...
+
+145
+00:15:16,264 --> 00:15:17,104
+¿Qué?
+
+146
+00:15:17,344 --> 00:15:19,344
+Bien, tienes que...
+
+147
+00:15:19,784 --> 00:15:21,864
+Tienes que conseguir un pelo.
+
+148
+00:15:22,144 --> 00:15:23,904
+- ¿Un pelo?
+- Sí.
+
+149
+00:15:24,104 --> 00:15:25,104
+Un pelo.
+
+150
+00:15:26,944 --> 00:15:28,864
+Un pelo de elefante.
+
+151
+00:15:33,944 --> 00:15:35,344
+¿Un pelo de elefante?
+
+152
+00:15:35,744 --> 00:15:38,144
+Ya te dije que era una estupidez.
+
+153
+00:15:38,384 --> 00:15:41,064
+Voy a darte un consejo.
+Vuelve a casa.
+
+154
+00:15:41,184 --> 00:15:43,704
+¿Quién necesita arriesgarse así?
+
+155
+00:15:43,824 --> 00:15:45,864
+Yo tampoco tardaré en volver.
+
+156
+00:15:45,984 --> 00:15:48,024
+Vete y te alcanzo.
+¿De acuerdo?
+
+157
+00:15:49,024 --> 00:15:51,864
+¿Veis? Dejádmelo a mí.
+Os dije...
+
+158
+00:15:52,264 --> 00:15:52,984
+¡Tarzán!
+
+159
+00:15:54,824 --> 00:15:55,304
+¡No!
+
+160
+00:16:04,344 --> 00:16:05,984
+Eso ha dolido.
+
+161
+00:16:23,264 --> 00:16:24,104
+¡Mirad!
+
+162
+00:16:24,984 --> 00:16:27,184
+¡Está ahí! ¡Está vivo!
+
+163
+00:16:27,504 --> 00:16:28,744
+¡Eh, chicos!
+
+164
+00:16:28,904 --> 00:16:30,024
+Hola.
+
+165
+00:16:33,344 --> 00:16:35,824
+¡Vuelve! ¡Vuelve!
+
+166
+00:16:36,984 --> 00:16:41,024
+Es estupendo. Si sobrevive,
+deberías traerle más a menudo.
+
+167
+00:16:41,184 --> 00:16:43,104
+Vamos a buscar un sitio mejor.
+STYLE
+::cue()
+
+168
+00:16:50,144 --> 00:16:51,304
+¡Mamá!
+
+169
+00:16:52,184 --> 00:16:54,904
+¿Estás segura de que el agua
+está desinfectada?
+
+170
+00:16:55,384 --> 00:16:57,864
+A mí me parece discutible.
+
+171
+00:16:58,304 --> 00:16:59,864
+Está bien, cariño.
+
+172
+00:17:02,224 --> 00:17:04,384
+¿Qué hay de las bacterias?
+
+173
+00:17:04,824 --> 00:17:07,864
+Tantor, ¿no ves que mamá
+está hablando?
+
+174
+00:17:13,104 --> 00:17:13,984
+¡Cuidado!
+
+175
+00:17:14,224 --> 00:17:16,544
+¡Algo va nadando hacia ti!
+
+176
+00:17:16,984 --> 00:17:19,224
+Cariño, mamá está perdiendo
+la paciencia.
+
+177
+00:17:19,384 --> 00:17:21,824
+Pero esta vez sí que veo algo.
+
+178
+00:17:23,264 --> 00:17:24,104
+¡Una piraña!
+
+179
+00:17:24,304 --> 00:17:25,584
+¡Es una piraña!
+
+180
+00:17:25,904 --> 00:17:28,984
+No hay pirañas en África.
+
+181
+00:17:29,104 --> 00:17:32,584
+No le digas eso.
+Claro que hay pirañas en África.
+
+182
+00:17:32,864 --> 00:17:35,224
+No, viven en Sudamérica.
+
+183
+00:17:35,384 --> 00:17:37,904
+Qué dices. En absoluto.
+
+184
+00:17:38,184 --> 00:17:40,344
+¿Estaría yo aquí
+si hubiese pirañas?
+
+185
+00:17:41,024 --> 00:17:42,904
+¡Está justo detrás de ti!
+¡Corre!
+
+186
+00:17:43,424 --> 00:17:47,504
+Por última vez, cariño,
+no hay pirañas en...
+
+187
+00:17:47,864 --> 00:17:48,904
+¡Mi trasero!
+
+188
+00:17:49,944 --> 00:17:51,064
+¡Te lo dije!
+
+189
+00:17:51,224 --> 00:17:53,424
+¡Tengo algo
+en el trasero!
+
+190
+00:17:56,904 --> 00:17:57,864
+¿Qué es?
+
+191
+00:17:57,944 --> 00:18:00,064
+¡Es una piraña!
+
+192
+00:18:05,064 --> 00:18:06,344
+¡Piraña!
+
+193
+00:18:08,864 --> 00:18:09,984
+¿Tantor, dónde...?
+
+194
+00:18:21,624 --> 00:18:22,864
+Está muerto.
+
+195
+00:18:23,864 --> 00:18:24,904
+¡Estamos muertos!
+
+196
+00:18:31,504 --> 00:18:34,464
+¡No hemos sido nosotros!
+¡Han sido ellos!
+
+197
+00:18:52,344 --> 00:18:53,664
+Gracias, Kerchak.
+
+198
+00:18:58,264 --> 00:19:00,984
+Tarzán, amigo, no te mueras.
+No te mueras.
+
+199
+00:19:01,464 --> 00:19:03,904
+Pensaba que no ibas a hacerlo.
+
+200
+00:19:04,024 --> 00:19:07,664
+¡Apártate de ahí!
+¡Una piraña te destroza en segundos!
+
+201
+00:19:07,944 --> 00:19:10,104
+¿Qué?
+Él no es una piraña.
+
+202
+00:19:12,184 --> 00:19:13,264
+¡Está vivo!
+
+203
+00:19:13,384 --> 00:19:15,584
+¡Está vivo, está vivo!
+
+204
+00:19:15,944 --> 00:19:17,464
+- ¡Está vivo!
+- ¡Está vivo!
+
+205
+00:19:17,664 --> 00:19:21,624
+¡Idiota! Por tu culpa casi me da
+un infarto. ¿Estás contento?
+
+206
+00:19:24,504 --> 00:19:26,704
+No puedo creerlo.
+¿Has conseguido el pelo?
+
+207
+00:19:27,024 --> 00:19:30,624
+¿De eso se trataba?
+Yo tengo muchos en la cola.
+
+208
+00:19:32,184 --> 00:19:33,544
+- ¿Tarzán?
+- ¿Terkina?
+
+209
+00:19:33,984 --> 00:19:35,184
+Oh, no.
+
+210
+00:19:35,584 --> 00:19:37,624
+- ¿Quién es?
+- Mi madre.
+
+211
+00:19:38,184 --> 00:19:39,584
+- Tarzán.
+- Hola.
+
+212
+00:19:39,704 --> 00:19:40,704
+Hola, tía Kala.
+
+213
+00:19:41,304 --> 00:19:43,224
+Qué susto me has dado.
+¿Qué ha pasado?
+
+214
+00:19:43,464 --> 00:19:46,544
+- Bueno...
+- Es largo y complicado...
+
+215
+00:19:47,304 --> 00:19:48,984
+Porque lo que ha pasado es...
+
+216
+00:19:49,144 --> 00:19:50,264
+¿Qué ha pasado?
+
+217
+00:19:53,224 --> 00:19:54,624
+Ha sido culpa mía, Kerchak.
+
+218
+00:19:55,144 --> 00:19:56,064
+Tarzán.
+
+219
+00:19:56,344 --> 00:19:58,584
+Estábamos jugando y... bueno...
+
+220
+00:19:59,664 --> 00:20:01,064
+Lo siento, Kerchak.
+
+221
+00:20:01,384 --> 00:20:03,264
+Por poco matas a alguien.
+
+222
+00:20:03,384 --> 00:20:05,504
+- Fue un accidente.
+- Solo es un niño.
+
+223
+00:20:05,624 --> 00:20:08,744
+- No hay excusas. No le defiendas.
+- Aprenderá.
+
+224
+00:20:09,024 --> 00:20:11,144
+Jamás aprenderá a ser
+de los nuestros.
+
+225
+00:20:11,264 --> 00:20:14,064
+- No le das una oportunidad.
+- ¿Una oportunidad?
+
+226
+00:20:14,424 --> 00:20:18,224
+Kala, mírale. Nunca será
+uno de nosotros.
+
+227
+00:20:18,344 --> 00:20:19,304
+¡Kerchak!
+
+228
+00:20:20,984 --> 00:20:21,664
+¡Tarzán!
+STYLE
+::cue()
+
+229
+00:21:13,144 --> 00:21:13,784
+Tarzán,
+
+230
+00:21:14,424 --> 00:21:15,504
+¿qué haces?
+
+231
+00:21:16,384 --> 00:21:18,384
+¿Por qué soy tan diferente?
+
+232
+00:21:18,424 --> 00:21:20,464
+Porque estás cubierto
+de barro.
+
+233
+00:21:20,504 --> 00:21:23,184
+- No, Kerchak dijo que no...
+- Cierra la boca.
+
+234
+00:21:24,144 --> 00:21:26,064
+Que no pertenezco
+a la familia.
+
+235
+00:21:26,184 --> 00:21:27,464
+Olvida lo que dijo.
+
+236
+00:21:28,704 --> 00:21:29,784
+No te muevas.
+
+237
+00:21:30,144 --> 00:21:31,144
+Pero mírame.
+
+238
+00:21:34,104 --> 00:21:35,344
+Eso hago, Tarzán.
+
+239
+00:21:36,544 --> 00:21:37,624
+¿Y sabes lo que veo?
+
+240
+00:21:37,784 --> 00:21:41,064
+Veo dos ojos, como los míos...
+
+241
+00:21:41,304 --> 00:21:44,464
+y una nariz, en alguna parte.
+
+242
+00:21:45,664 --> 00:21:46,704
+Aquí.
+
+243
+00:21:47,464 --> 00:21:48,664
+Dos orejas.
+
+244
+00:21:50,104 --> 00:21:52,464
+Y veamos... ¿qué más?
+
+245
+00:21:52,584 --> 00:21:53,464
+¿Dos manos?
+
+246
+00:21:53,704 --> 00:21:54,664
+Así es.
+
+247
+00:22:11,624 --> 00:22:12,864
+Cierra los ojos.
+
+248
+00:22:14,264 --> 00:22:15,864
+Ahora, olvida lo que ves.
+
+249
+00:22:16,784 --> 00:22:18,304
+¿Qué sientes?
+
+250
+00:22:20,184 --> 00:22:21,184
+Mi corazón.
+
+251
+00:22:21,624 --> 00:22:22,584
+Ven aquí.
+
+252
+00:22:25,104 --> 00:22:26,144
+Tu corazón.
+
+253
+00:22:26,264 --> 00:22:28,584
+¿Ves?
+Son exactamente iguales.
+
+254
+00:22:32,304 --> 00:22:34,504
+Pero Kerchak no puede verlo.
+
+255
+00:22:37,384 --> 00:22:38,704
+Haré que lo vea.
+
+256
+00:22:39,464 --> 00:22:41,384
+Seré el mejor simio de todos.
+
+257
+00:22:42,184 --> 00:22:43,864
+Seguro que sí.
+
+258
+00:22:58,264 --> 00:23:00,744
+El poder para ser fuerte
+
+259
+00:23:01,384 --> 00:23:03,904
+y los conocimientos para ser sabio,
+
+260
+00:23:05,424 --> 00:23:09,504
+todas esas cosas llegarán
+a su debido tiempo.
+
+261
+00:23:12,224 --> 00:23:14,544
+En el viaje que has emprendido
+
+262
+00:23:14,784 --> 00:23:17,744
+irás buscando respuestas.
+
+263
+00:23:19,184 --> 00:23:21,464
+Y serás tú
+quien escale la montaña,
+
+264
+00:23:21,744 --> 00:23:24,184
+serás tú
+quien alcance la cima.
+
+265
+00:23:25,664 --> 00:23:28,584
+Hijo de Hombre, mira al cielo,
+
+266
+00:23:28,944 --> 00:23:31,904
+eleva tu espíritu,
+libéralo,
+
+267
+00:23:32,464 --> 00:23:35,424
+algún día, orgulloso caminarás,
+
+268
+00:23:35,704 --> 00:23:36,744
+Hijo de Hombre,
+
+269
+00:23:37,824 --> 00:23:40,304
+con el tiempo un hombre serás.
+
+270
+00:23:52,664 --> 00:23:55,224
+Aunque no hay nadie ahí
+que pueda guiarte,
+
+271
+00:23:55,584 --> 00:23:57,904
+nadie para darte la mano,
+
+272
+00:23:59,464 --> 00:24:01,784
+con fe y entendimiento
+
+273
+00:24:02,384 --> 00:24:05,224
+de niño a hombre viajarás.
+
+274
+00:24:06,464 --> 00:24:08,864
+Hijo de Hombre,
+mira hacia el cielo,
+
+275
+00:24:10,624 --> 00:24:12,864
+eleva tu espíritu, libéralo,
+
+276
+00:24:12,984 --> 00:24:16,224
+algún día, orgulloso caminarás,
+
+277
+00:24:16,424 --> 00:24:17,624
+Hijo de Hombre,
+
+278
+00:24:17,784 --> 00:24:20,264
+con el tiempo un hombre serás.
+
+279
+00:24:26,744 --> 00:24:28,784
+Aprendiendo enseñarás
+
+280
+00:24:29,824 --> 00:24:31,864
+y enseñando aprenderás.
+
+281
+00:24:33,344 --> 00:24:37,344
+Encontrarás tu lugar
+junto a los seres que amas.
+
+282
+00:24:40,344 --> 00:24:42,464
+Todo aquello
+con lo que soñaste,
+
+283
+00:24:43,464 --> 00:24:45,664
+las visiones que tuviste,
+
+284
+00:24:46,504 --> 00:24:48,664
+se acerca el momento,
+
+285
+00:24:49,664 --> 00:24:52,344
+tus sueños puedes realizar.
+
+286
+00:24:53,984 --> 00:24:56,504
+Hijo de Hombre,
+mira hacia el cielo,
+
+287
+00:24:57,304 --> 00:25:00,024
+eleva tu espíritu,
+libéralo,
+
+288
+00:25:00,624 --> 00:25:03,544
+algún día, orgulloso caminarás,
+
+289
+00:25:03,784 --> 00:25:07,864
+Hijo de Hombre,
+con el tiempo un hombre serás.
+
+290
+00:25:15,824 --> 00:25:17,304
+Hijo de Hombre...
+
+291
+00:25:17,584 --> 00:25:21,064
+El Hijo de Hombre para todos
+ya es un hombre.
+STYLE
+::cue()
+
+292
+00:25:39,944 --> 00:25:42,064
+Ni se te ocurra.
+
+293
+00:25:44,024 --> 00:25:46,784
+- ¿Cómo sabías que era yo?
+- Soy tu madre. Lo sé todo.
+
+294
+00:25:46,904 --> 00:25:47,904
+¿Dónde has estado?
+
+295
+00:25:48,744 --> 00:25:50,024
+Creía que lo sabías todo.
+
+296
+00:25:52,064 --> 00:25:54,904
+Hola, tía K.
+Te veo muy acicalada hoy.
+
+297
+00:25:55,064 --> 00:25:55,904
+Hola, Terk.
+
+298
+00:25:57,344 --> 00:25:58,424
+Del cuello no.
+
+299
+00:25:58,464 --> 00:25:59,464
+¡Del cuello no!
+
+300
+00:26:06,664 --> 00:26:09,424
+Es muy divertido
+hasta que alguien se queda tuerto.
+
+301
+00:26:10,664 --> 00:26:12,104
+Alguien saldrá mal parado.
+
+302
+00:26:12,104 --> 00:26:13,904
+¡Un calambre en la pantorrilla!
+
+303
+00:26:14,744 --> 00:26:15,544
+De acuerdo.
+
+304
+00:26:15,664 --> 00:26:17,064
+De acuerdo, tú ganas.
+
+305
+00:26:17,864 --> 00:26:19,944
+De acuerdo, tú ganas.
+
+306
+00:26:20,104 --> 00:26:21,424
+¡Eh, suéltame!
+
+307
+00:26:22,344 --> 00:26:24,864
+- Lo siento, Terk.
+- ¿Qué clase de animal eres?
+
+308
+00:26:25,024 --> 00:26:28,904
+Se me ha ocurrido que puede ser
+una subespecie de elefante.
+
+309
+00:26:29,704 --> 00:26:30,664
+¿Estás loco?
+
+310
+00:26:30,824 --> 00:26:32,864
+- ¿Un elefante?
+- Piénsalo.
+
+311
+00:26:33,104 --> 00:26:35,944
+Le gustan los cacahuetes.
+A mí también.
+
+312
+00:26:35,944 --> 00:26:37,464
+No se te parece en nada.
+
+313
+00:29:25,264 --> 00:29:27,224
+¡Bien, apartaos todos!
+
+314
+00:29:28,024 --> 00:29:30,704
+Aquí llega su mejor amiga.
+Es decir, yo.
+
+315
+00:29:30,984 --> 00:29:35,304
+Y tú, no lo tomes por costumbre.
+Hay otras formas de llamar la atención.
+
+316
+00:29:35,944 --> 00:29:38,304
+- Intentaré recordarlo.
+- Bien.
+
+317
+00:29:38,344 --> 00:29:39,304
+Yo iba detrás de ti.
+STYLE
+::cue()
+
+318
+00:30:18,704 --> 00:30:19,864
+¿Qué ha sido eso?
+
+319
+00:30:20,224 --> 00:30:22,664
+Yo no he sido, lo juro.
+
+320
+00:30:23,104 --> 00:30:24,664
+Bueno, quizá sí.
+
+321
+00:30:24,824 --> 00:30:25,864
+Atención.
+
+322
+00:30:25,904 --> 00:30:26,864
+Vámonos.
+
+323
+00:31:31,304 --> 00:31:34,264
+Y así supe que África
+era lo mío
+
+324
+00:31:34,704 --> 00:31:36,744
+y que África había sido
+creada para...
+
+325
+00:31:45,864 --> 00:31:46,664
+¿Clayton?
+
+326
+00:31:48,184 --> 00:31:49,384
+¿Clayton? Aquí está.
+
+327
+00:31:50,784 --> 00:31:52,744
+¿Qué pasa?
+¿Estamos en peligro?
+
+328
+00:31:52,864 --> 00:31:54,384
+Me pareció ver algo.
+
+329
+00:31:55,264 --> 00:31:58,104
+¿Un Hippopotamus amphibius ?
+¿O un Rhinoceros "bicuernus" ?
+
+330
+00:31:58,144 --> 00:32:00,144
+- Profesor, no se mueva.
+- Bien.
+
+331
+00:32:00,384 --> 00:32:01,264
+¿Papá?
+
+332
+00:32:04,104 --> 00:32:06,224
+¿A qué viene
+todo este alboroto?
+
+333
+00:32:10,784 --> 00:32:11,944
+¿Qué pasa, papá?
+
+334
+00:32:12,104 --> 00:32:14,744
+Clayton me ha pedido
+que no me mueva.
+
+335
+00:32:18,464 --> 00:32:19,784
+Oh, me he movido.
+
+336
+00:32:20,264 --> 00:32:22,344
+¿Sr. Clayton?
+Lo siento, discúlpeme,
+
+337
+00:32:22,904 --> 00:32:26,224
+pero mi padre y yo hemos venido
+a estudiar a los gorilas,
+
+338
+00:32:26,464 --> 00:32:29,424
+y sus tiros quizá
+los asusten.
+
+339
+00:32:29,704 --> 00:32:33,984
+Me contrataron para protegerles,
+y eso voy a hacer.
+
+340
+00:32:34,144 --> 00:32:36,384
+Y lo está haciendo
+magníficamente.
+
+341
+00:32:36,464 --> 00:32:38,944
+Pero el barco volverá
+dentro de poco y...
+
+342
+00:32:40,064 --> 00:32:41,984
+¡Jane! ¿Te das cuenta
+
+343
+00:32:42,104 --> 00:32:43,904
+de dónde estás?
+
+344
+00:32:44,024 --> 00:32:46,064
+- ¡Un nido de gorila!
+- ¡Oh, papá!
+
+345
+00:32:46,224 --> 00:32:47,504
+¡Por fin!
+
+346
+00:32:48,104 --> 00:32:51,904
+El primer rastro en días.
+¿Estarán cerca esas bestias?
+
+347
+00:32:52,024 --> 00:32:52,984
+Quizá.
+
+348
+00:32:53,144 --> 00:32:56,984
+Aquí está la prueba.
+Puede que no anden muy lejos.
+
+349
+00:32:57,304 --> 00:32:58,824
+¡Mira, papá! ¡Ahí!
+
+350
+00:32:59,384 --> 00:33:01,304
+¡Sí, más nidos!
+¡Los veo!
+
+351
+00:33:01,464 --> 00:33:04,104
+- Tal como tú dijiste.
+- Grupos familiares.
+
+352
+00:33:04,344 --> 00:33:06,104
+Oh, Jane, te quiero.
+
+353
+00:33:08,184 --> 00:33:09,464
+¿Grupos familiares?
+
+354
+00:33:09,784 --> 00:33:13,064
+Disculpe, pero son bestias salvajes
+
+355
+00:33:13,184 --> 00:33:15,184
+que podrían arrancarle la cabeza.
+
+356
+00:33:15,224 --> 00:33:18,784
+Al contrario. Según papá,
+son criaturas sociales...
+
+357
+00:33:25,144 --> 00:33:28,144
+Sr. Clayton, por favor.
+¿Qué pasa si es un gorila?
+
+358
+00:33:28,424 --> 00:33:30,184
+No es ningún gorila.
+
+359
+00:33:35,024 --> 00:33:37,024
+- Quizá deberíamos seguir.
+- Sí.
+
+360
+00:33:37,224 --> 00:33:41,064
+Vayamos hacia el oeste,
+siguiendo la Ganoderma "ablonatum" .
+
+361
+00:33:41,224 --> 00:33:45,384
+Excelente. Me hubiesen venido bien
+sus conocimientos en mi último safari.
+
+362
+00:33:53,104 --> 00:33:55,824
+¿Eres el culpable
+de todo este lío?
+
+363
+00:33:56,504 --> 00:33:58,544
+¡Papá!
+¡Papá, rápido!
+
+364
+00:33:59,384 --> 00:34:00,984
+No, espera.
+No te muevas.
+
+365
+00:34:01,224 --> 00:34:03,264
+Vaya. Oh, santo...
+Quizá no...
+
+366
+00:34:05,864 --> 00:34:07,824
+Eres un adorable...
+
+367
+00:34:12,424 --> 00:34:13,984
+Mira. ¿Qué te parece?
+
+368
+00:34:20,224 --> 00:34:21,384
+¡Serás...!
+
+369
+00:34:22,104 --> 00:34:26,104
+Vaya, esto es estupendo.
+Vengo a estudiar a los gorilas...
+
+370
+00:34:27,064 --> 00:34:29,064
+y me roba el cuaderno
+un babuino.
+
+371
+00:34:37,144 --> 00:34:38,464
+Dame eso.
+
+372
+00:34:40,584 --> 00:34:43,864
+Ya es suficiente.
+A la de tres, vas a darme ese papel.
+
+373
+00:34:44,264 --> 00:34:45,104
+Una.
+
+374
+00:34:46,024 --> 00:34:46,944
+Dos.
+
+375
+00:34:47,864 --> 00:34:48,944
+¡Mira, plátanos!
+
+376
+00:34:51,624 --> 00:34:54,264
+No puedo creer que hayas picado.
+
+377
+00:34:55,384 --> 00:34:58,544
+No, nada de lágrimas de cocodrilo.
+
+378
+00:34:58,944 --> 00:35:00,464
+¿Qué dirían tus padres?
+STYLE
+::cue()
+
+379
+00:35:05,064 --> 00:35:06,864
+Ya te dije
+que se enfadarían.
+
+380
+00:35:06,984 --> 00:35:09,064
+No sean severos.
+Los niños son así.
+
+381
+00:35:29,464 --> 00:35:30,984
+¡Estoy volando!
+
+382
+00:35:31,384 --> 00:35:32,464
+¿Qué diantres...?
+
+383
+00:35:43,224 --> 00:35:44,984
+¡Bájame, bájame!
+
+384
+00:35:46,944 --> 00:35:48,104
+¡No, súbeme!
+
+385
+00:35:56,024 --> 00:35:57,024
+¡Oh, no!
+
+386
+00:36:15,104 --> 00:36:16,704
+¡Suéltame, mono!
+
+387
+00:36:38,464 --> 00:36:39,424
+¡Ahí!
+
+388
+00:37:29,424 --> 00:37:32,384
+Estoy en un árbol con un hombre
+que habla con los monos.
+
+389
+00:37:33,624 --> 00:37:35,264
+No puedo hacer esto.
+
+390
+00:37:35,464 --> 00:37:38,184
+Esto está bien.
+Esto está muy bien.
+
+391
+00:37:39,664 --> 00:37:42,104
+Espera. Una, dos...
+
+392
+00:37:46,344 --> 00:37:48,264
+No puede ser peor, ¿no?
+
+393
+00:37:51,544 --> 00:37:53,064
+Está visto que sí.
+
+394
+00:38:02,344 --> 00:38:05,824
+Atrás. No te acerques más.
+Por favor, no.
+
+395
+00:38:06,664 --> 00:38:07,624
+¿Qué haces?
+
+396
+00:38:09,224 --> 00:38:11,664
+Por favor, no.
+Me haces cosquillas.
+
+397
+00:38:12,584 --> 00:38:14,064
+No, suelta.
+¡Suelta!
+
+398
+00:38:15,464 --> 00:38:16,584
+Te lo has merecido.
+
+399
+00:38:17,064 --> 00:38:19,384
+Y ahora, aléjate,
+como un buen salvaje.
+
+400
+00:38:19,624 --> 00:38:23,664
+Quieto ahí, te lo advierto.
+A mi padre no va a gustarle...
+
+401
+00:38:23,824 --> 00:38:26,184
+No. Ya estás bastante cerca.
+
+402
+00:38:27,504 --> 00:38:28,704
+¡Cómo te atreves!
+STYLE
+::cue()
+
+403
+00:39:16,224 --> 00:39:18,744
+Oh, cielos. Oh, cielos, cielos.
+
+404
+00:39:20,544 --> 00:39:23,464
+Gracias. Un latido encantador.
+
+405
+00:39:24,264 --> 00:39:25,464
+Muy bonito.
+
+406
+00:39:27,864 --> 00:39:29,224
+Muy bonito.
+
+407
+00:39:29,344 --> 00:39:32,264
+Gracias. Pero lo tengo espantoso
+con tanta humedad.
+
+408
+00:39:33,624 --> 00:39:34,584
+¡Hablas!
+
+409
+00:39:34,904 --> 00:39:38,864
+Pensé que eras una gran, salvaje,
+silenciosa... persona... cosa...
+
+410
+00:39:38,904 --> 00:39:42,224
+¿Por qué no me lo dijiste?
+Quiero saber quién eres...
+
+411
+00:39:45,744 --> 00:39:46,704
+Tarzán.
+
+412
+00:39:51,224 --> 00:39:52,744
+Tarzán.
+
+413
+00:39:54,264 --> 00:39:55,464
+Tarzán.
+
+414
+00:39:59,304 --> 00:40:00,424
+Oh, ya veo.
+
+415
+00:40:01,264 --> 00:40:02,784
+Oh, ya veo.
+
+416
+00:40:03,424 --> 00:40:06,184
+Tarzán.
+Oh, ya veo.
+
+417
+00:40:06,944 --> 00:40:08,424
+No, no, no. No.
+
+418
+00:40:10,664 --> 00:40:11,864
+Soy Jane.
+
+419
+00:40:12,824 --> 00:40:14,424
+No, no, no. No.
+
+420
+00:40:15,264 --> 00:40:16,584
+Soy Jane.
+
+421
+00:40:17,424 --> 00:40:18,424
+No, no.
+
+422
+00:40:19,304 --> 00:40:21,824
+Jane. Tarzán.
+
+423
+00:40:22,504 --> 00:40:23,384
+Jane.
+
+424
+00:40:24,784 --> 00:40:25,624
+Jane.
+
+425
+00:40:26,944 --> 00:40:28,184
+Exacto.
+
+426
+00:40:29,424 --> 00:40:30,424
+¡Clayton!
+
+427
+00:40:34,504 --> 00:40:35,464
+Clayton.
+
+428
+00:40:35,624 --> 00:40:37,464
+Extraordinario.
+
+429
+00:40:38,464 --> 00:40:41,864
+Por favor, ¿puedes llevarme
+a mi campamento?
+
+430
+00:40:43,824 --> 00:40:46,224
+Sí, Clayton. Estupendo.
+
+431
+00:40:48,984 --> 00:40:50,664
+¿No podemos ir a pie?
+
+432
+00:40:50,824 --> 00:40:52,504
+¿No podemos ir a pie?
+
+433
+00:40:55,384 --> 00:40:56,984
+- Tarzán.
+- Tarzán.
+
+434
+00:40:57,424 --> 00:40:58,624
+¿Dónde estás?
+
+435
+00:40:58,744 --> 00:41:00,984
+Espero que Kerchak
+no le encuentre primero.
+
+436
+00:41:01,264 --> 00:41:03,744
+- Se habrá perdido.
+- O vio algo más interesante.
+
+437
+00:41:03,784 --> 00:41:06,504
+¿Estás loco? ¿Qué hay
+más interesante que nosotros?
+
+438
+00:41:08,344 --> 00:41:09,744
+¿Qué miráis todos?
+
+439
+00:41:16,824 --> 00:41:18,264
+¡Qué horror!
+
+440
+00:41:18,824 --> 00:41:20,504
+Es espantoso.
+¡Escondedme!
+
+441
+00:41:20,504 --> 00:41:22,824
+Contrólate.
+Me estás avergonzando.
+
+442
+00:41:23,584 --> 00:41:25,624
+Esas cosas no están vivas.
+
+443
+00:41:26,784 --> 00:41:27,744
+Lo sabía.
+
+444
+00:41:28,424 --> 00:41:29,384
+Tarzán.
+
+445
+00:41:29,864 --> 00:41:31,024
+- Tarzán.
+- Tarzán.
+
+446
+00:41:31,344 --> 00:41:32,384
+¿Hola?
+
+447
+00:41:34,544 --> 00:41:38,384
+¿Qué bestias primitivas
+son las responsables de este desorden?
+
+448
+00:41:46,704 --> 00:41:49,944
+Venid aquí, chicos.
+Venid, venid. Mirad esto.
+
+449
+00:41:50,264 --> 00:41:51,664
+¿Qué es eso?
+
+450
+00:42:00,864 --> 00:42:02,024
+Hazlo otra vez.
+
+451
+00:42:03,384 --> 00:42:04,304
+¿Así?
+
+452
+00:42:05,664 --> 00:42:06,624
+Sí.
+
+453
+00:42:08,584 --> 00:42:09,944
+Sí, rásgalo.
+
+454
+00:42:12,464 --> 00:42:13,464
+¡Esto me encanta!
+
+455
+00:42:15,784 --> 00:42:16,984
+Déjame escuchar.
+
+456
+00:42:18,384 --> 00:42:19,424
+¡Y ahora, dale!
+
+457
+00:42:22,384 --> 00:42:23,304
+¡Sí!
+
+458
+00:42:26,744 --> 00:42:27,664
+Muy bonito.
+
+459
+00:42:29,744 --> 00:42:31,424
+¿Qué diantres...?
+Adiós.
+
+460
+00:42:31,624 --> 00:42:32,544
+Terk.
+
+461
+00:42:33,864 --> 00:42:34,744
+¡Sí, Tant!
+
+462
+00:42:35,704 --> 00:42:37,064
+¡Dadle bien!
+
+463
+00:42:38,544 --> 00:42:39,384
+Vamos, Tantor.
+
+464
+00:42:40,784 --> 00:42:41,744
+Me encanta.
+
+465
+00:42:42,944 --> 00:42:46,824
+Seguidme, chicos.
+Algo grande está sucediendo aquí.
+STYLE
+::cue()
+
+466
+00:44:14,544 --> 00:44:15,944
+¡Gorilas!
+
+467
+00:44:24,064 --> 00:44:25,744
+Es uno de ellos.
+
+468
+00:44:48,824 --> 00:44:50,184
+Ay, ma...
+
+469
+00:45:24,904 --> 00:45:26,504
+- ¡Jane!
+- ¡Jane!
+
+470
+00:45:30,544 --> 00:45:31,904
+Jane, ¿dónde estás?
+
+471
+00:45:33,264 --> 00:45:36,224
+¡Jane! ¡Oh, Jane!
+¡Gracias a Dios!
+
+472
+00:45:36,544 --> 00:45:37,864
+¿Qué ha pasado?
+
+473
+00:45:38,024 --> 00:45:40,704
+¿Estás bien? Te hemos buscado
+por todas partes.
+
+474
+00:45:40,744 --> 00:45:43,944
+Cielo santo.
+Papá, yo iba caminando.
+
+475
+00:45:45,264 --> 00:45:49,064
+- Aparece un monito. Lo dibujo.
+- Sigue.
+
+476
+00:45:49,184 --> 00:45:53,624
+De pronto se pone a llorar. Me vuelvo
+y hay todo un escuadrón de ellos.
+
+477
+00:45:53,824 --> 00:45:57,144
+Un ejército de monos.
+Un árbol lleno.
+
+478
+00:45:57,264 --> 00:45:59,024
+- ¡Monos!
+- ¡Gritándome!
+
+479
+00:45:59,624 --> 00:46:02,064
+Theropithecus "babuinus" .
+Lo hace muy bien.
+
+480
+00:46:02,544 --> 00:46:03,784
+Estaba aterrada.
+
+481
+00:46:03,904 --> 00:46:07,144
+De pronto, me encontré colgada
+de una liana, en el aire.
+
+482
+00:46:07,304 --> 00:46:08,304
+Volando.
+
+483
+00:46:08,584 --> 00:46:09,944
+- En el aire.
+- En el aire.
+
+484
+00:46:10,104 --> 00:46:11,304
+Estábamos rodeados.
+
+485
+00:46:11,584 --> 00:46:14,144
+Y papá, ¡se llevaron mi bota!
+
+486
+00:46:14,584 --> 00:46:16,624
+- Las que te compré.
+- Y me salvó.
+
+487
+00:46:17,024 --> 00:46:21,184
+Me salvó un salvaje volador
+con un taparrabos.
+
+488
+00:46:21,304 --> 00:46:23,984
+- ¿Taparrabos?
+- ¿De qué habla?
+
+489
+00:46:24,104 --> 00:46:26,784
+No tengo ni idea.
+Ha salido a su madre.
+
+490
+00:46:27,144 --> 00:46:30,304
+También inventaba cuentos.
+No de taparrabos, pero...
+
+491
+00:46:30,344 --> 00:46:31,664
+Y había gorilas.
+
+492
+00:46:31,784 --> 00:46:32,704
+¿Gorilas?
+
+493
+00:46:33,024 --> 00:46:35,264
+¿Vio los gorilas?
+¿Dónde, Jane?
+
+494
+00:46:35,664 --> 00:46:36,824
+¿Dónde?
+
+495
+00:46:36,824 --> 00:46:38,144
+Se fue con ellos.
+
+496
+00:46:38,184 --> 00:46:39,824
+¿Quién, cariño?
+
+497
+00:46:40,584 --> 00:46:42,184
+Tarzán.
+
+498
+00:46:42,224 --> 00:46:43,304
+¿Tarzán?
+
+499
+00:46:43,824 --> 00:46:45,144
+El hombre mono.
+STYLE
+::cue()
+
+500
+00:46:49,584 --> 00:46:52,024
+Atención todos.
+Evitad a los extraños.
+
+501
+00:46:52,184 --> 00:46:54,664
+No dejéis que os vean,
+no los busquéis.
+
+502
+00:46:54,784 --> 00:46:56,184
+No quieren hacernos daño.
+
+503
+00:46:56,344 --> 00:46:57,864
+No los conozco.
+
+504
+00:46:58,024 --> 00:46:59,224
+Pero yo sí.
+
+505
+00:46:59,344 --> 00:47:02,024
+Tú pondrías nuestra seguridad
+en peligro, yo no.
+
+506
+00:47:02,144 --> 00:47:04,864
+¿Por qué es una amenaza
+quien no es como tú?
+
+507
+00:47:07,704 --> 00:47:11,624
+Protege a esta familia
+y aléjate de ellos.
+
+508
+00:47:15,704 --> 00:47:18,144
+Tarzán, por una vez
+hazle caso a Kerchak.
+
+509
+00:47:18,264 --> 00:47:20,824
+¿Por qué me ocultaste
+que había seres como yo?
+
+510
+00:47:30,104 --> 00:47:32,704
+No se mantenía erguido.
+Iba como...
+
+511
+00:47:32,824 --> 00:47:36,024
+agachado, apoyando el peso
+en los nudillos.
+
+512
+00:47:36,144 --> 00:47:37,624
+En los nudillos.
+
+513
+00:47:37,944 --> 00:47:40,664
+- Exactamente como un gorila.
+- Extraordinario.
+
+514
+00:47:40,784 --> 00:47:41,984
+¡Era asombroso!
+
+515
+00:47:43,024 --> 00:47:45,344
+Doblaba los codos y andaba así.
+
+516
+00:47:46,064 --> 00:47:48,624
+Entiendo.
+Como la tía Isabel.
+
+517
+00:47:50,944 --> 00:47:52,104
+¡Esto es magnífico!
+
+518
+00:47:52,224 --> 00:47:54,344
+¡Jane, qué descubrimiento!
+
+519
+00:47:54,704 --> 00:47:57,104
+Un hombre sin lenguaje
+ni comportamiento humano.
+
+520
+00:47:57,144 --> 00:47:59,704
+Y sin ningún respeto
+por el espacio personal.
+
+521
+00:47:59,744 --> 00:48:01,864
+- ¿Qué quieres decir?
+- Se acercó así...
+
+522
+00:48:01,904 --> 00:48:02,984
+me observaba.
+
+523
+00:48:03,184 --> 00:48:04,944
+Al principio parecía confuso.
+
+524
+00:48:06,384 --> 00:48:09,024
+Como si no hubiese
+visto jamás un ser humano.
+
+525
+00:48:09,944 --> 00:48:11,784
+Y sus ojos eran intensos y...
+
+526
+00:48:12,304 --> 00:48:14,104
+penetrantes y...
+
+527
+00:48:15,784 --> 00:48:18,264
+Nunca he visto unos ojos así.
+
+528
+00:48:21,064 --> 00:48:25,384
+¿Te dejo un momento a solas
+con la pizarra?
+
+529
+00:48:26,184 --> 00:48:27,344
+Basta, papá.
+
+530
+00:48:27,704 --> 00:48:28,944
+El caso es que
+
+531
+00:48:29,064 --> 00:48:31,984
+podríamos aprender mucho de él.
+Debemos encontrarlo.
+
+532
+00:48:32,944 --> 00:48:36,864
+Profesor, ha venido aquí
+a buscar gorilas,
+
+533
+00:48:36,984 --> 00:48:39,184
+no a propiciar
+fantasías de jovencita.
+
+534
+00:48:39,664 --> 00:48:40,384
+¿Fantasías?
+
+535
+00:48:41,064 --> 00:48:43,104
+No lo imaginé.
+Tarzán es...
+
+536
+00:48:45,064 --> 00:48:45,904
+real.
+
+537
+00:48:46,064 --> 00:48:47,024
+¡Es él!
+
+538
+00:48:48,824 --> 00:48:50,384
+¡Es él! ¡Es Tarzán!
+
+539
+00:48:50,744 --> 00:48:52,704
+- ¡Profesor, Jane, atrás!
+- ¡Espere!
+
+540
+00:48:54,784 --> 00:48:55,824
+Clayton.
+
+541
+00:48:58,424 --> 00:48:59,304
+Clayton.
+
+542
+00:49:00,984 --> 00:49:02,784
+¿Nos conocemos?
+
+543
+00:49:04,064 --> 00:49:05,984
+¿Cómo sabe mi nombre?
+
+544
+00:49:06,264 --> 00:49:08,664
+Piensa que significa
+el ruido de un tiro.
+
+545
+00:49:08,704 --> 00:49:09,704
+Jane.
+
+546
+00:49:09,864 --> 00:49:11,064
+Sí, hola...
+
+547
+00:49:11,424 --> 00:49:12,264
+Tarzán.
+
+548
+00:49:12,744 --> 00:49:14,944
+Ahora entiendo
+lo del espacio personal.
+
+549
+00:49:15,784 --> 00:49:16,824
+¿Qué hace?
+
+550
+00:49:18,784 --> 00:49:22,904
+Míralo, Jane. Se mueve como un simio
+pero parece un hombre.
+
+551
+00:49:22,944 --> 00:49:24,704
+Podría ser el eslabón perdido.
+
+552
+00:49:25,824 --> 00:49:29,024
+O el eslabón que nos conduzca
+a los gorilas.
+
+553
+00:49:29,104 --> 00:49:30,704
+Ah, sí.
+
+554
+00:49:32,144 --> 00:49:34,744
+¿Dónde están los gorilas?
+
+555
+00:49:36,184 --> 00:49:38,304
+¡Gorilas!
+
+556
+00:49:38,424 --> 00:49:40,704
+¡Gorilas!
+
+557
+00:49:40,824 --> 00:49:43,944
+Gritar no sirve de nada.
+No entiende el inglés.
+
+558
+00:49:44,064 --> 00:49:45,744
+Haré que entienda.
+
+559
+00:49:46,104 --> 00:49:48,944
+Si puedo enseñarle a un loro
+el Dios salve a la Reina,
+
+560
+00:49:49,064 --> 00:49:52,104
+puedo enseñarle
+un par de cosas a este salvaje.
+
+561
+00:49:53,944 --> 00:49:55,384
+Gorila.
+
+562
+00:49:57,464 --> 00:49:58,904
+Gorila.
+
+563
+00:49:58,984 --> 00:50:00,104
+¡Ha entendido!
+
+564
+00:50:00,224 --> 00:50:01,144
+Gorila.
+
+565
+00:50:01,744 --> 00:50:03,304
+Gorila.
+
+566
+00:50:03,464 --> 00:50:04,424
+O tal vez no.
+
+567
+00:50:04,784 --> 00:50:05,824
+No, no, no.
+
+568
+00:50:05,944 --> 00:50:07,144
+No, no, no.
+
+569
+00:50:07,864 --> 00:50:09,904
+Dame eso. Suelta. No.
+STYLE
+::cue()
+
+570
+00:50:10,344 --> 00:50:13,024
+Sr. Clayton, a partir de aquí
+me ocupo yo.
+
+571
+00:50:23,304 --> 00:50:24,984
+Hagas lo que hagas
+
+572
+00:50:25,744 --> 00:50:27,024
+yo también lo haré.
+
+573
+00:50:27,264 --> 00:50:30,504
+Enséñamelo todo y dime cómo
+
+574
+00:50:31,184 --> 00:50:32,864
+todo tiene un significado,
+
+575
+00:50:33,384 --> 00:50:36,024
+aunque no para mí.
+
+576
+00:50:39,344 --> 00:50:42,784
+Veo que hay tanto que aprender,
+
+577
+00:50:43,024 --> 00:50:46,424
+está todo tan cercano,
+y aun así tan lejos,
+
+578
+00:50:47,224 --> 00:50:50,784
+me veo a mí mismo
+como me ve la gente,
+
+579
+00:50:51,184 --> 00:50:55,224
+sé que hay algo más grande
+ahí afuera.
+
+580
+00:50:55,344 --> 00:50:59,224
+Quiero saber,
+¿puedes enseñarme?
+
+581
+00:50:59,344 --> 00:51:03,064
+Quiero saber sobre estos extraños
+que son como yo.
+
+582
+00:51:03,384 --> 00:51:05,144
+Cuéntame más,
+
+583
+00:51:05,384 --> 00:51:07,184
+por favor, enséñame.
+
+584
+00:51:07,264 --> 00:51:11,224
+Algo, en estos extraños,
+me resulta familiar.
+
+585
+00:51:19,864 --> 00:51:21,064
+Cada gesto,
+
+586
+00:51:22,064 --> 00:51:23,864
+cada movimiento
+que ella hace
+
+587
+00:51:23,984 --> 00:51:26,944
+me hace sentir
+como no me he sentido jamás.
+
+588
+00:51:27,384 --> 00:51:29,064
+¿A qué se debe
+
+589
+00:51:29,584 --> 00:51:33,224
+esta necesidad creciente
+de estar junto a ella?
+
+590
+00:51:35,344 --> 00:51:38,504
+Estas emociones
+que nunca antes había conocido,
+
+591
+00:51:39,104 --> 00:51:42,904
+sobre otro mundo
+mucho más allá de este lugar,
+
+592
+00:51:43,584 --> 00:51:46,984
+más allá de los árboles,
+por encima de las nubes,
+
+593
+00:51:47,304 --> 00:51:48,584
+veo ante mí
+
+594
+00:51:48,904 --> 00:51:51,184
+un nuevo horizonte.
+
+595
+00:51:51,464 --> 00:51:52,824
+Quiero saber,
+
+596
+00:51:53,504 --> 00:51:55,344
+¿puedes enseñarme?
+
+597
+00:51:55,464 --> 00:51:59,224
+Quiero saber sobre estos extraños
+que son como yo.
+
+598
+00:51:59,464 --> 00:52:01,024
+Cuéntame más,
+
+599
+00:52:01,984 --> 00:52:03,304
+por favor, enséñame.
+
+600
+00:52:03,424 --> 00:52:07,264
+Algo, en estos extraños,
+me resulta familiar.
+
+601
+00:52:08,984 --> 00:52:12,544
+Ven conmigo a conocer mi mundo,
+
+602
+00:52:12,864 --> 00:52:16,344
+en el que hay más belleza
+de la que jamás hayas soñado.
+
+603
+00:52:16,944 --> 00:52:20,104
+¿Puedes sentir lo que yo siento
+
+604
+00:52:20,864 --> 00:52:22,344
+en este momento
+
+605
+00:52:23,264 --> 00:52:24,544
+contigo?
+
+606
+00:52:26,504 --> 00:52:28,144
+Coge mi mano,
+
+607
+00:52:29,104 --> 00:52:32,144
+hay un mundo
+que necesito conocer.
+
+608
+00:52:50,664 --> 00:52:53,384
+Hemos perdido mucho tiempo
+con lo que él quiere.
+
+609
+00:52:53,384 --> 00:52:56,544
+El barco llegará cualquier día
+de estos. Pregúnteselo ya.
+
+610
+00:53:00,544 --> 00:53:01,504
+Tarzán...
+
+611
+00:53:01,984 --> 00:53:04,304
+¿Nos llevarás donde están
+los gorilas?
+
+612
+00:53:05,144 --> 00:53:06,504
+¿Entiendes?
+
+613
+00:53:06,664 --> 00:53:08,584
+Entiendo.
+
+614
+00:53:09,064 --> 00:53:10,624
+- Bien hecho, Jane.
+- ¿Y bien?
+
+615
+00:53:11,544 --> 00:53:12,504
+No puedo.
+
+616
+00:53:13,304 --> 00:53:14,464
+¿Por qué no?
+
+617
+00:53:15,264 --> 00:53:16,104
+Kerchak.
+
+618
+00:53:19,664 --> 00:53:23,384
+Quiero saber,
+¿puedes enseñarme?
+
+619
+00:53:23,584 --> 00:53:27,224
+Quiero saber sobre estos extraños
+que son como yo.
+
+620
+00:53:27,544 --> 00:53:29,224
+Cuéntame más,
+
+621
+00:53:30,384 --> 00:53:31,664
+por favor, enséñame.
+STYLE
+::cue()
+
+622
+00:53:32,184 --> 00:53:36,064
+Algo, en estos extraños,
+me resulta familiar.
+
+623
+00:53:36,584 --> 00:53:38,264
+Quiero saber.
+
+624
+00:53:56,344 --> 00:53:57,384
+Terk...
+
+625
+00:53:57,704 --> 00:54:00,384
+Nunca le había visto
+tan feliz.
+
+626
+00:54:01,064 --> 00:54:02,264
+Le doy una semana.
+
+627
+00:54:06,384 --> 00:54:07,544
+¡Cortad las cuerdas!
+
+628
+00:54:09,504 --> 00:54:11,344
+¡Rápido, ratas de sentina!
+
+629
+00:54:11,464 --> 00:54:13,584
+¡Vamos!
+¡Con todas vuestras fuerzas!
+
+630
+00:54:15,224 --> 00:54:16,424
+Esperad, por favor.
+
+631
+00:54:16,664 --> 00:54:20,144
+Llevo 30 años esperando.
+No me iré hasta que vea un gorila.
+
+632
+00:54:20,584 --> 00:54:22,384
+¿No es horrible, Tarzán?
+
+633
+00:54:22,624 --> 00:54:24,464
+¡No, esperad! Dejadme...
+
+634
+00:54:29,464 --> 00:54:31,064
+Usted es el capitán.
+
+635
+00:54:31,624 --> 00:54:34,624
+Dígales que fallan las máquinas
+y nos da 2 días más.
+
+636
+00:54:34,704 --> 00:54:36,704
+¿Y llegar tarde
+a los demás puertos?
+
+637
+00:54:37,064 --> 00:54:38,744
+¿Hemos venido hasta aquí
+en balde?
+
+638
+00:54:39,104 --> 00:54:41,504
+Lo siento, no puedo hacerlo.
+
+639
+00:54:43,624 --> 00:54:44,664
+Es culpa suya.
+
+640
+00:54:45,024 --> 00:54:48,384
+Debí seguir mi instinto
+y ponerles trampas a esas bestias.
+
+641
+00:54:48,504 --> 00:54:52,664
+¿Cree que yo no estoy decepcionada?
+¡Es usted insoportable!
+
+642
+00:54:54,384 --> 00:54:55,264
+Tarzán.
+
+643
+00:54:55,304 --> 00:54:58,704
+Temía que no llegases a tiempo.
+Ha venido el barco.
+
+644
+00:54:59,104 --> 00:55:00,264
+El barco que...
+
+645
+00:55:00,424 --> 00:55:02,104
+nos llevará a Inglaterra.
+
+646
+00:55:02,664 --> 00:55:04,584
+Y papá y yo...
+
+647
+00:55:04,784 --> 00:55:06,424
+Bueno, yo me preguntaba...
+
+648
+00:55:07,024 --> 00:55:09,584
+Bien, esperamos que nos acompañes.
+
+649
+00:55:10,344 --> 00:55:11,304
+¿Lo harás?
+
+650
+00:55:12,624 --> 00:55:15,544
+Ir a Inglaterra hoy.
+Volver a casa mañana.
+
+651
+00:55:16,144 --> 00:55:17,304
+Oh, no.
+
+652
+00:55:17,784 --> 00:55:20,624
+Verás, resultaría
+muy difícil volver...
+
+653
+00:55:21,424 --> 00:55:22,304
+jamás.
+
+654
+00:55:22,624 --> 00:55:24,064
+¿No volver?
+
+655
+00:55:24,184 --> 00:55:26,664
+Suena horrible,
+pero tu lugar está con nosotros.
+
+656
+00:55:27,344 --> 00:55:28,304
+Con la gente.
+
+657
+00:55:28,424 --> 00:55:30,424
+Jane debe quedarse
+con Tarzán.
+
+658
+00:55:30,464 --> 00:55:31,504
+¿Quedarme aquí?
+
+659
+00:55:32,104 --> 00:55:33,144
+Mi ropa.
+
+660
+00:55:33,744 --> 00:55:36,424
+No, no puedo quedarme.
+Escucha, tengo...
+
+661
+00:55:37,344 --> 00:55:39,664
+Estoy con mi padre y...
+
+662
+00:55:39,824 --> 00:55:42,224
+Jane... quédate.
+
+663
+00:55:44,224 --> 00:55:45,144
+Por favor.
+
+664
+00:55:48,344 --> 00:55:50,464
+Pero... no puedo.
+
+665
+00:55:53,304 --> 00:55:54,344
+¡Mujeres!
+
+666
+00:55:55,224 --> 00:55:57,664
+Qué típico. Gracias, Jones.
+
+667
+00:55:57,824 --> 00:55:58,824
+Aunque no fueses
+
+668
+00:55:58,864 --> 00:56:01,424
+un salvaje,
+estarías perdido.
+
+669
+00:56:02,344 --> 00:56:05,424
+Ningún camino lleva
+al corazón de una mujer.
+
+670
+00:56:06,184 --> 00:56:07,304
+Jane se va.
+
+671
+00:56:08,184 --> 00:56:08,864
+Sí.
+
+672
+00:56:09,424 --> 00:56:13,464
+Si al menos hubiese podido pasar
+más tiempo con los gorilas.
+
+673
+00:56:13,544 --> 00:56:17,184
+Está tan decepcionada...
+Está destrozada, la verdad.
+
+674
+00:56:19,104 --> 00:56:20,344
+Lo siento, amigo.
+
+675
+00:56:21,704 --> 00:56:25,184
+Bien.
+Subiré sus cosas a bordo.
+
+676
+00:56:29,504 --> 00:56:30,384
+Clayton.
+
+677
+00:56:33,224 --> 00:56:34,704
+Si Jane ve gorilas...
+
+678
+00:56:35,504 --> 00:56:36,544
+¿se queda?
+
+679
+00:56:36,704 --> 00:56:39,824
+A eso vino, ¿no?
+
+680
+00:56:42,504 --> 00:56:43,464
+Lo haré.
+
+681
+00:56:43,504 --> 00:56:44,824
+¡Muy bien!
+
+682
+00:56:45,264 --> 00:56:46,344
+Snipes.
+
+683
+00:56:46,584 --> 00:56:50,464
+Reúne a los muchachos.
+Hay un cambio de planes.
+
+684
+00:56:51,304 --> 00:56:53,624
+Limítate a alejar a Kerchak.
+STYLE
+::cue()
+Limítate a alejar a Kerchak.
+
+685
+00:56:53,904 --> 00:56:55,544
+Lo haría encantado...
+
+686
+00:56:56,384 --> 00:56:58,704
+Cierra esa trompa
+y sácame de aquí.
+
+687
+00:56:59,224 --> 00:57:01,544
+Ese tipo es increíble.
+
+688
+00:57:01,664 --> 00:57:05,184
+Nos deja más tirados
+que una jirafa recién nacida.
+
+689
+00:57:05,304 --> 00:57:08,264
+De pronto aparece y pretende...
+
+690
+00:57:08,584 --> 00:57:10,904
+Terk, te lo pido como amigo.
+
+691
+00:57:14,264 --> 00:57:15,224
+Con esa cara
+
+692
+00:57:15,344 --> 00:57:16,544
+y esos ojos...
+
+693
+00:57:17,384 --> 00:57:20,904
+Vale, pero no me hagas
+hacer nada vergonzoso.
+
+694
+00:57:21,744 --> 00:57:23,824
+¡Acabaré con él!
+
+695
+00:57:24,704 --> 00:57:27,544
+El caso es que ese vestido
+te hace delgada.
+
+696
+00:57:27,624 --> 00:57:29,944
+¿En serio? Me pareció
+un poco atrevido y...
+
+697
+00:57:33,904 --> 00:57:35,624
+¿Cómo puede moverse
+con esto?
+
+698
+00:58:06,904 --> 00:58:08,504
+- Mira, papá.
+- ¿Dónde?
+
+699
+00:58:09,904 --> 00:58:10,704
+¡Jane!
+
+700
+00:58:13,304 --> 00:58:16,464
+Tenga cuidado, profesor.
+No la asuste.
+
+701
+00:58:17,424 --> 00:58:19,624
+Es preciosa.
+
+702
+00:58:20,664 --> 00:58:22,304
+Es mi madre.
+
+703
+00:58:24,304 --> 00:58:25,304
+¿Esta es tu...
+
+704
+00:58:27,624 --> 00:58:28,504
+madre?
+
+705
+00:58:38,824 --> 00:58:39,864
+¿Qué pasa?
+
+706
+00:58:40,584 --> 00:58:41,784
+No lo sé, papá.
+
+707
+00:58:42,584 --> 00:58:44,024
+¡Se marcha!
+
+708
+00:58:44,344 --> 00:58:46,304
+¡Clayton, no!
+La asustará aún más.
+
+709
+00:58:54,024 --> 00:58:56,544
+Sí. Claro, cariño.
+Buena idea.
+
+710
+00:58:57,944 --> 00:59:00,024
+¿Qué hacen?
+Van a asustarlos.
+
+711
+00:59:00,504 --> 00:59:01,704
+Levántense. Leván...
+
+712
+00:59:02,664 --> 00:59:04,504
+No se levanten.
+
+713
+00:59:36,064 --> 00:59:36,984
+Hola.
+
+714
+00:59:42,584 --> 00:59:44,504
+Yo también me alegro
+de conocerte.
+
+715
+00:59:48,704 --> 00:59:51,384
+Majestad, qué bromista sois.
+
+716
+00:59:53,704 --> 00:59:57,064
+Ah, hola. Arquímedes Q. Porter,
+para servirles.
+
+717
+00:59:58,464 --> 00:59:59,704
+Menudo apretón de manos.
+
+718
+01:00:00,904 --> 01:00:02,904
+Gracias.
+¿Ese lo tenía yo?
+
+719
+01:00:05,704 --> 01:00:07,584
+Esto es maravilloso,
+Sr. Clayton.
+
+720
+01:00:07,584 --> 01:00:09,104
+¡Mire!
+¡Aseo social!
+
+721
+01:00:09,424 --> 01:00:11,704
+Enhorabuena, profesor.
+
+722
+01:00:12,624 --> 01:00:13,504
+Nuestro sueño
+
+723
+01:00:13,664 --> 01:00:15,424
+se ha hecho realidad.
+STYLE
+::cue()
+
+724
+01:00:19,904 --> 01:00:23,024
+¡Dame eso! ¿Qué hacéis?
+¡Parad!
+
+725
+01:00:23,784 --> 01:00:27,384
+¡Deja eso! ¡No es un juguete!
+
+726
+01:00:42,544 --> 01:00:44,824
+- ¿Puedes enseñarme?
+- ¿A hablar gorila?
+
+727
+01:00:45,824 --> 01:00:46,704
+Sí.
+
+728
+01:01:09,104 --> 01:01:11,464
+Santo cielo, ¿qué he dicho?
+
+729
+01:01:12,824 --> 01:01:14,784
+Que Jane se queda con Tarzán.
+
+730
+01:01:15,544 --> 01:01:17,784
+¿Quedarme?
+Creía que ya lo habíamos...
+
+731
+01:01:18,904 --> 01:01:20,584
+Tarzán, yo...
+
+732
+01:01:26,504 --> 01:01:27,944
+¿Es ese mi vestido?
+
+733
+01:01:28,504 --> 01:01:29,464
+Oh, no.
+
+734
+01:01:33,184 --> 01:01:34,424
+Papá...
+
+735
+01:01:37,864 --> 01:01:39,104
+¡Dámelo!
+
+736
+01:01:42,864 --> 01:01:43,784
+¡No!
+
+737
+01:02:02,664 --> 01:02:03,544
+¡Marchaos!
+
+738
+01:02:05,064 --> 01:02:06,984
+¡Esperad! ¡Tarzán!
+
+739
+01:02:07,144 --> 01:02:08,224
+¡Marchaos ya!
+
+740
+01:02:08,544 --> 01:02:10,584
+¡Jane, rápido!
+¡Date prisa! ¡Vamos!
+
+741
+01:02:31,224 --> 01:02:33,144
+Kerchak, no era mi intención...
+
+742
+01:02:33,984 --> 01:02:37,584
+Te pedí que protegieses
+a nuestra familia.
+
+743
+01:02:38,864 --> 01:02:41,584
+Y nos has traicionado
+a todos.
+
+744
+01:03:10,144 --> 01:03:11,984
+Me siento tan confuso...
+
+745
+01:03:14,944 --> 01:03:19,104
+Acompáñame. Hay algo que debí
+enseñarte hace mucho tiempo.
+STYLE
+::cue()
+
+746
+01:04:39,744 --> 01:04:41,064
+¿Este soy yo?
+
+747
+01:04:45,784 --> 01:04:48,144
+Y este es mi padre, y...
+
+748
+01:04:49,384 --> 01:04:50,344
+y mi...
+
+749
+01:04:52,864 --> 01:04:54,024
+Ahora ya lo sabes.
+
+750
+01:04:54,984 --> 01:04:56,144
+Tarzán.
+
+751
+01:04:56,864 --> 01:05:01,064
+Solo quiero que seas feliz,
+decidas lo que decidas.
+
+752
+01:05:49,424 --> 01:05:53,304
+Dondequiera que vaya,
+siempre serás mi madre.
+
+753
+01:05:58,104 --> 01:06:00,944
+Y tú siempre estarás
+en mi corazón.
+
+754
+01:06:21,304 --> 01:06:23,104
+Adiós, Tarzán.
+
+755
+01:06:23,784 --> 01:06:25,104
+¡Tarzán!
+
+756
+01:06:37,824 --> 01:06:38,864
+¡Tarzán!
+
+757
+01:06:39,304 --> 01:06:40,864
+¡Hemos llegado tarde!
+
+758
+01:06:41,464 --> 01:06:42,824
+¡No puedo creerlo!
+
+759
+01:06:42,984 --> 01:06:44,984
+Si hubieses preguntado
+el camino...
+
+760
+01:06:45,104 --> 01:06:47,144
+No hemos podido
+decirle adiós.
+
+761
+01:06:47,384 --> 01:06:48,984
+Vete con viento fresco.
+
+762
+01:06:49,144 --> 01:06:52,344
+¿Quién te necesita?
+Lárgate de aquí, pelado.
+
+763
+01:06:52,984 --> 01:06:55,304
+¡Ingrato! ¡Pelado ingrato!
+
+764
+01:06:55,424 --> 01:06:57,344
+Por mí, puedes pudrirte.
+
+765
+01:06:57,744 --> 01:06:58,424
+¡Vete!
+
+766
+01:07:01,464 --> 01:07:03,144
+¿Qué miras?
+
+767
+01:07:03,424 --> 01:07:05,184
+Yo también le echaré
+de menos.
+STYLE
+::cue()
+
+768
+01:07:13,864 --> 01:07:16,424
+Tarzán, no puedes imaginar
+lo que te espera.
+
+769
+01:07:16,784 --> 01:07:19,784
+Verás el mundo.
+Todos querrán conocerte.
+
+770
+01:07:19,904 --> 01:07:21,984
+Reyes, científicos,
+escritores...
+
+771
+01:07:22,144 --> 01:07:25,344
+Sí. Darwin y Kipling.
+La Reina Victoria.
+
+772
+01:07:25,544 --> 01:07:27,544
+He oído decir
+que es encantadora.
+
+773
+01:07:27,984 --> 01:07:29,184
+¿Y estaré con Jane?
+
+774
+01:07:31,824 --> 01:07:33,384
+Sí, con Jane.
+
+775
+01:07:35,504 --> 01:07:36,904
+Está resbaladiza.
+
+776
+01:07:58,224 --> 01:07:59,224
+¡Tarzán!
+
+777
+01:08:00,544 --> 01:08:01,824
+¡Tarzán!
+
+778
+01:08:09,984 --> 01:08:10,904
+¡Jane!
+
+779
+01:08:32,264 --> 01:08:34,024
+¿Qué está pasando aquí?
+
+780
+01:08:34,344 --> 01:08:36,264
+¡Clayton! ¡Clayton, ayuda!
+
+781
+01:08:38,304 --> 01:08:39,904
+¿Nos conocemos?
+
+782
+01:08:43,624 --> 01:08:45,024
+Ah, sí.
+
+783
+01:08:45,264 --> 01:08:46,984
+El hombre mono.
+
+784
+01:08:47,944 --> 01:08:50,104
+Clayton, eres...
+
+785
+01:08:53,144 --> 01:08:55,944
+Lamento tan grosero recibimiento,
+
+786
+01:08:56,024 --> 01:08:58,144
+pero no quiero
+que montes un espectáculo
+
+787
+01:08:58,184 --> 01:09:01,984
+cuando metamos en jaulas
+a tus amigos peludos.
+
+788
+01:09:02,624 --> 01:09:03,544
+¿Por qué?
+
+789
+01:09:04,184 --> 01:09:05,144
+¿Por qué?
+
+790
+01:09:05,304 --> 01:09:08,104
+Por 300 libras esterlinas
+por cabeza.
+
+791
+01:09:08,264 --> 01:09:11,464
+De hecho, tengo que darte
+las gracias.
+
+792
+01:09:12,264 --> 01:09:14,184
+Sin ti, no lo hubiese logrado.
+
+793
+01:09:17,144 --> 01:09:18,624
+Encerradle con los demás.
+
+794
+01:09:23,944 --> 01:09:25,464
+Eso parecía Tarzán.
+
+795
+01:09:25,664 --> 01:09:27,984
+Como si tuviera problemas.
+
+796
+01:09:28,224 --> 01:09:31,464
+Que le ayuden sus nuevos amigos.
+A mí me trae sin cuidado.
+
+797
+01:09:33,984 --> 01:09:34,984
+¡Se acabó!
+
+798
+01:09:35,064 --> 01:09:38,104
+¡Estoy harto
+de tu estreñimiento emocional!
+
+799
+01:09:38,264 --> 01:09:39,424
+¡Tarzán nos necesita
+
+800
+01:09:39,544 --> 01:09:42,384
+y vamos a ayudarle!
+¿Me has oído?
+
+801
+01:09:42,504 --> 01:09:45,064
+¡Y ahora, cállate y agárrate fuerte!
+
+802
+01:09:45,664 --> 01:09:47,424
+Tenemos un barco que coger.
+
+803
+01:09:57,384 --> 01:09:59,624
+¡Nunca me he sentido
+tan vivo!
+
+804
+01:10:00,104 --> 01:10:02,104
+Perfecto.
+Porque voy a matarte.
+
+805
+01:10:02,944 --> 01:10:04,424
+No hay tiempo para eso.
+
+806
+01:10:25,544 --> 01:10:27,264
+Tarzán, es inútil.
+Déjalo.
+
+807
+01:10:36,224 --> 01:10:38,504
+- Clayton.
+- Sí, Clayton.
+
+808
+01:10:38,704 --> 01:10:40,584
+Nos ha traicionado
+a todos.
+
+809
+01:10:41,104 --> 01:10:44,064
+- Lo siento tanto, Tarzán...
+- No...
+
+810
+01:10:44,264 --> 01:10:47,544
+He sido yo.
+Yo he traicionado a mi familia.
+
+811
+01:10:48,424 --> 01:10:50,064
+Kerchak tenía razón.
+
+812
+01:10:50,584 --> 01:10:54,744
+Esas magníficas criaturas,
+temblando en jaulas...
+
+813
+01:10:55,384 --> 01:10:58,024
+¿Qué está pasando con el mundo?
+
+814
+01:11:04,264 --> 01:11:06,424
+Caracoles...
+no sabía que era tan fuerte.
+STYLE
+::cue()
+
+815
+01:11:11,664 --> 01:11:13,184
+¿Qué ha sido eso?
+
+816
+01:11:13,664 --> 01:11:15,184
+¡Serás animal!
+
+817
+01:11:18,104 --> 01:11:19,584
+Eso parecía un elefante.
+
+818
+01:11:19,744 --> 01:11:20,704
+¡Tantor!
+
+819
+01:11:22,744 --> 01:11:23,784
+Gracias, chicos.
+
+820
+01:11:23,784 --> 01:11:28,104
+Pensé que no volvería a verte,
+y aquí estás.
+
+821
+01:11:29,384 --> 01:11:32,024
+A veces me avergüenzas.
+
+822
+01:12:40,144 --> 01:12:41,464
+Ya me acuerdo de ti.
+
+823
+01:12:44,504 --> 01:12:47,184
+Este estará mejor disecado.
+
+824
+01:13:01,824 --> 01:13:03,544
+¡A la carga!
+
+825
+01:13:09,504 --> 01:13:10,784
+Has vuelto.
+
+826
+01:13:11,304 --> 01:13:12,304
+He vuelto a casa.
+
+827
+01:13:27,584 --> 01:13:28,424
+¡Fuego!
+
+828
+01:13:35,424 --> 01:13:38,224
+¡Vosotros!
+¡Llevad cuanto podáis al barco!
+
+829
+01:13:41,584 --> 01:13:43,784
+Yo me voy de caza.
+
+830
+01:14:08,544 --> 01:14:11,464
+No te preocupes,
+estarás fuera en un instante.
+
+831
+01:14:17,344 --> 01:14:18,784
+Esto debería servir.
+
+832
+01:14:41,944 --> 01:14:43,424
+¿Así que te escondes?
+
+833
+01:14:44,384 --> 01:14:45,664
+¡Clayton, eres una rata!
+
+834
+01:14:46,264 --> 01:14:47,344
+Acepto el desafío.
+
+835
+01:14:47,944 --> 01:14:51,784
+Cuando me haya librado de ti,
+capturar a tu familia de monos
+
+836
+01:14:51,984 --> 01:14:53,984
+será una tarea
+demasiado fácil.
+STYLE
+::cue()
+
+837
+01:15:21,704 --> 01:15:23,384
+Adelante, dispárame.
+
+838
+01:15:27,464 --> 01:15:28,624
+Sé un hombre.
+
+839
+01:15:36,744 --> 01:15:37,904
+¡No un hombre como tú!
+
+840
+01:16:09,304 --> 01:16:09,864
+¡Clayton!
+
+841
+01:16:11,784 --> 01:16:12,664
+¡Clayton, no!
+
+842
+01:17:05,744 --> 01:17:06,864
+Tarzán.
+
+843
+01:17:07,424 --> 01:17:08,424
+Kerchak,
+
+844
+01:17:09,464 --> 01:17:10,624
+perdóname.
+
+845
+01:17:11,744 --> 01:17:12,704
+No...
+
+846
+01:17:13,704 --> 01:17:16,384
+perdóname tú a mí
+por no comprender
+
+847
+01:17:17,544 --> 01:17:21,384
+que siempre has sido
+uno de nosotros.
+
+848
+01:17:22,984 --> 01:17:25,944
+Nuestra familia
+depende ahora de ti.
+
+849
+01:17:28,504 --> 01:17:30,384
+No. Kerchak.
+
+850
+01:17:30,464 --> 01:17:31,704
+Cuida de ellos...
+
+851
+01:17:34,464 --> 01:17:35,664
+hijo mío.
+
+852
+01:17:44,744 --> 01:17:46,144
+Cuida de ellos.
+STYLE
+::cue()
+
+853
+01:19:07,544 --> 01:19:10,584
+Londres me parecerá pequeño
+comparado con esto.
+
+854
+01:19:11,744 --> 01:19:13,184
+Te echaré de menos, Jane.
+
+855
+01:19:14,744 --> 01:19:15,944
+¡Señorita Porter!
+
+856
+01:19:16,064 --> 01:19:17,864
+Lo sé. Ya voy.
+
+857
+01:19:19,784 --> 01:19:23,584
+Bueno, supongo que
+deberíamos despedirnos.
+
+858
+01:19:36,104 --> 01:19:37,104
+Adiós.
+
+859
+01:19:46,584 --> 01:19:48,504
+¡Adiós, Tarzán!
+
+860
+01:19:48,704 --> 01:19:49,944
+¡Adiós!
+
+861
+01:19:50,504 --> 01:19:53,024
+Voy a echar de menos
+a ese muchacho.
+
+862
+01:20:02,744 --> 01:20:06,544
+Jane, cariño, sigo pensando
+que deberías quedarte.
+
+863
+01:20:06,864 --> 01:20:10,984
+Por favor, no. Ya hemos hablado
+de todo esto. No puedo quedarme.
+
+864
+01:20:12,544 --> 01:20:15,304
+Mi lugar está en Inglaterra,
+contigo, con la gente y...
+
+865
+01:20:21,984 --> 01:20:23,584
+Pero tú le quieres.
+
+866
+01:20:28,904 --> 01:20:29,864
+Adelante.
+
+867
+01:20:55,904 --> 01:20:58,144
+Gracias por recoger mi guante.
+
+868
+01:20:59,944 --> 01:21:01,064
+Gracias.
+
+869
+01:21:19,144 --> 01:21:20,304
+¿Qué estoy haciendo?
+
+870
+01:21:20,864 --> 01:21:21,784
+Capitán,
+
+871
+01:21:21,864 --> 01:21:23,664
+dígales que no nos encontró.
+
+872
+01:21:23,904 --> 01:21:26,944
+Al fin y al cabo, se pierde gente
+en la selva a diario.
+
+873
+01:21:27,384 --> 01:21:28,264
+Adiós.
+
+874
+01:21:49,224 --> 01:21:52,744
+Pon tu fe
+en lo que tú más creas,
+
+875
+01:21:53,704 --> 01:21:56,264
+dos mundos, una familia.
+
+876
+01:21:57,104 --> 01:21:58,864
+Confía en tu corazón,
+
+877
+01:21:59,024 --> 01:22:00,864
+deja que el destino decida
+
+878
+01:22:01,184 --> 01:22:02,984
+guiar esas vidas...
+
+879
+01:22:03,104 --> 01:22:06,104
+guiar esas vidas que vemos.
+
+880
+01:22:06,224 --> 01:22:09,424
+Pon tu fe
+en lo que tú más creas,
+
+881
+01:22:10,104 --> 01:22:13,264
+dos mundos, una familia.
+
