@@ -1,0 +1,4104 @@
+﻿1
+00:00:30,560 --> 00:00:35,240
+TIERRA DE OSOS
+
+2
+00:00:44,080 --> 00:00:47,280
+<i>Ésta es una historia</i>
+<i>de hace mucho tiempo,</i>
+
+3
+00:00:47,360 --> 00:00:51,080
+<i>cuando los enormes mamuts</i>
+<i>todavía vagaban por nuestras tierras.</i>
+
+4
+00:00:53,640 --> 00:00:57,080
+<i>Es la historia de</i>
+<i>mis dos hermanos y yo.</i>
+
+5
+00:00:57,120 --> 00:00:59,440
+<i>Cuando los tres éramos pequeños,</i>
+
+6
+00:00:59,480 --> 00:01:03,280
+<i>nos enseñaron que el</i>
+<i>mundo está lleno de magia.</i>
+
+7
+00:01:08,280 --> 00:01:12,160
+<i>La fuente de esta magia son</i>
+<i>las luces, siempre cambiantes</i>
+
+8
+00:01:12,240 --> 00:01:14,600
+<i>que danzan por el cielo.</i>
+
+9
+00:01:18,080 --> 00:01:20,520
+<i>La chamán de nuestra aldea</i>
+
+10
+00:01:20,640 --> 00:01:24,120
+<i>nos dijo que esas luces son los</i>
+<i>espíritus de nuestros antepasados</i>
+
+11
+00:01:24,200 --> 00:01:28,800
+<i>y que tienen el poder de</i>
+<i>hacer cambios en nuestro mundo.</i>
+
+12
+00:01:32,160 --> 00:01:34,880
+<i>Las cosas pequeñas</i>
+<i>se vuelven grandes.</i>
+
+13
+00:01:37,480 --> 00:01:39,760
+<i>El invierno se vuelve primavera.</i>
+
+14
+00:01:42,840 --> 00:01:46,400
+<i>Una cosa siempre se convierte en otra.</i>
+
+15
+00:01:48,440 --> 00:01:51,640
+<i>Pero el cambio más</i>
+<i>maravilloso que jamás he visto</i>
+
+16
+00:01:51,720 --> 00:01:54,320
+<i>fue el de mi hermano.</i>
+
+17
+00:01:54,360 --> 00:01:58,400
+<i>Un niño que quería</i>
+<i>desesperadamente volverse</i>
+
+18
+00:01:58,480 --> 00:02:00,120
+<i>hombre.</i>
+
+19
+00:02:02,680 --> 00:02:04,720
+-¡Bájense!
+-¿Qué?
+
+20
+00:02:05,160 --> 00:02:07,160
+¡Bájense!
+
+21
+00:02:14,000 --> 00:02:15,680
+Kenai.
+
+22
+00:02:35,560 --> 00:02:37,680
+Nunca traten de
+ordeñar a un caribú.
+
+23
+00:02:42,320 --> 00:02:44,200
+¡No! ¡No me escupas!
+
+24
+00:02:44,240 --> 00:02:46,400
+-¡Por favor! ¡No!
+-Oigan.
+
+25
+00:02:46,480 --> 00:02:48,640
+¡Déjense de payasadas!
+
+26
+00:02:48,720 --> 00:02:51,880
+Está bien. Después de
+hoy, ya no me va a tratar así.
+
+27
+00:02:51,960 --> 00:02:55,400
+Ah, sí. La gran ceremonia
+de volverte adulto.
+
+28
+00:02:55,480 --> 00:02:59,280
+Digan lo que digan los espíritus,
+siempre serás el hermanito.
+
+29
+00:02:59,360 --> 00:03:02,160
+-Vas a ver cuando tenga mi tótem.
+-¡Hermanito!
+
+30
+00:03:03,640 --> 00:03:05,920
+Les dije que pararan.
+
+31
+00:03:06,000 --> 00:03:09,240
+Vamos rápido por el pescado
+para poder ir a la ceremonia.
+
+32
+00:03:09,320 --> 00:03:13,160
+Traten de llevarse bien, ¿sí?
+
+33
+00:03:13,240 --> 00:03:15,360
+-Lo que tú digas.
+-Está bien, Ken...
+
+34
+00:03:15,400 --> 00:03:17,880
+¿Qué estamos esperando?
+
+35
+00:03:27,280 --> 00:03:32,400
+<i>Cuando la tierra era joven</i>
+<i>Y el aire era fragante</i>
+
+36
+00:03:32,520 --> 00:03:37,240
+<i>Y los montes besaban el cielo</i>
+
+37
+00:03:38,440 --> 00:03:41,120
+<i>En el mundo extenso</i>
+
+38
+00:03:41,200 --> 00:03:43,560
+<i>De muchas veredas</i>
+
+39
+00:03:43,640 --> 00:03:47,760
+<i>Hombre y naturaleza coexistían</i>
+
+40
+00:03:49,400 --> 00:03:53,760
+<i>En esta tierra de peligro y belleza</i>
+
+41
+00:03:54,800 --> 00:03:59,240
+<i>Vivían tres hermanos</i>
+<i>Unidos por amor</i>
+
+42
+00:04:00,640 --> 00:04:03,160
+<i>Con dicha en el corazón</i>
+
+43
+00:04:03,800 --> 00:04:06,200
+<i>Piden ahora consejo</i>
+
+44
+00:04:06,280 --> 00:04:10,880
+<i>Rogándole</i>
+<i>Al cielo, allá arriba</i>
+
+45
+00:04:12,160 --> 00:04:15,200
+<i>Grandes espíritus</i>
+<i>De los que han vivido</i>
+
+46
+00:04:15,280 --> 00:04:17,840
+<i>Guíennos de la mano</i>
+
+47
+00:04:17,920 --> 00:04:22,520
+<i>Llénennos cuerpo y alma</i>
+<i>Con todo lo que saben</i>
+
+48
+00:04:23,480 --> 00:04:26,160
+<i>Muéstrennos que, ante ustedes</i>
+
+49
+00:04:26,240 --> 00:04:28,360
+<i>Todos somos iguales</i>
+
+50
+00:04:29,240 --> 00:04:34,200
+<i>Hermanos uno del otro</i>
+<i>En este mundo siempre seremos</i>
+
+51
+00:04:34,280 --> 00:04:36,800
+<i>Verdaderos hermanos iguales</i>
+
+52
+00:04:36,880 --> 00:04:41,320
+<i>Dennos sabiduría que pasarnos</i>
+
+53
+00:04:42,200 --> 00:04:46,240
+<i>Y dennos fuerza</i>
+<i>Para que entendamos</i>
+
+54
+00:04:48,160 --> 00:04:50,120
+<i>Que las cosas que hacemos</i>
+
+55
+00:04:51,280 --> 00:04:53,600
+<i>Nuestras decisiones</i>
+
+56
+00:04:53,680 --> 00:04:57,640
+<i>Encauzan todos los planes de la vida</i>
+
+57
+00:04:59,160 --> 00:05:03,680
+<i>Que admiremos lo que tenemos</i>
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+58
+00:05:04,600 --> 00:05:09,200
+<i>En un mundo</i>
+<i>Que no siempre es lo que parece</i>
+
+59
+00:05:10,600 --> 00:05:12,920
+<i>Cada esquina que doblamos</i>
+
+60
+00:05:13,440 --> 00:05:16,040
+<i>Sólo nos lleva a otra</i>
+
+61
+00:05:16,120 --> 00:05:20,800
+<i>Un viaje acaba</i>
+<i>Pero otro empieza</i>
+
+62
+00:05:21,720 --> 00:05:25,000
+<i>Grandes espíritus</i>
+<i>De los que han vivido</i>
+
+63
+00:05:25,040 --> 00:05:27,840
+<i>Guíennos de la mano</i>
+
+64
+00:05:27,880 --> 00:05:32,360
+<i>Llénennos cuerpo y alma</i>
+<i>Con todo lo que saben</i>
+
+65
+00:05:33,120 --> 00:05:36,040
+<i>Enséñennos que ante ustedes</i>
+
+66
+00:05:36,080 --> 00:05:38,080
+<i>Todos somos iguales</i>
+
+67
+00:05:38,880 --> 00:05:43,960
+<i>Hermanos uno del otro</i>
+<i>En este mundo siempre seremos</i>
+
+68
+00:05:44,040 --> 00:05:46,760
+<i>Verdaderos hermanos iguales</i>
+
+69
+00:05:46,840 --> 00:05:48,840
+-¡Kenai ha vuelto!
+-Kenai.
+
+70
+00:05:48,880 --> 00:05:52,480
+¿Estás emocionado porque hoy
+te van a dar tu roca espiritual?
+
+71
+00:05:52,560 --> 00:05:56,000
+No es una roca. Va a ser mi tótem.
+
+72
+00:05:57,080 --> 00:06:00,280
+Probablemente me
+den un tigre por el valor,
+
+73
+00:06:00,320 --> 00:06:02,440
+o la fuerza o la grandeza.
+
+74
+00:06:02,520 --> 00:06:04,240
+Algo que vaya con mi personalidad.
+
+75
+00:06:04,280 --> 00:06:06,240
+¿Quizás un mamut
+por lo agrandado que estás?
+
+76
+00:06:06,280 --> 00:06:09,120
+-Amarra bien esa canasta.
+-No te preocupes.
+
+77
+00:06:09,200 --> 00:06:11,800
+Ningún oso agarrará esos pescados.
+
+78
+00:06:11,880 --> 00:06:13,880
+Nada más amárrala.
+
+79
+00:06:13,920 --> 00:06:16,000
+"Nada más amárrala".
+
+80
+00:06:16,080 --> 00:06:18,120
+¡Ya regresó! ¡Ya regresó Tanana!
+
+81
+00:06:18,200 --> 00:06:19,680
+¡Vamos!
+
+82
+00:06:20,800 --> 00:06:23,120
+-¡Vamos, Kenai, date prisa!
+-Vamos.
+
+83
+00:06:23,200 --> 00:06:25,600
+¡Tanana tiene tu roca! ¡Vamos!
+
+84
+00:06:31,440 --> 00:06:34,800
+<i>Grandes espíritus</i>
+<i>De los que han vivido antes</i>
+
+85
+00:06:34,840 --> 00:06:36,880
+<i>Guíennos de la mano</i>
+
+86
+00:06:37,440 --> 00:06:42,120
+<i>Llénennos con todo lo que saben</i>
+
+87
+00:06:42,880 --> 00:06:45,720
+<i>Enséñennos que, ante ustedes</i>
+
+88
+00:06:45,760 --> 00:06:48,040
+<i>Todos somos iguales</i>
+
+89
+00:06:48,800 --> 00:06:53,760
+<i>Hermanos uno del otro</i>
+<i>En este mundo siempre seremos</i>
+
+90
+00:06:53,800 --> 00:06:56,960
+<i>Verdaderos hermanos iguales</i>
+
+91
+00:06:57,040 --> 00:07:01,560
+<i>Hermanos todos iguales</i>
+
+92
+00:07:02,640 --> 00:07:03,920
+¿Nana?
+
+93
+00:07:03,960 --> 00:07:08,320
+-¡Oye, Nana!
+-Hola, preciosa.
+
+94
+00:07:08,400 --> 00:07:10,720
+¡Qué niña tan grande!
+
+95
+00:07:13,360 --> 00:07:16,000
+Cuando uno llega a la mayoría de edad,
+
+96
+00:07:16,080 --> 00:07:19,040
+los grandes espíritus
+nos revelan un tótem
+
+97
+00:07:19,120 --> 00:07:22,280
+que ayuda a guiarnos
+a través de la vida.
+
+98
+00:07:22,800 --> 00:07:25,720
+Algunos usan el valor para guiarnos.
+
+99
+00:07:26,800 --> 00:07:28,960
+Otros, la paciencia.
+
+100
+00:07:31,160 --> 00:07:33,960
+Y algunos de nosotros, la belleza.
+
+101
+00:07:36,920 --> 00:07:38,920
+¿Kenai?
+
+102
+00:07:40,960 --> 00:07:43,760
+-¿Estás nervioso?
+-Emocionado.
+
+103
+00:07:44,080 --> 00:07:46,680
+Cual debe ser.
+Te tocó un tótem bueno.
+
+104
+00:07:47,440 --> 00:07:52,160
+Kenai, fui a la montaña
+donde las luces tocan la tierra,
+
+105
+00:07:52,240 --> 00:07:57,160
+y los grandes espíritus
+me han revelado tu tótem.
+
+106
+00:07:57,760 --> 00:07:59,520
+Para convertirte en un hombre,
+
+107
+00:07:59,560 --> 00:08:03,760
+tus acciones
+deberán ser guiadas por una cosa.
+
+108
+00:08:05,080 --> 00:08:08,680
+Tu tótem es
+
+109
+00:08:11,440 --> 00:08:13,000
+¡el amor!
+
+110
+00:08:13,960 --> 00:08:17,200
+-¿Qué?
+-¡Sí! ¡El amor!
+
+111
+00:08:18,120 --> 00:08:20,200
+¿El oso del amor?
+
+112
+00:08:20,240 --> 00:08:24,720
+Un amor que conecta
+y une a todos los seres vivos.
+
+113
+00:08:24,760 --> 00:08:27,720
+-¿Quién quiere cambiar?
+-¡No lo puedes cambiar!
+
+114
+00:08:29,480 --> 00:08:33,600
+Kenai, el amor es el más
+preciado de todos los tótems.
+
+115
+00:08:33,680 --> 00:08:37,040
+Se revela a sí mismo
+de maneras inesperadas.
+
+116
+00:08:37,600 --> 00:08:42,960
+Deja que el amor guíe tus acciones.
+Así un día serás un hombre.
+
+117
+00:08:43,040 --> 00:08:48,080
+Y entonces pondremos tu marca
+junto a las de nuestros ancestros.
+
+118
+00:09:11,080 --> 00:09:13,440
+¡Ahí está!
+
+119
+00:09:13,480 --> 00:09:15,720
+¡Ven acá, Don Juan!
+
+120
+00:09:15,760 --> 00:09:18,440
+-Déjame en paz.
+-Kenai, espera.
+
+121
+00:09:19,440 --> 00:09:21,880
+-Perdón.
+-¿Qué?
+
+122
+00:09:21,920 --> 00:09:24,440
+Tu tótem. A mí me parece fabuloso.
+
+123
+00:09:24,480 --> 00:09:27,400
+-¿En serio?
+-Y te hice algo.
+
+124
+00:09:27,440 --> 00:09:28,760
+¿Sí?
+
+125
+00:09:28,880 --> 00:09:31,600
+Ahora cuando vayas
+saltando, amando a todos,
+
+126
+00:09:31,640 --> 00:09:33,640
+olerás muy perfumado.
+
+127
+00:09:34,400 --> 00:09:38,760
+Qué bien. En vez de pelearse,
+se están dando flores.
+
+128
+00:09:38,800 --> 00:09:42,440
+Qué precioso, ¿no? Ya está
+tan en contacto con su tótem.
+
+129
+00:09:43,120 --> 00:09:45,800
+Oye, aliento de perro,
+ve por los peces.
+
+130
+00:09:45,880 --> 00:09:48,960
+Claro que sí. Kenai
+me quiere, no me quiere.
+
+131
+00:09:52,840 --> 00:09:56,360
+-Kenai.
+-Un día, voy a...
+
+132
+00:09:57,480 --> 00:09:59,640
+-Es un...
+-Oye, tonto.
+
+133
+00:09:59,720 --> 00:10:02,920
+El que su tótem sea la
+sabiduría no lo convierte en sabio.
+
+134
+00:10:02,960 --> 00:10:06,360
+-Míralo.
+-Kenai me quiere, no me quiere.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+135
+00:10:06,440 --> 00:10:09,240
+-Hola, Denahi.
+-Ah, hola.
+
+136
+00:10:10,000 --> 00:10:11,320
+Vamos.
+
+137
+00:10:11,400 --> 00:10:14,480
+Los espíritus se
+equivocaron con nosotros.
+
+138
+00:10:14,560 --> 00:10:17,080
+Yo sentí igual cuando
+Tanana me dio mi tótem.
+
+139
+00:10:17,160 --> 00:10:19,080
+-No me vengas con cuentos.
+-En serio.
+
+140
+00:10:19,160 --> 00:10:23,160
+Dije: "¿El águila que guía?
+¿Qué significa eso?".
+
+141
+00:10:23,200 --> 00:10:26,240
+Con los años entendí
+que se trata de ser un líder
+
+142
+00:10:26,320 --> 00:10:28,680
+y cuidarlos a ustedes.
+
+143
+00:10:30,160 --> 00:10:32,680
+Yo sólo quiero poner
+mi huella en esa pared.
+
+144
+00:10:32,760 --> 00:10:34,760
+Ten paciencia, Kenai.
+
+145
+00:10:34,840 --> 00:10:37,440
+Cuando te dejes guiar
+por tu tótem, la pondrás.
+
+146
+00:10:37,520 --> 00:10:39,680
+-¿En serio?
+-Te lo garantizo.
+
+147
+00:10:42,640 --> 00:10:46,200
+Pero, por favor. ¿El oso del amor?
+
+148
+00:10:46,280 --> 00:10:48,360
+Un oso no ama a nadie.
+
+149
+00:10:48,400 --> 00:10:51,360
+Los osos no piensan, no sienten, son...
+
+150
+00:10:53,480 --> 00:10:56,640
+-Son unos ladrones.
+-No la amarraste, ¿verdad?
+
+151
+00:10:58,000 --> 00:11:00,880
+-¡Te tocaba el tótem de los bobos!
+-Ya basta.
+
+152
+00:11:00,960 --> 00:11:03,200
+-Haremos otra canasta.
+-¿"Haremos"?
+
+153
+00:11:03,280 --> 00:11:07,240
+Ah, no. Me llevó dos
+semanas hacer esa canasta.
+
+154
+00:11:07,320 --> 00:11:10,720
+Que la haga el amoroso.
+Él es el que siempre mete la pata.
+
+155
+00:11:10,800 --> 00:11:14,200
+-¡Es típico de él!
+-Está bien. Iré por tu canasta.
+
+156
+00:11:14,240 --> 00:11:15,760
+Kenai, espera.
+
+157
+00:11:15,840 --> 00:11:17,840
+¡Kenai!
+
+158
+00:11:20,000 --> 00:11:21,800
+¿Qué?
+
+159
+00:11:42,760 --> 00:11:44,000
+¡Kenai!
+
+160
+00:11:46,760 --> 00:11:48,560
+¡Kenai!
+
+161
+00:11:48,600 --> 00:11:51,600
+-¿Adónde se fue?
+-Si tenemos suerte, lejos.
+
+162
+00:11:56,440 --> 00:11:57,840
+¡Kenai!
+
+163
+00:12:00,960 --> 00:12:03,760
+-¡Kenai!
+-¡Sitka, no! ¡Vete de aquí!
+
+164
+00:12:03,800 --> 00:12:06,280
+-¿Qué?
+-¡El oso! ¡Atrás de ti!
+
+165
+00:12:09,160 --> 00:12:11,720
+¡Oye, oso! ¡Ven! ¡Ven acá!
+
+166
+00:12:11,760 --> 00:12:13,760
+¡Vamos, oso! ¡Ven acá!
+
+167
+00:12:27,600 --> 00:12:28,800
+¡Denahi!
+
+168
+00:12:29,720 --> 00:12:31,720
+¡Agárrate bien!
+
+169
+00:12:31,800 --> 00:12:33,760
+¡Vamos, tira!
+
+170
+00:13:03,760 --> 00:13:06,040
+Sitka.
+
+171
+00:13:31,040 --> 00:13:32,200
+Sitka.
+
+172
+00:13:45,320 --> 00:13:47,120
+¡Vamos!
+
+173
+00:13:50,000 --> 00:13:52,000
+¡Sitka!
+
+174
+00:13:54,080 --> 00:13:56,080
+¡Sitka!
+
+175
+00:13:57,240 --> 00:13:59,240
+Sitka, ¿dónde estás?
+
+176
+00:14:00,040 --> 00:14:02,000
+¡Kenai!
+
+177
+00:14:12,400 --> 00:14:14,400
+¡No!
+
+178
+00:14:15,160 --> 00:14:17,160
+¡Sitka!
+
+179
+00:14:18,640 --> 00:14:20,640
+¡Sitka!
+
+180
+00:14:22,080 --> 00:14:24,080
+¡Hay que encontrarlo!
+
+181
+00:14:24,520 --> 00:14:25,880
+¡Sitka!
+
+182
+00:14:26,920 --> 00:14:28,920
+Sitka, ¿dónde estás?
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+183
+00:15:32,040 --> 00:15:34,960
+-¿Listo?
+-¿Para qué?
+
+184
+00:15:35,040 --> 00:15:37,040
+Para ir tras el oso.
+
+185
+00:15:38,520 --> 00:15:43,080
+Entiendo lo que sientes,
+pero matar a ese oso está mal.
+
+186
+00:15:43,160 --> 00:15:46,960
+¿Mal? ¡Nuestro hermano
+murió por culpa de ese monstruo!
+
+187
+00:15:47,320 --> 00:15:49,760
+El oso no tuvo la culpa, Kenai.
+
+188
+00:15:54,400 --> 00:15:57,400
+-Ya veo.
+-Matarlo no te volverá un hombre.
+
+189
+00:15:57,480 --> 00:15:59,520
+¿Estás siendo sabio?
+
+190
+00:15:59,520 --> 00:16:02,080
+¡Estoy siguiendo a mi tótem!
+¡Sigue al tuyo!
+
+191
+00:16:02,160 --> 00:16:05,360
+¿Crees que el amor tiene algo
+que ver con ser un hombre?
+
+192
+00:16:05,360 --> 00:16:08,680
+Un hombre no se quedaría
+sentado sin hacer nada.
+
+193
+00:16:08,760 --> 00:16:12,800
+Kenai.
+No hagas enojar a los espíritus.
+
+194
+00:16:13,600 --> 00:16:16,600
+A los espíritus.
+Gracias por tu sabiduría.
+
+195
+00:16:41,520 --> 00:16:43,560
+Lo tengo que detener.
+
+196
+00:16:51,800 --> 00:16:54,360
+Te fuiste demasiado pronto, Sitka.
+
+197
+00:16:54,400 --> 00:16:57,240
+Tus hermanos necesitan que los guíes.
+
+198
+00:19:34,640 --> 00:19:35,720
+Kenai.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+199
+00:21:52,360 --> 00:21:54,360
+¿Sitka?
+
+200
+00:22:52,120 --> 00:22:53,880
+¡No!
+
+201
+00:23:48,640 --> 00:23:51,080
+<i>El oso no tuvo la culpa, Kenai.</i>
+
+202
+00:23:54,360 --> 00:23:57,600
+<i>Un hombre no se quedaría</i>
+<i>sentado, sin hacer nada.</i>
+
+203
+00:24:48,440 --> 00:24:53,200
+Entonces, Kenai,
+decidiste unirte a los vivos.
+
+204
+00:24:53,240 --> 00:24:55,360
+Qué buen chichón tienes.
+
+205
+00:24:55,440 --> 00:24:58,280
+Debe de haber sido
+emocionante bajar por los rápidos.
+
+206
+00:24:58,360 --> 00:25:00,280
+¿Tanana?
+
+207
+00:25:05,480 --> 00:25:07,480
+Nana, no lo vas a creer.
+
+208
+00:25:07,560 --> 00:25:10,680
+Estaba hasta arriba
+de una roca gigantesca y...
+
+209
+00:25:13,080 --> 00:25:15,080
+Kenai, mi vida, calla.
+
+210
+00:25:15,880 --> 00:25:18,400
+No hablo la lengua de los osos.
+
+211
+00:25:23,440 --> 00:25:25,440
+¡No!
+
+212
+00:25:32,400 --> 00:25:36,440
+Ya, ya.
+¿Te quieres calmar?
+
+213
+00:25:36,520 --> 00:25:38,520
+Kenai.
+
+214
+00:25:41,920 --> 00:25:43,920
+Esto no va a funcionar.
+
+215
+00:25:46,920 --> 00:25:50,760
+Kenai, escúchame.
+Sitka te hizo esto.
+
+216
+00:25:52,520 --> 00:25:54,040
+Qué extraño.
+
+217
+00:25:54,080 --> 00:25:57,200
+Los espíritus normalmente
+no hacen estos cambios.
+
+218
+00:25:57,960 --> 00:25:59,680
+Pero, ay, ay, ay.
+
+219
+00:25:59,760 --> 00:26:02,960
+Sitka debe de haber
+planeado algo grande para ti.
+
+220
+00:26:03,040 --> 00:26:06,160
+Vas a ver las cosas desde
+un punto de vista muy diferente.
+
+221
+00:26:07,080 --> 00:26:09,760
+¿Ves en blanco y negro, o a color?
+
+222
+00:26:10,560 --> 00:26:13,960
+Escúchame. Tú te metiste en este lío.
+
+223
+00:26:14,040 --> 00:26:17,560
+Si quieres cambiar, habla
+con el espíritu de tu hermano.
+
+224
+00:26:19,520 --> 00:26:23,640
+Está en la montaña donde
+las luces tocan la tierra.
+
+225
+00:26:23,720 --> 00:26:26,480
+Él te ayudará a
+arreglar lo que hiciste mal.
+
+226
+00:26:26,560 --> 00:26:29,440
+Pero yo no hice nada malo.
+
+227
+00:26:29,800 --> 00:26:31,800
+¿Tanana?
+
+228
+00:26:32,320 --> 00:26:35,120
+¡Espera! ¡Yo no hice nada malo!
+
+229
+00:26:35,800 --> 00:26:39,120
+-Ni siquiera sé cómo llegar allá.
+-¿Dónde están?
+
+230
+00:26:39,640 --> 00:26:42,560
+Estaban aquí, y ya no están.
+
+231
+00:26:42,640 --> 00:26:44,720
+Qué raro, ¿no?
+
+232
+00:26:44,800 --> 00:26:49,240
+¿Quieres decir que no te las comiste
+y no tienes idea de dónde están?
+
+233
+00:26:49,320 --> 00:26:52,360
+Oigan, ustedes.
+Estaban hablando.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+234
+00:26:52,880 --> 00:26:55,640
+Hazte para atrás, muy despacio.
+
+235
+00:26:55,760 --> 00:26:58,000
+¿Cómo lo hicieron?
+
+236
+00:26:58,040 --> 00:27:00,160
+¡Ya sabía que tú las tenías!
+
+237
+00:27:00,240 --> 00:27:02,080
+¿Ya llegamos?
+
+238
+00:27:02,160 --> 00:27:04,480
+No me obligues a llevar a
+toda la formación de regreso.
+
+239
+00:27:05,880 --> 00:27:07,280
+¡Esperen!
+
+240
+00:27:07,320 --> 00:27:10,200
+Estoy tratando de encontrar
+el lugar donde las luces...
+
+241
+00:27:10,280 --> 00:27:14,720
+-¿Por qué está todo molesto?
+-Quizá el ganso se hizo popó sobre él.
+
+242
+00:27:16,240 --> 00:27:19,000
+Está mirando hacia acá.
+Vámonos. Por aquí.
+
+243
+00:27:19,040 --> 00:27:22,360
+-No, por acá.
+-Muchas gracias.
+
+244
+00:27:22,440 --> 00:27:23,640
+Nada más no te muevas...
+
+245
+00:27:23,680 --> 00:27:24,800
+Oigan, ustedes dos.
+
+246
+00:27:25,520 --> 00:27:28,880
+-¡Baja la cabeza!
+-Creo que nos vio. ¿Y ahora, qué?
+
+247
+00:27:28,960 --> 00:27:32,000
+-Haz como que no estamos aquí.
+-No estamos aquí.
+
+248
+00:27:32,040 --> 00:27:34,040
+-¿Qué haces, eh?
+-Dijiste...
+
+249
+00:27:34,120 --> 00:27:35,880
+-¡No hables!
+-Bueno.
+
+250
+00:27:35,920 --> 00:27:38,000
+-¡Que no hables!
+-Oigan...
+
+251
+00:27:39,200 --> 00:27:40,200
+Por favor no nos comas.
+
+252
+00:27:40,240 --> 00:27:44,280
+-Sabemos mal, somos correosos.
+-Cómete al cabeza de pezuña.
+
+253
+00:27:44,360 --> 00:27:46,640
+-Qué amable, aliento de piña.
+-Cola tiesa.
+
+254
+00:27:46,720 --> 00:27:48,560
+-Patas de rana.
+-Narizón.
+
+255
+00:27:49,320 --> 00:27:51,840
+-Perdón.
+-Ahora sí te pasaste de la raya.
+
+256
+00:27:51,880 --> 00:27:53,800
+-Perdón.
+-Muchachos...
+
+257
+00:27:53,880 --> 00:27:57,400
+-Tú eres más narizón que yo.
+-No me quiero comer a nadie.
+
+258
+00:27:59,040 --> 00:28:01,840
+-Qué decente eres.
+-Yo soy Rutt.
+
+259
+00:28:01,880 --> 00:28:04,240
+-Mi hermano, Tuke.
+-¿Cómo te va, oso?
+
+260
+00:28:04,880 --> 00:28:07,440
+-No me llames así.
+-Perdón...
+
+261
+00:28:08,960 --> 00:28:10,000
+¿Señor Oso?
+
+262
+00:28:10,080 --> 00:28:12,960
+No, digo, yo no soy un oso.
+Odio a los osos.
+
+263
+00:28:13,040 --> 00:28:15,840
+Pues, eres un castor muy grande.
+
+264
+00:28:15,920 --> 00:28:17,480
+En serio, ¿eh?
+
+265
+00:28:17,560 --> 00:28:20,560
+¿Ustedes saben dónde
+tocan las luces la tierra?
+
+266
+00:28:20,640 --> 00:28:22,640
+Sí...
+
+267
+00:28:23,400 --> 00:28:25,360
+No.
+
+268
+00:28:25,400 --> 00:28:27,040
+Perdón, oso... o castor.
+
+269
+00:28:27,080 --> 00:28:30,600
+No soy un castor. Soy un
+oso. No, digo, no soy un oso,
+
+270
+00:28:30,680 --> 00:28:33,080
+-sino un hombre.
+-¿Perdón?
+
+271
+00:28:33,160 --> 00:28:35,680
+Me transformaron en un oso con magia.
+
+272
+00:28:35,760 --> 00:28:39,200
+Mi hermano me elevó al cielo.
+
+273
+00:28:41,560 --> 00:28:43,080
+-¡Está loco!
+-Salud.
+
+274
+00:28:43,880 --> 00:28:45,120
+Es un orate.
+
+275
+00:28:45,200 --> 00:28:48,400
+-¿Estás bien?
+-Ese oso de allá está loco.
+
+276
+00:28:48,440 --> 00:28:50,840
+-Él está loco.
+-¡Yo no estoy loco!
+
+277
+00:28:50,920 --> 00:28:52,960
+¿Quién dijo?
+
+278
+00:28:52,960 --> 00:28:54,800
+-Nosotros entendemos.
+-¿En serio?
+
+279
+00:28:54,880 --> 00:28:58,200
+Sí. Nosotros tampoco somos alces.
+
+280
+00:28:58,280 --> 00:29:00,280
+-¿No somos?
+-No.
+
+281
+00:29:00,320 --> 00:29:03,400
+Somos, no sé, somos como ardillas.
+
+282
+00:29:04,040 --> 00:29:06,120
+Ah, sí. Qué belleza, ¿eh?
+
+283
+00:29:06,200 --> 00:29:10,960
+La verdad, él es la ardilla.
+Yo soy más bien un lobo de EE.UU.
+
+284
+00:29:11,040 --> 00:29:13,280
+Mira estos colmillos.
+
+285
+00:29:13,320 --> 00:29:15,320
+No te le acerques mucho.
+
+286
+00:29:15,440 --> 00:29:17,680
+¿Por qué hablo con dos alces tontos?
+
+287
+00:29:17,760 --> 00:29:20,320
+- No, somos ardillas, ¿eh?
+-Lobo de EE.UU.
+
+288
+00:29:21,280 --> 00:29:23,360
+Yo solo lo voy a encontrar.
+
+289
+00:29:24,320 --> 00:29:26,920
+-Yo no iría hacia allá.
+-¿Por qué no, eh?
+
+290
+00:29:27,760 --> 00:29:29,800
+Bueno, había una razón.
+
+291
+00:29:29,880 --> 00:29:32,800
+-Tú lo mencionaste.
+-Estoy tratando...
+
+292
+00:29:40,640 --> 00:29:44,440
+-¿Ya se te ocurrió?
+-No. Y me está volviendo loco.
+
+293
+00:29:59,840 --> 00:30:02,000
+¿No hay peligro?
+
+294
+00:30:02,080 --> 00:30:04,920
+-¿Qué?
+-¿Hay cazadores por aquí?
+
+295
+00:30:05,680 --> 00:30:07,680
+-Ah, no.
+-¡Qué bien!
+
+296
+00:30:07,760 --> 00:30:10,280
+¿Cómo estás?
+Creo que no viste la trampa.
+
+297
+00:30:10,360 --> 00:30:14,440
+Yo la vi de muy lejos. Debe
+de haberte dado mucha vergüenza.
+
+298
+00:30:14,520 --> 00:30:16,640
+No te preocupes.
+
+299
+00:30:16,680 --> 00:30:19,360
+No le voy a decir a nadie.
+
+300
+00:30:19,400 --> 00:30:21,960
+-¿Qué?
+-Necesitas bajarte. Déjame ayudarte.
+
+301
+00:30:22,040 --> 00:30:23,440
+Espera.
+
+302
+00:30:23,520 --> 00:30:25,520
+-No te muevas.
+-¡Ya basta!
+
+303
+00:30:26,720 --> 00:30:28,280
+Nada más...
+
+304
+00:30:28,360 --> 00:30:31,400
+-¡Ya basta!
+-No sirve de nada.
+
+305
+00:30:31,480 --> 00:30:35,920
+La única manera de bajarte es
+si cortas tu propia pata a mordidas.
+
+306
+00:30:36,000 --> 00:30:39,800
+No necesito la ayuda de
+un oso estúpido, sólo el palo.
+
+307
+00:30:39,880 --> 00:30:42,240
+-Bueno, toma.
+-No, yo lo recogeré.
+
+308
+00:30:42,320 --> 00:30:45,320
+Déjalo ahí.
+No, donde lo encontraste.
+
+309
+00:30:45,400 --> 00:30:47,880
+A la izquierda, junto a la roquita.
+
+310
+00:30:47,920 --> 00:30:49,560
+-¿Aquí?
+-Sí.
+
+311
+00:30:49,640 --> 00:30:51,640
+Bien.
+
+312
+00:30:51,720 --> 00:30:54,360
+Oye, ese árbol es fuerte, ¿no?
+
+313
+00:30:54,400 --> 00:30:59,080
+Cuando yo era chico, me
+encantaba treparme a árboles.
+
+314
+00:30:59,160 --> 00:31:01,600
+Me trepaba a pinos, robles, cedros,
+
+315
+00:31:01,680 --> 00:31:04,400
+maples, abedules, sauces llorones...
+
+316
+00:31:04,440 --> 00:31:07,160
+Se me hinchó la lengua.
+
+317
+00:31:07,240 --> 00:31:10,960
+Y, a partir de ese momento, tuve
+más cuidado con las cosas que lamía.
+
+318
+00:31:16,480 --> 00:31:20,600
+¿Ves? Lo importante es usar la cabeza.
+
+319
+00:31:24,680 --> 00:31:26,560
+Eso estuvo chistoso. ¡Otra vez!
+
+320
+00:31:26,600 --> 00:31:30,480
+-¿No tienes que ir a algún lado?
+-Sí. A la migración del salmón.
+
+321
+00:31:32,080 --> 00:31:35,440
+¿Qué te parece esto?
+Yo te bajo y vamos juntos.
+
+322
+00:31:35,520 --> 00:31:38,280
+-¿Trato hecho?
+-Bueno, perfecto.
+
+323
+00:31:38,360 --> 00:31:42,040
+Si me puedes bajar, con
+alguna magia, iré contigo a tu...
+
+324
+00:31:42,120 --> 00:31:45,280
+-Migración del salmón.
+-Eso. Pero si no puedes...
+
+325
+00:31:45,320 --> 00:31:49,600
+Te das la vuelta, te
+vas y nunca regresas. Jamás.
+
+326
+00:31:49,680 --> 00:31:51,280
+-¿Me lo juras?
+-Sí.
+
+327
+00:31:51,320 --> 00:31:54,320
+-¿Palabra de honor?
+-Está bien.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+328
+00:31:54,400 --> 00:31:57,360
+Pero ésta es una trampa
+humana y tú eres un oso tonto.
+
+329
+00:31:57,440 --> 00:32:00,360
+Así que de ninguna
+manera vas a poder...
+
+330
+00:32:05,080 --> 00:32:08,240
+Así que, viajamos de día,
+dormimos de noche.
+
+331
+00:32:08,320 --> 00:32:11,040
+Mi hora de dormir es una
+hora después del anochecer...
+
+332
+00:32:13,120 --> 00:32:15,120
+¡Corre!
+
+333
+00:32:15,200 --> 00:32:17,200
+¡En buena hora me libré!
+
+334
+00:32:31,840 --> 00:32:33,320
+¿Denahi?
+
+335
+00:32:33,360 --> 00:32:35,360
+¡Denahi, me encontraste!
+
+336
+00:32:36,480 --> 00:32:39,520
+No vas a creer en qué lío...
+
+337
+00:32:40,160 --> 00:32:42,520
+¿Denahi? ¡Soy yo, Kenai!
+
+338
+00:33:15,400 --> 00:33:17,320
+¿Ya se fue?
+
+339
+00:33:17,360 --> 00:33:19,040
+Creo que iba a...
+
+340
+00:33:27,480 --> 00:33:29,720
+¿Hola? No puedo respirar.
+
+341
+00:33:44,400 --> 00:33:47,720
+-¿Por qué me está persiguiendo?
+-Eso es lo que hacen.
+
+342
+00:33:47,760 --> 00:33:51,400
+-Pero él no es así.
+-Tuvo suerte de no encontrarnos,
+
+343
+00:33:51,480 --> 00:33:56,880
+porque cuando yo peleo, me aloco y me
+vuelvo una bola rugiente de pelo café.
+
+344
+00:33:57,520 --> 00:34:02,200
+No quiero presumir ni nada,
+pero tengo mis maniobras.
+
+345
+00:34:02,240 --> 00:34:03,760
+-¿De veras?
+-Sí.
+
+346
+00:34:03,840 --> 00:34:09,760
+La primera es una
+cosita a la que llamo, ¡el tajo!
+
+347
+00:34:09,800 --> 00:34:14,320
+Y ésta se llama:
+¡la furia voladora de la muerte!
+
+348
+00:34:16,040 --> 00:34:18,160
+-¡Ya regresó!
+-¿Dónde?
+
+349
+00:34:19,280 --> 00:34:20,960
+Típico.
+
+350
+00:34:21,040 --> 00:34:24,440
+Bueno, la próxima vez que
+nos topemos con ese cazador...
+
+351
+00:34:24,520 --> 00:34:28,200
+Nada de "topemos". No te
+voy a llevar con los salmones.
+
+352
+00:34:28,280 --> 00:34:30,760
+¿Qué? Pero si me
+diste tu palabra de honor.
+
+353
+00:34:30,880 --> 00:34:33,200
+Sí, bueno, las cosas cambian.
+
+354
+00:34:33,280 --> 00:34:35,280
+Nos vemos, cachorro.
+
+355
+00:34:36,360 --> 00:34:38,360
+Espera.
+
+356
+00:34:41,080 --> 00:34:45,080
+La verdad es que
+me separé de mi mamá.
+
+357
+00:34:45,120 --> 00:34:47,800
+Y ahora, con el
+cazador ese por aquí...
+
+358
+00:34:47,920 --> 00:34:49,960
+Yo tengo mis propios problemas.
+
+359
+00:34:50,000 --> 00:34:51,920
+¿Por favor?
+
+360
+00:34:51,960 --> 00:34:55,960
+¿No podemos ir juntos? Hay
+muchos osos y montones de salmón.
+
+361
+00:34:56,000 --> 00:34:58,920
+De noche, veremos
+las luces tocar la montaña.
+
+362
+00:34:58,960 --> 00:35:01,280
+-Y el año pasado...
+-¿Qué dijiste?
+
+363
+00:35:01,320 --> 00:35:03,160
+-Hay osos y peces.
+-No.
+
+364
+00:35:03,200 --> 00:35:05,280
+De las luces tocando la tierra.
+
+365
+00:35:05,320 --> 00:35:08,320
+En la cima de la montaña,
+junto a los peces.
+
+366
+00:35:08,360 --> 00:35:11,680
+-Estás bromeando.
+-No, están ahí al lado.
+
+367
+00:35:11,760 --> 00:35:14,120
+Vas a ver. Va a ser genial.
+
+368
+00:35:15,160 --> 00:35:18,640
+Te ayudaré a escapar
+de todas las trampas.
+
+369
+00:35:18,720 --> 00:35:21,000
+Ya no voy a caer en más...
+
+370
+00:35:21,840 --> 00:35:23,160
+trampas.
+
+371
+00:35:23,240 --> 00:35:25,960
+Por favor. ¿Qué dices?
+
+372
+00:35:27,560 --> 00:35:30,640
+¿Puedes llevarme a
+donde las luces tocan la tierra?
+
+373
+00:35:30,680 --> 00:35:32,320
+No hay problema.
+
+374
+00:35:37,840 --> 00:35:41,240
+-Si por ti voy muy despacio...
+-Te prometo que no.
+
+375
+00:35:42,400 --> 00:35:44,880
+Bueno. Salimos mañana
+a primera hora.
+
+376
+00:35:58,080 --> 00:36:01,200
+Pero no te me estés
+arrimando, ¿entiendes, cachorro?
+
+377
+00:36:01,280 --> 00:36:04,360
+No me llamo "cachorro".
+Me llamo Koda.
+
+378
+00:36:12,000 --> 00:36:14,000
+¿Cómo te llamas tú?
+
+379
+00:36:19,400 --> 00:36:21,320
+-Buenos días.
+-¿Cómo te va?
+
+380
+00:36:21,400 --> 00:36:25,720
+Bello. Tenemos mucho
+que hacer hoy. ¿Empezamos?
+
+381
+00:36:25,760 --> 00:36:27,880
+-Nada más dame un segundo.
+-Bien.
+
+382
+00:36:31,600 --> 00:36:34,240
+-¿Me ayudas a tronarme la espalda?
+-Bien.
+
+383
+00:36:35,240 --> 00:36:37,680
+-¿Ya estás listo?
+-Casi.
+
+384
+00:36:39,320 --> 00:36:42,160
+Sólo quiero hacer
+"Perro Viendo Adelante".
+
+385
+00:36:42,240 --> 00:36:44,240
+¡Ay, por favor!
+
+386
+00:36:44,280 --> 00:36:46,040
+Bueno, está bien.
+
+387
+00:36:46,080 --> 00:36:48,080
+¡Y... arranca!
+
+388
+00:36:49,760 --> 00:36:51,760
+Éste es un buen cacho.
+
+389
+00:36:51,800 --> 00:36:55,000
+No te acerques a éste.
+Alguien hizo aquí.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+390
+00:37:35,440 --> 00:37:38,320
+Flaco. Gordo. Flaco. Gordo.
+
+391
+00:37:38,440 --> 00:37:41,280
+Tengo que llegar a una
+montaña. Vamos, cachorro.
+
+392
+00:37:41,360 --> 00:37:44,880
+Ya te dije antes. Me llamo Koda.
+
+393
+00:37:44,960 --> 00:37:47,840
+Dilo conmigo. Ko-da.
+
+394
+00:37:47,920 --> 00:37:51,040
+¿Seguro que tu mamá no
+te dejó a propósito, Ko-bobo?
+
+395
+00:37:59,360 --> 00:38:02,400
+-¡Rutt!
+-Vete. Estoy comiendo ramas.
+
+396
+00:38:02,480 --> 00:38:05,560
+-¡Rutt!
+-Estás haciendo que me distraiga.
+
+397
+00:38:05,680 --> 00:38:08,480
+Deberíamos empezar
+a correr. ¡Ahora mismo!
+
+398
+00:38:08,520 --> 00:38:09,920
+No puedo.
+
+399
+00:38:10,000 --> 00:38:13,520
+Sigo haciendo la digestión.
+Me van a dar calambres.
+
+400
+00:38:19,520 --> 00:38:22,000
+-¡Viene tras de nosotros!
+-¡Corre, hermanito!
+
+401
+00:38:23,120 --> 00:38:24,880
+¡Un calambre!
+
+402
+00:38:25,960 --> 00:38:29,480
+Si de verdad quieres saber cómo
+nos separamos mi mamá y yo...
+
+403
+00:38:29,520 --> 00:38:34,120
+Estaba guardando esta historia para
+los salmones, pero te la contaré.
+
+404
+00:38:34,840 --> 00:38:40,640
+Fue probablemente el quinto o
+sexto día más frío de toda mi vida.
+
+405
+00:38:40,680 --> 00:38:43,520
+-Suena bien. Guárdatela.
+-¿Tú crees?
+
+406
+00:38:43,560 --> 00:38:45,560
+Ah, sí. Para tus amigos.
+
+407
+00:38:46,560 --> 00:38:48,560
+¡Tengo otra historia!
+
+408
+00:38:48,640 --> 00:38:51,200
+Te propongo una cosa:
+¿qué tal si no hablamos?
+
+409
+00:38:51,280 --> 00:38:52,560
+Está bien.
+
+410
+00:38:52,880 --> 00:38:54,840
+-¡Entonces, cantaré!
+-¡No!
+
+411
+00:38:54,880 --> 00:38:57,680
+<i>Que sepa el mundo</i>
+<i>Que en marcha estoy</i>
+
+412
+00:38:57,720 --> 00:38:58,720
+¡Ya basta!
+
+413
+00:38:59,280 --> 00:39:02,600
+<i>Con mucho que ver y vivir</i>
+
+414
+00:39:02,680 --> 00:39:04,000
+¡Koda, deja de cantar!
+
+415
+00:39:04,040 --> 00:39:07,760
+<i>Con cielos azules andando voy</i>
+
+416
+00:39:07,840 --> 00:39:12,640
+<i>A un lugar así soñaba con ir</i>
+
+417
+00:39:13,640 --> 00:39:17,240
+<i>Que sepa el mundo</i>
+<i>Que en marcha estoy</i>
+
+418
+00:39:17,640 --> 00:39:21,240
+<i>Que me gusta cada instante aquí</i>
+
+419
+00:39:22,160 --> 00:39:26,960
+<i>Con el sol más brillante mis pasos doy</i>
+
+420
+00:39:27,040 --> 00:39:31,080
+<i>No se aparta la risa de mí</i>
+
+421
+00:39:31,600 --> 00:39:36,400
+<i>Y es lo más importante</i>
+<i>Volvernos a ver</i>
+
+422
+00:39:36,480 --> 00:39:40,920
+<i>No importa dónde tenga que ir</i>
+
+423
+00:39:41,000 --> 00:39:47,080
+<i>Mil historias hay que oír</i>
+<i>Y van a ser</i>
+
+424
+00:39:48,080 --> 00:39:51,640
+<i>Las que quiero compartir</i>
+
+425
+00:39:51,720 --> 00:39:54,760
+<i>Diles que me siento bien</i>
+
+426
+00:39:55,440 --> 00:39:59,760
+<i>Con tanto que ver y vivir</i>
+
+427
+00:39:59,800 --> 00:40:04,200
+<i>Con la Luna sobre mí</i>
+<i>Duermo en un Edén</i>
+
+428
+00:40:04,800 --> 00:40:08,600
+<i>Nada más se podría pedir</i>
+
+429
+00:40:09,240 --> 00:40:14,160
+<i>Ni la lluvia al caer me va a cambiar</i>
+
+430
+00:40:14,240 --> 00:40:18,080
+<i>El sol siempre vuelve a salir</i>
+
+431
+00:40:18,720 --> 00:40:22,240
+<i>Y sentir el viento sobre tu piel</i>
+
+432
+00:40:22,280 --> 00:40:25,120
+<i>Te va a encantar</i>
+
+433
+00:40:26,000 --> 00:40:29,640
+<i>Cuántas cosas hay por descubrir</i>
+
+434
+00:40:31,800 --> 00:40:34,240
+<i>Sigo mi camino</i>
+
+435
+00:40:36,760 --> 00:40:38,960
+<i>Mi destino</i>
+
+436
+00:40:41,240 --> 00:40:43,680
+<i>Sí, mi camino</i>
+
+437
+00:40:45,080 --> 00:40:47,080
+¡Oye! ¡Detente, eh! ¡Espera!
+
+438
+00:40:50,920 --> 00:40:54,120
+-¿Cómo te va, "muchachoso"?
+-¿Y, "pequeñoso"?
+
+439
+00:40:54,160 --> 00:40:56,880
+No sabía que tenías un
+hermanito, ¿eh? Es lindo, ¿eh?
+
+440
+00:40:56,960 --> 00:41:00,480
+-Bueno...
+-Nos está siguiendo un cazador
+
+441
+00:41:00,600 --> 00:41:04,040
+y pensamos que
+quizá podíamos estar juntos.
+
+442
+00:41:04,120 --> 00:41:06,200
+-Así es, ¿eh?
+-Nos vamos a divertir.
+
+443
+00:41:06,320 --> 00:41:09,680
+-Y si nos alcanza el cazador...
+-Te lo comes.
+
+444
+00:41:09,760 --> 00:41:13,600
+-Eso es lo que pensamos.
+-Nos le escapamos en el glaciar.
+
+445
+00:41:13,680 --> 00:41:16,000
+¿No va a seguir las huellas?
+
+446
+00:41:16,080 --> 00:41:18,080
+Muy lindas huellas.
+
+447
+00:41:18,720 --> 00:41:20,440
+Tengo una idea.
+
+448
+00:41:20,520 --> 00:41:22,960
+Bueno, esto es de lo más raro.
+
+449
+00:41:24,080 --> 00:41:27,040
+-Yo manejo.
+-¿Cuándo me toca a mí?
+
+450
+00:41:27,080 --> 00:41:30,280
+No es tan fácil como parece.
+Fíjate en lo que hago.
+
+451
+00:41:30,360 --> 00:41:34,120
+Necesito un asiento.
+Así parece que me cazaste.
+
+452
+00:41:34,880 --> 00:41:37,720
+<i>Que sepa el mundo</i>
+<i>Que en marcha estoy</i>
+
+453
+00:41:37,800 --> 00:41:39,120
+¡Trépense!
+
+454
+00:41:39,200 --> 00:41:41,960
+<i>Y voy a cumplir mi misión</i>
+
+455
+00:41:43,720 --> 00:41:48,240
+<i>Cielos azules por donde voy</i>
+
+456
+00:41:48,320 --> 00:41:52,120
+<i>Dan alas a mi corazón</i>
+
+457
+00:41:53,000 --> 00:41:57,000
+<i>Diles a todos que en marcha estoy</i>
+
+458
+00:41:57,720 --> 00:42:01,120
+<i>Que voy a volver a mi hogar</i>
+
+459
+00:42:02,560 --> 00:42:06,400
+<i>Con el sol más brillante mis pasos doy</i>
+
+460
+00:42:07,240 --> 00:42:11,120
+<i>Disfruto el camino al andar</i>
+
+461
+00:42:11,200 --> 00:42:14,720
+<i>En marcha estoy</i>
+
+462
+00:42:14,800 --> 00:42:18,760
+<i>Sí, en marcha estoy</i>
+
+463
+00:42:19,840 --> 00:42:21,400
+Una belleza, ¿eh?
+
+464
+00:42:22,240 --> 00:42:24,240
+A ver si me acuerdo:
+
+465
+00:42:24,280 --> 00:42:26,200
+si la nieve está blanca, está bien.
+
+466
+00:42:26,240 --> 00:42:28,600
+Verde o amarilla, no está limpia.
+
+467
+00:42:28,640 --> 00:42:30,640
+Y lo digo por experiencia.
+
+468
+00:42:30,720 --> 00:42:35,120
+Lo cual me recuerda. El año pasado,
+en el río, Bucky me hizo un reto.
+
+469
+00:42:35,200 --> 00:42:38,480
+Pero yo había oído de otro cachorro
+que pegó la lengua a un iceberg.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+470
+00:42:38,560 --> 00:42:40,360
+Se alejaba flotando.
+
+471
+00:42:40,440 --> 00:42:42,960
+Y para salvarlo
+le arrancaron la lengua,
+
+472
+00:42:43,040 --> 00:42:46,120
+así que ahora sisea y...
+
+473
+00:42:46,160 --> 00:42:48,360
+¿Nunca te callas?
+
+474
+00:42:48,960 --> 00:42:51,280
+Mira. El arco iris nocturno.
+
+475
+00:42:51,360 --> 00:42:55,600
+-De aquí se ven los espíritus.
+-¿Tú sabes de los grandes espíritus?
+
+476
+00:42:55,640 --> 00:42:59,120
+Sí. Mi abuela está allá arriba.
+Y mi abuelo también.
+
+477
+00:42:59,960 --> 00:43:03,720
+Según mamá, los espíritus hacen
+todos los cambios mágicos.
+
+478
+00:43:03,800 --> 00:43:07,520
+Como que las hojas cambien
+de color, o la luna de forma,
+
+479
+00:43:07,600 --> 00:43:11,280
+-o los renacuajos se hagan ranas.
+-Ya entendí.
+
+480
+00:43:11,360 --> 00:43:16,040
+Quizá sería bueno que dejaran
+las cosas en paz, para variar.
+
+481
+00:43:16,120 --> 00:43:18,920
+-¿De qué hablas?
+-Mi hermano es un espíritu.
+
+482
+00:43:19,960 --> 00:43:21,960
+Si no fuera por él,
+
+483
+00:43:22,000 --> 00:43:24,160
+yo no estaría aquí.
+
+484
+00:43:24,200 --> 00:43:26,560
+¿Tienes un hermano allá arriba?
+
+485
+00:43:27,720 --> 00:43:29,560
+¿Qué le pasó?
+
+486
+00:43:29,640 --> 00:43:31,640
+Lo mató un o-...
+
+487
+00:43:33,160 --> 00:43:35,000
+Un monstruo.
+
+488
+00:43:40,800 --> 00:43:42,840
+¿Cómo se llama tu hermano?
+
+489
+00:43:42,880 --> 00:43:44,880
+Sitka.
+
+490
+00:43:44,960 --> 00:43:49,360
+Gracias, Sitka. Si no fuera por ti,
+jamás hubiera conocido a Kenai.
+
+491
+00:43:54,800 --> 00:43:57,360
+Siempre había querido un hermano.
+
+492
+00:44:17,200 --> 00:44:19,320
+¿Quieres jugar a "yo diviso"?
+
+493
+00:44:19,360 --> 00:44:21,480
+Bueno. Yo voy primero.
+
+494
+00:44:21,520 --> 00:44:22,520
+Bueno.
+
+495
+00:44:22,640 --> 00:44:26,240
+Yo diviso algo verde.
+
+496
+00:44:28,640 --> 00:44:30,640
+¿Un árbol? Me toca.
+
+497
+00:44:30,720 --> 00:44:34,400
+-Sí.
+-Bueno. Yo diviso algo alto.
+
+498
+00:44:35,720 --> 00:44:37,720
+-Árbol.
+-Bien.
+
+499
+00:44:37,760 --> 00:44:42,400
+Yo diviso algo con corteza.
+
+500
+00:44:42,480 --> 00:44:43,880
+¿Un árbol?
+
+501
+00:44:43,920 --> 00:44:45,760
+Bueno. Yo diviso algo...
+
+502
+00:44:46,560 --> 00:44:48,280
+Un tronco vertical.
+
+503
+00:44:48,360 --> 00:44:49,560
+-Árbol.
+-Sí.
+
+504
+00:44:49,640 --> 00:44:51,640
+-Bueno, yo diviso algo...
+-Árbol.
+
+505
+00:44:52,400 --> 00:44:54,240
+-Me toca.
+-Árbol.
+
+506
+00:44:54,280 --> 00:44:55,560
+-No...
+-¡Sí cuenta!
+
+507
+00:44:55,600 --> 00:44:58,000
+-Si ni siquiera divisé nada.
+-¡Sí cuenta!
+
+508
+00:44:58,080 --> 00:45:00,480
+Un árbol.
+
+509
+00:45:01,400 --> 00:45:03,680
+Vamos a jugar a otra cosa.
+
+510
+00:45:09,600 --> 00:45:12,400
+Koda. Vamos.
+
+511
+00:45:12,480 --> 00:45:16,040
+-Despierta.
+-Dos meses más, mamá.
+
+512
+00:45:19,960 --> 00:45:22,000
+A ver, ¿dónde estamos?
+
+513
+00:45:29,560 --> 00:45:31,680
+Bueno, ¿para dónde?
+
+514
+00:45:33,240 --> 00:45:36,360
+-Creo que es para allá.
+-¿Crees, o estás seguro?
+
+515
+00:45:37,480 --> 00:45:38,480
+¿Para allá?
+
+516
+00:45:39,560 --> 00:45:41,960
+¿Por qué no me volvió
+paloma mensajera?
+
+517
+00:45:42,000 --> 00:45:45,600
+-¡Vamos!
+-¡Irnos en mamuts fue idea tuya!
+
+518
+00:45:45,720 --> 00:45:47,960
+Gracias por llevarnos. Hasta luego.
+
+519
+00:45:48,000 --> 00:45:50,680
+Me las he visto peores.
+
+520
+00:45:50,760 --> 00:45:52,680
+Una vez, estaba
+buscando raíces con Bucky...
+
+521
+00:45:52,760 --> 00:45:54,200
+Ya basta de historias.
+
+522
+00:45:54,280 --> 00:45:59,120
+No me importa cómo tú y Binky
+hallaron la piña más grande del mundo.
+
+523
+00:45:59,240 --> 00:46:02,920
+En primer lugar,
+se llama Bucky, no Binky.
+
+524
+00:46:02,960 --> 00:46:05,600
+Segundo, no era una piña,
+era una semilla de pino.
+
+525
+00:46:05,640 --> 00:46:08,800
+Y era gigante, más
+grande que tu cabezota.
+
+526
+00:46:08,880 --> 00:46:11,320
+Nuestro gran oso guardián se va.
+
+527
+00:46:11,400 --> 00:46:13,800
+Hay que seguirlo.
+
+528
+00:46:13,840 --> 00:46:17,000
+-¿Puedes pasar la pata...?
+-¡No me puedo bajar!
+
+529
+00:46:17,040 --> 00:46:19,840
+Yo tampoco. Oigan, mamuts...
+
+530
+00:46:19,960 --> 00:46:23,880
+Creo que los vamos a
+tener que alcanzar después.
+
+531
+00:46:25,200 --> 00:46:27,040
+-Buen viaje, ¿eh?
+-Una belleza.
+
+532
+00:46:27,120 --> 00:46:30,840
+Estaba pensando que sería un
+buen momento para que yo manejara.
+
+533
+00:46:30,880 --> 00:46:33,520
+Nada más relájate
+y disfruta del viaje.
+
+534
+00:46:33,600 --> 00:46:35,600
+Sí. Está bien.
+
+535
+00:46:37,920 --> 00:46:40,960
+Lamento que estemos perdidos, ¿ya?
+
+536
+00:46:41,000 --> 00:46:43,880
+-Aunque, la verdad, es por tu culpa.
+-¿Por mi culpa?
+
+537
+00:46:44,800 --> 00:46:45,800
+Se acabó.
+
+538
+00:46:45,840 --> 00:46:49,400
+Recuerda, si no fuera por mí,
+seguirías colgado de cabeza.
+
+539
+00:46:49,480 --> 00:46:53,560
+Mejor que tenerte pegado
+a mí, con tu boca que no para.
+
+540
+00:46:53,640 --> 00:46:57,360
+"No encuentro a mi mami.
+¿Me llevas a la migración del salmón?"
+
+541
+00:46:57,440 --> 00:47:00,480
+-¡Ya crece!
+-¡Perfecto! Me iré yo solo.
+
+542
+00:47:00,520 --> 00:47:02,680
+-¡Perfecto! ¡Adelante!
+-¡Perfecto!
+
+543
+00:47:02,800 --> 00:47:04,840
+Perfecto.
+
+544
+00:47:21,680 --> 00:47:23,680
+¿Koda?
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+545
+00:48:30,280 --> 00:48:32,960
+Esos monstruos me dan mucho miedo.
+
+546
+00:48:34,000 --> 00:48:36,120
+Sobre todo con esos palos.
+
+547
+00:48:53,120 --> 00:48:55,280
+Ven, vámonos.
+
+548
+00:48:58,680 --> 00:49:00,000
+Entonces, ¿ya reconoces algo?
+
+549
+00:49:00,120 --> 00:49:02,960
+O quizá te estorba mi cabezota.
+
+550
+00:49:05,960 --> 00:49:08,720
+¿De veras crees que soy un cabezón?
+
+551
+00:49:08,840 --> 00:49:12,840
+Si encorvaras los hombros,
+no se vería tan grande.
+
+552
+00:49:12,920 --> 00:49:16,000
+¿Si me hago así? ¿O así?
+
+553
+00:49:16,760 --> 00:49:18,760
+¿Qué tal así?
+
+554
+00:49:19,840 --> 00:49:21,840
+Eso estuvo bien.
+
+555
+00:49:21,920 --> 00:49:24,160
+Quizá ellos nos
+puedan decir cómo llegar.
+
+556
+00:49:25,880 --> 00:49:28,000
+-Eso te despeja los senos.
+-Así es.
+
+557
+00:49:28,080 --> 00:49:30,440
+Vuelve a pegarme. Nos está mirando.
+
+558
+00:49:30,520 --> 00:49:34,600
+-Hola, preciosa.
+-Está echándome un buen ojo.
+
+559
+00:49:34,680 --> 00:49:37,200
+-Hola, nena.
+-Bobo.
+
+560
+00:49:37,240 --> 00:49:39,840
+¿Estás loco? Me está mirando a mí.
+
+561
+00:49:39,920 --> 00:49:42,440
+Seguro. Está mirando tu cara deforme.
+
+562
+00:49:42,520 --> 00:49:45,000
+Disculpe, señorita. Es hora de darle.
+
+563
+00:49:45,040 --> 00:49:47,040
+Venga.
+
+564
+00:49:47,120 --> 00:49:48,880
+-¡Cuernos arriba!
+-Espera.
+
+565
+00:49:49,000 --> 00:49:51,000
+-Disculpen.
+-¿Qué quieres?
+
+566
+00:49:51,880 --> 00:49:54,480
+-¿Quién es?
+-Nada más un minuto, oso.
+
+567
+00:49:54,520 --> 00:49:56,520
+¡Oye! ¡Cállate!
+
+568
+00:49:57,320 --> 00:49:59,520
+¡No! ¡Tú cállate!
+
+569
+00:49:59,600 --> 00:50:01,760
+¡No, tú cállate!
+
+570
+00:50:01,840 --> 00:50:04,200
+¡Oye! ¿Te quieres callar?
+
+571
+00:50:04,280 --> 00:50:06,400
+¡Nada más cállate!
+
+572
+00:50:07,080 --> 00:50:09,640
+Creo que traen los
+cuernos demasiado apretados.
+
+573
+00:50:11,600 --> 00:50:13,880
+Oye. Un segundo.
+
+574
+00:50:15,240 --> 00:50:17,680
+-Yo conozco este lugar.
+-¿En serio?
+
+575
+00:50:17,720 --> 00:50:20,200
+El río de los salmones está cerca.
+
+576
+00:50:21,040 --> 00:50:23,720
+Sólo tenemos que pasar por ahí.
+
+577
+00:50:36,840 --> 00:50:38,320
+¿Qué?
+
+578
+00:50:41,400 --> 00:50:43,960
+¿Seguro que sabes adónde vas?
+
+579
+00:50:44,040 --> 00:50:46,040
+Sí. ¡Sígueme!
+
+580
+00:50:53,480 --> 00:50:55,480
+¿Koda?
+
+581
+00:51:03,600 --> 00:51:05,600
+¿Dónde estás?
+
+582
+00:51:13,400 --> 00:51:16,400
+-No hagas eso.
+-¡Te espanté!
+
+583
+00:51:16,440 --> 00:51:20,000
+Hay espantar y hay sorprender.
+
+584
+00:51:20,080 --> 00:51:22,080
+Y te hice las dos cosas.
+
+585
+00:51:34,320 --> 00:51:38,920
+Fue un buen intento.
+Tienes un poco de saliva aquí.
+
+586
+00:51:42,480 --> 00:51:43,760
+¡Kenai!
+
+587
+00:51:43,800 --> 00:51:46,520
+-No me vas a engañar esta vez.
+-¡Kenai, cuidado!
+
+588
+00:51:51,560 --> 00:51:53,400
+No.
+
+589
+00:51:53,480 --> 00:51:55,480
+¡Corre!
+
+590
+00:52:09,960 --> 00:52:11,960
+Kenai.
+
+591
+00:52:13,720 --> 00:52:15,760
+¡Kenai! ¿Dónde estás?
+
+592
+00:52:25,840 --> 00:52:27,040
+¡A la izquierda!
+
+593
+00:52:27,120 --> 00:52:29,120
+¡No, a tu otra izquierda!
+
+594
+00:52:42,200 --> 00:52:43,680
+¡Kenai!
+
+595
+00:53:05,720 --> 00:53:07,720
+¡No!
+
+596
+00:53:12,120 --> 00:53:14,720
+¿Qué estás haciendo? ¡Vámonos!
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+597
+00:54:23,200 --> 00:54:25,240
+¿Por qué nos odian, Kenai?
+
+598
+00:54:25,320 --> 00:54:27,720
+-Somos osos.
+-¿Y qué?
+
+599
+00:54:27,800 --> 00:54:30,800
+Ya sabes cómo son.
+Son unos asesinos.
+
+600
+00:54:30,880 --> 00:54:33,240
+Espera. ¿Quiénes son los asesinos?
+
+601
+00:54:33,320 --> 00:54:35,680
+-Los osos.
+-¿Cuáles osos?
+
+602
+00:54:35,760 --> 00:54:38,000
+Yo no soy así y tú no eres así.
+
+603
+00:54:38,040 --> 00:54:40,800
+Obviamente, no todos.
+Tú eres bueno.
+
+604
+00:54:40,920 --> 00:54:45,320
+Pero la mayoría de los osos atacan
+a los humanos con cualquier excusa.
+
+605
+00:54:45,440 --> 00:54:48,360
+Pero, Kenai, él nos atacó a nosotros.
+
+606
+00:54:50,320 --> 00:54:53,560
+Cuando seas
+más grande, lo entenderás.
+
+607
+00:54:53,640 --> 00:54:55,640
+¡Peces! ¡Peces!
+
+608
+00:54:56,400 --> 00:54:59,200
+¡Ya llegamos! ¡Aquí es! ¡Ven!
+
+609
+00:54:59,280 --> 00:55:01,120
+¿Qué? ¡Koda!
+
+610
+00:55:01,720 --> 00:55:03,920
+-¡Peces!
+-¡Aléjense de mí!
+
+611
+00:55:04,560 --> 00:55:07,080
+¡Quítense! ¡Lárguense!
+
+612
+00:55:28,960 --> 00:55:31,880
+Estás enturbiando el agua, amigo.
+
+613
+00:55:31,960 --> 00:55:35,040
+Trata de no espantar
+a los peces, camarada.
+
+614
+00:55:36,120 --> 00:55:39,200
+-¡Tug!
+-¡Koda! ¡Ven acá!
+
+615
+00:55:40,080 --> 00:55:42,080
+Mírate nada más.
+
+616
+00:55:42,160 --> 00:55:44,200
+¿Ya viste a mi mamá?
+
+617
+00:55:44,320 --> 00:55:46,400
+No, no la he visto.
+
+618
+00:55:47,200 --> 00:55:49,520
+Yo y mi amigo Kenai le ganamos.
+
+619
+00:55:49,560 --> 00:55:51,240
+¿Él es tu amigo?
+
+620
+00:55:52,480 --> 00:55:53,800
+Ah, hola.
+
+621
+00:55:55,320 --> 00:55:58,080
+Nunca te había visto en la migración.
+
+622
+00:55:58,160 --> 00:56:00,440
+¿De dónde eres?
+
+623
+00:56:00,520 --> 00:56:01,840
+Bueno, yo, yo...
+
+624
+00:56:01,920 --> 00:56:04,720
+¿Ves, Kenai? Ahí está la montaña.
+
+625
+00:56:04,880 --> 00:56:07,120
+Las luces la tocan todas las noches.
+
+626
+00:56:07,680 --> 00:56:11,000
+Va a ser más difícil escalar
+eso que venir en mamuts.
+
+627
+00:56:11,080 --> 00:56:12,880
+-¿En mamuts?
+-¿Hablas en serio?
+
+628
+00:56:12,920 --> 00:56:16,080
+-Eso suena un poco raro.
+-Él hace muchas cosas raras.
+
+629
+00:56:16,160 --> 00:56:20,240
+Bebe agua con una hoja. Nunca
+se ha afilado las garras en un árbol.
+
+630
+00:56:20,320 --> 00:56:23,760
+-Nunca ha hibernado.
+-Koda.
+
+631
+00:56:24,600 --> 00:56:26,680
+¿Puedo hablar contigo un segundo?
+
+632
+00:56:26,760 --> 00:56:28,960
+Discúlpennos.
+
+633
+00:56:29,040 --> 00:56:31,440
+Está un poco nervioso, ¿no?
+
+634
+00:56:31,480 --> 00:56:33,440
+Está bien.
+
+635
+00:56:33,560 --> 00:56:35,560
+Koda, yo...
+
+636
+00:56:36,680 --> 00:56:39,440
+-Me tengo que ir.
+-Cuando regreses, podemos...
+
+637
+00:56:40,760 --> 00:56:42,320
+No voy a regresar.
+
+638
+00:56:42,400 --> 00:56:44,440
+¿Cómo? ¿Por qué no?
+
+639
+00:56:44,520 --> 00:56:45,560
+Porque...
+
+640
+00:56:47,120 --> 00:56:48,840
+Pues, es difícil de explicar...
+
+641
+00:56:48,920 --> 00:56:51,280
+-¿Te vas a ir?
+-No.
+
+642
+00:56:51,320 --> 00:56:53,120
+Digo, sí.
+
+643
+00:56:53,600 --> 00:56:56,160
+La cuestión es que...
+
+644
+00:56:56,680 --> 00:56:59,400
+-yo no encajo aquí.
+-¿No encajas?
+
+645
+00:56:59,440 --> 00:57:01,440
+Todos los osos encajan aquí.
+
+646
+00:57:02,240 --> 00:57:03,760
+Ven. ¡Vamos a divertirnos!
+
+647
+00:57:03,800 --> 00:57:08,640
+<i>Todos invitados</i>
+<i>Así es como vivimos</i>
+
+648
+00:57:10,480 --> 00:57:12,680
+<i>Todos nos ayudamos</i>
+
+649
+00:57:14,360 --> 00:57:16,520
+<i>Damos con gusto</i>
+
+650
+00:57:18,240 --> 00:57:20,720
+<i>Todo lo que tenemos</i>
+<i>Lo compartimos</i>
+
+651
+00:57:21,840 --> 00:57:24,760
+<i>Y todos nos tenemos cariño</i>
+
+652
+00:57:24,800 --> 00:57:26,320
+<i>¡Así que, anímate!</i>
+
+653
+00:57:26,400 --> 00:57:29,960
+<i>Bienvenido al tiempo familiar</i>
+
+654
+00:57:30,000 --> 00:57:33,600
+<i>Bienvenido al tiempo de hermandad</i>
+
+655
+00:57:34,160 --> 00:57:39,080
+<i>Nos gusta mucho dar y tomar</i>
+<i>Con nuestros amigos nuevos</i>
+
+656
+00:57:39,160 --> 00:57:41,160
+<i>Haremos de todo</i>
+
+657
+00:57:41,960 --> 00:57:45,240
+<i>Bienvenido al tiempo familiar</i>
+
+658
+00:57:45,840 --> 00:57:48,800
+<i>Bienvenido al tiempo de felicidad</i>
+
+659
+00:57:49,520 --> 00:57:54,080
+<i>Éste es nuestro festival</i>
+<i>Y lo mejor de todo</i>
+
+660
+00:57:54,720 --> 00:57:57,640
+<i>Es que lo compartimos todo</i>
+
+661
+00:57:57,680 --> 00:58:03,160
+<i>Hay un lazo entre nosotros</i>
+<i>Que nadie puede explicar</i>
+
+662
+00:58:03,920 --> 00:58:07,040
+<i>Es una celebración de la vida</i>
+
+663
+00:58:07,680 --> 00:58:10,320
+<i>Y de volver a ver amigos</i>
+
+664
+00:58:12,240 --> 00:58:15,320
+<i>Puedes contar conmigo</i>
+
+665
+00:58:15,360 --> 00:58:18,800
+<i>Y sé que yo cuento contigo</i>
+
+666
+00:58:18,880 --> 00:58:20,480
+<i>¡Así que anímate!</i>
+
+667
+00:58:20,560 --> 00:58:23,600
+<i>Bienvenido al tiempo familiar</i>
+
+668
+00:58:24,400 --> 00:58:27,520
+<i>Bienvenido al tiempo de hermandad</i>
+
+669
+00:58:28,200 --> 00:58:33,120
+<i>Éste es nuestro festival</i>
+<i>Y lo mejor de todo</i>
+
+670
+00:58:33,200 --> 00:58:36,240
+<i>Es que lo compartimos todo</i>
+
+671
+00:58:36,280 --> 00:58:39,720
+<i>Recordando a los que ya se fueron</i>
+
+672
+00:58:39,760 --> 00:58:43,040
+<i>A los que querías de corazón</i>
+
+673
+00:58:43,800 --> 00:58:47,200
+<i>Hallando amor</i>
+<i>Planeando un futuro</i>
+
+674
+00:58:47,240 --> 00:58:51,080
+<i>Contando historias</i>
+<i>Y riendo con amigos</i>
+
+675
+00:58:51,120 --> 00:58:54,480
+<i>Momentos preciados</i>
+<i>Que no olvidarás</i>
+
+676
+00:58:55,400 --> 00:58:58,920
+<i>Éste tiene que ser</i>
+<i>El lugar más hermoso</i>
+
+677
+00:58:59,000 --> 00:59:03,880
+<i>El lugar más pacífico</i>
+<i>Al que jamás he ido</i>
+
+678
+00:59:04,400 --> 00:59:09,200
+<i>No había visto nada parecido</i>
+
+679
+00:59:10,920 --> 00:59:15,200
+<i>Cuando pienso cuánto he avanzado</i>
+<i>No lo puedo creer</i>
+
+680
+00:59:15,680 --> 00:59:17,840
+<i>Pero lo veo</i>
+
+681
+00:59:17,920 --> 00:59:21,240
+<i>En ellos, veo familia</i>
+
+682
+00:59:21,800 --> 00:59:26,760
+<i>Veo cómo éramos nosotros</i>
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+683
+00:59:27,280 --> 00:59:28,280
+<i>¡Anímate!</i>
+
+684
+00:59:28,360 --> 00:59:31,360
+<i>Bienvenido al tiempo familiar</i>
+
+685
+00:59:32,200 --> 00:59:35,360
+<i>Bienvenido al tiempo de hermandad</i>
+
+686
+00:59:36,120 --> 00:59:40,800
+<i>Nos gusta mucho dar y tomar</i>
+<i>Con nuestros amigos nuevos</i>
+
+687
+00:59:40,880 --> 00:59:43,280
+<i>Haremos de todo</i>
+
+688
+00:59:43,760 --> 00:59:46,800
+<i>Bienvenido al tiempo familiar</i>
+
+689
+00:59:47,440 --> 00:59:50,640
+<i>Bienvenido al tiempo de felicidad</i>
+
+690
+00:59:51,640 --> 00:59:56,000
+<i>Éste es nuestro festival</i>
+<i>Y lo mejor de todo</i>
+
+691
+00:59:56,680 --> 00:59:58,880
+<i>Venimos a compartir</i>
+
+692
+00:59:58,960 --> 01:00:02,640
+<i>¡Venimos a compartirlo todo!</i>
+
+693
+01:00:10,480 --> 01:00:13,840
+Bueno, cálmense, todos. Cálmense.
+
+694
+01:00:13,920 --> 01:00:17,480
+No echen huesos de pescado allá.
+Alguien se puede atragantar.
+
+695
+01:00:17,520 --> 01:00:19,520
+Bueno, yo primero. A ver.
+
+696
+01:00:19,600 --> 01:00:24,160
+La cosa más interesante
+que me pasó este año.
+
+697
+01:00:26,000 --> 01:00:28,000
+Ya sé, ya sé. Escuchen esto.
+
+698
+01:00:28,080 --> 01:00:33,120
+Fue cuando por fin derribé el árbol
+que me tapaba la vista de mi cueva.
+
+699
+01:00:33,160 --> 01:00:36,480
+Ahora tengo una familia de
+ardillas viviendo en mi casa.
+
+700
+01:00:40,360 --> 01:00:43,880
+¡Bueno, señores!
+¡Bueno, patas arriba!
+
+701
+01:00:43,960 --> 01:00:47,200
+-¿Quién sigue?
+-¡Aquí! ¡Yo!
+
+702
+01:00:47,240 --> 01:00:49,720
+¡Mírenme, mírenme!
+¡Los engañé!
+
+703
+01:00:50,880 --> 01:00:55,320
+Este año perdí a mi
+querido esposo, Edgar.
+
+704
+01:00:55,360 --> 01:00:57,680
+¡Deja de decir que estoy muerto!
+
+705
+01:00:57,760 --> 01:01:02,440
+¡A veces todavía alcanzo a oír su voz!
+
+706
+01:01:02,520 --> 01:01:04,200
+La próxima vez, me toca a mí.
+
+707
+01:01:16,920 --> 01:01:18,960
+Ah, sí.
+
+708
+01:01:21,200 --> 01:01:25,520
+-¡Ahora sí! ¡Lo voy a agarrar! ¡Me toca!
+-Creo que nos toca a nosotros.
+
+709
+01:01:25,560 --> 01:01:28,880
+Este año, conocí a la más preciosa...
+
+710
+01:01:28,960 --> 01:01:30,960
+No, tú eres precioso.
+
+711
+01:01:31,080 --> 01:01:33,360
+Tú eres más preciosa.
+
+712
+01:01:33,400 --> 01:01:34,720
+¡Váyanse a una cueva!
+
+713
+01:01:36,680 --> 01:01:38,640
+Si tan sólo Edgar estuviera vivo.
+
+714
+01:01:38,720 --> 01:01:41,320
+¡Ya te lo dije, mujer! ¡Aquí estoy!
+
+715
+01:01:41,400 --> 01:01:43,240
+Te quiero, corazón.
+
+716
+01:01:43,280 --> 01:01:45,280
+¡Ahora sí me toca!
+
+717
+01:01:45,360 --> 01:01:46,920
+Toma, Koda.
+
+718
+01:01:47,000 --> 01:01:49,600
+-Tú tienes que contar algo, Kenai.
+-¿Qué?
+
+719
+01:01:49,640 --> 01:01:52,080
+Así es. Tú lo agarraste, tú cuentas.
+
+720
+01:01:52,120 --> 01:01:54,880
+¿Nunca jugaste esto de cachorro?
+
+721
+01:01:54,920 --> 01:01:57,080
+¡Vamos, "Keno"!
+
+722
+01:01:57,560 --> 01:01:59,400
+Algo hiciste este año.
+
+723
+01:01:59,600 --> 01:02:01,600
+Bueno.
+
+724
+01:02:01,680 --> 01:02:03,920
+¿Quieren saber qué hice este año?
+
+725
+01:02:04,640 --> 01:02:09,440
+Emprendí el viaje más largo, más duro,
+más cansado de toda mi vida
+
+726
+01:02:09,520 --> 01:02:12,960
+con el latoso más grande
+que jamás he conocido.
+
+727
+01:02:14,960 --> 01:02:17,360
+¿Qué puede uno esperar
+de un hermano menor?
+
+728
+01:02:19,440 --> 01:02:21,440
+Bueno, camarada, te toca.
+
+729
+01:02:22,120 --> 01:02:24,960
+-Cuéntanos, Koda.
+-Bueno, ahí les va.
+
+730
+01:02:26,720 --> 01:02:29,680
+Este año vi a mi mamá
+en una lucha a muerte
+
+731
+01:02:29,760 --> 01:02:32,600
+contra la criatura más
+feroz sobre la Tierra.
+
+732
+01:02:32,640 --> 01:02:34,480
+-¿Quién sigue?
+-¿Qué?
+
+733
+01:02:34,520 --> 01:02:39,080
+Un momento. Creo que todos
+queremos escuchar el resto.
+
+734
+01:02:39,120 --> 01:02:42,760
+Me imaginé que
+iban a querer. Veamos.
+
+735
+01:02:42,800 --> 01:02:47,440
+Fue probablemente el quinto o
+sexto día más frío de toda mi vida.
+
+736
+01:02:47,480 --> 01:02:50,200
+Mamá y yo estábamos
+comiendo, divirtiéndonos
+
+737
+01:02:50,280 --> 01:02:55,760
+cuando, de repente, me empuja a los
+arbustos y me dice que no haga ruido.
+
+738
+01:02:55,800 --> 01:02:57,920
+Me dice: "Huelo algo".
+
+739
+01:02:58,000 --> 01:03:00,000
+Así que empiezo a olfatear.
+
+740
+01:03:00,480 --> 01:03:03,280
+Hay algo en el bosque,
+corriendo directo a nosotros,
+
+741
+01:03:03,320 --> 01:03:05,840
+acercándose más y más.
+
+742
+01:03:07,600 --> 01:03:11,520
+Y luego, de entre los
+árboles, ¡salta un cazador!
+
+743
+01:03:13,320 --> 01:03:16,200
+Ahora mi mamá no tenía adónde ir.
+
+744
+01:03:16,280 --> 01:03:20,120
+¡El monstruo la tenía
+acorralada contra un glaciar gigante!
+
+745
+01:03:24,440 --> 01:03:28,160
+¡El monstruo ataca!
+Pero mamá es demasiado veloz.
+
+746
+01:03:28,280 --> 01:03:33,200
+Antes de que vuelva a atacar, se
+para muy alta y grita: "¡Lárgate!".
+
+747
+01:03:35,040 --> 01:03:37,680
+-Kenai.
+-Mamá huele más cazadores.
+
+748
+01:03:37,760 --> 01:03:40,200
+¡Toda una manada
+viene hacia nosotros!
+
+749
+01:03:40,280 --> 01:03:42,320
+¡Sitka, no! ¡El oso! ¡Atrás de ti!
+
+750
+01:03:42,360 --> 01:03:45,040
+Ella los detiene para protegerme.
+
+751
+01:03:45,120 --> 01:03:47,960
+¡Los tiene alrededor,
+picándola con palos!
+
+752
+01:03:48,040 --> 01:03:49,920
+-Sitka.
+-¡Toda la cosa se rompió!
+
+753
+01:03:50,000 --> 01:03:51,520
+Se cayeron al agua.
+
+754
+01:03:51,600 --> 01:03:53,640
+¡Había hielo por todos lados!
+
+755
+01:03:53,720 --> 01:03:56,480
+¡Y ya no aguantaba
+abajo del agua y pum!
+
+756
+01:03:56,560 --> 01:04:00,320
+Salió disparada del agua.
+¡Nunca me había asustado tanto!
+
+757
+01:04:00,400 --> 01:04:02,200
+Iré tras el oso.
+
+758
+01:04:02,320 --> 01:04:03,280
+¿Koda?
+
+759
+01:04:03,400 --> 01:04:05,080
+<i>Sitka no hubiera querido eso.</i>
+
+760
+01:04:05,160 --> 01:04:07,360
+<i>¡Perdimos a Sitka por ese monstruo!</i>
+
+761
+01:04:10,160 --> 01:04:13,440
+¿Se cayó de un glaciar?
+Nunca he visto nada parecido.
+
+762
+01:04:13,520 --> 01:04:15,520
+Imagínense.
+
+763
+01:04:16,320 --> 01:04:18,800
+¿Kenai? ¿Qué te pasa, Kenai?
+
+764
+01:04:18,880 --> 01:04:21,920
+¿Qué pasó después?
+¿Tu mamá está bien?
+
+765
+01:04:22,520 --> 01:04:24,920
+Kenai, ¿qué tienes?
+
+766
+01:04:24,960 --> 01:04:27,640
+-¿Adónde vas?
+-Salió bien del agua.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+767
+01:04:27,760 --> 01:04:31,120
+Pero ahí fue cuando nos
+separamos. Luego conocí a Kenai.
+
+768
+01:04:32,520 --> 01:04:34,000
+¿Kenai?
+
+769
+01:05:19,280 --> 01:05:21,280
+¿Otra vez te espanté?
+
+770
+01:05:22,240 --> 01:05:24,240
+-Sí.
+-¿Dónde estabas?
+
+771
+01:05:24,280 --> 01:05:25,560
+Te ves mal.
+
+772
+01:05:25,640 --> 01:05:28,520
+Mi mamá dice que si comes
+mucho pescado, debes acostarte y ya.
+
+773
+01:05:28,600 --> 01:05:29,600
+Koda...
+
+774
+01:05:31,120 --> 01:05:33,120
+Hay algo que te...
+
+775
+01:05:34,280 --> 01:05:36,600
+¿Te acuerdas de tu historia de anoche?
+
+776
+01:05:36,640 --> 01:05:39,880
+-Sí.
+-Pues, yo necesito contarte una.
+
+777
+01:05:40,000 --> 01:05:42,120
+¿En serio? ¿Acerca de qué?
+
+778
+01:05:42,160 --> 01:05:45,120
+Es más o menos sobre un hombre.
+
+779
+01:05:45,160 --> 01:05:47,480
+Y más o menos sobre un oso.
+
+780
+01:05:48,160 --> 01:05:51,320
+Pero más que
+nada es sobre un monstruo
+
+781
+01:05:52,440 --> 01:05:54,560
+que hizo algo tan malo...
+
+782
+01:05:54,640 --> 01:05:58,880
+<i>Siempre que volteo</i>
+<i>Hiero a alguien</i>
+
+783
+01:06:00,200 --> 01:06:06,040
+<i>Pero las palabras no pueden</i>
+<i>Cambiar las cosas que hice</i>
+
+784
+01:06:07,000 --> 01:06:10,600
+<i>Haría todo lo que pudiera</i>
+
+785
+01:06:10,680 --> 01:06:13,880
+<i>Daría todo lo que tengo</i>
+
+786
+01:06:13,960 --> 01:06:19,440
+<i>Pero el camino que busco</i>
+<i>Se me oculta ahora</i>
+
+787
+01:06:19,520 --> 01:06:21,840
+¿Koda? Hice algo muy muy malo.
+
+788
+01:06:21,920 --> 01:06:25,840
+<i>Hermano oso, te fallé</i>
+
+789
+01:06:25,960 --> 01:06:27,840
+No me gusta esta historia.
+
+790
+01:06:27,840 --> 01:06:32,920
+<i>Confiaste en mí, creíste en mí</i>
+<i>Y yo te fallé</i>
+
+791
+01:06:33,000 --> 01:06:34,640
+Tu mamá no va a venir.
+
+792
+01:06:34,720 --> 01:06:37,840
+<i>Te he ocultado muchas cosas</i>
+
+793
+01:06:37,880 --> 01:06:40,880
+<i>Pero mi vergüenza se nota</i>
+
+794
+01:06:40,960 --> 01:06:43,120
+<i>Y rezo por que alguien</i>
+
+795
+01:06:43,200 --> 01:06:48,720
+<i>Por que alguien venga</i>
+<i>Y me quite el dolor</i>
+
+796
+01:06:49,200 --> 01:06:52,600
+<i>No hay salida</i>
+
+797
+01:06:52,680 --> 01:06:55,720
+<i>De este lugar oscuro</i>
+
+798
+01:06:56,240 --> 01:06:59,800
+<i>No, no hay futuro</i>
+
+799
+01:07:03,080 --> 01:07:08,680
+<i>Sé que no puedo ser libre</i>
+
+800
+01:07:10,560 --> 01:07:14,240
+<i>Pero no veo otra manera</i>
+
+801
+01:07:15,880 --> 01:07:20,880
+<i>No puedo encarar otro día</i>
+
+802
+01:07:23,440 --> 01:07:25,440
+¿Koda?
+
+803
+01:07:34,080 --> 01:07:35,920
+Koda, ojalá pudiera...
+
+804
+01:07:36,960 --> 01:07:39,760
+Si hubiera alguna manera...
+
+805
+01:07:41,000 --> 01:07:43,040
+Daría lo que fuera por...
+
+806
+01:07:45,520 --> 01:07:47,520
+Si tan sólo...
+
+807
+01:08:00,160 --> 01:08:02,160
+Lo siento, Koda.
+
+808
+01:08:03,080 --> 01:08:05,080
+Lo siento mucho.
+
+809
+01:08:41,680 --> 01:08:43,760
+Lo siento, Kenai.
+
+810
+01:08:44,640 --> 01:08:46,920
+Ya no sé qué estoy haciendo.
+
+811
+01:08:47,680 --> 01:08:49,680
+Necesito ayuda.
+
+812
+01:09:03,840 --> 01:09:05,760
+¿Sitka?
+
+813
+01:09:16,360 --> 01:09:17,760
+Mira, lo lamento.
+
+814
+01:09:17,840 --> 01:09:20,240
+Si yo hubiera manejado,
+no habría pasado esto.
+
+815
+01:09:20,320 --> 01:09:22,200
+Nunca me dejas hacer nada.
+
+816
+01:09:22,280 --> 01:09:24,880
+¡Vete a volar! Dije que lo sentía.
+
+817
+01:09:24,960 --> 01:09:27,840
+No puedo creer que
+hiciste chocar al mamut.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+818
+01:09:27,880 --> 01:09:31,560
+-Esa montaña se apareció de repente.
+-No te disculpo.
+
+819
+01:09:31,600 --> 01:09:33,680
+-Estaba en mi punto ciego...
+-Oye, mira.
+
+820
+01:09:33,720 --> 01:09:35,520
+Es el cachorrito ese.
+
+821
+01:09:35,800 --> 01:09:39,200
+-Está muy molesto.
+-¿Qué te pasa, "pequeñoso"?
+
+822
+01:09:39,360 --> 01:09:41,560
+Nada. Estoy bien.
+
+823
+01:09:42,360 --> 01:09:44,600
+Qué bien. ¿En qué íbamos?
+
+824
+01:09:44,680 --> 01:09:47,400
+Eres un gran rumiante egoísta
+y nunca vas a cambiar.
+
+825
+01:09:47,440 --> 01:09:49,480
+-¿Qué?
+-Ya me harté, ¿eh?
+
+826
+01:09:49,560 --> 01:09:51,920
+De ahora en adelante,
+él será mi nuevo hermano.
+
+827
+01:09:52,040 --> 01:09:53,280
+No puedes hacer eso.
+
+828
+01:09:53,360 --> 01:09:56,800
+Disculpa. Te he reemplazado
+con mi querido hermano...
+
+829
+01:09:56,880 --> 01:09:59,040
+¿Cómo dijiste que te llamabas?
+
+830
+01:09:59,080 --> 01:10:01,200
+Ya no quiero más hermanos.
+
+831
+01:10:01,240 --> 01:10:05,200
+-¡Él también ya se hartó de ti!
+-¡Te prometo que cambiaré!
+
+832
+01:10:05,240 --> 01:10:09,080
+¡Lárgate, tú no cambiarás! Ser un
+hermano no significa nada para ti.
+
+833
+01:10:09,120 --> 01:10:11,320
+-Claro que sí.
+-¿Como cuándo?
+
+834
+01:10:11,440 --> 01:10:14,000
+Cuando se te helaron
+las patas en el lago.
+
+835
+01:10:14,080 --> 01:10:17,680
+-¿Quién te acompañó todo el invierno?
+-Tú.
+
+836
+01:10:17,760 --> 01:10:20,080
+¿Quién te enseñó
+dónde está el mejor pasto?
+
+837
+01:10:20,160 --> 01:10:23,280
+El más tierno, el cubierto de rocío.
+
+838
+01:10:23,360 --> 01:10:25,880
+¿Por qué crees que lo hice?
+
+839
+01:10:25,920 --> 01:10:27,960
+Porque yo...
+
+840
+01:10:28,080 --> 01:10:30,000
+Porque yo amo a...
+
+841
+01:10:30,120 --> 01:10:31,120
+...al ti-erno.
+
+842
+01:10:31,160 --> 01:10:34,600
+¿Perdón? No oí lo que dijiste.
+
+843
+01:10:34,680 --> 01:10:37,960
+Dije que yo amo al ti-erno.
+
+844
+01:10:38,440 --> 01:10:40,520
+Yo también amo al ti-erno.
+
+845
+01:10:41,920 --> 01:10:44,440
+Oye, yo puedo cambiar.
+
+846
+01:10:44,480 --> 01:10:47,960
+-Ya déjame, ¿eh?
+-Por favor, yo puedo cambiar.
+
+847
+01:10:48,040 --> 01:10:51,640
+-Vete. No me toques.
+-¡Yo puedo cambiar!
+
+848
+01:10:53,560 --> 01:10:55,920
+¡Ahí no!
+¡Ése es el lugar!
+
+849
+01:10:57,240 --> 01:10:59,520
+Nos vemos, "pequeñoso".
+
+850
+01:10:59,600 --> 01:11:01,520
+¡Sí! Buen día, ¿eh?
+
+851
+01:11:01,600 --> 01:11:03,600
+¿Sabes qué amerita esto?
+
+852
+01:11:03,640 --> 01:11:07,840
+Un montón de cebada deliciosa y
+hierba ámbar sobre un lecho de lúpulo.
+
+853
+01:11:07,920 --> 01:11:09,920
+Me gusta.
+
+854
+01:11:26,440 --> 01:11:29,080
+¿Sitka? Sitka, ¿estás ahí?
+
+855
+01:11:33,040 --> 01:11:35,040
+Por favor.
+
+856
+01:11:35,120 --> 01:11:37,120
+Por favor, Sitka.
+
+857
+01:11:37,160 --> 01:11:39,240
+No sé qué más hacer.
+
+858
+01:11:43,640 --> 01:11:44,960
+Sitka.
+
+859
+01:11:52,000 --> 01:11:54,200
+¡Denahi!
+
+860
+01:11:55,360 --> 01:11:57,360
+¡Sitka, apúrate! ¡Vuélveme hombre!
+
+861
+01:12:09,520 --> 01:12:11,520
+¿Dónde estás, Sitka?
+
+862
+01:12:34,680 --> 01:12:36,680
+Denahi.
+
+863
+01:12:37,360 --> 01:12:38,880
+¡Denahi, por favor!
+
+864
+01:12:43,880 --> 01:12:45,280
+¿Koda?
+
+865
+01:12:55,680 --> 01:12:57,920
+No.
+
+866
+01:12:59,280 --> 01:13:01,240
+¡Déjalo en paz!
+
+867
+01:13:04,080 --> 01:13:05,520
+¡Koda!
+
+868
+01:13:31,120 --> 01:13:33,040
+¿Kenai?
+
+869
+01:13:49,680 --> 01:13:51,680
+¿Sitka?
+
+870
+01:14:15,840 --> 01:14:18,720
+Koda, no tengas miedo.
+
+871
+01:14:19,520 --> 01:14:21,000
+Soy yo.
+
+STYLE
+::cue() {
+font-family: Arial;
+}
+
+872
+01:15:08,000 --> 01:15:10,120
+Él me necesita.
+
+873
+01:15:11,720 --> 01:15:15,360
+¿Sabes qué? Se veía mejor de oso.
+
+874
+01:15:25,320 --> 01:15:28,560
+Pero, Denahi...
+
+875
+01:15:29,120 --> 01:15:31,560
+Está bien, Kenai.
+
+876
+01:15:38,760 --> 01:15:43,120
+No importa qué escojas,
+siempre serás mi hermanito.
+
+877
+01:16:03,200 --> 01:16:05,200
+¿Dije "hermanito"?
+
+878
+01:16:38,560 --> 01:16:39,960
+¡Kenai!
+
+879
+01:17:06,320 --> 01:17:11,360
+<i>Mi hermano Kenai se fue a</i>
+<i>vivir con Koda y los demás osos.</i>
+
+880
+01:17:11,480 --> 01:17:15,640
+<i>Él me enseñó que el</i>
+<i>amor es muy poderoso.</i>
+
+881
+01:17:16,600 --> 01:17:20,400
+<i>Yo le pasé la sabiduría</i>
+<i>de su historia a mi pueblo.</i>
+
+882
+01:17:21,600 --> 01:17:24,840
+<i>La historia de un niño</i>
+<i>que se volvió hombre</i>
+
+883
+01:17:25,680 --> 01:17:27,680
+<i>volviéndose un oso.</i>
+
+884
+01:17:27,720 --> 01:17:30,960
+<i>Espíritus de los que han vivido antes</i>
+
+885
+01:17:31,040 --> 01:17:33,960
+<i>Guíennos de la mano</i>
+
+886
+01:17:34,040 --> 01:17:39,280
+<i>Llénenos con todo lo que saben</i>
+
+887
+01:17:39,360 --> 01:17:42,120
+<i>Enséñenos que ante ustedes</i>
+
+888
+01:17:42,200 --> 01:17:44,320
+<i>Todos somos iguales</i>
+
+889
+01:17:45,080 --> 01:17:50,240
+<i>Hermanos uno del otro</i>
+<i>En este mundo seremos</i>
+
+890
+01:17:50,320 --> 01:17:53,040
+<i>Verdaderos hermanos iguales</i>
+
+891
+01:17:53,120 --> 01:17:58,360
+<i>Hermanos todos iguales</i>
+
+892
+01:18:10,400 --> 01:18:13,480
+¿Qué estás haciendo, "pequeñoso"?
+
+893
+01:18:13,560 --> 01:18:16,240
+Practicando mis maniobras.
+¿Quieres ver una?
+
+894
+01:18:16,280 --> 01:18:18,920
+Claro. Esto va a ser bueno.
+
+895
+01:18:24,000 --> 01:18:27,840
+Escuchen. Yo era un
+hombre que se volvió un oso.
+
+896
+01:18:27,920 --> 01:18:31,320
+No soy un castor. Un
+hombre que se volvió oso. ¡Punto!
+
+897
+01:18:31,440 --> 01:18:35,560
+Y antes de eso,
+eras como una cabra, ¿eh?
+
+898
+01:18:35,600 --> 01:18:38,240
+-Quizás un búfalo.
+-No, un conejo.
+
+899
+01:18:38,320 --> 01:18:41,680
+Mira esos oídos y esos pies peludos.
+¡Cuidado con el conejo!
+
+900
+01:18:41,760 --> 01:18:43,200
+Nada.
+
+901
+01:18:43,280 --> 01:18:46,760
+Ahora, respiren profundamente.
+
+902
+01:18:46,800 --> 01:18:49,360
+Y al exhalar
+
+903
+01:18:49,440 --> 01:18:52,760
+cambien a Saludo al Sol.
+
+904
+01:18:55,240 --> 01:18:57,280
+¡No, tú cállate!
+
+905
+01:18:58,200 --> 01:19:00,120
+¡No, tú cállate!
+
+906
+01:19:09,880 --> 01:19:13,720
+-¿Cómo estás, Koda?
+-Bastante bien.
+
+907
+01:24:27,920 --> 01:24:31,520
+Conforme a los
+reglamentos sobre la vida silvestre,
+
+908
+01:24:31,600 --> 01:24:35,120
+no se dañó a ningún
+pez al hacer esta película.
+
+909
+01:24:36,320 --> 01:24:39,000
+¡No! ¡Me va a comer!
+
+910
+01:24:40,840 --> 01:24:42,840
+¡Corte! ¡Corte!
+
+911
+01:24:42,920 --> 01:24:46,400
+¡Auxilio! ¡Me va a comer!
+
