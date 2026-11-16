@@ -1,0 +1,324 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.34,0:00:13.09,Default,,0000,0000,0000,,{\i1}Dragon Balls.{\i}
+Dialogue: 0,0:00:13.22,0:00:16.26,Default,,0000,0000,0000,,{\i1}When seven of these mysterious balls\Nare gathered and the password recited,{\i}
+Dialogue: 0,0:00:16.39,0:00:19.56,Default,,0000,0000,0000,,{\i1}a dragon called Shenron appears.{\i}
+Dialogue: 0,0:00:19.68,0:00:23.85,Default,,0000,0000,0000,,{\i1}Shenron will grant\Nwhatever wish is requested.{\i}
+Dialogue: 0,0:00:24.85,0:00:29.07,Default,,0000,0000,0000,,{\i1}This man, Son Goku, may appear gentle,{\i}
+Dialogue: 0,0:00:29.19,0:00:34.32,Default,,0000,0000,0000,,{\i1}but he is of a battle race called Saiyans,\Nand possesses unparalleled strength.{\i}
+Dialogue: 0,0:00:34.99,0:00:41.29,Default,,0000,0000,0000,,{\i1}He met many friends, adventured with them,\Nand grew into adulthood.{\i}
+Dialogue: 0,0:00:42.87,0:00:48.96,Default,,0000,0000,0000,,{\i1}And even now,\Nhe continues to protect Earth from evil.{\i}
+Dialogue: 0,0:00:55.80,0:01:01.22,Default,,0000,0000,0000,,Original Work, Story & Character Design\NAkira Toriyama (Shueisha "Jump comics")
+Dialogue: 0,0:01:05.52,0:01:07.10,Default,,0000,0000,0000,,{\i1}Hee, hee hee!{\i}
+Dialogue: 0,0:01:07.23,0:01:11.65,Default,,0000,0000,0000,,{\i1}Time to adventure!\NYou'll be hooked for sure!{\i}
+Dialogue: 0,0:01:12.28,0:01:16.36,Default,,0000,0000,0000,,{\i1}The Demon Realm is full of mystery{\i}
+Dialogue: 0,0:01:16.49,0:01:19.41,Default,,0000,0000,0000,,{\i1}DAIMA wonderland{\i}
+Dialogue: 0,0:01:20.53,0:01:22.20,Default,,0000,0000,0000,,{\i1}Whoopsie daisy!{\i}
+Dialogue: 0,0:01:22.33,0:01:26.71,Default,,0000,0000,0000,,{\i1}Even when your heart shrinks\NAnd you feel low{\i}
+Dialogue: 0,0:01:26.83,0:01:31.42,Default,,0000,0000,0000,,{\i1}Dreams are everywhere\NDon't worry about it{\i}
+Dialogue: 0,0:01:31.55,0:01:35.17,Default,,0000,0000,0000,,{\i1}Never give up{\i}
+Dialogue: 0,0:01:35.84,0:01:41.93,Default,,0000,0000,0000,,{\i1}Here comes a New Story{\i}
+Dialogue: 0,0:01:42.06,0:01:46.18,Default,,0000,0000,0000,,{\i1}Thousands of jabs and silly jokes{\i}
+Dialogue: 0,0:01:46.31,0:01:49.23,Default,,0000,0000,0000,,{\i1}They're waitin' for you{\i}
+Dialogue: 0,0:01:50.15,0:01:57.03,Default,,0000,0000,0000,,{\i1}Jaan! Jaka jaan!\NThe fanfare of courage{\i}
+Dialogue: 0,0:01:57.65,0:02:04.62,Default,,0000,0000,0000,,{\i1}No-holds-barred battles\NThe excitement ain't stoppin'{\i}
+Dialogue: 0,0:02:04.75,0:02:11.17,Default,,0000,0000,0000,,{\i1}Hey Shenron, grant my wish{\i}
+Dialogue: 0,0:02:11.96,0:02:18.80,Default,,0000,0000,0000,,{\i1}I wanna meet\NSomeone amazin' again tomorrow{\i}
+Dialogue: 0,0:02:21.14,0:02:21.93,Default,,0000,0000,0000,,DAIMA
+Dialogue: 0,0:02:22.05,0:02:23.22,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:02:23.89,0:02:25.18,Default,,0000,0000,0000,,This is amazin'!
+Dialogue: 0,0:02:25.31,0:02:28.64,Default,,0000,0000,0000,,The Earth's already out of sight.
+Dialogue: 0,0:02:29.35,0:02:33.65,Default,,0000,0000,0000,,Demon Realm planes function on\NMagic Power, so they're very fast.
+Dialogue: 0,0:02:33.77,0:02:35.11,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:02:35.73,0:02:38.15,Default,,0000,0000,0000,,We're headed to Warp-sama, aren't we?
+Dialogue: 0,0:02:38.28,0:02:39.74,Default,,0000,0000,0000,,Yes. That's right.
+Dialogue: 0,0:02:40.41,0:02:41.49,Default,,0000,0000,0000,,Warp-sama?
+Dialogue: 0,0:02:42.16,0:02:45.45,Default,,0000,0000,0000,,It's a transit point between\Nthe Demon Realm and the outside world.
+Dialogue: 0,0:02:46.41,0:02:50.17,Default,,0000,0000,0000,,One must pass Warp-sama\Nto get to the Demon Realm.
+Dialogue: 0,0:02:50.29,0:02:51.42,Default,,0000,0000,0000,,Huh.
+Dialogue: 0,0:02:52.13,0:02:55.55,Default,,0000,0000,0000,,Where is the closest Warp-sama to Earth?
+Dialogue: 0,0:02:57.21,0:02:58.55,Default,,0000,0000,0000,,I think…
+Dialogue: 0,0:02:58.67,0:03:02.22,Default,,0000,0000,0000,,Near Planet Batapi of… the Rakka System.
+Dialogue: 0,0:03:02.97,0:03:05.76,Default,,0000,0000,0000,,I see. So there was one there.
+Dialogue: 0,0:03:09.69,0:03:10.89,Default,,0000,0000,0000,,Glorio-san.
+Dialogue: 0,0:03:11.02,0:03:15.44,Default,,0000,0000,0000,,You said you were asked to\Ncome get Goku-san, correct?
+Dialogue: 0,0:03:15.57,0:03:16.57,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:16.69,0:03:19.03,Default,,0000,0000,0000,,The Demon King of\Nthe Third Demon World asked me
+Dialogue: 0,0:03:19.15,0:03:20.95,Default,,0000,0000,0000,,so that King Gomah could be defeated.
+Dialogue: 0,0:03:21.70,0:03:26.33,Default,,0000,0000,0000,,So, just how strong is\Nthat King Tamah guy?
+Dialogue: 0,0:03:26.45,0:03:27.83,Default,,0000,0000,0000,,It's King Gomah.
+Dialogue: 0,0:03:28.50,0:03:32.33,Default,,0000,0000,0000,,He's small, but he's crafty\Nand has amazing Magic Power.
+Dialogue: 0,0:03:33.08,0:03:38.21,Default,,0000,0000,0000,,But, you defeated Majin Buu.\NYou should be able to defeat King Gomah.
+Dialogue: 0,0:03:38.34,0:03:44.93,Default,,0000,0000,0000,,Right! We need to hurry and rescue Dende\Nand return to normal, too.
+Dialogue: 0,0:03:45.05,0:03:47.39,Default,,0000,0000,0000,,Right, Supreme Kai-sama?
+Dialogue: 0,0:03:53.15,0:03:55.69,Default,,0000,0000,0000,,This is Planet Batapi.
+Dialogue: 0,0:03:55.81,0:03:57.07,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:03:57.19,0:04:01.53,Default,,0000,0000,0000,,Could you stop here a moment?\NI need to relay this location to Kibito.
+Dialogue: 0,0:04:02.20,0:04:03.49,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:04:07.49,0:04:09.70,Default,,0000,0000,0000,,Thank you. Let's go.
+Dialogue: 0,0:04:16.13,0:04:17.84,Default,,0000,0000,0000,,What the heck is that?
+Dialogue: 0,0:04:18.63,0:04:20.55,Default,,0000,0000,0000,,That's Warp-sama.
+Dialogue: 0,0:04:20.67,0:04:22.51,Default,,0000,0000,0000,,Wow.
+Dialogue: 0,0:04:25.59,0:04:27.60,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:04:29.14,0:04:31.02,Default,,0000,0000,0000,,It looks like a giant goldfish!
+Dialogue: 0,0:04:37.40,0:04:38.36,Default,,0000,0000,0000,,Heya, big goldfish!
+Dialogue: 0,0:04:39.40,0:04:40.82,Default,,0000,0000,0000,,I'm not a goldfish!
+Dialogue: 0,0:04:40.94,0:04:43.65,Default,,0000,0000,0000,,Nah, you're totally a big goldfish!
+Dialogue: 0,0:04:43.78,0:04:46.24,Default,,0000,0000,0000,,Don't call me a goldfish!
+Dialogue: 0,0:04:48.24,0:04:49.58,Default,,0000,0000,0000,,Yeah, but…!
+Dialogue: 0,0:04:49.70,0:04:51.87,Default,,0000,0000,0000,,Shush, Goku-san!
+Dialogue: 0,0:04:52.50,0:04:55.17,Default,,0000,0000,0000,,You mustn't agitate Warp-sama.
+Dialogue: 0,0:04:55.29,0:04:58.25,Default,,0000,0000,0000,,If it doesn't like you,\Nyou might not be allowed through.
+Dialogue: 0,0:04:58.38,0:04:59.63,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:59.75,0:05:02.67,Default,,0000,0000,0000,,They say Warp-sama is rather sensitive.
+Dialogue: 0,0:05:02.80,0:05:06.76,Default,,0000,0000,0000,,If you tease Warp-sama for looking like\Na goldfish, you could draw ire.
+Dialogue: 0,0:05:06.89,0:05:10.39,Default,,0000,0000,0000,,-Huh.\N-What are you whispering about?
+Dialogue: 0,0:05:10.51,0:05:12.35,Default,,0000,0000,0000,,N-Nothing!
+Dialogue: 0,0:05:12.47,0:05:16.27,Default,,0000,0000,0000,,Then if you ain't just a goldfish,\Nare you a popeyed goldfish?
+Dialogue: 0,0:05:17.31,0:05:20.02,Default,,0000,0000,0000,,A popeyed goldfish is a goldfish!
+Dialogue: 0,0:05:20.15,0:05:21.94,Default,,0000,0000,0000,,S-Sorry!
+Dialogue: 0,0:05:22.78,0:05:26.11,Default,,0000,0000,0000,,Shh! Goku-san, please be quiet.
+Dialogue: 0,0:05:26.24,0:05:30.33,Default,,0000,0000,0000,,Who are you? Identify yourselves.
+Dialogue: 0,0:05:30.99,0:05:33.95,Default,,0000,0000,0000,,I am Glorio.\NI passed through here recently.
+Dialogue: 0,0:05:34.58,0:05:38.38,Default,,0000,0000,0000,,You have more people. Who are those two?
+Dialogue: 0,0:05:38.50,0:05:40.63,Default,,0000,0000,0000,,Ah, they're of the Demon Realm.
+Dialogue: 0,0:05:42.63,0:05:44.97,Default,,0000,0000,0000,,Let me see your ears.
+Dialogue: 0,0:05:45.80,0:05:46.93,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:05:47.05,0:05:50.89,Default,,0000,0000,0000,,Hmm… They're properly pointed.
+Dialogue: 0,0:05:51.01,0:05:53.64,Default,,0000,0000,0000,,You're definitely from the Demon Realm.
+Dialogue: 0,0:05:54.27,0:05:55.85,Default,,0000,0000,0000,,And that one?
+Dialogue: 0,0:05:56.81,0:05:57.73,Default,,0000,0000,0000,,Uh-oh…
+Dialogue: 0,0:05:58.69,0:06:01.19,Default,,0000,0000,0000,,Ow, ow, ow…
+Dialogue: 0,0:06:08.15,0:06:11.62,Default,,0000,0000,0000,,Very well. Now just say the pin number.
+Dialogue: 0,0:06:12.58,0:06:13.91,Default,,0000,0000,0000,,Pin number?
+Dialogue: 0,0:06:14.04,0:06:15.66,Default,,0000,0000,0000,,To use Warp-sama,
+Dialogue: 0,0:06:15.79,0:06:19.42,Default,,0000,0000,0000,,one must hand in an application beforehand\Nand receive a pin number.
+Dialogue: 0,0:06:19.54,0:06:22.84,Default,,0000,0000,0000,,There didn't used to be a pin number.
+Dialogue: 0,0:06:22.96,0:06:25.30,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:06:25.42,0:06:27.42,Default,,0000,0000,0000,,8821.
+Dialogue: 0,0:06:28.09,0:06:30.22,Default,,0000,0000,0000,,All right. Enter.
+Dialogue: 0,0:06:31.30,0:06:32.14,Default,,0000,0000,0000,,Whoa?!
+Dialogue: 0,0:06:34.56,0:06:35.97,Default,,0000,0000,0000,,That's neat!
+Dialogue: 0,0:06:41.02,0:06:45.94,Default,,0000,0000,0000,,O-Oh no! I need to tell Kibito\Nabout the pin number!
+Dialogue: 0,0:06:53.62,0:06:55.45,Default,,0000,0000,0000,,Oh no! There's no time!
+Dialogue: 0,0:06:59.54,0:07:00.92,Default,,0000,0000,0000,,W-What's that?!
+Dialogue: 0,0:07:04.04,0:07:07.46,Default,,0000,0000,0000,,I think what I ate earlier's\Ncomin' back up!
+Dialogue: 0,0:07:20.35,0:07:21.27,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:24.31,0:07:27.28,Default,,0000,0000,0000,,Sure. That was fun.
+Dialogue: 0,0:07:28.23,0:07:30.03,Default,,0000,0000,0000,,Please don't vomit.
+Dialogue: 0,0:07:31.24,0:07:32.70,Default,,0000,0000,0000,,Are we in the Demon Realm?
+Dialogue: 0,0:07:33.32,0:07:35.66,Default,,0000,0000,0000,,No. This is just a relay point.
+Dialogue: 0,0:07:36.74,0:07:39.20,Default,,0000,0000,0000,,The Demon Realm is divided\Ninto three worlds.
+Dialogue: 0,0:07:42.04,0:07:46.13,Default,,0000,0000,0000,,The first hatch can only be entered by\Npalace members of the First Demon World.
+Dialogue: 0,0:07:46.96,0:07:49.34,Default,,0000,0000,0000,,We're entering through the third hatch.
+Dialogue: 0,0:07:49.46,0:07:50.67,Default,,0000,0000,0000,,The third hatch?
+Dialogue: 0,0:07:51.51,0:07:55.05,Default,,0000,0000,0000,,That's the farthest from\Nthe First Demon World where Gomah is.
+Dialogue: 0,0:07:55.64,0:07:57.72,Default,,0000,0000,0000,,Shouldn't we at least\Ngo through the second?
+Dialogue: 0,0:07:58.35,0:08:01.18,Default,,0000,0000,0000,,I only got clearance for\Nthe Third Demon World.
+Dialogue: 0,0:08:01.89,0:08:03.40,Default,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:08:04.56,0:08:05.40,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:05.52,0:08:08.02,Default,,0000,0000,0000,,A tiny thing appeared.
+Dialogue: 0,0:08:09.86,0:08:11.53,Default,,0000,0000,0000,,Heading back to the Demon World?
+Dialogue: 0,0:08:11.65,0:08:12.78,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:08:12.90,0:08:15.45,Default,,0000,0000,0000,,Okay! Then get a move on!
+Dialogue: 0,0:08:27.67,0:08:29.96,Default,,0000,0000,0000,,Huh?! Not again!
+Dialogue: 0,0:08:56.82,0:08:58.53,Default,,0000,0000,0000,,Are we there?
+Dialogue: 0,0:08:59.78,0:09:03.20,Default,,0000,0000,0000,,Yes. This is the Third Demon World.
+Dialogue: 0,0:09:03.33,0:09:06.37,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:09:07.29,0:09:08.67,Default,,0000,0000,0000,,So this is it!
+Dialogue: 0,0:09:19.85,0:09:22.35,Default,,0000,0000,0000,,Ain't this amazin', Supreme Kai-sama?!
+Dialogue: 0,0:09:22.47,0:09:23.64,Default,,0000,0000,0000,,Y-Yes.
+Dialogue: 0,0:09:24.68,0:09:28.48,Default,,0000,0000,0000,,I couldn't tell Kibito the pin number.
+Dialogue: 0,0:09:29.23,0:09:31.48,Default,,0000,0000,0000,,Well, I'm sure it'll work out.
+Dialogue: 0,0:09:31.61,0:09:33.69,Default,,0000,0000,0000,,You're as nonchalant as ever.
+Dialogue: 0,0:09:38.78,0:09:41.91,Default,,0000,0000,0000,,Whoa! What's this place?!
+Dialogue: 0,0:09:42.04,0:09:43.91,Default,,0000,0000,0000,,That's the Demon Realm Tunnel.
+Dialogue: 0,0:09:44.04,0:09:46.92,Default,,0000,0000,0000,,It's a hole path.
+Dialogue: 0,0:09:47.04,0:09:48.83,Default,,0000,0000,0000,,Beyond it is the Second Demon World
+Dialogue: 0,0:09:48.96,0:09:51.38,Default,,0000,0000,0000,,and beyond that is the First Demon World.
+Dialogue: 0,0:09:52.05,0:09:55.17,Default,,0000,0000,0000,,Long ago one could freely go\Nbetween Demon Worlds,
+Dialogue: 0,0:09:55.30,0:09:57.38,Default,,0000,0000,0000,,but by the time I was young,
+Dialogue: 0,0:09:57.51,0:10:02.93,Default,,0000,0000,0000,,someone had placed a shield of light\Nover it, preventing passage.
+Dialogue: 0,0:10:03.56,0:10:05.93,Default,,0000,0000,0000,,So we can't use that hole, huh?
+Dialogue: 0,0:10:06.06,0:10:07.31,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:10:07.89,0:10:13.15,Default,,0000,0000,0000,,That's why Warp-sama has to be used to\Ntravel between the Demon Worlds.
+Dialogue: 0,0:10:13.78,0:10:17.53,Default,,0000,0000,0000,,But the only ones who can use Warp-sama\Nare people of the First Demon World
+Dialogue: 0,0:10:17.65,0:10:20.49,Default,,0000,0000,0000,,and select members of\Nthe Second Demon World.
+Dialogue: 0,0:10:20.62,0:10:23.03,Default,,0000,0000,0000,,So how is that you can use Warp-sama?
+Dialogue: 0,0:10:23.91,0:10:27.50,Default,,0000,0000,0000,,From the look of things, you seem to be\Nfrom the Third Demon World.
+Dialogue: 0,0:10:29.33,0:10:32.54,Default,,0000,0000,0000,,I do work in the First Demon World.
+Dialogue: 0,0:10:32.67,0:10:36.01,Default,,0000,0000,0000,,Really? What sort of work?
+Dialogue: 0,0:10:37.59,0:10:39.22,Default,,0000,0000,0000,,This and that.
+Dialogue: 0,0:10:42.51,0:10:43.39,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:43.51,0:10:45.97,Default,,0000,0000,0000,,-There's somethin' there.\N-Huh?
+Dialogue: 0,0:10:46.10,0:10:49.44,Default,,0000,0000,0000,,Ah, that's the previous king, Dabura.
+Dialogue: 0,0:10:50.60,0:10:52.31,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:10:53.27,0:10:55.36,Default,,0000,0000,0000,,But it's in poor shape.
+Dialogue: 0,0:11:05.41,0:11:07.25,Default,,0000,0000,0000,,The sky looks funny.
+Dialogue: 0,0:11:07.37,0:11:10.46,Default,,0000,0000,0000,,It's a different from Earth's sky,\Nso it may seem unfamiliar.
+Dialogue: 0,0:11:11.08,0:11:15.17,Default,,0000,0000,0000,,When I heard "the Demon Realm,"\NI thought it'd be more creepy,
+Dialogue: 0,0:11:15.96,0:11:18.17,Default,,0000,0000,0000,,but it's not that different from Earth.
+Dialogue: 0,0:11:18.92,0:11:22.68,Default,,0000,0000,0000,,It may seem so, but it has an entirely\Ndifferent ecology.
+Dialogue: 0,0:11:22.80,0:11:26.60,Default,,0000,0000,0000,,There are plants and animals\Nyou've never seen before.
+Dialogue: 0,0:11:27.31,0:11:31.06,Default,,0000,0000,0000,,The lands in the Third Demon World\Nfloat like that.
+Dialogue: 0,0:11:31.90,0:11:34.65,Default,,0000,0000,0000,,Hey, uh, you…
+Dialogue: 0,0:11:34.77,0:11:35.69,Default,,0000,0000,0000,,It's Glorio.
+Dialogue: 0,0:11:35.82,0:11:40.28,Default,,0000,0000,0000,,I wanna breathe some of the outside air.\NCould you let us down?
+Dialogue: 0,0:11:42.41,0:11:43.41,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:11:50.62,0:11:52.12,Default,,0000,0000,0000,,Hup!
+Dialogue: 0,0:11:55.04,0:11:57.42,Default,,0000,0000,0000,,So this is the Demon Realm!
+Dialogue: 0,0:12:10.60,0:12:12.73,Default,,0000,0000,0000,,Something smells kinda bad.
+Dialogue: 0,0:12:13.39,0:12:14.77,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:12:21.82,0:12:27.49,Default,,0000,0000,0000,,It's like the air's all stuffy\Nand makes it hard to move.
+Dialogue: 0,0:12:27.62,0:12:31.54,Default,,0000,0000,0000,,That's the gas covering the area.\NIt makes the air heavy.
+Dialogue: 0,0:12:31.66,0:12:32.62,Default,,0000,0000,0000,,Gas?
+Dialogue: 0,0:12:33.25,0:12:36.00,Default,,0000,0000,0000,,Don't worry. It's harmless.
+Dialogue: 0,0:12:36.13,0:12:36.96,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:12:47.35,0:12:50.60,Default,,0000,0000,0000,,This is my first time in\Nthe Third Demon World.
+Dialogue: 0,0:12:50.72,0:12:52.73,Default,,0000,0000,0000,,You're a Glind, aren't you?
+Dialogue: 0,0:12:52.85,0:12:54.56,Default,,0000,0000,0000,,Yes, that's right.
+Dialogue: 0,0:12:54.69,0:13:00.02,Default,,0000,0000,0000,,If memory serves, many Glind used to live\Nin the Second Demon World.
+Dialogue: 0,0:13:01.15,0:13:04.36,Default,,0000,0000,0000,,I'm sure you and your sophisticated kind\Nnever had any reason
+Dialogue: 0,0:13:04.49,0:13:06.16,Default,,0000,0000,0000,,to come to the Third Demon World.
+Dialogue: 0,0:13:11.74,0:13:13.37,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:13:14.71,0:13:16.79,Default,,0000,0000,0000,,Hey! Watch out!
+Dialogue: 0,0:13:16.92,0:13:20.75,Default,,0000,0000,0000,,If you fall into the Sea of Darkness\Nbelow, you'll perish instantly!
+Dialogue: 0,0:13:24.80,0:13:27.93,Default,,0000,0000,0000,,Whew! That's pretty scary.
+Dialogue: 0,0:14:02.92,0:14:04.17,Default,,0000,0000,0000,,They're slow?
+Dialogue: 0,0:14:04.80,0:14:06.63,Default,,0000,0000,0000,,I told you that the air is heavy!
+Dialogue: 0,0:14:07.55,0:14:08.34,Default,,0000,0000,0000,,Here they come!
+Dialogue: 0,0:14:11.05,0:14:12.10,Default,,0000,0000,0000,,What the heck?!
+Dialogue: 0,0:14:24.32,0:14:25.86,Default,,0000,0000,0000,,They're just bandits.
+Dialogue: 0,0:14:25.99,0:14:28.57,Default,,0000,0000,0000,,Wow, this place is dangerous.
+Dialogue: 0,0:14:29.36,0:14:32.28,Default,,0000,0000,0000,,Let's get going.\NWe still have a ways to go.
+Dialogue: 0,0:14:34.58,0:14:35.70,Default,,0000,0000,0000,,Glorio-san.
+Dialogue: 0,0:14:36.37,0:14:39.37,Default,,0000,0000,0000,,Where are we going to go now?
+Dialogue: 0,0:14:39.50,0:14:40.46,Default,,0000,0000,0000,,A town.
+Dialogue: 0,0:14:40.58,0:14:44.09,Default,,0000,0000,0000,,Tonight we'll stay in a hotel.\NTomorrow I'll take you to see King Kadan.
+Dialogue: 0,0:14:44.21,0:14:47.80,Default,,0000,0000,0000,,You mean the king who sent you\Nas a secret envoy?
+Dialogue: 0,0:14:47.92,0:14:49.05,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:56.85,0:14:59.31,Default,,0000,0000,0000,,We seem to be flying rather slow.
+Dialogue: 0,0:14:59.44,0:15:03.15,Default,,0000,0000,0000,,If we fly fast, the air resistance will\Nbreak the plane's machinery.
+Dialogue: 0,0:15:03.27,0:15:07.36,Default,,0000,0000,0000,,Check it out.\NThere's a weird volcano over there.
+Dialogue: 0,0:15:08.07,0:15:12.82,Default,,0000,0000,0000,,You're right. It's floating but it's a\Nvolcano. How interesting.
+Dialogue: 0,0:15:12.95,0:15:17.33,Default,,0000,0000,0000,,The gas that volcano spews makes the air\Nheavy.
+Dialogue: 0,0:15:18.08,0:15:20.71,Default,,0000,0000,0000,,There are volcanos all over this area.
+Dialogue: 0,0:15:21.33,0:15:23.17,Default,,0000,0000,0000,,So that's why it stinks.
+Dialogue: 0,0:15:23.29,0:15:25.67,Default,,0000,0000,0000,,I could probably fart and nobody'd notice.
+Dialogue: 0,0:15:26.67,0:15:28.05,Default,,0000,0000,0000,,That's being crude.
+Dialogue: 0,0:15:29.13,0:15:32.26,Default,,0000,0000,0000,,The thicker the gas is,\Nthe heavier the air becomes.
+Dialogue: 0,0:15:32.89,0:15:37.01,Default,,0000,0000,0000,,Because of that, it's difficult to fly\Nplanes near volcanos.
+Dialogue: 0,0:15:37.77,0:15:38.89,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:15:40.02,0:15:41.35,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:15:44.94,0:15:46.61,Default,,0000,0000,0000,,Whew! That surprised me.
+Dialogue: 0,0:15:46.73,0:15:48.53,Default,,0000,0000,0000,,It's just a minor gas emission.
+Dialogue: 0,0:15:50.99,0:15:52.49,Default,,0000,0000,0000,,The smell seems to have increased.
+Dialogue: 0,0:15:55.37,0:15:58.33,Default,,0000,0000,0000,,Sorry, sorry. You got me.
+Dialogue: 0,0:16:04.54,0:16:08.42,Default,,0000,0000,0000,,It was night on Earth,\Nso you must be getting sleepy.
+Dialogue: 0,0:16:09.34,0:16:11.17,Default,,0000,0000,0000,,We'll spend the night around here.
+Dialogue: 0,0:16:14.14,0:16:15.43,Default,,0000,0000,0000,,Thank goodness.
+Dialogue: 0,0:16:41.58,0:16:42.46,Default,,0000,0000,0000,,You guests?
+Dialogue: 0,0:16:43.12,0:16:44.33,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:44.46,0:16:46.75,Default,,0000,0000,0000,,Will you two be okay in the same room?
+Dialogue: 0,0:16:46.88,0:16:48.79,Default,,0000,0000,0000,,Yes. That's fine.
+Dialogue: 0,0:16:51.67,0:16:52.80,Default,,0000,0000,0000,,Do you have two rooms?
+Dialogue: 0,0:16:53.59,0:16:57.93,Default,,0000,0000,0000,,Sure I do. That'll be\N30,000 Dokuro a room.
+Dialogue: 0,0:16:58.05,0:17:01.27,Default,,0000,0000,0000,,30,000? That seems rather exorbitant.
+Dialogue: 0,0:17:02.68,0:17:06.02,Default,,0000,0000,0000,,If you don't like it,\Nyou can go somewhere else.
+Dialogue: 0,0:17:06.15,0:17:11.61,Default,,0000,0000,0000,,Too bad this is\Nthe only hotel in the region.
+Dialogue: 0,0:17:11.73,0:17:13.32,Default,,0000,0000,0000,,I'd watch myself if I was you.
+Dialogue: 0,0:17:14.07,0:17:15.70,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:17:19.24,0:17:22.16,Default,,0000,0000,0000,,I get it! How about 5,000?!
+Dialogue: 0,0:17:23.33,0:17:24.12,Default,,0000,0000,0000,,That'll do.
+Dialogue: 0,0:17:32.46,0:17:35.68,Default,,0000,0000,0000,,Our rooms are upstairs.\NI'll come for you in the morning.
+Dialogue: 0,0:17:35.80,0:17:36.80,Default,,0000,0000,0000,,I understand.
+Dialogue: 0,0:17:37.51,0:17:41.81,Default,,0000,0000,0000,,Hey, we left while I was still eatin',\Nso I'm hungry.
+Dialogue: 0,0:17:41.93,0:17:43.81,Default,,0000,0000,0000,,Can we get somethin' to eat?
+Dialogue: 0,0:17:43.93,0:17:47.27,Default,,0000,0000,0000,,Huh?! You ate all of that\Nand you're still…?
+Dialogue: 0,0:17:48.06,0:17:49.90,Default,,0000,0000,0000,,Hey. Do you offer food?
+Dialogue: 0,0:17:51.48,0:17:53.73,Default,,0000,0000,0000,,Uh, there's a bar across the street.
+Dialogue: 0,0:17:53.86,0:17:56.82,Default,,0000,0000,0000,,They probably have\Nhamburgers or something.
+Dialogue: 0,0:18:12.46,0:18:15.05,Default,,0000,0000,0000,,A hamburger… Is one enough?
+Dialogue: 0,0:18:16.67,0:18:19.18,Default,,0000,0000,0000,,I already ate a bit so…
+Dialogue: 0,0:18:19.84,0:18:20.89,Default,,0000,0000,0000,,I'll take five!
+Dialogue: 0,0:18:22.85,0:18:25.77,Default,,0000,0000,0000,,-Do you want a drink?\N-A little.
+Dialogue: 0,0:18:26.48,0:18:28.73,Default,,0000,0000,0000,,Give us five hamburgers and two drinks.
+Dialogue: 0,0:18:38.03,0:18:41.70,Default,,0000,0000,0000,,Demon World hamburgers are pretty yummy.
+Dialogue: 0,0:18:43.16,0:18:45.41,Default,,0000,0000,0000,,What meat is this?
+Dialogue: 0,0:18:46.33,0:18:47.87,Default,,0000,0000,0000,,Don't ask.
+Dialogue: 0,0:18:51.08,0:18:53.25,Default,,0000,0000,0000,,-Hey kid.\N-Hm?
+Dialogue: 0,0:18:53.38,0:18:56.09,Default,,0000,0000,0000,,You got round ears.
+Dialogue: 0,0:18:56.21,0:18:58.47,Default,,0000,0000,0000,,You ain't from the Demon Realm, are you?
+Dialogue: 0,0:19:00.55,0:19:03.39,Default,,0000,0000,0000,,We're eating. Get lost.
+Dialogue: 0,0:19:04.14,0:19:08.23,Default,,0000,0000,0000,,What? You seem awful full of yourself,\Ndon't you?
+Dialogue: 0,0:19:09.27,0:19:11.98,Default,,0000,0000,0000,,Didn't you hear me say to get lost?
+Dialogue: 0,0:19:12.10,0:19:14.65,Default,,0000,0000,0000,,What? What was that?!
+Dialogue: 0,0:19:18.15,0:19:19.28,Default,,0000,0000,0000,,Say that again!
+Dialogue: 0,0:19:22.78,0:19:24.12,Default,,0000,0000,0000,,Wh-Why you…!
+Dialogue: 0,0:19:24.95,0:19:26.04,Default,,0000,0000,0000,,Ow, ow, ow!
+Dialogue: 0,0:19:34.92,0:19:37.55,Default,,0000,0000,0000,,-Another.\N-Y-Yessir!
+Dialogue: 0,0:19:37.67,0:19:40.26,Default,,0000,0000,0000,,Oh man, my hamburger…
+Dialogue: 0,0:19:40.38,0:19:41.97,Default,,0000,0000,0000,,Why you…!
+Dialogue: 0,0:19:42.09,0:19:43.18,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:57.02,0:19:57.86,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:19:58.78,0:20:00.69,Default,,0000,0000,0000,,You little…!
+Dialogue: 0,0:20:08.87,0:20:10.50,Default,,0000,0000,0000,,It's hard to move!
+Dialogue: 0,0:20:14.75,0:20:18.00,Default,,0000,0000,0000,,Why you…! Stop messing around!
+Dialogue: 0,0:20:22.63,0:20:24.59,Default,,0000,0000,0000,,Maybe that should be enough?
+Dialogue: 0,0:20:36.23,0:20:37.73,Default,,0000,0000,0000,,Is that allowed?!
+Dialogue: 0,0:20:37.86,0:20:40.03,Default,,0000,0000,0000,,Anything goes!
+Dialogue: 0,0:20:54.87,0:20:57.21,Default,,0000,0000,0000,,This'll help to get used to this air.
+Dialogue: 0,0:20:57.96,0:21:00.17,Default,,0000,0000,0000,,I'll take you all on!
+Dialogue: 0,0:21:00.30,0:21:02.63,Default,,0000,0000,0000,,You snotty little…!
+Dialogue: 0,0:21:26.74,0:21:27.78,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:21:27.91,0:21:32.75,Default,,0000,0000,0000,,I think I'm gettin' the hang of my smaller\Nbody's balance and sense of distance.
+Dialogue: 0,0:21:33.37,0:21:35.50,Default,,0000,0000,0000,,Yes. That should be enough.
+Dialogue: 0,0:21:37.63,0:21:40.09,Default,,0000,0000,0000,,My belly still hasn't had enough, though.
+Dialogue: 0,0:21:41.00,0:21:43.88,Default,,0000,0000,0000,,-Another hamburger.\N-Y-Yes! Right away!
+Dialogue: 0,0:21:57.35,0:21:59.06,Default,,0000,0000,0000,,We'll show them!
+Dialogue: 0,0:22:10.99,0:22:12.12,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:22:20.63,0:22:23.38,Default,,0000,0000,0000,,Glorio-san, is something wrong?
+Dialogue: 0,0:22:24.13,0:22:25.84,Default,,0000,0000,0000,,My plane…
+Dialogue: 0,0:22:27.38,0:22:28.18,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:30.51,0:22:31.93,Default,,0000,0000,0000,,Did they…?!
+Dialogue: 0,0:22:35.18,0:22:36.39,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:41.73,0:22:43.61,Default,,0000,0000,0000,,{\i1}Holding out my hand{\i}
+Dialogue: 0,0:22:45.40,0:22:47.28,Default,,0000,0000,0000,,{\i1}Up to the sky{\i}
+Dialogue: 0,0:22:49.20,0:22:51.70,Default,,0000,0000,0000,,{\i1}The moment is ours{\i}
+Dialogue: 0,0:22:52.37,0:22:55.74,Default,,0000,0000,0000,,{\i1}Make a miracle happen{\i}
+Dialogue: 0,0:22:55.87,0:23:02.00,Default,,0000,0000,0000,,{\i1}Like a bird with open wings we fly{\i}
+Dialogue: 0,0:23:02.13,0:23:05.84,Default,,0000,0000,0000,,{\i1}Picking up{\i}
+Dialogue: 0,0:23:05.96,0:23:09.22,Default,,0000,0000,0000,,{\i1}Those pieces of hope{\i}
+Dialogue: 0,0:23:10.30,0:23:16.18,Default,,0000,0000,0000,,{\i1}There's no giving up{\i}
+Dialogue: 0,0:23:16.81,0:23:21.02,Default,,0000,0000,0000,,{\i1}Go as far as we can{\i}
+Dialogue: 0,0:23:21.15,0:23:24.65,Default,,0000,0000,0000,,{\i1}I got you by my side{\i}
+Dialogue: 0,0:23:24.77,0:23:27.74,Default,,0000,0000,0000,,{\i1}Run, run, run{\i}
+Dialogue: 0,0:23:27.86,0:23:31.32,Default,,0000,0000,0000,,{\i1}Over the mountain we go{\i}
+Dialogue: 0,0:23:31.45,0:23:35.16,Default,,0000,0000,0000,,{\i1}I hear it always\NYour voice in my heart{\i}
+Dialogue: 0,0:23:35.28,0:23:39.58,Default,,0000,0000,0000,,{\i1}"You know that we're never alone"{\i}
+Dialogue: 0,0:23:40.66,0:23:45.54,Default,,0000,0000,0000,,CHATTY

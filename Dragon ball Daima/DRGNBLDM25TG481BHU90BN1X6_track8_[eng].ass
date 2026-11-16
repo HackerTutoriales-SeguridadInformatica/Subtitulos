@@ -1,0 +1,316 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.30,0:00:12.97,On Top,,0000,0000,0000,,{\i1}Dragon Balls.{\i}
+Dialogue: 0,0:00:13.09,0:00:19.43,On Top,,0000,0000,0000,,{\i1}When seven of these mysterious balls are\Ngathered and the password recited,{\i}
+Dialogue: 0,0:00:19.56,0:00:23.85,On Top,,0000,0000,0000,,{\i1}a dragon called Shenron appears\Nand will grant whatever wish is requested.{\i}
+Dialogue: 0,0:00:24.81,0:00:29.15,On Top,,0000,0000,0000,,{\i1}This man, Son Goku, may appear gentle,{\i}
+Dialogue: 0,0:00:29.27,0:00:34.32,On Top,,0000,0000,0000,,{\i1}but he is of a battle race called Saiyans,\Nand possesses unparalleled strength.{\i}
+Dialogue: 0,0:00:34.95,0:00:41.29,On Top,,0000,0000,0000,,{\i1}He met many friends, adventured with them,\Nand grew into adulthood.{\i}
+Dialogue: 0,0:00:42.87,0:00:49.00,On Top,,0000,0000,0000,,{\i1}And even now,\Nhe continues to protect Earth from evil.{\i}
+Dialogue: 0,0:00:55.80,0:01:01.27,On Top,,0000,0000,0000,,Original Work, Story & Character Design\NAkira Toriyama (Shueisha "Jump comics")
+Dialogue: 0,0:01:05.52,0:01:07.10,On Top,,0000,0000,0000,,{\i1}Hee, hee hee!{\i}
+Dialogue: 0,0:01:07.23,0:01:11.65,On Top,,0000,0000,0000,,{\i1}Time to adventure!\NYou'll be hooked for sure!{\i}
+Dialogue: 0,0:01:12.28,0:01:16.36,On Top,,0000,0000,0000,,{\i1}The Demon Realm is full of mystery{\i}
+Dialogue: 0,0:01:16.49,0:01:19.41,On Top,,0000,0000,0000,,{\i1}DAIMA wonderland{\i}
+Dialogue: 0,0:01:20.53,0:01:22.20,On Top,,0000,0000,0000,,{\i1}Whoopsie daisy!{\i}
+Dialogue: 0,0:01:22.33,0:01:26.71,On Top,,0000,0000,0000,,{\i1}Even when your heart shrinks\NAnd you feel low{\i}
+Dialogue: 0,0:01:26.83,0:01:31.42,On Top,,0000,0000,0000,,{\i1}Dreams are everywhere\NDon't worry about it{\i}
+Dialogue: 0,0:01:31.55,0:01:35.17,On Top,,0000,0000,0000,,{\i1}Never give up{\i}
+Dialogue: 0,0:01:35.84,0:01:41.93,On Top,,0000,0000,0000,,{\i1}Here comes a New Story{\i}
+Dialogue: 0,0:01:42.06,0:01:46.18,On Top,,0000,0000,0000,,{\i1}Thousands of jabs and silly jokes{\i}
+Dialogue: 0,0:01:46.31,0:01:49.23,On Top,,0000,0000,0000,,{\i1}They're waitin' for you{\i}
+Dialogue: 0,0:01:50.15,0:01:57.03,On Top,,0000,0000,0000,,{\i1}Jaan! Jaka jaan!\NThe fanfare of courage{\i}
+Dialogue: 0,0:01:57.65,0:02:04.62,On Top,,0000,0000,0000,,{\i1}No-holds-barred battles\NThe excitement ain't stoppin'{\i}
+Dialogue: 0,0:02:04.75,0:02:11.17,On Top,,0000,0000,0000,,{\i1}Hey Shenron, grant my wish{\i}
+Dialogue: 0,0:02:11.96,0:02:18.80,On Top,,0000,0000,0000,,{\i1}I wanna meet\NSomeone amazin' again tomorrow{\i}
+Dialogue: 0,0:02:24.43,0:02:26.02,Default,,0000,0000,0000,,W-What could that be?
+Dialogue: 0,0:02:26.64,0:02:27.98,Default,,0000,0000,0000,,Whoa?!
+Dialogue: 0,0:02:31.73,0:02:33.02,Default,,0000,0000,0000,,The engine sounds bad!
+Dialogue: 0,0:02:33.15,0:02:33.90,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:34.02,0:02:37.19,Default,,0000,0000,0000,,I think we loaded\Ntoo much luggage for this plane.
+Dialogue: 0,0:02:38.49,0:02:39.86,Default,,0000,0000,0000,,Hold on tight!
+Dialogue: 0,0:03:01.34,0:03:04.97,Default,,0000,0000,0000,,Looks like it was just an error\Nfrom too much cargo.
+Dialogue: 0,0:03:05.10,0:03:07.06,Default,,0000,0000,0000,,What were we carrying?
+Dialogue: 0,0:03:07.18,0:03:10.10,Default,,0000,0000,0000,,We loaded a bunch of stuff\Nin case of emergencies.
+Dialogue: 0,0:03:10.23,0:03:14.61,Default,,0000,0000,0000,,There's repair equipment, camping\Nequipment, emergency medical supplies,
+Dialogue: 0,0:03:14.73,0:03:17.23,Default,,0000,0000,0000,,towels, toilet paper…
+Dialogue: 0,0:03:17.36,0:03:19.78,Default,,0000,0000,0000,,I guess it was a bit too much.
+Dialogue: 0,0:03:19.90,0:03:21.78,Default,,0000,0000,0000,,We'll leave half of it.
+Dialogue: 0,0:03:21.91,0:03:26.79,On Top,,0000,0000,0000,,LIGHTNING
+Dialogue: 0,0:03:29.37,0:03:32.54,Default,,0000,0000,0000,,I'll give it a once-over,\Nso give me a bit.
+Dialogue: 0,0:03:34.88,0:03:40.67,Default,,0000,0000,0000,,Hey, Goku called you\Nsomething-kai-sama before. What was that?
+Dialogue: 0,0:03:41.38,0:03:43.43,Default,,0000,0000,0000,,Ah, you mean "Supreme Kai."
+Dialogue: 0,0:03:44.14,0:03:49.31,Default,,0000,0000,0000,,In our universe, there's a bunch of\Ngod-like guys called "Kais."
+Dialogue: 0,0:03:49.43,0:03:51.14,Default,,0000,0000,0000,,And the greatest one of them all…
+Dialogue: 0,0:03:52.14,0:03:53.81,Default,,0000,0000,0000,,is Supreme Kai-sama here!
+Dialogue: 0,0:03:54.48,0:03:57.65,Default,,0000,0000,0000,,Uh, it's basically something like that.
+Dialogue: 0,0:03:57.77,0:04:00.49,Default,,0000,0000,0000,,Huh? You're a god?
+Dialogue: 0,0:04:00.61,0:04:03.74,Default,,0000,0000,0000,,Well, something like that.
+Dialogue: 0,0:04:03.86,0:04:05.28,Default,,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:04:05.41,0:04:08.37,Default,,0000,0000,0000,,The outside world's much bigger\Nthan the Demon Realm, right?
+Dialogue: 0,0:04:08.49,0:04:11.37,Default,,0000,0000,0000,,You were right to leave the Demon Realm!
+Dialogue: 0,0:04:11.50,0:04:13.42,Default,,0000,0000,0000,,Are you profiting?
+Dialogue: 0,0:04:13.54,0:04:15.54,Default,,0000,0000,0000,,I don't make money.
+Dialogue: 0,0:04:15.67,0:04:16.92,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:17.04,0:04:19.55,Default,,0000,0000,0000,,Seriously? That makes no sense.
+Dialogue: 0,0:04:22.38,0:04:23.47,Default,,0000,0000,0000,,Hey, Goliro.
+Dialogue: 0,0:04:23.59,0:04:25.09,Default,,0000,0000,0000,,It's Glorio.
+Dialogue: 0,0:04:25.72,0:04:27.43,Default,,0000,0000,0000,,You're doing that on purpose.
+Dialogue: 0,0:04:27.55,0:04:29.64,Default,,0000,0000,0000,,No, I ain't.
+Dialogue: 0,0:04:29.76,0:04:32.10,Default,,0000,0000,0000,,Then say it correctly.
+Dialogue: 0,0:04:32.23,0:04:33.73,Default,,0000,0000,0000,,Uh…
+Dialogue: 0,0:04:33.85,0:04:35.65,Default,,0000,0000,0000,,G-Glorio?
+Dialogue: 0,0:04:35.77,0:04:37.19,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:04:37.81,0:04:38.61,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:04:38.73,0:04:40.36,Default,,0000,0000,0000,,I need to poo.
+Dialogue: 0,0:04:40.98,0:04:41.86,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:45.24,0:04:47.70,Default,,0000,0000,0000,,We barely just left!
+Dialogue: 0,0:04:47.82,0:04:49.99,Default,,0000,0000,0000,,Why didn't you go back at the castle?!
+Dialogue: 0,0:04:50.79,0:04:54.21,Default,,0000,0000,0000,,I suddenly had to go. Don't blame me.
+Dialogue: 0,0:04:54.33,0:04:55.54,Default,,0000,0000,0000,,Gimme a minute.
+Dialogue: 0,0:04:58.46,0:04:59.80,Default,,0000,0000,0000,,Oh, Panzy.
+Dialogue: 0,0:05:01.76,0:05:04.17,Default,,0000,0000,0000,,Got any paper?
+Dialogue: 0,0:05:08.89,0:05:09.76,Default,,0000,0000,0000,,Ow.
+Dialogue: 0,0:05:10.47,0:05:11.85,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:05:13.18,0:05:15.89,Default,,0000,0000,0000,,Thank goodness I packed everything.
+Dialogue: 0,0:05:16.02,0:05:18.61,Default,,0000,0000,0000,,He's supposed to be really strong, right?
+Dialogue: 0,0:05:18.73,0:05:22.23,Default,,0000,0000,0000,,As far as I know,\Nthe strongest in the universe.
+Dialogue: 0,0:05:29.62,0:05:32.04,Default,,0000,0000,0000,,Watch out! It's a Gendarmerie plane!
+Dialogue: 0,0:05:34.58,0:05:35.46,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:05:35.58,0:05:36.75,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:05:42.46,0:05:43.59,Default,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:05:44.30,0:05:46.05,Default,,0000,0000,0000,,We should avoid conflict.
+Dialogue: 0,0:05:46.76,0:05:48.13,Default,,0000,0000,0000,,It could be problematic.
+Dialogue: 0,0:05:50.72,0:05:52.39,Default,,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:05:53.35,0:05:55.23,Default,,0000,0000,0000,,Just taking a break.
+Dialogue: 0,0:05:55.85,0:05:57.89,Default,,0000,0000,0000,,You two don't have Collars.
+Dialogue: 0,0:05:58.48,0:05:59.90,Default,,0000,0000,0000,,Where are you from?
+Dialogue: 0,0:06:00.02,0:06:01.19,Default,,0000,0000,0000,,The First Demon World.
+Dialogue: 0,0:06:01.31,0:06:03.44,Default,,0000,0000,0000,,I'm from the Second Demon World.
+Dialogue: 0,0:06:04.23,0:06:05.15,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:06:09.45,0:06:10.82,Default,,0000,0000,0000,,Seems suspicious.
+Dialogue: 0,0:06:11.49,0:06:15.04,Default,,0000,0000,0000,,What are three people from\Ndifferent Demon Worlds doing together?
+Dialogue: 0,0:06:20.83,0:06:24.09,Default,,0000,0000,0000,,We're friends traveling together
+Dialogue: 0,0:06:24.21,0:06:26.76,Default,,0000,0000,0000,,and asked this young lady to be our guide.
+Dialogue: 0,0:06:26.88,0:06:30.51,Default,,0000,0000,0000,,Traveling in this Demon World?\NYou've got strange taste.
+Dialogue: 0,0:06:31.14,0:06:32.72,Default,,0000,0000,0000,,We're thrill seekers.
+Dialogue: 0,0:06:34.18,0:06:35.06,Default,,0000,0000,0000,,Tell us…
+Dialogue: 0,0:06:35.18,0:06:39.19,Default,,0000,0000,0000,,have you seen a little kid\Nwith spikey hair and a red stick?
+Dialogue: 0,0:06:39.31,0:06:40.27,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:06:40.90,0:06:45.07,Default,,0000,0000,0000,,If you see him, contact the Gendarmerie.\NIt's worth ten gold coins.
+Dialogue: 0,0:06:45.19,0:06:46.15,Default,,0000,0000,0000,,We understand.
+Dialogue: 0,0:06:58.33,0:07:00.17,Default,,0000,0000,0000,,Whew! I feel much better!
+Dialogue: 0,0:07:03.13,0:07:04.67,Default,,0000,0000,0000,,What was that all about?
+Dialogue: 0,0:07:04.79,0:07:08.38,Default,,0000,0000,0000,,You were lucky.\NIt looks like you're wanted.
+Dialogue: 0,0:07:08.51,0:07:12.34,Default,,0000,0000,0000,,Goku-san, could you\Ntie down your hair or something?
+Dialogue: 0,0:07:12.97,0:07:13.97,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:14.10,0:07:17.31,Default,,0000,0000,0000,,I can't. My hair's too resilient.
+Dialogue: 0,0:07:17.43,0:07:20.14,Default,,0000,0000,0000,,More importantly, did you wash your hands?
+Dialogue: 0,0:07:20.27,0:07:21.27,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:07:21.39,0:07:22.56,Default,,0000,0000,0000,,Honestly!
+Dialogue: 0,0:07:35.45,0:07:37.41,Default,,0000,0000,0000,,I'm so glad we're flying again.
+Dialogue: 0,0:07:37.95,0:07:39.04,Default,,0000,0000,0000,,It's thanks to you, Panzy-san.
+Dialogue: 0,0:07:39.16,0:07:40.54,Default,,0000,0000,0000,,You're welcome.
+Dialogue: 0,0:07:41.16,0:07:45.34,Default,,0000,0000,0000,,Tell me, is it true that\NGlinds are born from trees?
+Dialogue: 0,0:07:45.46,0:07:47.30,Default,,0000,0000,0000,,Yes, that's right.
+Dialogue: 0,0:07:47.42,0:07:49.92,Default,,0000,0000,0000,,What?! What's that about?!
+Dialogue: 0,0:07:50.55,0:07:52.22,Default,,0000,0000,0000,,We Glinds…
+Dialogue: 0,0:07:52.34,0:07:55.85,Default,,0000,0000,0000,,{\i1}are born once every few centuries\Nfrom the Glind Tree.{\i}
+Dialogue: 0,0:07:55.97,0:07:57.35,Default,,0000,0000,0000,,{\i1}Seriously?!{\i}
+Dialogue: 0,0:07:57.97,0:08:01.06,Default,,0000,0000,0000,,{\i1}So does that mean you're a plant?{\i}
+Dialogue: 0,0:08:01.18,0:08:03.35,Default,,0000,0000,0000,,{\i1}I don't know about that.{\i}
+Dialogue: 0,0:08:03.48,0:08:07.27,Default,,0000,0000,0000,,So that's why you don't eat\Nand always only drink liquids.
+Dialogue: 0,0:08:07.40,0:08:11.24,Default,,0000,0000,0000,,Then Gomah's second in command,\NDegesu, is your brother?
+Dialogue: 0,0:08:11.36,0:08:15.57,Default,,0000,0000,0000,,He was born from the same tree\Nwhen I was 216, so yes, he is.
+Dialogue: 0,0:08:16.16,0:08:21.25,Default,,0000,0000,0000,,Does that mean you're all brothers?\NEven Kibito and that old Supreme Kai-sama?
+Dialogue: 0,0:08:21.37,0:08:25.54,Default,,0000,0000,0000,,No. There are five Glind Trees.
+Dialogue: 0,0:08:25.67,0:08:26.67,Default,,0000,0000,0000,,Huh.
+Dialogue: 0,0:08:26.79,0:08:27.88,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:08:28.50,0:08:34.63,Default,,0000,0000,0000,,Why did Degesu stay in the Demon Realm\Ninstead of leaving with the other Glinds?
+Dialogue: 0,0:08:38.18,0:08:43.27,Default,,0000,0000,0000,,{\i1}Degesu is very ambitious and\Ndidn't get along with the other Glinds.{\i}
+Dialogue: 0,0:08:44.48,0:08:49.27,Default,,0000,0000,0000,,There's another genius scientist\NGlind woman, right?
+Dialogue: 0,0:08:49.40,0:08:51.19,Default,,0000,0000,0000,,You mean Arinsu.
+Dialogue: 0,0:08:51.32,0:08:53.03,Default,,0000,0000,0000,,She's my older sister.
+Dialogue: 0,0:08:53.15,0:08:54.20,Default,,0000,0000,0000,,We're siblings.
+Dialogue: 0,0:08:54.32,0:08:59.53,Default,,0000,0000,0000,,Glinds don't have genders,\Nso we aren't exactly men or women.
+Dialogue: 0,0:09:01.20,0:09:04.62,Default,,0000,0000,0000,,{\i1}She's always been\Na bit of a mad scientist.{\i}
+Dialogue: 0,0:09:05.37,0:09:09.92,Default,,0000,0000,0000,,{\i1}She's also ambitious and chose\Nthe excitement of the Demon Realm.{\i}
+Dialogue: 0,0:09:11.34,0:09:14.01,Default,,0000,0000,0000,,All your siblings are problematic,\Nain't they?
+Dialogue: 0,0:09:14.13,0:09:15.97,Default,,0000,0000,0000,,It's not like it's my fault.
+Dialogue: 0,0:09:28.56,0:09:29.52,Default,,0000,0000,0000,,Wow.
+Dialogue: 0,0:09:30.19,0:09:32.90,Default,,0000,0000,0000,,The Demon World's\Na little light even at night.
+Dialogue: 0,0:09:33.57,0:09:36.57,Default,,0000,0000,0000,,It's because the Third Demon World\Nhas two suns.
+Dialogue: 0,0:09:38.07,0:09:40.58,Default,,0000,0000,0000,,Glorio, want me to take over piloting?
+Dialogue: 0,0:09:40.70,0:09:43.29,Default,,0000,0000,0000,,No. We should get some rest.
+Dialogue: 0,0:09:43.95,0:09:46.37,Default,,0000,0000,0000,,It's best to eat and sleep when we can.
+Dialogue: 0,0:09:47.00,0:09:49.21,Default,,0000,0000,0000,,There aren't any hotels around here.
+Dialogue: 0,0:09:49.33,0:09:51.25,Default,,0000,0000,0000,,We can find a cave and camp there.
+Dialogue: 0,0:09:52.00,0:09:55.13,Default,,0000,0000,0000,,Ew. No showers.
+Dialogue: 0,0:09:55.26,0:09:59.09,Default,,0000,0000,0000,,Oh! We left the camping gear\Nback where we landed!
+Dialogue: 0,0:09:59.22,0:10:01.55,Default,,0000,0000,0000,,You can skip a shower.
+Dialogue: 0,0:10:01.68,0:10:03.60,Default,,0000,0000,0000,,I do it all the time.
+Dialogue: 0,0:10:03.72,0:10:06.10,Default,,0000,0000,0000,,That's why you're filthy!
+Dialogue: 0,0:10:19.07,0:10:21.37,Default,,0000,0000,0000,,This is pretty good!
+Dialogue: 0,0:10:27.08,0:10:30.58,Default,,0000,0000,0000,,You probably shouldn't ask\Nwhat meat that is.
+Dialogue: 0,0:10:39.80,0:10:45.22,Default,,0000,0000,0000,,You know, Glorio, you said earlier that\Nyou came from the First Demon World.
+Dialogue: 0,0:10:45.85,0:10:46.72,Default,,0000,0000,0000,,Is that true?
+Dialogue: 0,0:10:47.27,0:10:48.18,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:48.31,0:10:51.94,Default,,0000,0000,0000,,You look like you're from\Nthe Third Demon World.
+Dialogue: 0,0:10:52.06,0:10:56.03,Default,,0000,0000,0000,,I was hired by someone high up and\Ncurrently live in the First Demon World.
+Dialogue: 0,0:10:56.65,0:10:58.65,Default,,0000,0000,0000,,That's really lucky.
+Dialogue: 0,0:10:59.61,0:11:00.61,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:11:00.74,0:11:02.57,Default,,0000,0000,0000,,Who hired you?
+Dialogue: 0,0:11:03.20,0:11:04.37,Default,,0000,0000,0000,,Does it matter?
+Dialogue: 0,0:11:04.49,0:11:07.95,Default,,0000,0000,0000,,There you go! You really are so gloomy.
+Dialogue: 0,0:11:08.08,0:11:09.37,Default,,0000,0000,0000,,It's a waste of good looks.
+Dialogue: 0,0:11:10.75,0:11:13.84,Default,,0000,0000,0000,,Why do you want to defeat King Gomah?
+Dialogue: 0,0:11:16.55,0:11:20.97,Default,,0000,0000,0000,,Because he's an evil person\Nwho makes all Majin suffer, obviously.
+Dialogue: 0,0:11:22.05,0:11:24.01,Default,,0000,0000,0000,,You have a strong sense of justice
+Dialogue: 0,0:11:24.14,0:11:25.51,Default,,0000,0000,0000,,for a Majin.
+Dialogue: 0,0:11:26.35,0:11:27.39,Default,,0000,0000,0000,,I guess.
+Dialogue: 0,0:11:30.10,0:11:33.15,Default,,0000,0000,0000,,Let's sleep. Tomorrow's another early day.
+Dialogue: 0,0:11:45.58,0:11:48.33,Default,,0000,0000,0000,,Yes. Things are working out.
+Dialogue: 0,0:11:48.45,0:11:49.25,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:11:49.37,0:11:50.62,Default,,0000,0000,0000,,{\i1}In a couple of days.{\i}
+Dialogue: 0,0:11:52.58,0:11:56.67,Default,,0000,0000,0000,,Things are going smoothly. Good job.
+Dialogue: 0,0:11:56.79,0:11:59.59,Default,,0000,0000,0000,,{\i1}Contact me if anything happens.{\i}
+Dialogue: 0,0:11:59.71,0:12:00.80,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:23.32,0:12:24.86,Default,,0000,0000,0000,,What could that be?
+Dialogue: 0,0:12:26.12,0:12:28.41,Default,,0000,0000,0000,,And something smells…
+Dialogue: 0,0:12:36.04,0:12:38.50,Default,,0000,0000,0000,,It's not Goku-san.
+Dialogue: 0,0:12:42.92,0:12:44.13,Default,,0000,0000,0000,,It's from deeper in the cave!
+Dialogue: 0,0:12:44.88,0:12:46.72,Default,,0000,0000,0000,,Hey! You two, wake up!
+Dialogue: 0,0:12:46.84,0:12:49.22,Default,,0000,0000,0000,,Huh? We're leaving?
+Dialogue: 0,0:12:49.35,0:12:51.85,Default,,0000,0000,0000,,Goku-san! Goku-san! Wake up!
+Dialogue: 0,0:12:55.69,0:12:56.77,Default,,0000,0000,0000,,Something's there!
+Dialogue: 0,0:13:01.07,0:13:01.94,Default,,0000,0000,0000,,What's goin' on?!
+Dialogue: 0,0:13:02.07,0:13:03.86,Default,,0000,0000,0000,,Pee-ew!
+Dialogue: 0,0:13:21.09,0:13:22.42,Default,,0000,0000,0000,,This is perfect.
+Dialogue: 0,0:13:22.55,0:13:27.89,Default,,0000,0000,0000,,I was going to hunt for food,\Nbut food came to me.
+Dialogue: 0,0:13:35.94,0:13:39.40,Default,,0000,0000,0000,,Oh, it's just a cow.\NDon't scare us like that.
+Dialogue: 0,0:13:39.52,0:13:41.11,Default,,0000,0000,0000,,I'm not a cow!
+Dialogue: 0,0:13:41.23,0:13:46.36,Default,,0000,0000,0000,,I walk on two feet and talk\Nand no cow is this big!
+Dialogue: 0,0:13:46.49,0:13:48.61,Default,,0000,0000,0000,,I'm a Minotaur!
+Dialogue: 0,0:13:48.74,0:13:51.03,Default,,0000,0000,0000,,That's a pretty cool name.
+Dialogue: 0,0:13:51.16,0:13:52.16,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:52.29,0:13:54.20,Default,,0000,0000,0000,,Th-Thanks.
+Dialogue: 0,0:13:54.33,0:13:55.66,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:13:55.79,0:13:58.00,Default,,0000,0000,0000,,That doesn't matter!
+Dialogue: 0,0:13:58.12,0:14:00.88,Default,,0000,0000,0000,,I'm going to make\Nthe four of you my breakfast!
+Dialogue: 0,0:14:01.00,0:14:03.59,Default,,0000,0000,0000,,You're a cow that eats meat?
+Dialogue: 0,0:14:03.71,0:14:06.13,Default,,0000,0000,0000,,I said I'm not a cow!!
+Dialogue: 0,0:14:06.26,0:14:09.43,Default,,0000,0000,0000,,So you intend to attack us and eat us?
+Dialogue: 0,0:14:09.55,0:14:11.47,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:13.35,0:14:14.35,Default,,0000,0000,0000,,I'll take care of it.
+Dialogue: 0,0:14:14.47,0:14:15.27,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:18.48,0:14:19.69,Default,,0000,0000,0000,,Step outside.
+Dialogue: 0,0:14:19.81,0:14:21.90,Default,,0000,0000,0000,,W-What?
+Dialogue: 0,0:14:22.57,0:14:24.15,Default,,0000,0000,0000,,I'll take it.
+Dialogue: 0,0:14:25.23,0:14:27.82,Default,,0000,0000,0000,,It's too much for you, Gliro.
+Dialogue: 0,0:14:30.11,0:14:31.28,Default,,0000,0000,0000,,It's Glorio.
+Dialogue: 0,0:14:31.95,0:14:36.50,Default,,0000,0000,0000,,Don't be so arrogant. Do you really think\Nyou're that much stronger than me?
+Dialogue: 0,0:14:36.62,0:14:39.12,Default,,0000,0000,0000,,Well, not to brag about it or anythin'.
+Dialogue: 0,0:14:39.79,0:14:41.04,Default,,0000,0000,0000,,Interesting.
+Dialogue: 0,0:14:41.17,0:14:42.67,Default,,0000,0000,0000,,Care to try me?
+Dialogue: 0,0:14:49.55,0:14:50.38,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:51.01,0:14:52.76,Default,,0000,0000,0000,,Don't do this.
+Dialogue: 0,0:14:52.89,0:14:56.56,Default,,0000,0000,0000,,I don't know how amazing you were,\Nbut you're a child now.
+Dialogue: 0,0:14:56.68,0:14:58.18,Default,,0000,0000,0000,,I think I'll put up a good fight.
+Dialogue: 0,0:14:58.31,0:15:02.44,Default,,0000,0000,0000,,Okay. Then I'll fight with only one arm.
+Dialogue: 0,0:15:02.56,0:15:03.98,Default,,0000,0000,0000,,You seriously underestimate me.
+Dialogue: 0,0:15:04.11,0:15:07.24,Default,,0000,0000,0000,,Knock it off, you two!\NAre you stupid or something?!
+Dialogue: 0,0:15:07.36,0:15:09.82,Default,,0000,0000,0000,,Hey… Am I being ignored?
+Dialogue: 0,0:15:21.08,0:15:22.08,Default,,0000,0000,0000,,Here goes!
+Dialogue: 0,0:15:22.21,0:15:23.46,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:15:36.64,0:15:38.81,Default,,0000,0000,0000,,They're totally serious!
+Dialogue: 0,0:15:38.93,0:15:40.94,Default,,0000,0000,0000,,He's barely even started.
+Dialogue: 0,0:15:41.06,0:15:41.85,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:46.86,0:15:48.94,Default,,0000,0000,0000,,You're better than I thought.
+Dialogue: 0,0:15:59.20,0:16:00.54,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:16:00.66,0:16:02.12,Default,,0000,0000,0000,,It's magic.
+Dialogue: 0,0:16:14.05,0:16:16.01,Default,,0000,0000,0000,,That was close.
+Dialogue: 0,0:16:17.14,0:16:19.27,Default,,0000,0000,0000,,Glorio's pretty amazing!
+Dialogue: 0,0:16:21.27,0:16:22.06,Default,,0000,0000,0000,,Goku-san!
+Dialogue: 0,0:16:22.19,0:16:25.02,Default,,0000,0000,0000,,Fight a little more seriously!
+Dialogue: 0,0:16:25.15,0:16:25.94,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:16:26.06,0:16:27.82,Default,,0000,0000,0000,,I want to see
+Dialogue: 0,0:16:27.94,0:16:31.86,Default,,0000,0000,0000,,just how powerful Glorio-san really is!
+Dialogue: 0,0:16:39.45,0:16:40.70,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:17:33.97,0:17:37.76,Default,,0000,0000,0000,,I've never seen magic like that!
+Dialogue: 0,0:17:40.10,0:17:41.97,Default,,0000,0000,0000,,Time to end this!
+Dialogue: 0,0:17:49.90,0:17:51.11,Default,,0000,0000,0000,,That's cool.
+Dialogue: 0,0:17:55.40,0:17:56.78,Default,,0000,0000,0000,,This might work.
+Dialogue: 0,0:18:26.98,0:18:28.31,Default,,0000,0000,0000,,What is that?!
+Dialogue: 0,0:19:37.21,0:19:39.01,Default,,0000,0000,0000,,Looks like I win.
+Dialogue: 0,0:19:42.34,0:19:43.55,Default,,0000,0000,0000,,I understand.
+Dialogue: 0,0:19:44.26,0:19:45.60,Default,,0000,0000,0000,,I give up.
+Dialogue: 0,0:19:54.81,0:19:56.48,Default,,0000,0000,0000,,Just what was that?
+Dialogue: 0,0:19:56.61,0:19:58.28,Default,,0000,0000,0000,,It's Super Saiyan.
+Dialogue: 0,0:19:58.40,0:20:00.82,Default,,0000,0000,0000,,Thank goodness I can still do it as a kid.
+Dialogue: 0,0:20:00.95,0:20:03.03,Default,,0000,0000,0000,,Do you have other special skills?
+Dialogue: 0,0:20:03.70,0:20:05.32,Default,,0000,0000,0000,,Pretty much.
+Dialogue: 0,0:20:05.45,0:20:06.49,Default,,0000,0000,0000,,Amazing.
+Dialogue: 0,0:20:07.28,0:20:10.12,Default,,0000,0000,0000,,Goku, you can use\Namazing magic, too, huh?!
+Dialogue: 0,0:20:10.25,0:20:12.46,Default,,0000,0000,0000,,It's not actually magic.
+Dialogue: 0,0:20:12.58,0:20:13.62,Default,,0000,0000,0000,,Sorry for the wait!
+Dialogue: 0,0:20:15.25,0:20:16.17,Default,,0000,0000,0000,,Now let's get to it!
+Dialogue: 0,0:20:23.05,0:20:25.59,Default,,0000,0000,0000,,R-Right! Th-That's right!
+Dialogue: 0,0:20:25.72,0:20:30.64,Default,,0000,0000,0000,,If you really want to be eaten that much,\Nthen Ill have you all for breakfast!
+Dialogue: 0,0:20:30.77,0:20:34.81,Default,,0000,0000,0000,,Oh! Oh dear! I completely forgot!
+Dialogue: 0,0:20:34.94,0:20:39.90,Default,,0000,0000,0000,,I killed a giant beast before\Ngoing to bed and ate my fill!
+Dialogue: 0,0:20:40.03,0:20:44.74,Default,,0000,0000,0000,,Now that I think about it, I'm full!\NYou guys are really lucky!
+Dialogue: 0,0:20:48.12,0:20:51.95,Default,,0000,0000,0000,,W-Well then, back to bed I guess.
+Dialogue: 0,0:20:56.33,0:20:59.34,Default,,0000,0000,0000,,Well, I suppose we should get going, too.
+Dialogue: 0,0:20:59.46,0:21:00.59,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:21:00.71,0:21:02.72,Default,,0000,0000,0000,,I need to poo first.
+Dialogue: 0,0:21:03.26,0:21:06.93,Default,,0000,0000,0000,,Oh, Panzy, got any paper?
+Dialogue: 0,0:21:21.86,0:21:23.44,Default,,0000,0000,0000,,How goes it?
+Dialogue: 0,0:21:23.57,0:21:26.57,Default,,0000,0000,0000,,I should be finished soon, I think.
+Dialogue: 0,0:21:30.70,0:21:34.08,Default,,0000,0000,0000,,I guess Saiyans\Ndon't know how to keep still.
+Dialogue: 0,0:21:34.71,0:21:37.29,Default,,0000,0000,0000,,Okay! It's all done!
+Dialogue: 0,0:21:37.42,0:21:40.96,Default,,0000,0000,0000,,We'll be leaving soon. Get ready!
+Dialogue: 0,0:21:43.21,0:21:45.84,Default,,0000,0000,0000,,I'll guide us to the Demon Realm.
+Dialogue: 0,0:21:45.97,0:21:48.55,Default,,0000,0000,0000,,Let's hurry and catch up to\NSupreme Kai-sama and the others.
+Dialogue: 0,0:21:57.94,0:21:59.77,Default,,0000,0000,0000,,It's cramped.
+Dialogue: 0,0:22:12.70,0:22:14.16,Default,,0000,0000,0000,,Take care!
+Dialogue: 0,0:22:37.18,0:22:38.27,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:22:41.73,0:22:43.61,On Top,,0000,0000,0000,,{\i1}Holding out my hand{\i}
+Dialogue: 0,0:22:45.40,0:22:47.28,On Top,,0000,0000,0000,,{\i1}Up to the sky{\i}
+Dialogue: 0,0:22:49.20,0:22:51.70,On Top,,0000,0000,0000,,{\i1}The moment is ours{\i}
+Dialogue: 0,0:22:52.37,0:22:55.74,On Top,,0000,0000,0000,,{\i1}Make a miracle happen{\i}
+Dialogue: 0,0:22:55.87,0:23:02.00,On Top,,0000,0000,0000,,{\i1}Like a bird with open wings we fly{\i}
+Dialogue: 0,0:23:02.13,0:23:05.84,On Top,,0000,0000,0000,,{\i1}Picking up{\i}
+Dialogue: 0,0:23:05.96,0:23:09.22,On Top,,0000,0000,0000,,{\i1}Those pieces of hope{\i}
+Dialogue: 0,0:23:10.30,0:23:16.18,On Top,,0000,0000,0000,,{\i1}There's no giving up{\i}
+Dialogue: 0,0:23:16.81,0:23:21.02,On Top,,0000,0000,0000,,{\i1}Go as far as we can{\i}
+Dialogue: 0,0:23:21.15,0:23:24.65,On Top,,0000,0000,0000,,{\i1}I got you by my side{\i}
+Dialogue: 0,0:23:24.77,0:23:27.74,On Top,,0000,0000,0000,,{\i1}Run, run, run{\i}
+Dialogue: 0,0:23:27.86,0:23:31.32,On Top,,0000,0000,0000,,{\i1}Over the mountain we go{\i}
+Dialogue: 0,0:23:31.45,0:23:35.16,On Top,,0000,0000,0000,,{\i1}I hear it always\NYour voice in my heart{\i}
+Dialogue: 0,0:23:35.28,0:23:39.58,On Top,,0000,0000,0000,,{\i1}"You know that we're never alone"{\i}
+Dialogue: 0,0:23:40.66,0:23:45.54,On Top,,0000,0000,0000,,COLLAR

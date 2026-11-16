@@ -1,0 +1,328 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00B825CC,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Trebuchet MS,26,&H00FAA6FF,&H000000FF,&H00D700E2,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0120,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Gen_Opening,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00AC6AF1,&H00F850B1,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_SeriesTitle,Courier New,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_NextTitle,Trebuchet MS,24,&H00DAAE73,&H000000FF,&H00FFFFFF,&H0097F6FA,-1,0,0,0,100,100,0,0,1,1,2,8,0020,0020,0040,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.77,0:00:21.27,Cart_A_Ver,,0000,0000,0000,,Obra original, historia\Ny creación de personajes: Akira Toriyama
+Dialogue: 0,0:01:41.21,0:01:42.80,Gen_Main,,0000,0000,0000,,Mi avión…
+Dialogue: 0,0:01:45.46,0:01:46.76,Gen_Main,,0000,0000,0000,,¿Ellos lo…?
+Dialogue: 0,0:01:54.03,0:01:58.45,Cart_A_Ver,,0000,0000,0000,,CONVERSADORES
+Dialogue: 0,0:02:04.35,0:02:07.36,Gen_Main,,0000,0000,0000,,Rayos. Creí que lo cerré.
+Dialogue: 0,0:02:07.82,0:02:11.19,Gen_Main,,0000,0000,0000,,-¿Qué haremos ahora?\N-¿Podremos regresar a la Tierra?
+Dialogue: 0,0:02:11.69,0:02:13.66,Gen_Main,,0000,0000,0000,,Pensaré en algo.
+Dialogue: 0,0:02:14.24,0:02:18.10,Gen_Main,,0000,0000,0000,,Caminemos hasta encontrar otro vehículo.
+Dialogue: 0,0:02:18.20,0:02:20.29,Gen_Main,,0000,0000,0000,,Sería más fácil si volamos.
+Dialogue: 0,0:02:20.79,0:02:22.73,Gen_Main,,0000,0000,0000,,Puedes volar, ¿verdad?
+Dialogue: 0,0:02:22.83,0:02:25.30,Gen_Main,,0000,0000,0000,,Es difícil volar mucho por este aire.
+Dialogue: 0,0:02:26.29,0:02:29.89,Gen_Main,,0000,0000,0000,,Requiere de mucha energía,\Nte cansarás muy rápido.
+Dialogue: 0,0:02:37.80,0:02:39.94,Gen_Main,,0000,0000,0000,,Sí, es muy denso.
+Dialogue: 0,0:02:43.10,0:02:46.42,Gen_Main,,0000,0000,0000,,El aire es un problema. Ya entendí.
+Dialogue: 0,0:02:46.52,0:02:49.67,Gen_Main,,0000,0000,0000,,Sería peligroso quedarnos sin energía\Npor solo volar.
+Dialogue: 0,0:02:49.77,0:02:50.65,Gen_Main,,0000,0000,0000,,Caminemos.
+Dialogue: 0,0:02:59.33,0:03:01.41,Gen_Main,,0000,0000,0000,,Es un precipicio.
+Dialogue: 0,0:03:06.21,0:03:07.52,Gen_Main,,0000,0000,0000,,¿Qué haremos?
+Dialogue: 0,0:03:07.58,0:03:09.08,Gen_Main,,0000,0000,0000,,Volemos hasta allá.
+Dialogue: 0,0:03:10.96,0:03:13.06,Gen_Main,,0000,0000,0000,,¡Ay!
+Dialogue: 0,0:03:14.26,0:03:18.26,Gen_Main,,0000,0000,0000,,De seguro todos vuelan para moverse\Nen el mundo demoníaco, ¿no?
+Dialogue: 0,0:03:18.34,0:03:22.47,Gen_Main,,0000,0000,0000,,Si tuviésemos un avión,\Npodríamos viajar mejor.
+Dialogue: 0,0:03:23.35,0:03:27.44,Gen_Main,,0000,0000,0000,,Tengan cuidado, no queremos\Ncaer en el Mar de la Oscuridad.
+Dialogue: 0,0:03:38.36,0:03:42.18,Gen_Main,,0000,0000,0000,,Tus movimientos no son\Ntan precisos como siempre, Goku.
+Dialogue: 0,0:03:42.24,0:03:44.37,Gen_Main,,0000,0000,0000,,Aún no me acostumbro al aire.
+Dialogue: 0,0:03:47.41,0:03:51.42,Gen_Main,,0000,0000,0000,,¿Qué es este lugar?\NHay que estar atentos siempre, ¿verdad?
+Dialogue: 0,0:03:53.17,0:03:54.60,Gen_Main,,0000,0000,0000,,Yo me encargo.
+Dialogue: 0,0:04:10.65,0:04:11.45,Gen_Main,,0000,0000,0000,,Vete.
+Dialogue: 0,0:04:28.50,0:04:32.00,Gen_Main,,0000,0000,0000,,Vaya, ¡nada mal!
+Dialogue: 0,0:04:32.46,0:04:35.61,Gen_Main,,0000,0000,0000,,Puede que hasta seas\Nmás fuerte que Kaio-shin.
+Dialogue: 0,0:04:35.71,0:04:38.47,Gen_Main,,0000,0000,0000,,Yo también peleo bastante bien.
+Dialogue: 0,0:04:39.47,0:04:41.18,Gen_Main,,0000,0000,0000,,Continuemos.
+Dialogue: 0,0:04:43.93,0:04:46.16,Gen_Main,,0000,0000,0000,,Tengo mucha hambre.
+Dialogue: 0,0:04:46.22,0:04:48.83,Gen_Main,,0000,0000,0000,,Intenta aguantar hasta el próximo pueblo.
+Dialogue: 0,0:04:48.89,0:04:52.81,Gen_Main,,0000,0000,0000,,¿No hay frutas o algo por aquí?
+Dialogue: 0,0:04:57.57,0:05:00.95,Gen_Main,,0000,0000,0000,,Es una emboscada de nuevo.
+Dialogue: 0,0:05:08.79,0:05:10.83,Gen_Main,,0000,0000,0000,,Cielos, qué pesado me siento.
+Dialogue: 0,0:05:23.14,0:05:24.85,Gen_Main,,0000,0000,0000,,Vaya, estoy exhausto.
+Dialogue: 0,0:05:26.39,0:05:31.73,Gen_Main,,0000,0000,0000,,¿Cómo supiste que estaba allí? No vi nada.
+Dialogue: 0,0:05:31.81,0:05:33.83,Gen_Main,,0000,0000,0000,,Cierto. Por su ki.
+Dialogue: 0,0:05:33.90,0:05:35.56,Gen_Main,,0000,0000,0000,,Sentí su ki.
+Dialogue: 0,0:05:35.65,0:05:37.21,Gen_Main,,0000,0000,0000,,¿Su ki?
+Dialogue: 0,0:05:37.27,0:05:38.71,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:05:38.78,0:05:42.07,Gen_Main,,0000,0000,0000,,Puede sentir energías invisibles.
+Dialogue: 0,0:05:46.62,0:05:48.58,Gen_Main,,0000,0000,0000,,Veo algo allí.
+Dialogue: 0,0:05:49.20,0:05:51.29,Gen_Main,,0000,0000,0000,,Parece una tienda.
+Dialogue: 0,0:05:51.37,0:05:53.06,Gen_Main,,0000,0000,0000,,Allí podremos descansar.
+Dialogue: 0,0:05:53.12,0:05:55.75,Gen_Main,,0000,0000,0000,,¡Al fin podré comer!
+Dialogue: 0,0:06:00.21,0:06:02.30,Gen_Main,,0000,0000,0000,,¡Muero de hambre!
+Dialogue: 0,0:06:02.38,0:06:03.30,Gen_Main,,0000,0000,0000,,¡Bu!
+Dialogue: 0,0:06:05.89,0:06:09.22,Gen_Main,,0000,0000,0000,,Lamento hacerlos esperar.\NAquí tienen el té.
+Dialogue: 0,0:06:09.68,0:06:12.53,Gen_Main,,0000,0000,0000,,Y nuestro famoso platillo.
+Dialogue: 0,0:06:15.19,0:06:16.65,Gen_Main,,0000,0000,0000,,¡Huele delicioso!
+Dialogue: 0,0:06:17.23,0:06:18.91,Gen_Main,,0000,0000,0000,,Es brocheta de lagartija.
+Dialogue: 0,0:06:19.90,0:06:21.74,Gen_Main,,0000,0000,0000,,¡Hora de comer!
+Dialogue: 0,0:06:26.57,0:06:28.13,Gen_Main,,0000,0000,0000,,¡Qué rico!
+Dialogue: 0,0:06:30.79,0:06:32.35,Gen_Main,,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:06:32.41,0:06:34.69,Gen_Main,,0000,0000,0000,,Jugo de hierbas con miel.
+Dialogue: 0,0:06:34.79,0:06:38.00,Gen_Main,,0000,0000,0000,,Es nuestro menú especial. Es delicioso.
+Dialogue: 0,0:06:42.84,0:06:44.52,Gen_Main,,0000,0000,0000,,¡Qué amargo!
+Dialogue: 0,0:06:45.55,0:06:48.87,Gen_Main,,0000,0000,0000,,Luego te acostumbras al sabor.
+Dialogue: 0,0:06:48.97,0:06:53.15,Gen_Main,,0000,0000,0000,,Tiene muchos nutrientes\Ny es la bebida más sana del mundo.
+Dialogue: 0,0:06:55.35,0:06:59.59,Gen_Main,,0000,0000,0000,,Glorio, dijiste que encontraríamos\Notro vehículo.
+Dialogue: 0,0:06:59.69,0:07:00.90,Gen_Main,,0000,0000,0000,,¿Sabes dónde?
+Dialogue: 0,0:07:00.98,0:07:02.83,Gen_Main,,0000,0000,0000,,Bueno…
+Dialogue: 0,0:07:08.82,0:07:11.50,Gen_Main,,0000,0000,0000,,Cariño, ¡te necesitan!
+Dialogue: 0,0:07:12.79,0:07:14.37,Gen_Main,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:07:14.91,0:07:16.80,Gen_Main,,0000,0000,0000,,¿Tienes un avión?
+Dialogue: 0,0:07:17.62,0:07:18.73,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:07:18.83,0:07:20.34,Gen_Main,,0000,0000,0000,,Necesitamos un avión.
+Dialogue: 0,0:07:24.84,0:07:26.55,Gen_Main,,0000,0000,0000,,¿Qué dijiste?
+Dialogue: 0,0:07:26.63,0:07:30.64,Gen_Main,,0000,0000,0000,,¡Cariño! ¡Necesitan un avión! ¡Un avión!
+Dialogue: 0,0:07:30.72,0:07:32.15,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:07:32.64,0:07:38.10,Gen_Main,,0000,0000,0000,,No tengo un avión, pero por 8000\Nte vendo una Semilla del Cielo.
+Dialogue: 0,0:07:38.69,0:07:40.75,Gen_Main,,0000,0000,0000,,Una Semilla del Cielo…
+Dialogue: 0,0:07:40.81,0:07:41.91,Gen_Main,,0000,0000,0000,,¿Y la distancia?
+Dialogue: 0,0:07:43.69,0:07:45.84,Gen_Main,,0000,0000,0000,,¡Dice que cuál es la distancia!
+Dialogue: 0,0:07:45.90,0:07:47.84,Gen_Main,,0000,0000,0000,,Bien, sí.
+Dialogue: 0,0:07:47.91,0:07:52.78,Gen_Main,,0000,0000,0000,,Contigo más los dos niños,\Ndeberías poder hacer 120 km.
+Dialogue: 0,0:07:53.45,0:07:57.09,Gen_Main,,0000,0000,0000,,Serían 120 km por 8000 dokuros…
+Dialogue: 0,0:07:57.79,0:08:02.64,Gen_Main,,0000,0000,0000,,El precio es un poco alto.\NCreo que seguiré buscando.
+Dialogue: 0,0:08:03.25,0:08:06.68,Gen_Main,,0000,0000,0000,,¡Aceptaré 5000! ¿Qué te parece?
+Dialogue: 0,0:08:08.63,0:08:11.14,Gen_Main,,0000,0000,0000,,Hay muchas cosas raras aquí.
+Dialogue: 0,0:08:13.39,0:08:14.87,Gen_Main,,0000,0000,0000,,¿Qué será esto?
+Dialogue: 0,0:08:14.97,0:08:16.52,Gen_Main,,0000,0000,0000,,¿Un caramelo?
+Dialogue: 0,0:08:17.52,0:08:21.46,Gen_Main,,0000,0000,0000,,No, es un insecto muerto. ¿Qué hace aquí?
+Dialogue: 0,0:08:21.56,0:08:22.44,Gen_Main,,0000,0000,0000,,¿Un insecto?
+Dialogue: 0,0:08:22.52,0:08:26.40,Gen_Main,,0000,0000,0000,,Ustedes no son de por aquí, ¿verdad?
+Dialogue: 0,0:08:27.57,0:08:29.97,Gen_Main,,0000,0000,0000,,Ese es un Insecto Resucitador.
+Dialogue: 0,0:08:30.07,0:08:33.68,Gen_Main,,0000,0000,0000,,Es un tipo de Insecto Sanador.\NTe da energía si lo comes.
+Dialogue: 0,0:08:33.78,0:08:38.01,Gen_Main,,0000,0000,0000,,Qué bien. Como las semillas del ermitaño.
+Dialogue: 0,0:08:38.66,0:08:41.02,Gen_Main,,0000,0000,0000,,¿De qué hablas?
+Dialogue: 0,0:08:41.08,0:08:42.88,Gen_Main,,0000,0000,0000,,Hay muchos insectos diferentes.
+Dialogue: 0,0:08:42.96,0:08:47.19,Gen_Main,,0000,0000,0000,,Sí, tenemos varios tipos\Nde Insectos Sanadores del área.
+Dialogue: 0,0:08:47.26,0:08:50.95,Gen_Main,,0000,0000,0000,,Achichi para las quemaduras\Ny Zutsu para el dolor de cabeza.
+Dialogue: 0,0:08:51.05,0:08:53.76,Gen_Main,,0000,0000,0000,,Los Embellecedores te dejan la piel suave.
+Dialogue: 0,0:08:53.85,0:08:56.18,Gen_Main,,0000,0000,0000,,¿Y este insecto qué es?
+Dialogue: 0,0:08:56.85,0:08:58.91,Gen_Main,,0000,0000,0000,,Ese es un Insecto de la Unión.
+Dialogue: 0,0:08:58.98,0:09:00.69,Gen_Main,,0000,0000,0000,,Fortalece a dos personas
+Dialogue: 0,0:09:00.77,0:09:04.15,Gen_Main,,0000,0000,0000,,y les permite unirse\Npara ser más fuertes juntas.
+Dialogue: 0,0:09:04.23,0:09:07.51,Gen_Main,,0000,0000,0000,,¡Eso sí que es una fusión!
+Dialogue: 0,0:09:07.61,0:09:09.70,Gen_Main,,0000,0000,0000,,¡Oye, Goliro!
+Dialogue: 0,0:09:10.15,0:09:11.66,Gen_Main,,0000,0000,0000,,Me llamo Glorio.
+Dialogue: 0,0:09:12.70,0:09:13.68,Gen_Main,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:09:13.78,0:09:16.49,Gen_Main,,0000,0000,0000,,¿Puedes comprarme algunos insectos?
+Dialogue: 0,0:09:17.29,0:09:18.47,Gen_Main,,0000,0000,0000,,¿Insectos?
+Dialogue: 0,0:09:18.54,0:09:20.33,Gen_Main,,0000,0000,0000,,Sí, Insectos Sanadores.
+Dialogue: 0,0:09:20.41,0:09:23.40,Gen_Main,,0000,0000,0000,,¿En serio? ¡Qué emocionante!
+Dialogue: 0,0:09:23.50,0:09:27.18,Gen_Main,,0000,0000,0000,,Hace décadas que no vendemos nada.
+Dialogue: 0,0:09:30.05,0:09:31.98,Gen_Main,,0000,0000,0000,,¡Muchas gracias, Goliro!
+Dialogue: 0,0:09:32.59,0:09:33.64,Gen_Main,,0000,0000,0000,,Soy Glorio.
+Dialogue: 0,0:09:34.68,0:09:36.35,Gen_Main,,0000,0000,0000,,Oigan, es por aquí.
+Dialogue: 0,0:09:42.23,0:09:44.10,Gen_Main,,0000,0000,0000,,Esperen aquí.
+Dialogue: 0,0:09:44.19,0:09:47.13,Gen_Main,,0000,0000,0000,,¿"Embarque a Semilla del Cielo"?
+Dialogue: 0,0:09:47.23,0:09:48.44,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:09:48.53,0:09:51.04,Gen_Main,,0000,0000,0000,,Nunca escuché ese nombre.
+Dialogue: 0,0:09:51.61,0:09:55.47,Gen_Main,,0000,0000,0000,,¡Vengan, adelante! ¡Aquí vamos!
+Dialogue: 0,0:09:55.57,0:09:58.79,Gen_Main,,0000,0000,0000,,Un vuelo soñado para ti\Ny para mí en esta romántica noche.
+Dialogue: 0,0:09:58.87,0:10:04.12,Gen_Main,,0000,0000,0000,,¡El embarque a la Semilla del Cielo\Nse realizará por aquí!
+Dialogue: 0,0:10:06.21,0:10:08.59,Gen_Main,,0000,0000,0000,,Parece interesante.
+Dialogue: 0,0:10:08.67,0:10:12.74,Gen_Main,,0000,0000,0000,,¡Aquí vamos! Tres asientos, ¿verdad?
+Dialogue: 0,0:10:12.84,0:10:18.43,Gen_Main,,0000,0000,0000,,La Semilla del Cielo llegará pronto,\Npor favor, esperen aquí.
+Dialogue: 0,0:10:18.93,0:10:21.39,Gen_Main,,0000,0000,0000,,¿Qué será este vehículo fabuloso?
+Dialogue: 0,0:10:31.07,0:10:33.25,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:10:33.74,0:10:36.95,Gen_Main,,0000,0000,0000,,Es una semilla de la gran flor maligna.
+Dialogue: 0,0:10:42.45,0:10:45.42,Gen_Main,,0000,0000,0000,,No era lo que esperaba.
+Dialogue: 0,0:10:47.38,0:10:49.19,Gen_Main,,0000,0000,0000,,Aquí vamos.
+Dialogue: 0,0:10:49.25,0:10:50.88,Gen_Main,,0000,0000,0000,,Bien, ¿hacia dónde irán?
+Dialogue: 0,0:10:51.34,0:10:52.86,Gen_Main,,0000,0000,0000,,Hacia allá.
+Dialogue: 0,0:10:52.92,0:10:54.84,Gen_Main,,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:10:57.18,0:10:58.16,Gen_Main,,0000,0000,0000,,¡Listo!
+Dialogue: 0,0:10:58.26,0:10:59.18,Gen_Main,,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:10:59.97,0:11:01.99,Gen_Main,,0000,0000,0000,,Perdón por la espera.
+Dialogue: 0,0:11:02.06,0:11:04.79,Gen_Main,,0000,0000,0000,,¡Su destino los espera!
+Dialogue: 0,0:11:04.89,0:11:09.45,Gen_Main,,0000,0000,0000,,¡Pasen y tomen asiento, amigos míos!
+Dialogue: 0,0:11:12.11,0:11:13.84,Gen_Main,,0000,0000,0000,,¿Así?
+Dialogue: 0,0:11:13.94,0:11:16.05,Gen_Main,,0000,0000,0000,,Me pregunto cómo se mueve esto.
+Dialogue: 0,0:11:16.11,0:11:20.55,Gen_Main,,0000,0000,0000,,¡Niños, aférrense\Nal caballero de adelante!
+Dialogue: 0,0:11:20.62,0:11:22.84,Gen_Main,,0000,0000,0000,,¡Cabezas mirando hacia abajo!
+Dialogue: 0,0:11:24.33,0:11:28.93,Gen_Main,,0000,0000,0000,,Sacaré el tallo, ¡agárrense fuerte!
+Dialogue: 0,0:11:30.96,0:11:34.38,Gen_Main,,0000,0000,0000,,Cinco, cuatro, tres,
+Dialogue: 0,0:11:34.46,0:11:36.80,Gen_Main,,0000,0000,0000,,dos, uno.
+Dialogue: 0,0:11:36.88,0:11:39.22,Gen_Main,,0000,0000,0000,,¡Despegando!
+Dialogue: 0,0:11:43.06,0:11:45.18,Gen_Main,,0000,0000,0000,,¡Adiós!
+Dialogue: 0,0:11:46.85,0:11:48.35,Gen_Main,,0000,0000,0000,,¡Qué rápido vamos!
+Dialogue: 0,0:11:48.44,0:11:49.77,Gen_Main,,0000,0000,0000,,Agárrense fuerte.
+Dialogue: 0,0:11:57.70,0:12:00.21,Gen_Main,,0000,0000,0000,,¡Vaya! ¡Esto es genial!
+Dialogue: 0,0:12:00.78,0:12:02.12,Gen_Main,,0000,0000,0000,,Sí, es agradable.
+Dialogue: 0,0:12:05.50,0:12:09.02,Gen_Main,,0000,0000,0000,,Glorio, ¿cómo manejas la semilla?
+Dialogue: 0,0:12:09.12,0:12:10.27,Gen_Main,,0000,0000,0000,,No lo hago.
+Dialogue: 0,0:12:10.33,0:12:11.38,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:12:12.00,0:12:13.71,Gen_Main,,0000,0000,0000,,La semilla salió disparada.
+Dialogue: 0,0:12:13.80,0:12:15.22,Gen_Main,,0000,0000,0000,,Un momento…
+Dialogue: 0,0:12:15.84,0:12:18.68,Gen_Main,,0000,0000,0000,,¿Eso significa que vamos a caer?
+Dialogue: 0,0:12:18.76,0:12:22.49,Gen_Main,,0000,0000,0000,,Así es. Por eso debemos\Nbajarnos antes de que se estrelle.
+Dialogue: 0,0:12:22.55,0:12:23.89,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:12:26.18,0:12:28.06,Gen_Main,,0000,0000,0000,,¡Comienza el descenso!
+Dialogue: 0,0:12:28.52,0:12:31.75,Gen_Main,,0000,0000,0000,,¡Si caemos en el Mar de la Oscuridad\Nestamos perdidos!
+Dialogue: 0,0:12:31.81,0:12:32.77,Gen_Main,,0000,0000,0000,,¡Entendido!
+Dialogue: 0,0:12:39.74,0:12:41.11,Gen_Main,,0000,0000,0000,,¡Ahora! ¡Bájense todos!
+Dialogue: 0,0:13:09.56,0:13:12.71,Gen_Main,,0000,0000,0000,,Creo que avanzamos bastante.
+Dialogue: 0,0:13:12.81,0:13:15.63,Gen_Main,,0000,0000,0000,,¿Cuánto falta para llegar al castillo?
+Dialogue: 0,0:13:15.73,0:13:17.74,Gen_Main,,0000,0000,0000,,Medio día a pie.
+Dialogue: 0,0:13:18.40,0:13:19.86,Gen_Main,,0000,0000,0000,,Medio día, cielos.
+Dialogue: 0,0:13:20.32,0:13:22.68,Gen_Main,,0000,0000,0000,,Volemos el tramo restante.
+Dialogue: 0,0:13:22.78,0:13:27.88,Gen_Main,,0000,0000,0000,,Si nos quedamos sin energía,\Npodemos comer un Insecto Resucitador.
+Dialogue: 0,0:13:30.00,0:13:32.65,Gen_Main,,0000,0000,0000,,No me agradan los insectos.
+Dialogue: 0,0:13:32.75,0:13:33.75,Gen_Main,,0000,0000,0000,,A mí tampoco.
+Dialogue: 0,0:13:35.84,0:13:38.21,Gen_Main,,0000,0000,0000,,Cielos, qué sed tengo.
+Dialogue: 0,0:13:38.71,0:13:41.42,Gen_Main,,0000,0000,0000,,Creo recordar que antes de venir,
+Dialogue: 0,0:13:42.01,0:13:45.93,Gen_Main,,0000,0000,0000,,{\a6\i1}Picoro nos habló de las Esferas del dragón\Ndel Reino Demoníaco.{\i}
+Dialogue: 0,0:13:46.43,0:13:49.14,Gen_Main,,0000,0000,0000,,¿En verdad tienen Esferas del dragón?
+Dialogue: 0,0:13:49.22,0:13:51.25,Gen_Main,,0000,0000,0000,,Sí, por supuesto.
+Dialogue: 0,0:13:51.35,0:13:53.67,Gen_Main,,0000,0000,0000,,¿Qué? ¿En serio?
+Dialogue: 0,0:13:53.77,0:13:57.23,Gen_Main,,0000,0000,0000,,Podría decirse que Las Esferas\Ndel Reino Demoníaco son las originales.
+Dialogue: 0,0:13:57.32,0:14:01.07,Gen_Main,,0000,0000,0000,,¡Vaya! ¿Cómo las encuentran?
+Dialogue: 0,0:14:01.53,0:14:02.62,Gen_Main,,0000,0000,0000,,¿Encontrarlas?
+Dialogue: 0,0:14:03.57,0:14:06.95,Gen_Main,,0000,0000,0000,,No hay que encontrarlas.\NTodos saben dónde están.
+Dialogue: 0,0:14:07.41,0:14:09.83,Gen_Main,,0000,0000,0000,,¿Sabes dónde están? ¿Cómo?
+Dialogue: 0,0:14:10.29,0:14:14.54,Gen_Main,,0000,0000,0000,,Hay tres mundos en el Reino Demoníaco.\NEste es el Tercer Mundo.
+Dialogue: 0,0:14:15.50,0:14:20.40,Gen_Main,,0000,0000,0000,,{\a6\i1}Cada mundo posee una Esfera del dragón\Nen un lugar específico.{\i}
+Dialogue: 0,0:14:20.46,0:14:23.01,Gen_Main,,0000,0000,0000,,{\a6\i1}La protegen los guerreros Tamagamis.{\i}
+Dialogue: 0,0:14:23.09,0:14:24.53,Gen_Main,,0000,0000,0000,,¿Tamagamis?
+Dialogue: 0,0:14:24.59,0:14:28.14,Gen_Main,,0000,0000,0000,,Entonces, ¿tienen que robarles\Nlas Esferas a los Tamagamis?
+Dialogue: 0,0:14:28.76,0:14:31.66,Gen_Main,,0000,0000,0000,,Sí. Pero no es una tarea fácil.
+Dialogue: 0,0:14:31.73,0:14:33.85,Gen_Main,,0000,0000,0000,,Los Tamagamis son muy fuertes.
+Dialogue: 0,0:14:33.94,0:14:36.06,Gen_Main,,0000,0000,0000,,¿En serio? ¿Muy fuertes?
+Dialogue: 0,0:14:36.15,0:14:37.33,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:14:37.40,0:14:40.40,Gen_Main,,0000,0000,0000,,Para obtener las Esferas,\Nhay que pelear con ellos.
+Dialogue: 0,0:14:40.86,0:14:44.54,Gen_Main,,0000,0000,0000,,Asumo que habría que hacerlo\Ntres veces para obtener un deseo.
+Dialogue: 0,0:14:45.03,0:14:46.76,Gen_Main,,0000,0000,0000,,¿Correcto?
+Dialogue: 0,0:14:46.82,0:14:47.99,Gen_Main,,0000,0000,0000,,Así es.
+Dialogue: 0,0:14:48.07,0:14:51.79,Gen_Main,,0000,0000,0000,,Bueno, solo hay que juntar\Ntres Esferas del dragón aquí.
+Dialogue: 0,0:14:51.87,0:14:54.48,Gen_Main,,0000,0000,0000,,¡Qué divertido!
+Dialogue: 0,0:14:54.58,0:14:57.34,Gen_Main,,0000,0000,0000,,¡Genial!\N¡Quiero juntar las Esferas del dragón!
+Dialogue: 0,0:14:57.75,0:14:59.11,Gen_Main,,0000,0000,0000,,No puedes.
+Dialogue: 0,0:14:59.21,0:15:05.13,Gen_Main,,0000,0000,0000,,No conozco a nadie que haya\Njuntado las tres y pedido un deseo.
+Dialogue: 0,0:15:05.22,0:15:08.49,Gen_Main,,0000,0000,0000,,¡Eso solo me hace quererlo más!
+Dialogue: 0,0:15:08.55,0:15:10.26,Gen_Main,,0000,0000,0000,,No puedes, Goku.
+Dialogue: 0,0:15:11.97,0:15:14.56,Gen_Main,,0000,0000,0000,,Primero debemos rescatar a Dendé.
+Dialogue: 0,0:15:19.36,0:15:23.03,Gen_Main,,0000,0000,0000,,Oye, ¿hay algún Tamagami por aquí?
+Dialogue: 0,0:15:23.53,0:15:26.99,Gen_Main,,0000,0000,0000,,¿Recuerdas el Warp-sama?\NBueno, está para el otro lado.
+Dialogue: 0,0:15:27.45,0:15:30.24,Gen_Main,,0000,0000,0000,,{\a6\i1}¿Para el otro lado? Eso queda muy lejos.{\i}
+Dialogue: 0,0:15:30.33,0:15:32.68,Gen_Main,,0000,0000,0000,,Pero si obtenemos las Esferas,
+Dialogue: 0,0:15:32.74,0:15:37.52,Gen_Main,,0000,0000,0000,,podemos pedir un deseo\Nmientras rescatamos a Dendé
+Dialogue: 0,0:15:37.62,0:15:40.21,Gen_Main,,0000,0000,0000,,¡y así volveremos a nuestro tamaño!
+Dialogue: 0,0:15:40.29,0:15:42.30,Gen_Main,,0000,0000,0000,,Es verdad, pero…
+Dialogue: 0,0:15:42.80,0:15:44.18,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:15:44.59,0:15:46.36,Gen_Main,,0000,0000,0000,,Podríamos considerarlo.
+Dialogue: 0,0:15:46.42,0:15:48.20,Gen_Main,,0000,0000,0000,,¿Estás de acuerdo con él?
+Dialogue: 0,0:15:48.30,0:15:49.18,Gen_Main,,0000,0000,0000,,¿Qué pasaría
+Dialogue: 0,0:15:49.26,0:15:54.19,Gen_Main,,0000,0000,0000,,{\a6\i1}si matan a su amigo Dendé\No si nunca lo llegan a encontrar?{\i}
+Dialogue: 0,0:15:54.98,0:15:59.17,Gen_Main,,0000,0000,0000,,Si usan las Esferas del Reino Demoníaco\Ny piden un deseo, pueden rescatarlo
+Dialogue: 0,0:15:59.27,0:16:02.92,Gen_Main,,0000,0000,0000,,y regresar a su tamaño original\Ncon sus Esferas del dragón de la Tierra.
+Dialogue: 0,0:16:02.98,0:16:05.36,Gen_Main,,0000,0000,0000,,¡Eso es! ¡Hagámoslo!
+Dialogue: 0,0:16:13.54,0:16:15.04,Gen_Main,,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:16:15.12,0:16:17.25,Gen_Main,,0000,0000,0000,,¡Yupi!
+Dialogue: 0,0:16:23.00,0:16:27.11,Gen_Main,,0000,0000,0000,,Puedo ver el siguiente pueblo.\N¡Al fin podré beber algo!
+Dialogue: 0,0:16:27.17,0:16:28.65,Gen_Main,,0000,0000,0000,,Y estoy hambriento.
+Dialogue: 0,0:16:28.72,0:16:30.89,Gen_Main,,0000,0000,0000,,Podríamos descansar un poco.
+Dialogue: 0,0:16:31.47,0:16:33.60,Gen_Main,,0000,0000,0000,,¡Agua!
+Dialogue: 0,0:16:36.02,0:16:37.69,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:16:41.52,0:16:44.63,Gen_Main,,0000,0000,0000,,¿Seguro que el agua es potable?
+Dialogue: 0,0:16:44.73,0:16:45.94,Gen_Main,,0000,0000,0000,,Eso creo.
+Dialogue: 0,0:16:58.41,0:16:59.94,Gen_Main,,0000,0000,0000,,¿Qué sucede aquí?
+Dialogue: 0,0:17:00.04,0:17:01.30,Gen_Main,,0000,0000,0000,,No lo sé.
+Dialogue: 0,0:17:05.17,0:17:08.14,Gen_Main,,0000,0000,0000,,-Es el Gendarmerie.\N-¿El Gendarmerie?
+Dialogue: 0,0:17:08.67,0:17:10.80,Gen_Main,,0000,0000,0000,,Sí, del Rey Demonio Supremo.
+Dialogue: 0,0:17:11.30,0:17:14.65,Gen_Main,,0000,0000,0000,,Ahora recolectaremos\Nlas ofrendas de este año.
+Dialogue: 0,0:17:18.64,0:17:19.94,Gen_Main,,0000,0000,0000,,¡Silencio!
+Dialogue: 0,0:17:21.73,0:17:23.96,Gen_Main,,0000,0000,0000,,Como bien saben, dada la muerte
+Dialogue: 0,0:17:24.06,0:17:28.71,Gen_Main,,0000,0000,0000,,del Rey Demonio Supremo Dabura,\NGomah es el nuevo Rey Demonio Supremo.
+Dialogue: 0,0:17:28.78,0:17:33.36,Gen_Main,,0000,0000,0000,,El rey Gomah cree que hemos sido\Nindulgentes recolectando las ofrendas.
+Dialogue: 0,0:17:33.82,0:17:36.12,Gen_Main,,0000,0000,0000,,Es por eso que a partir de hoy,
+Dialogue: 0,0:17:36.70,0:17:39.00,Gen_Main,,0000,0000,0000,,¡deberán darnos tres monedas de oro!
+Dialogue: 0,0:17:39.08,0:17:40.60,Gen_Main,,0000,0000,0000,,¿Tres monedas?
+Dialogue: 0,0:17:40.66,0:17:41.77,Gen_Main,,0000,0000,0000,,¡Eso es imposible!
+Dialogue: 0,0:17:41.87,0:17:47.42,Gen_Main,,0000,0000,0000,,Aquel que no pague, renunciará\Na tres años de vida por cada moneda.
+Dialogue: 0,0:17:47.50,0:17:53.03,Gen_Main,,0000,0000,0000,,El que no entregue ni una moneda,\Npagará con nueve años de vida. ¿Entendido?
+Dialogue: 0,0:17:53.09,0:17:54.73,Gen_Main,,0000,0000,0000,,¡Eso es muy cruel!
+Dialogue: 0,0:17:57.89,0:18:01.44,Gen_Main,,0000,0000,0000,,De seguro saben que es inútil escapar.
+Dialogue: 0,0:18:01.98,0:18:05.94,Gen_Main,,0000,0000,0000,,Los encontraremos con los collares mágicos\Nque llevan puestos.
+Dialogue: 0,0:18:08.02,0:18:09.03,Gen_Main,,0000,0000,0000,,¡Me atraparon!
+Dialogue: 0,0:18:14.61,0:18:19.70,Gen_Main,,0000,0000,0000,,Si intentan huir, ¡la multa\Nserá de diez años más! ¿Entendido?
+Dialogue: 0,0:18:19.79,0:18:22.23,Gen_Main,,0000,0000,0000,,Qué despiadados. Están fuera de control.
+Dialogue: 0,0:18:22.33,0:18:23.67,Gen_Main,,0000,0000,0000,,¿Pueden creer esto?
+Dialogue: 0,0:18:24.12,0:18:26.13,Gen_Main,,0000,0000,0000,,¡Vamos! ¡Entreguen las monedas!
+Dialogue: 0,0:18:27.54,0:18:29.01,Gen_Main,,0000,0000,0000,,Bien. Siguiente.
+Dialogue: 0,0:18:31.88,0:18:33.61,Gen_Main,,0000,0000,0000,,Espera. No es suficiente.
+Dialogue: 0,0:18:33.68,0:18:36.02,Gen_Main,,0000,0000,0000,,Es todo lo que tengo.
+Dialogue: 0,0:18:36.51,0:18:37.60,Gen_Main,,0000,0000,0000,,Llévenselo.
+Dialogue: 0,0:18:39.56,0:18:41.43,Gen_Main,,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:18:56.20,0:18:59.00,Gen_Main,,0000,0000,0000,,¿Pueden creer esto?
+Dialogue: 0,0:19:00.16,0:19:02.31,Gen_Main,,0000,0000,0000,,¿Y si les pateo el trasero?
+Dialogue: 0,0:19:02.41,0:19:04.29,Gen_Main,,0000,0000,0000,,No. Eso traerá más problemas.
+Dialogue: 0,0:19:04.37,0:19:07.48,Gen_Main,,0000,0000,0000,,¡Por favor!\N¡Pagaré la próxima vez! ¡Perdónenme!
+Dialogue: 0,0:19:07.58,0:19:11.09,Gen_Main,,0000,0000,0000,,Si pierdo nueve años de vida,\Npuede que muera.
+Dialogue: 0,0:19:11.17,0:19:12.69,Gen_Main,,0000,0000,0000,,¡Rechazado!
+Dialogue: 0,0:19:12.76,0:19:13.97,Gen_Main,,0000,0000,0000,,¡Hazlo!
+Dialogue: 0,0:19:15.01,0:19:17.49,Gen_Main,,0000,0000,0000,,Oigan, suéltenme, soy un hombre mayor.
+Dialogue: 0,0:19:17.59,0:19:19.20,Gen_Main,,0000,0000,0000,,¿Por qué…? ¿Por qué…?
+Dialogue: 0,0:19:19.30,0:19:21.06,Gen_Main,,0000,0000,0000,,Deja de luchar, anciano.
+Dialogue: 0,0:19:21.14,0:19:22.27,Gen_Main,,0000,0000,0000,,¡Oigan!
+Dialogue: 0,0:19:23.93,0:19:26.11,Gen_Main,,0000,0000,0000,,Es suficiente, canallas.
+Dialogue: 0,0:19:32.23,0:19:33.44,Gen_Main,,0000,0000,0000,,¿Quién eres tú?
+Dialogue: 0,0:19:35.65,0:19:40.20,Gen_Main,,0000,0000,0000,,¡Tarán! ¡Prueben esta bomba wasabi!
+Dialogue: 0,0:19:40.28,0:19:42.08,Gen_Main,,0000,0000,0000,,¡Aquí tienen!
+Dialogue: 0,0:19:51.71,0:19:53.13,Gen_Main,,0000,0000,0000,,¡Ups!
+Dialogue: 0,0:19:53.21,0:19:54.84,Gen_Main,,0000,0000,0000,,¡Atrápenlo!
+Dialogue: 0,0:19:54.92,0:19:56.30,Gen_Main,,0000,0000,0000,,-¡Regresa!\N-¿Por qué…?
+Dialogue: 0,0:19:59.97,0:20:01.72,Gen_Main,,0000,0000,0000,,¡Suéltame, bestia salvaje!
+Dialogue: 0,0:20:06.23,0:20:08.10,Gen_Main,,0000,0000,0000,,-Muévanse.\N-Fuera del camino.
+Dialogue: 0,0:20:12.61,0:20:15.15,Gen_Main,,0000,0000,0000,,¡Ya fue suficiente! ¡Quédate quieto!
+Dialogue: 0,0:20:17.24,0:20:19.61,Gen_Main,,0000,0000,0000,,¡Pequeño…!
+Dialogue: 0,0:20:37.76,0:20:39.13,Gen_Main,,0000,0000,0000,,¡Fuera de aquí!
+Dialogue: 0,0:20:39.63,0:20:41.09,Gen_Main,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:20:41.18,0:20:42.68,Gen_Main,,0000,0000,0000,,¿Quién eres tú?
+Dialogue: 0,0:21:49.20,0:21:51.33,Gen_Main,,0000,0000,0000,,Cielos, creo que me pasé.
+Dialogue: 0,0:21:51.79,0:21:54.79,Gen_Main,,0000,0000,0000,,¡Oye! ¿Quién eres?
+Dialogue: 0,0:21:55.92,0:21:58.25,Gen_Main,,0000,0000,0000,,Por aquí, rápido.
+Dialogue: 0,0:21:59.46,0:22:00.60,Gen_Main,,0000,0000,0000,,¡Rápido!
+Dialogue: 0,0:22:01.30,0:22:03.43,Gen_Main,,0000,0000,0000,,-¡Oye!\N-¡Alto!
+Dialogue: 0,0:22:09.89,0:22:12.71,Gen_Main,,0000,0000,0000,,Ahora eres un fugitivo de la ley.
+Dialogue: 0,0:22:12.81,0:22:16.75,Gen_Main,,0000,0000,0000,,No es mi culpa.\NNo podía hacer la vista gorda.
+Dialogue: 0,0:22:16.81,0:22:17.67,Gen_Main,,0000,0000,0000,,Eso es cierto.
+Dialogue: 0,0:22:17.77,0:22:19.32,Gen_Main,,0000,0000,0000,,¿Quiénes son ustedes?
+Dialogue: 0,0:22:23.86,0:22:25.78,Gen_Main,,0000,0000,0000,,¡Allí estás!
+Dialogue: 0,0:23:40.67,0:23:45.59,Cart_A_Ver,,0000,0000,0000,,PANZY
+Dialogue: 0,0:23:45.67,0:23:50.55,Cart_A_Ver,,0000,0000,0000,,Subtítulos: Cinthia Perez
