@@ -1,0 +1,386 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:14.35,0:00:16.68,Default,,0000,0000,0000,,{\i1}Dragon Balls.{\i0}
+Dialogue: 0,0:00:16.81,0:00:20.23,Default,,0000,0000,0000,,{\i1}When seven of these\Nmysterious balls are gathered{\i0}
+Dialogue: 0,0:00:20.35,0:00:26.57,Default,,0000,0000,0000,,{\i1}and the password recited,\Na dragon called Shenron appears.{\i0}
+Dialogue: 0,0:00:27.95,0:00:33.20,Default,,0000,0000,0000,,{\i1}Shenron will grant\Nwhatever wish is requested.{\i0}
+Dialogue: 0,0:00:34.24,0:00:37.29,Default,,0000,0000,0000,,{\i1}This man, Son Goku, may appear gentle,{\i0}
+Dialogue: 0,0:00:37.41,0:00:43.88,Default,,0000,0000,0000,,{\i1}but is the most powerful warrior\Nwho possesses unworldly strength.{\i0}
+Dialogue: 0,0:00:45.59,0:00:48.26,Default,,0000,0000,0000,,{\i1}He lived in the mountains as a child,{\i0}
+Dialogue: 0,0:00:48.38,0:00:51.22,Default,,0000,0000,0000,,{\i1}searched for the Dragon Balls,\Nmet many friends,{\i0}
+Dialogue: 0,0:00:51.34,0:00:55.89,Default,,0000,0000,0000,,{\i1}and went on adventures with them\Nas he grew into adulthood.{\i0}
+Dialogue: 0,0:00:56.72,0:01:02.77,Default,,0000,0000,0000,,{\i1}One day, a vicious battle race\Ncalled Saiyans arrived.{\i0}
+Dialogue: 0,0:01:03.44,0:01:06.90,Default,,0000,0000,0000,,{\i1}Goku learned that he, too, was a Saiyan{\i0}
+Dialogue: 0,0:01:07.03,0:01:11.07,Default,,0000,0000,0000,,{\i1}who was sent to Earth as an infant.{\i0}
+Dialogue: 0,0:01:14.16,0:01:20.79,Default,,0000,0000,0000,,{\i1}Saiyans maintain a youthful body\Nfor much of their lives.{\i0}
+Dialogue: 0,0:01:20.91,0:01:25.84,Default,,0000,0000,0000,,{\i1}Goku continues to face terrifying enemies\Nand grows through his battles.{\i0}
+Dialogue: 0,0:01:26.46,0:01:29.26,Default,,0000,0000,0000,,{\i1}And together, with his former rivals,{\i0}
+Dialogue: 0,0:01:29.38,0:01:34.47,Default,,0000,0000,0000,,{\i1}he continues\Nto protect the Earth from evil.{\i0}
+Dialogue: 0,0:01:41.77,0:01:47.19,Default,,0000,0000,0000,,{\i1}Now, the Earth faces a new threat…{\i0}
+Dialogue: 0,0:01:47.32,0:01:52.11,Default,,0000,0000,0000,,CONSPIRACY
+Dialogue: 0,0:01:54.70,0:01:59.37,Default,,0000,0000,0000,,Original Work, Story & Character Design\NAkira Toriyama (Shueisha "Jump comics”)
+Dialogue: 0,0:02:40.54,0:02:44.00,Default,,0000,0000,0000,,Curse that Babidi!\NThat crafty little scoundrel!
+Dialogue: 0,0:02:44.12,0:02:46.96,Default,,0000,0000,0000,,He actually used King Dabura.
+Dialogue: 0,0:02:47.88,0:02:54.22,Default,,0000,0000,0000,,I can't believe the Supreme Demon King\Nwould fall prey to Babidi's magic.
+Dialogue: 0,0:02:54.88,0:02:56.84,Default,,0000,0000,0000,,How disgraceful.
+Dialogue: 0,0:03:04.14,0:03:06.81,Default,,0000,0000,0000,,{\i1}Dabura… Is he strong or somethin'?{\i0}
+Dialogue: 0,0:03:07.44,0:03:11.94,Default,,0000,0000,0000,,{\i1}Of course he is.\NHe's the king of the dark demon world.{\i0}
+Dialogue: 0,0:03:12.07,0:03:16.91,Default,,0000,0000,0000,,{\i1}K-King of the demon world?!\NSuch a world exists?{\i0}
+Dialogue: 0,0:03:17.74,0:03:18.95,Default,,0000,0000,0000,,{\i1}It does.{\i0}
+Dialogue: 0,0:03:19.49,0:03:24.33,Default,,0000,0000,0000,,Look at that, Degesu.\NIsn't that your older brother?
+Dialogue: 0,0:03:26.46,0:03:29.04,Default,,0000,0000,0000,,Still the nosey upstart as always.
+Dialogue: 0,0:03:29.71,0:03:32.25,Default,,0000,0000,0000,,He thinks so highly of himself\Nas Supreme Kai.
+Dialogue: 0,0:03:32.38,0:03:36.34,Default,,0000,0000,0000,,He's not helping the mortals, is he?
+Dialogue: 0,0:03:36.47,0:03:39.26,Default,,0000,0000,0000,,Let's look a little further ahead.
+Dialogue: 0,0:03:46.81,0:03:48.23,Default,,0000,0000,0000,,{\i1}You idiot…!{\i0}
+Dialogue: 0,0:03:52.98,0:03:54.36,Default,,0000,0000,0000,,What in the world?!
+Dialogue: 0,0:03:54.94,0:03:59.20,Default,,0000,0000,0000,,How can such powerful beings exist\Nin the outside world?!
+Dialogue: 0,0:03:59.32,0:04:01.45,Default,,0000,0000,0000,,Do you think they could be Majin?
+Dialogue: 0,0:04:09.50,0:04:12.42,Default,,0000,0000,0000,,They can't be. Look.
+Dialogue: 0,0:04:12.54,0:04:14.25,Default,,0000,0000,0000,,Their ears are round.
+Dialogue: 0,0:04:15.09,0:04:16.88,Default,,0000,0000,0000,,But they're flying.
+Dialogue: 0,0:04:21.55,0:04:24.56,Default,,0000,0000,0000,,They fire light from their hands…
+Dialogue: 0,0:04:25.22,0:04:27.85,Default,,0000,0000,0000,,and seem to be able to use magic.
+Dialogue: 0,0:04:34.36,0:04:37.69,Default,,0000,0000,0000,,{\i1}At last, Majin Buu awakens again!{\i0}
+Dialogue: 0,0:04:44.70,0:04:46.54,Default,,0000,0000,0000,,{\i1}Buu!{\i0}
+Dialogue: 0,0:04:49.08,0:04:51.25,Default,,0000,0000,0000,,And now Buu is back!
+Dialogue: 0,0:04:55.67,0:04:57.05,Default,,0000,0000,0000,,Curse that Babidi.
+Dialogue: 0,0:04:57.17,0:04:59.38,Default,,0000,0000,0000,,He wants to rule\Nnot only the outside world,
+Dialogue: 0,0:04:59.51,0:05:01.59,Default,,0000,0000,0000,,but the Demon Realm and all worlds, too.
+Dialogue: 0,0:05:03.68,0:05:06.52,Default,,0000,0000,0000,,{\i1}I think I'll eat you.{\i0}
+Dialogue: 0,0:05:18.40,0:05:21.95,Default,,0000,0000,0000,,Look! Dabura was defeated!
+Dialogue: 0,0:05:22.07,0:05:23.49,Default,,0000,0000,0000,,And so easily!
+Dialogue: 0,0:05:25.37,0:05:29.62,Default,,0000,0000,0000,,And now you're\Nthe king of the Demon Realm.
+Dialogue: 0,0:05:35.46,0:05:39.17,Default,,0000,0000,0000,,No, no, no, no, no!\NWe can't be celebrating!
+Dialogue: 0,0:05:39.30,0:05:43.76,Default,,0000,0000,0000,,The next target that Babidi is going to\Nuse Majin Buu on is us!
+Dialogue: 0,0:05:44.47,0:05:46.10,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:05:48.93,0:05:52.77,Default,,0000,0000,0000,,Lord Gomah! Isn't that a Namek?
+Dialogue: 0,0:05:52.89,0:05:54.10,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:54.81,0:05:57.27,Default,,0000,0000,0000,,Now that you mention it…
+Dialogue: 0,0:06:15.08,0:06:18.04,Default,,0000,0000,0000,,They did it! They defeated Buu!
+Dialogue: 0,0:06:18.17,0:06:19.71,Default,,0000,0000,0000,,We'll see.
+Dialogue: 0,0:06:28.01,0:06:31.22,Default,,0000,0000,0000,,I knew he was still alive.
+Dialogue: 0,0:06:33.60,0:06:36.31,Default,,0000,0000,0000,,Hey! The sky went dark!
+Dialogue: 0,0:06:36.44,0:06:38.36,Default,,0000,0000,0000,,What could be happening?
+Dialogue: 0,0:06:38.48,0:06:39.52,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:06:39.65,0:06:41.53,Default,,0000,0000,0000,,Could it be…?
+Dialogue: 0,0:06:44.28,0:06:47.12,Default,,0000,0000,0000,,Found it! This is the reason!
+Dialogue: 0,0:06:47.24,0:06:51.16,Default,,0000,0000,0000,,Look! Th-Those are Dragon Balls!
+Dialogue: 0,0:06:51.29,0:06:52.66,Default,,0000,0000,0000,,Dragon Balls?!
+Dialogue: 0,0:06:52.79,0:06:56.71,Default,,0000,0000,0000,,See?!\NThose ball-like things they have there!
+Dialogue: 0,0:06:56.83,0:07:00.67,Default,,0000,0000,0000,,I'm sure of it!\NThey're smaller, but they're Dragon Balls!
+Dialogue: 0,0:07:00.80,0:07:03.21,Default,,0000,0000,0000,,One… Two… Three… Four… There are seven.
+Dialogue: 0,0:07:03.84,0:07:07.47,Default,,0000,0000,0000,,I can't believe it!\NTheirs are composed of seven Balls!
+Dialogue: 0,0:07:08.35,0:07:13.18,Default,,0000,0000,0000,,But this looks quite different\Nfrom the Porunga I've read about.
+Dialogue: 0,0:07:13.31,0:07:15.48,Default,,0000,0000,0000,,Let's rewind a bit!
+Dialogue: 0,0:07:17.98,0:07:19.77,Default,,0000,0000,0000,,{\i1}Rise, Shenron!{\i0}
+Dialogue: 0,0:07:21.36,0:07:24.90,Default,,0000,0000,0000,,So they seem to call it Shenron\Ninstead of Porunga.
+Dialogue: 0,0:07:25.03,0:07:31.28,Default,,0000,0000,0000,,From the way they seem to be used to this,\Ntheir Dragon Balls must be easy to gather.
+Dialogue: 0,0:07:33.29,0:07:36.54,Default,,0000,0000,0000,,{\i1}Now speak your wish.{\i0}
+Dialogue: 0,0:07:37.08,0:07:41.04,Default,,0000,0000,0000,,{\i1}I shall grant any three wishes you have.{\i0}
+Dialogue: 0,0:07:42.75,0:07:43.88,Default,,0000,0000,0000,,Three?!
+Dialogue: 0,0:07:44.01,0:07:47.47,Default,,0000,0000,0000,,On Earth they get three whole wishes?!
+Dialogue: 0,0:07:47.59,0:07:50.05,Default,,0000,0000,0000,,This is a huge discovery!
+Dialogue: 0,0:07:51.22,0:07:54.43,Default,,0000,0000,0000,,Hold on. What happened with Buu?
+Dialogue: 0,0:07:55.06,0:07:58.19,Default,,0000,0000,0000,,{\i1}I don't need you anymore!{\i0}
+Dialogue: 0,0:08:00.27,0:08:03.61,Default,,0000,0000,0000,,{\i1}Die! Dummy!{\i0}
+Dialogue: 0,0:08:06.44,0:08:10.53,Default,,0000,0000,0000,,He killed him?!\NBuu kill his own master Babidi!
+Dialogue: 0,0:08:12.49,0:08:14.37,Default,,0000,0000,0000,,This is glorious!
+Dialogue: 0,0:08:24.34,0:08:26.67,Default,,0000,0000,0000,,We lost him?! Where is he?!
+Dialogue: 0,0:08:29.63,0:08:32.64,Default,,0000,0000,0000,,Look at that! Another Namek!
+Dialogue: 0,0:08:32.76,0:08:35.06,Default,,0000,0000,0000,,Yeah! There's no mistake!
+Dialogue: 0,0:08:35.18,0:08:38.56,Default,,0000,0000,0000,,No wonder we couldn't find any\Ndespite searching.
+Dialogue: 0,0:08:38.69,0:08:40.90,Default,,0000,0000,0000,,They escaped to the outside world.
+Dialogue: 0,0:08:41.77,0:08:43.36,Default,,0000,0000,0000,,Buu's changed!
+Dialogue: 0,0:08:46.90,0:08:49.28,Default,,0000,0000,0000,,It looks like Buu has increased in power.
+Dialogue: 0,0:08:51.82,0:08:54.41,Default,,0000,0000,0000,,{\i1}Death Missile Chain!{\i0}
+Dialogue: 0,0:09:01.33,0:09:05.88,Default,,0000,0000,0000,,What is with these\Nunbelievably powerful beings?!
+Dialogue: 0,0:09:23.35,0:09:25.06,Default,,0000,0000,0000,,{\i1}H-Here we go!{\i0}
+Dialogue: 0,0:09:35.95,0:09:37.20,Default,,0000,0000,0000,,{\i1}See you!{\i0}
+Dialogue: 0,0:10:05.27,0:10:10.24,Default,,0000,0000,0000,,I can't believe it.\NThey actually defeated Majin Buu!
+Dialogue: 0,0:10:13.49,0:10:16.62,Default,,0000,0000,0000,,Everyone who would\Nstand in your way is gone.
+Dialogue: 0,0:10:28.38,0:10:34.01,Default,,0000,0000,0000,,And now you have become king of\Nthe Demon Realm in both name and reality.
+Dialogue: 0,0:10:34.13,0:10:37.47,Default,,0000,0000,0000,,Congratulations, King Gomah.
+Dialogue: 0,0:10:51.48,0:10:52.44,Default,,0000,0000,0000,,Sister…!
+Dialogue: 0,0:10:53.78,0:10:58.03,Default,,0000,0000,0000,,Excuse me. You're here, too, Degesu?
+Dialogue: 0,0:10:58.16,0:11:02.62,Default,,0000,0000,0000,,Hello, Dr. Arinsu.\NYou're looking as beautiful as ever.
+Dialogue: 0,0:11:02.75,0:11:04.62,Default,,0000,0000,0000,,Why thank you.
+Dialogue: 0,0:11:04.75,0:11:06.83,Default,,0000,0000,0000,,How goes your research?
+Dialogue: 0,0:11:06.96,0:11:10.25,Default,,0000,0000,0000,,It's going quite splendidly.
+Dialogue: 0,0:11:10.38,0:11:15.93,Default,,0000,0000,0000,,More importantly, congratulations.\NI see we have a new Supreme Demon King.
+Dialogue: 0,0:11:16.05,0:11:17.76,Default,,0000,0000,0000,,How did you know?
+Dialogue: 0,0:11:17.89,0:11:22.89,Default,,0000,0000,0000,,It seems my older sister was also watching\Nfrom somewhere.
+Dialogue: 0,0:11:23.64,0:11:29.02,Default,,0000,0000,0000,,It's not like King Dabura\Nto go to the outside world is it?
+Dialogue: 0,0:11:29.15,0:11:31.48,Default,,0000,0000,0000,,It piqued my curiosity.
+Dialogue: 0,0:11:31.61,0:11:34.65,Default,,0000,0000,0000,,Isn't that the same as you two?
+Dialogue: 0,0:11:34.78,0:11:37.49,Default,,0000,0000,0000,,Well, I guess that's true.
+Dialogue: 0,0:11:37.61,0:11:40.45,Default,,0000,0000,0000,,Still, it's unfortunate for you!
+Dialogue: 0,0:11:40.58,0:11:45.79,Default,,0000,0000,0000,,King Dabura may have given you\Nall the research funding you wanted,
+Dialogue: 0,0:11:45.91,0:11:48.12,Default,,0000,0000,0000,,but he's been murdered.
+Dialogue: 0,0:11:48.25,0:11:53.80,Default,,0000,0000,0000,,Oh? As king, you're going to\Ncontinue to fund my research aren't you?
+Dialogue: 0,0:11:53.92,0:11:55.51,Default,,0000,0000,0000,,We'll see about that.
+Dialogue: 0,0:11:57.30,0:11:59.26,Default,,0000,0000,0000,,You may want to be careful, though.
+Dialogue: 0,0:12:00.22,0:12:06.10,Default,,0000,0000,0000,,I mean, who wouldn't be?\NThey defeated the legendary Majin Buu.
+Dialogue: 0,0:12:06.23,0:12:10.36,Default,,0000,0000,0000,,If such people were to invade\Nthe Demon Realm…
+Dialogue: 0,0:12:11.23,0:12:13.48,Default,,0000,0000,0000,,I shiver at the thought!
+Dialogue: 0,0:12:14.19,0:12:15.86,Default,,0000,0000,0000,,There's no need to worry.
+Dialogue: 0,0:12:15.99,0:12:22.16,Default,,0000,0000,0000,,There's no reason why they would risk\Nthe dangers of coming to the Demon Realm.
+Dialogue: 0,0:12:22.28,0:12:23.70,Default,,0000,0000,0000,,We can only hope.
+Dialogue: 0,0:12:23.83,0:12:26.20,Default,,0000,0000,0000,,Now if you'll excuse me…
+Dialogue: 0,0:12:26.33,0:12:28.71,Default,,0000,0000,0000,,"King Gomah."
+Dialogue: 0,0:12:39.38,0:12:41.09,Default,,0000,0000,0000,,Will we really be okay?
+Dialogue: 0,0:12:41.68,0:12:42.55,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:43.26,0:12:47.39,Default,,0000,0000,0000,,If such beings really came here,\Nthat would be bad, wouldn't it?
+Dialogue: 0,0:12:47.52,0:12:51.52,Default,,0000,0000,0000,,You shouldn't listen to\Nthe ramblings of my sister.
+Dialogue: 0,0:12:51.65,0:12:54.52,Default,,0000,0000,0000,,Even if they ever come to the Demon Realm,
+Dialogue: 0,0:12:54.65,0:12:57.78,Default,,0000,0000,0000,,they'd never reach this Demon King Palace.
+Dialogue: 0,0:13:08.33,0:13:10.29,Default,,0000,0000,0000,,That's it.
+Dialogue: 0,0:13:11.25,0:13:13.67,Default,,0000,0000,0000,,Let's use the Dragon Balls!
+Dialogue: 0,0:13:14.59,0:13:17.42,Default,,0000,0000,0000,,The Dragon Balls?! Are you serious?
+Dialogue: 0,0:13:18.84,0:13:22.47,Default,,0000,0000,0000,,{\i1}The three powerful Tamagamis protect them.{\i0}
+Dialogue: 0,0:13:23.55,0:13:27.14,Default,,0000,0000,0000,,Not the Dragon Balls of the Demon Realm.
+Dialogue: 0,0:13:27.27,0:13:31.73,Default,,0000,0000,0000,,The small Dragon Balls\Nof that planet Earth.
+Dialogue: 0,0:13:31.85,0:13:32.85,Default,,0000,0000,0000,,Earth's?
+Dialogue: 0,0:13:32.98,0:13:35.44,Default,,0000,0000,0000,,That's right. You saw it, didn't you?
+Dialogue: 0,0:13:35.57,0:13:40.07,Default,,0000,0000,0000,,Those Dragon Balls\Nmight be easy to gather.
+Dialogue: 0,0:13:40.19,0:13:42.95,Default,,0000,0000,0000,,But what will you wish for?
+Dialogue: 0,0:13:43.49,0:13:46.12,Default,,0000,0000,0000,,I'm sure their power\Nis based in white magic,
+Dialogue: 0,0:13:46.24,0:13:49.91,Default,,0000,0000,0000,,so I doubt a black wish like\Neliminating them will be accepted.
+Dialogue: 0,0:13:51.25,0:13:53.37,Default,,0000,0000,0000,,I know that!
+Dialogue: 0,0:13:57.75,0:14:00.55,Default,,0000,0000,0000,,We make them young.
+Dialogue: 0,0:14:00.67,0:14:01.92,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:02.05,0:14:04.39,Default,,0000,0000,0000,,That's not a black wish, is it?
+Dialogue: 0,0:14:04.51,0:14:06.35,Default,,0000,0000,0000,,That's quite ingenious.
+Dialogue: 0,0:14:09.02,0:14:11.10,Default,,0000,0000,0000,,Y-You're still here?!
+Dialogue: 0,0:14:13.94,0:14:17.57,Default,,0000,0000,0000,,It'd be nice if you made me young as well.
+Dialogue: 0,0:14:24.45,0:14:25.87,Default,,0000,0000,0000,,Make them young?
+Dialogue: 0,0:14:26.49,0:14:28.41,Default,,0000,0000,0000,,Th-That's right.
+Dialogue: 0,0:14:29.49,0:14:35.21,Default,,0000,0000,0000,,Basically we turn them all into children\Nto make them harmless.
+Dialogue: 0,0:14:37.00,0:14:40.71,Default,,0000,0000,0000,,I see! So we weaken them drastically!
+Dialogue: 0,0:14:41.26,0:14:43.13,Default,,0000,0000,0000,,There you have it.
+Dialogue: 0,0:14:43.80,0:14:46.26,Default,,0000,0000,0000,,And for my second wish…
+Dialogue: 0,0:14:47.47,0:14:49.89,Default,,0000,0000,0000,,Let's get the Evil Third Eye!
+Dialogue: 0,0:14:50.56,0:14:52.81,Default,,0000,0000,0000,,The Evil Third Eye!
+Dialogue: 0,0:14:52.93,0:14:55.65,Default,,0000,0000,0000,,You mean the legendary Tertian Oculus?!
+Dialogue: 0,0:14:55.77,0:15:00.57,Default,,0000,0000,0000,,It was lost during the reign of\NDabura's father, Supreme Demon King Abura.
+Dialogue: 0,0:15:00.69,0:15:02.19,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:02.32,0:15:06.82,Default,,0000,0000,0000,,Placing it on the forehead is said to\Ngrant unbelievable power.
+Dialogue: 0,0:15:06.95,0:15:11.95,Default,,0000,0000,0000,,Since long ago, it was passed down\Namong the Supreme Demon Kings,
+Dialogue: 0,0:15:12.08,0:15:14.83,Default,,0000,0000,0000,,granting them absolute power!
+Dialogue: 0,0:15:14.96,0:15:19.21,Default,,0000,0000,0000,,Indeed it would be\Nthe absolute item to obtain.
+Dialogue: 0,0:15:19.34,0:15:22.38,Default,,0000,0000,0000,,Right? And for my third wish…
+Dialogue: 0,0:15:22.51,0:15:26.88,Default,,0000,0000,0000,,Please, if I could be given\Nat least one wish.
+Dialogue: 0,0:15:27.01,0:15:28.09,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:15:29.47,0:15:31.14,Default,,0000,0000,0000,,I'll consider it.
+Dialogue: 0,0:15:31.26,0:15:34.18,Default,,0000,0000,0000,,I'll be busy with my coronation party,
+Dialogue: 0,0:15:34.31,0:15:40.02,Default,,0000,0000,0000,,and making speeches in the three\NDemon Worlds and appealing to the Majin.
+Dialogue: 0,0:15:40.15,0:15:44.53,Default,,0000,0000,0000,,We'll execute my plan after that.\NHave my vessel ready.
+Dialogue: 0,0:15:44.65,0:15:45.90,Default,,0000,0000,0000,,Understood, sire.
+Dialogue: 0,0:15:48.20,0:15:51.66,Default,,0000,0000,0000,,Ah, I'll be bringing Neva the Namek.
+Dialogue: 0,0:15:51.78,0:15:57.04,Default,,0000,0000,0000,,He's a little senile, but no one knows\Nmore about the Dragon Balls.
+Dialogue: 0,0:15:57.83,0:15:58.67,Default,,0000,0000,0000,,Yes, sire.
+Dialogue: 0,0:16:34.58,0:16:35.91,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:16:38.62,0:16:40.71,Default,,0000,0000,0000,,Walk faster!
+Dialogue: 0,0:16:40.83,0:16:46.71,Default,,0000,0000,0000,,{\i1}Curses! There's a Dragon Ball right here!\NBut the darn Tamagami is, too!{\i0}
+Dialogue: 0,0:16:48.05,0:16:49.68,Default,,0000,0000,0000,,Hey, good work.
+Dialogue: 0,0:16:56.47,0:16:58.77,Default,,0000,0000,0000,,Now hurry up and get in the plane.
+Dialogue: 0,0:17:03.61,0:17:05.86,Default,,0000,0000,0000,,Now, now. Don't rush me.
+Dialogue: 0,0:17:08.69,0:17:12.24,Default,,0000,0000,0000,,Something smells.\NWhen was the last time you took a shower?
+Dialogue: 0,0:17:12.37,0:17:18.29,Default,,0000,0000,0000,,A shower? I think I took one years ago\Nwhen I fell in the mud.
+Dialogue: 0,0:17:19.83,0:17:24.79,Default,,0000,0000,0000,,Hey, Degesu!\NSwitch places with me! I'm piloting!
+Dialogue: 0,0:17:24.92,0:17:27.26,Default,,0000,0000,0000,,-But…!\N-Hurry up!
+Dialogue: 0,0:17:27.38,0:17:30.38,Default,,0000,0000,0000,,-Hold on!\N-Hurry up and switch!
+Dialogue: 0,0:17:34.18,0:17:36.72,Default,,0000,0000,0000,,Where are you taking me?
+Dialogue: 0,0:17:36.85,0:17:39.14,Default,,0000,0000,0000,,Like I said, the outside world.
+Dialogue: 0,0:17:39.27,0:17:42.90,Default,,0000,0000,0000,,We aren't supposed to go to outside world.
+Dialogue: 0,0:17:43.02,0:17:45.19,Default,,0000,0000,0000,,We've already done all the proceedings.
+Dialogue: 0,0:17:45.31,0:17:47.23,Default,,0000,0000,0000,,Is this a vacation?
+Dialogue: 0,0:17:47.36,0:17:49.40,Default,,0000,0000,0000,,Turn around.
+Dialogue: 0,0:17:49.53,0:17:51.78,Default,,0000,0000,0000,,I forgot my toothbrush.
+Dialogue: 0,0:17:51.90,0:17:53.61,Default,,0000,0000,0000,,We'll come right back!
+Dialogue: 0,0:17:53.74,0:17:57.91,Default,,0000,0000,0000,,We're going to go see a young Namek\Nfor some business!
+Dialogue: 0,0:17:58.04,0:18:02.12,Default,,0000,0000,0000,,A Namek? That sounds wonderful.
+Dialogue: 0,0:18:02.25,0:18:05.42,Default,,0000,0000,0000,,Other Nameks still exist!
+Dialogue: 0,0:18:21.77,0:18:26.06,Default,,0000,0000,0000,,Who goes there? Identify yourself.
+Dialogue: 0,0:18:26.19,0:18:32.03,Default,,0000,0000,0000,,The new Supreme Demon King Gomah!\NYou can call me King Gomah!
+Dialogue: 0,0:18:32.15,0:18:35.11,Default,,0000,0000,0000,,Well good for you.
+Dialogue: 0,0:18:35.24,0:18:38.53,Default,,0000,0000,0000,,You can spare me the details.
+Dialogue: 0,0:18:39.41,0:18:42.50,Default,,0000,0000,0000,,Just say the pin number.
+Dialogue: 0,0:18:43.21,0:18:44.46,Default,,0000,0000,0000,,0493.
+Dialogue: 0,0:18:44.58,0:18:46.17,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:46.29,0:18:50.50,Default,,0000,0000,0000,,So you're going to the outside world…
+Dialogue: 0,0:18:57.80,0:19:01.47,Default,,0000,0000,0000,,Very well. I suppose I'll let you go.
+Dialogue: 0,0:19:02.81,0:19:04.69,Default,,0000,0000,0000,,That's all?!
+Dialogue: 0,0:19:43.39,0:19:46.64,Default,,0000,0000,0000,,So you're going to the outside world?\NWhich universe?
+Dialogue: 0,0:19:46.77,0:19:47.69,Default,,0000,0000,0000,,Universe 7.
+Dialogue: 0,0:19:47.81,0:19:49.90,Default,,0000,0000,0000,,What number in Universe 7?
+Dialogue: 0,0:19:50.02,0:19:52.27,Default,,0000,0000,0000,,Which is closest to Earth…?
+Dialogue: 0,0:19:52.82,0:19:53.65,Default,,0000,0000,0000,,Number 3.
+Dialogue: 0,0:19:53.78,0:19:57.32,Default,,0000,0000,0000,,You want to go to number 3?\NThat's been popular, recently.
+Dialogue: 0,0:19:57.45,0:19:58.95,Default,,0000,0000,0000,,Popular?
+Dialogue: 0,0:20:00.45,0:20:02.66,Default,,0000,0000,0000,,You mean Dabura and Babidi.
+Dialogue: 0,0:20:02.79,0:20:05.16,Default,,0000,0000,0000,,Someone else went there after them.
+Dialogue: 0,0:20:05.29,0:20:08.62,Default,,0000,0000,0000,,What?! Who?! Tell me their name!
+Dialogue: 0,0:20:09.25,0:20:11.00,Default,,0000,0000,0000,,You're an arrogant one!
+Dialogue: 0,0:20:11.13,0:20:13.59,Default,,0000,0000,0000,,I-I'm sorry.
+Dialogue: 0,0:20:13.71,0:20:16.22,Default,,0000,0000,0000,,Tell me… please.
+Dialogue: 0,0:20:16.34,0:20:20.34,Default,,0000,0000,0000,,I think it was Dr. Arinsu.
+Dialogue: 0,0:20:22.01,0:20:23.39,Default,,0000,0000,0000,,{\i1}My sister?!{\i0}
+Dialogue: 0,0:20:24.01,0:20:25.73,Default,,0000,0000,0000,,Why would she do that?
+Dialogue: 0,0:20:25.85,0:20:28.60,Default,,0000,0000,0000,,She better not be up to something.
+Dialogue: 0,0:20:28.73,0:20:31.90,Default,,0000,0000,0000,,Stop wasting time and just go!
+Dialogue: 0,0:20:32.02,0:20:34.61,Default,,0000,0000,0000,,You're the one who brought it up.
+Dialogue: 0,0:20:46.20,0:20:48.50,Default,,0000,0000,0000,,Trunks, happy birthday!
+Dialogue: 0,0:20:48.62,0:20:51.42,Default,,0000,0000,0000,,And congratulations\Nto the Earth returning!
+Dialogue: 0,0:20:52.79,0:20:53.92,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:20:54.04,0:20:56.13,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:21:00.05,0:21:03.05,Default,,0000,0000,0000,,Hey Trunks, how old are you now?
+Dialogue: 0,0:21:03.18,0:21:04.56,Default,,0000,0000,0000,,I'm nine.
+Dialogue: 0,0:21:04.68,0:21:08.31,Default,,0000,0000,0000,,Nine, huh?\NYou're a little short for being nine.
+Dialogue: 0,0:21:08.43,0:21:11.15,Default,,0000,0000,0000,,You're one to talk.
+Dialogue: 0,0:21:11.27,0:21:16.03,Default,,0000,0000,0000,,Saiyans get a growth spurt at around 15.
+Dialogue: 0,0:21:16.15,0:21:18.24,Default,,0000,0000,0000,,Yeah, that happened with you, didn't it?
+Dialogue: 0,0:21:18.36,0:21:22.99,Default,,0000,0000,0000,,Well, I guess Vegeta didn't get that big.
+Dialogue: 0,0:21:23.12,0:21:25.45,Default,,0000,0000,0000,,Are you picking a fight?
+Dialogue: 0,0:21:26.16,0:21:29.16,Default,,0000,0000,0000,,Huh? Supreme Kai-sama!
+Dialogue: 0,0:21:29.29,0:21:31.29,Default,,0000,0000,0000,,What are you doin' here?
+Dialogue: 0,0:21:31.92,0:21:35.63,Default,,0000,0000,0000,,Well… I had some other business…
+Dialogue: 0,0:21:35.75,0:21:41.76,Default,,0000,0000,0000,,Huh? Didn't you two\Nfuse with your Potaras?
+Dialogue: 0,0:21:41.88,0:21:46.18,Default,,0000,0000,0000,,I thought it couldn't be undone!\NHow'd you do it?!
+Dialogue: 0,0:21:46.81,0:21:51.94,Default,,0000,0000,0000,,You and Vegeta-san fused with the Potaras,\Nbut when you were absorbed by Majin Buu,
+Dialogue: 0,0:21:52.06,0:21:55.98,Default,,0000,0000,0000,,for some reason\Nit was undone and you split apart again.
+Dialogue: 0,0:21:57.07,0:22:02.78,Default,,0000,0000,0000,,We remembered that\Nand asked Buu-san to try it again.
+Dialogue: 0,0:22:02.91,0:22:05.91,Default,,0000,0000,0000,,When I inhaled them and spit them out,\Nthey were separated.
+Dialogue: 0,0:22:06.03,0:22:08.95,Default,,0000,0000,0000,,It appears that Majin Buu's body produces
+Dialogue: 0,0:22:09.08,0:22:14.63,Default,,0000,0000,0000,,a mysterious gas\Nthat can reverse a Potara fusion.
+Dialogue: 0,0:22:14.75,0:22:19.84,Default,,0000,0000,0000,,Oh come on.\NSo you didn't really wanna fuse after all?
+Dialogue: 0,0:22:19.96,0:22:23.22,Default,,0000,0000,0000,,Well, Kibito is a little old, so…
+Dialogue: 0,0:22:25.43,0:22:28.10,Default,,0000,0000,0000,,You never cease to amaze, Goku.
+Dialogue: 0,0:22:28.22,0:22:34.19,Default,,0000,0000,0000,,You actually asked Shenron to make Buu\Na good guy and let him remain on Earth.
+Dialogue: 0,0:22:34.31,0:22:38.40,Default,,0000,0000,0000,,It doesn't look like Gohan-san is here.
+Dialogue: 0,0:22:39.07,0:22:42.74,Default,,0000,0000,0000,,Gohan's bein' a little distant.
+Dialogue: 0,0:22:42.86,0:22:45.36,Default,,0000,0000,0000,,He said he's busy studyin'.
+Dialogue: 0,0:22:45.49,0:22:50.08,Default,,0000,0000,0000,,I suppose he couldn't study much\Nwith all the fighting.
+Dialogue: 0,0:22:52.75,0:22:54.04,Default,,0000,0000,0000,,I'm stuffed!
+Dialogue: 0,0:22:54.16,0:22:56.17,Default,,0000,0000,0000,,Now that I've had my fill…
+Dialogue: 0,0:22:56.29,0:22:58.84,Default,,0000,0000,0000,,Vegeta, wanna train?
+Dialogue: 0,0:22:59.88,0:23:01.05,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:23:13.77,0:23:16.60,Default,,0000,0000,0000,,And there they go again all of a sudden.
+Dialogue: 0,0:23:17.27,0:23:18.65,Default,,0000,0000,0000,,Just ignore them.
+Dialogue: 0,0:23:56.48,0:23:58.85,Default,,0000,0000,0000,,Ain't you gettin' carried away?
+Dialogue: 0,0:24:22.84,0:24:24.96,Default,,0000,0000,0000,,They seem to be having fun.
+Dialogue: 0,0:24:25.09,0:24:26.84,Default,,0000,0000,0000,,Shall we join them?
+Dialogue: 0,0:24:26.97,0:24:31.30,Default,,0000,0000,0000,,We can't. There's no telling\Nwhat can happen at any time.
+Dialogue: 0,0:24:34.64,0:24:36.93,Default,,0000,0000,0000,,You're right. Something happened.
+Dialogue: 0,0:24:49.91,0:24:51.53,Default,,0000,0000,0000,,We finally made it!
+Dialogue: 0,0:24:54.33,0:24:55.91,Default,,0000,0000,0000,,Wh-Who are you?
+Dialogue: 0,0:24:56.04,0:24:57.25,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:24:58.00,0:25:00.46,Default,,0000,0000,0000,,It really is a Namek.
+Dialogue: 0,0:25:00.58,0:25:05.17,Default,,0000,0000,0000,,I haven't seen a fellow Namek\Nin thousands of years.
+Dialogue: 0,0:25:07.05,0:25:10.51,Default,,0000,0000,0000,,Are you one of the Supreme Kai?
+Dialogue: 0,0:25:10.63,0:25:12.30,Default,,0000,0000,0000,,Not exactly.
+Dialogue: 0,0:25:13.01,0:25:15.76,Default,,0000,0000,0000,,We came from the Demon Realm.
+Dialogue: 0,0:25:17.10,0:25:19.44,Default,,0000,0000,0000,,As did your ancestors, correct?
+Dialogue: 0,0:25:19.56,0:25:22.73,Default,,0000,0000,0000,,See? Your ears are pointy.
+Dialogue: 0,0:25:23.48,0:25:25.98,Default,,0000,0000,0000,,You're from the Demon Realm, too.
+Dialogue: 0,0:25:26.11,0:25:27.61,Default,,0000,0000,0000,,Move!
+Dialogue: 0,0:25:27.74,0:25:29.28,Default,,0000,0000,0000,,Can I help you?
+Dialogue: 0,0:25:29.40,0:25:32.11,Default,,0000,0000,0000,,I suppose I'll ask.
+Dialogue: 0,0:25:32.24,0:25:36.16,Default,,0000,0000,0000,,You manage\Nthe Dragon Balls of this world, right?
+Dialogue: 0,0:25:37.79,0:25:41.12,Default,,0000,0000,0000,,In that case bring them all here.
+Dialogue: 0,0:25:41.25,0:25:44.88,Default,,0000,0000,0000,,The Dragon Balls?! I can't do that!
+Dialogue: 0,0:25:45.00,0:25:47.46,Default,,0000,0000,0000,,I figured you'd say that.
+Dialogue: 0,0:25:47.59,0:25:50.42,Default,,0000,0000,0000,,Good thing I brought this old geezer.
+Dialogue: 0,0:25:50.55,0:25:52.34,Default,,0000,0000,0000,,Hey! Do it.
+Dialogue: 0,0:25:52.47,0:25:54.26,Default,,0000,0000,0000,,Do what?
+Dialogue: 0,0:25:54.39,0:25:56.18,Default,,0000,0000,0000,,We went over this!
+Dialogue: 0,0:25:56.31,0:26:00.85,Default,,0000,0000,0000,,I'll extend your life 1,000 years,\Nso gather the Earth Dragon Balls!
+Dialogue: 0,0:26:00.98,0:26:04.02,Default,,0000,0000,0000,,Ah yes. Right…
+Dialogue: 0,0:26:08.44,0:26:11.32,Default,,0000,0000,0000,,Who… Who is that…?
+Dialogue: 0,0:26:11.45,0:26:14.91,Default,,0000,0000,0000,,The Demon Realm has its own Dragon Balls.
+Dialogue: 0,0:26:15.03,0:26:19.62,Default,,0000,0000,0000,,He's the one who made them long ago.
+Dialogue: 0,0:26:20.54,0:26:22.12,Default,,0000,0000,0000,,But he also…
+Dialogue: 0,0:26:22.83,0:26:28.25,Default,,0000,0000,0000,,created terrifying beings called Tamagamis\Nto protect the balls,
+Dialogue: 0,0:26:28.38,0:26:32.22,Default,,0000,0000,0000,,so for the longest time\Nno one has had a wish granted.
+Dialogue: 0,0:26:33.01,0:26:37.35,Default,,0000,0000,0000,,But we heard that Earth has some,\Nand that's why we're here.
+Dialogue: 0,0:26:38.56,0:26:42.81,Default,,0000,0000,0000,,Wait. Do you intend to use\Nour Dragon Balls to make a wish?!
+Dialogue: 0,0:26:42.94,0:26:44.77,Default,,0000,0000,0000,,Of course I do.
+Dialogue: 0,0:26:57.83,0:26:59.91,Default,,0000,0000,0000,,Ah… It looks like
+Dialogue: 0,0:27:00.04,0:27:05.62,Default,,0000,0000,0000,,they've granted a wish recently and\Nare still turned into stones.
+Dialogue: 0,0:27:05.75,0:27:07.75,Default,,0000,0000,0000,,This'll be hard to find.
+Dialogue: 0,0:27:37.28,0:27:39.37,Default,,0000,0000,0000,,Th-That's…!
+Dialogue: 0,0:27:42.41,0:27:44.75,Default,,0000,0000,0000,,One, two, three, four…
+Dialogue: 0,0:27:45.41,0:27:46.42,Default,,0000,0000,0000,,Seven!
+Dialogue: 0,0:27:46.54,0:27:49.33,Default,,0000,0000,0000,,-Good. Let's begin.\N-Neva.
+Dialogue: 0,0:27:50.17,0:27:54.59,Default,,0000,0000,0000,,You can restore the Dragon Balls\Nsooner than normal, right?
+Dialogue: 0,0:28:09.65,0:28:15.40,Default,,0000,0000,0000,,I don't know what your wish is, but\NI'll die before I tell you the password!
+Dialogue: 0,0:28:15.53,0:28:19.41,Default,,0000,0000,0000,,We watched a video of you and took notes.
+Dialogue: 0,0:28:21.70,0:28:23.33,Default,,0000,0000,0000,,Rise, Shen--
+Dialogue: 0,0:28:23.45,0:28:25.91,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:28:30.75,0:28:32.46,Default,,0000,0000,0000,,Is there a problem?
+Dialogue: 0,0:28:32.59,0:28:35.34,Default,,0000,0000,0000,,Um… Would you like some juice?
+Dialogue: 0,0:28:36.13,0:28:37.42,Default,,0000,0000,0000,,No thank you.
+Dialogue: 0,0:28:38.76,0:28:40.64,Default,,0000,0000,0000,,Rise, Shenron!
+Dialogue: 0,0:28:41.30,0:28:44.60,Default,,0000,0000,0000,,And grant my wish!
+Dialogue: 0,0:29:04.91,0:29:07.12,Default,,0000,0000,0000,,Huh? What's going on?
+Dialogue: 0,0:29:07.25,0:29:09.33,Default,,0000,0000,0000,,Everything went dark.
+Dialogue: 0,0:29:10.00,0:29:13.04,Default,,0000,0000,0000,,Could it be that Shenron was summoned…?
+Dialogue: 0,0:29:13.17,0:29:18.47,Default,,0000,0000,0000,,That's not possible.\NThe Dragon Balls should still be rocks.
+Dialogue: 0,0:29:18.59,0:29:21.76,Default,,0000,0000,0000,,I didn't hear about an eclipse.\NI wonder what it is.
+Dialogue: 0,0:29:22.64,0:29:24.10,Default,,0000,0000,0000,,Supreme Kai-sama.
+Dialogue: 0,0:29:24.22,0:29:27.02,Default,,0000,0000,0000,,Kibito, did you sense that, too?
+Dialogue: 0,0:29:27.60,0:29:29.10,Default,,0000,0000,0000,,That presence…
+Dialogue: 0,0:29:30.48,0:29:32.94,Default,,0000,0000,0000,,Now speak your wish.
+Dialogue: 0,0:29:33.52,0:29:36.44,Default,,0000,0000,0000,,I will grant any wish.
+Dialogue: 0,0:29:36.57,0:29:39.82,Default,,0000,0000,0000,,Wonderful! Well, let's see…
+Dialogue: 0,0:29:39.95,0:29:45.95,Default,,0000,0000,0000,,Turn the ones who fought Majin Buu\Nand all their friends into children!
+Dialogue: 0,0:29:49.45,0:29:51.37,Default,,0000,0000,0000,,Well? What's wrong?!
+Dialogue: 0,0:29:51.92,0:29:57.38,Default,,0000,0000,0000,,By children, how old do you mean?
+Dialogue: 0,0:29:57.50,0:29:58.46,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:29:59.59,0:30:03.14,Default,,0000,0000,0000,,Let me think… Maybe first graders?
+Dialogue: 0,0:30:03.26,0:30:06.72,Default,,0000,0000,0000,,And for those who are already children?
+Dialogue: 0,0:30:06.85,0:30:08.72,Default,,0000,0000,0000,,You're pretty picky.
+Dialogue: 0,0:30:08.85,0:30:10.52,Default,,0000,0000,0000,,Well…
+Dialogue: 0,0:30:11.39,0:30:12.35,Default,,0000,0000,0000,,Make them babies!
+Dialogue: 0,0:30:14.48,0:30:18.23,Default,,0000,0000,0000,,Well?!\NYou said you'd grant any wish, right?!
+Dialogue: 0,0:30:19.23,0:30:21.32,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:30:40.84,0:30:42.42,Default,,0000,0000,0000,,{\i1}Hee, hee hee!{\i0}
+Dialogue: 0,0:30:42.55,0:30:47.05,Default,,0000,0000,0000,,{\i1}Time to adventure!\NYou'll be hooked for sure!{\i0}
+Dialogue: 0,0:30:47.60,0:30:51.68,Default,,0000,0000,0000,,{\i1}The Demon Realm is full of mystery{\i0}
+Dialogue: 0,0:30:51.81,0:30:54.81,Default,,0000,0000,0000,,{\i1}DAIMA wonderland{\i0}
+Dialogue: 0,0:30:55.52,0:30:57.31,Default,,0000,0000,0000,,{\i1}Whoopsie daisy!{\i0}
+Dialogue: 0,0:30:57.44,0:31:02.03,Default,,0000,0000,0000,,{\i1}Even when your heart shrinks\NAnd you feel low{\i0}
+Dialogue: 0,0:31:02.15,0:31:06.57,Default,,0000,0000,0000,,{\i1}Dreams are everywhere\NDon't worry about it{\i0}
+Dialogue: 0,0:31:06.70,0:31:09.66,Default,,0000,0000,0000,,{\i1}Never give up{\i0}
+Dialogue: 0,0:31:11.16,0:31:17.13,Default,,0000,0000,0000,,{\i1}Here comes a New Story{\i0}
+Dialogue: 0,0:31:17.25,0:31:21.34,Default,,0000,0000,0000,,{\i1}Thousands of jabs and silly jokes{\i0}
+Dialogue: 0,0:31:21.46,0:31:24.93,Default,,0000,0000,0000,,{\i1}They're waitin' for you{\i0}
+Dialogue: 0,0:31:25.05,0:31:31.97,Default,,0000,0000,0000,,{\i1}Jaan! Jaka jaan!\NThe fanfare of courage{\i0}
+Dialogue: 0,0:31:32.85,0:31:39.73,Default,,0000,0000,0000,,{\i1}No-holds-barred battles\NThe excitement ain't stoppin'{\i0}
+Dialogue: 0,0:31:39.86,0:31:46.36,Default,,0000,0000,0000,,{\i1}Hey Shenron, grant my wish{\i0}
+Dialogue: 0,0:31:47.28,0:31:54.16,Default,,0000,0000,0000,,{\i1}I wanna meet\NSomeone amazin' again tomorrow{\i0}
+Dialogue: 0,0:31:55.54,0:32:00.42,Default,,0000,0000,0000,,GLORIO
