@@ -1,0 +1,224 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00B825CC,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Trebuchet MS,26,&H00FAA6FF,&H000000FF,&H00D700E2,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0120,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Gen_Opening,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00AC6AF1,&H00F850B1,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_SeriesTitle,Courier New,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_NextTitle,Trebuchet MS,24,&H00DAAE73,&H000000FF,&H00FFFFFF,&H0097F6FA,-1,0,0,0,100,100,0,0,1,1,2,8,0020,0020,0040,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.10,0:00:14.26,Gen_Main,,0000,0000,0000,,{\i1}Las Esferas del dragón.{\i}
+Dialogue: 0,0:00:14.35,0:00:18.06,Gen_Main,,0000,0000,0000,,{\i1}Cuando se obtienen siete de estas esferas{\i}
+Dialogue: 0,0:00:18.14,0:00:24.07,Gen_Main,,0000,0000,0000,,{\i1}y se dice en voz alta la frase mágica,\Naparece Shen Long, el dragón.{\i}
+Dialogue: 0,0:00:26.03,0:00:31.03,Gen_Main,,0000,0000,0000,,{\i1}Shen Long te concederá\Ncualquier deseo que pidas.{\i}
+Dialogue: 0,0:00:32.03,0:00:35.99,Gen_Main,,0000,0000,0000,,{\i1}Este hombre, Goku, puede parecer gentil,{\i}
+Dialogue: 0,0:00:36.08,0:00:40.96,Gen_Main,,0000,0000,0000,,{\i1}pero proviene de una feroz raza guerrera,\Nlos Saiyajin, y posee fuerza sobrehumana.{\i}
+Dialogue: 0,0:00:41.71,0:00:47.92,Gen_Main,,0000,0000,0000,,{\i1}De niño, pasó su vida en las montañas{\i}\N{\i1}en busca de las Esferas del dragón.{\i}
+Dialogue: 0,0:00:48.01,0:00:50.76,Gen_Main,,0000,0000,0000,,{\i1}Conoció amigos en el camino\Ny creció con ellos.{\i}
+Dialogue: 0,0:00:52.80,0:00:59.35,Gen_Main,,0000,0000,0000,,{\i1}Los Saiyajin se mantienen jóvenes\Ndurante toda la vida.{\i}
+Dialogue: 0,0:00:59.98,0:01:03.98,Gen_Main,,0000,0000,0000,,{\i1}Incluso ahora\Ny junto con sus antiguos rivales,{\i}
+Dialogue: 0,0:01:04.06,0:01:08.11,Gen_Main,,0000,0000,0000,,{\i1}continúa protegiendo a la Tierra del mal.{\i}
+Dialogue: 0,0:01:14.82,0:01:20.33,Cart_A_Ari,,0000,0000,0000,,Obra original, historia\Ny creación de personajes: Akira Toriyama
+Dialogue: 0,0:02:40.20,0:02:44.96,Cart_A_Ari,,0000,0000,0000,,TERCER OJO
+Dialogue: 0,0:02:46.25,0:02:49.54,Gen_Main,,0000,0000,0000,,¡Ejecuten un ataque masivo!
+Dialogue: 0,0:02:53.34,0:02:55.17,Gen_Main,,0000,0000,0000,,¡Ataquen!
+Dialogue: 0,0:03:11.52,0:03:12.78,Gen_Main,,0000,0000,0000,,¡Alto!
+Dialogue: 0,0:03:15.32,0:03:16.20,Gen_Main,,0000,0000,0000,,¡Qué molestos!
+Dialogue: 0,0:03:16.78,0:03:19.16,Gen_Main,,0000,0000,0000,,¡Están usando pistolas! ¡Eso es trampa!
+Dialogue: 0,0:03:19.70,0:03:21.33,Gen_Main,,0000,0000,0000,,¡No los dejen escapar!
+Dialogue: 0,0:03:21.41,0:03:24.33,Gen_Main,,0000,0000,0000,,¡Oigan! ¿Están todos bien?
+Dialogue: 0,0:03:24.41,0:03:25.91,Gen_Main,,0000,0000,0000,,¡Sí, por poco!
+Dialogue: 0,0:03:35.72,0:03:36.84,Gen_Main,,0000,0000,0000,,¡Por allí!
+Dialogue: 0,0:04:06.66,0:04:09.67,Gen_Main,,0000,0000,0000,,¡Ten cuidado!\NLos disparos te dejan inmovilizado.
+Dialogue: 0,0:04:15.67,0:04:16.97,Gen_Main,,0000,0000,0000,,¡Esos malditos!
+Dialogue: 0,0:04:17.76,0:04:19.68,Gen_Main,,0000,0000,0000,,¡Extiéndete!
+Dialogue: 0,0:04:24.18,0:04:25.56,Gen_Main,,0000,0000,0000,,¡Increíble!
+Dialogue: 0,0:04:29.77,0:04:32.86,Gen_Main,,0000,0000,0000,,Cielos, siguen llegando.
+Dialogue: 0,0:04:34.02,0:04:35.48,Gen_Main,,0000,0000,0000,,Son muchísimos.
+Dialogue: 0,0:04:36.28,0:04:38.15,Gen_Main,,0000,0000,0000,,Habrá que vencerlos de a uno.
+Dialogue: 0,0:04:38.24,0:04:40.57,Gen_Main,,0000,0000,0000,,¡Siguen disparando con pistolas de rayos!
+Dialogue: 0,0:04:40.66,0:04:43.78,Gen_Main,,0000,0000,0000,,¡Jamás funcionarán en un Saiyajin como yo!
+Dialogue: 0,0:05:02.72,0:05:04.55,Gen_Main,,0000,0000,0000,,¡Oye! ¿Estás bien?
+Dialogue: 0,0:05:05.93,0:05:08.14,Gen_Main,,0000,0000,0000,,Kakarotto.
+Dialogue: 0,0:05:08.89,0:05:11.77,Gen_Main,,0000,0000,0000,,¿Tienes más de esos insectos?
+Dialogue: 0,0:05:11.85,0:05:15.73,Gen_Main,,0000,0000,0000,,¿Qué? ¿Insectos Resucitadores dices?
+Dialogue: 0,0:05:16.73,0:05:17.82,Gen_Main,,0000,0000,0000,,Toma.
+Dialogue: 0,0:05:19.99,0:05:21.57,Gen_Main,,0000,0000,0000,,Dame eso.
+Dialogue: 0,0:05:31.16,0:05:35.25,Gen_Main,,0000,0000,0000,,¡Malditos desgraciados!\N¡Están disparando hacia todas partes!
+Dialogue: 0,0:05:35.96,0:05:39.46,Gen_Main,,0000,0000,0000,,Creo que será difícil\Npelear en estos cuerpos.
+Dialogue: 0,0:05:41.59,0:05:45.89,Gen_Main,,0000,0000,0000,,¡Sí! Ni siquiera ellos\Ntienen la fuerza necesaria para vencerlos!
+Dialogue: 0,0:05:46.72,0:05:49.93,Gen_Main,,0000,0000,0000,,Ese es el namekiano de la Tierra.
+Dialogue: 0,0:05:50.81,0:05:54.69,Gen_Main,,0000,0000,0000,,Y esa mocosa\Nes del Tercer Mundo Demoníaco, ¡maldición!
+Dialogue: 0,0:05:56.36,0:05:58.90,Gen_Main,,0000,0000,0000,,Ese sujeto debe ser de allí también.
+Dialogue: 0,0:06:00.57,0:06:03.32,Gen_Main,,0000,0000,0000,,¡Maldición! ¡Pagarán por esto!
+Dialogue: 0,0:06:03.40,0:06:04.41,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:06:05.16,0:06:06.24,Gen_Main,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:06:06.74,0:06:08.20,Gen_Main,,0000,0000,0000,,Ese sujeto…
+Dialogue: 0,0:06:08.91,0:06:10.33,Gen_Main,,0000,0000,0000,,Su cinturón…
+Dialogue: 0,0:06:10.41,0:06:11.25,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:06:15.71,0:06:16.79,Gen_Main,,0000,0000,0000,,¡Cielos!
+Dialogue: 0,0:06:18.84,0:06:22.42,Gen_Main,,0000,0000,0000,,Esa hebilla que tiene en el cinturón…
+Dialogue: 0,0:06:23.13,0:06:24.63,Gen_Main,,0000,0000,0000,,¿No es el Tercer Ojo?
+Dialogue: 0,0:06:24.72,0:06:28.47,Gen_Main,,0000,0000,0000,,¿El Tercer Ojo?\N¿El legendario Ojo Terciano?
+Dialogue: 0,0:06:29.39,0:06:31.43,Gen_Main,,0000,0000,0000,,Eso es imposible. No hay manera…
+Dialogue: 0,0:06:37.77,0:06:39.11,Gen_Main,,0000,0000,0000,,¡Extiéndete!
+Dialogue: 0,0:06:51.62,0:06:53.50,Gen_Main,,0000,0000,0000,,¡Se terminó!
+Dialogue: 0,0:06:54.58,0:06:57.13,Gen_Main,,0000,0000,0000,,¡Huyan!
+Dialogue: 0,0:07:05.68,0:07:07.09,Gen_Main,,0000,0000,0000,,¡Despejado!
+Dialogue: 0,0:07:07.80,0:07:10.76,Gen_Main,,0000,0000,0000,,Hurra, les dimos su merecido.
+Dialogue: 0,0:07:10.85,0:07:14.31,Gen_Main,,0000,0000,0000,,Oye, tú no hiciste nada.\NNo hables como si hubieras peleado.
+Dialogue: 0,0:07:14.39,0:07:16.19,Gen_Main,,0000,0000,0000,,Ya podemos avanzar.
+Dialogue: 0,0:07:18.02,0:07:21.52,Gen_Main,,0000,0000,0000,,El Tamagami se encuentra por allá,\Nen el palacio de Gomah.
+Dialogue: 0,0:07:35.16,0:07:36.00,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:07:40.17,0:07:42.21,Gen_Main,,0000,0000,0000,,¡Enemigos se acercan al Distrito de Oparu!
+Dialogue: 0,0:07:42.30,0:07:44.13,Gen_Main,,0000,0000,0000,,{\i1}¡Todos a sus puestos!{\i}
+Dialogue: 0,0:07:44.21,0:07:46.88,Gen_Main,,0000,0000,0000,,{\i1}- ¡Los enemigos se acercan!{\i}\N- ¡Protege ese lado!
+Dialogue: 0,0:07:46.97,0:07:48.22,Gen_Main,,0000,0000,0000,,¡Entendido!
+Dialogue: 0,0:07:51.39,0:07:56.18,Gen_Main,,0000,0000,0000,,Creí que el Tercer Ojo\Nse había perdido hace mucho tiempo.
+Dialogue: 0,0:07:57.02,0:08:00.44,Gen_Main,,0000,0000,0000,,Tiempo atrás pude verlo en persona.
+Dialogue: 0,0:08:01.40,0:08:05.03,Gen_Main,,0000,0000,0000,,{\i1}El Gran Rey Demonio Abura\Nlo tenía en la frente.{\i}
+Dialogue: 0,0:08:06.61,0:08:07.95,Gen_Main,,0000,0000,0000,,Es exactamente igual.
+Dialogue: 0,0:08:08.86,0:08:10.45,Gen_Main,,0000,0000,0000,,¡Se veía exactamente igual!
+Dialogue: 0,0:08:12.03,0:08:14.45,Gen_Main,,0000,0000,0000,,Pero ¿los ojos no son todos iguales?
+Dialogue: 0,0:08:15.37,0:08:17.83,Gen_Main,,0000,0000,0000,,¿Por qué lo tendría alguien como él?
+Dialogue: 0,0:08:18.41,0:08:19.58,Gen_Main,,0000,0000,0000,,¡No lo sé!
+Dialogue: 0,0:08:19.67,0:08:23.21,Gen_Main,,0000,0000,0000,,Si en verdad es el ojo,\Ndebemos actuar rápido.
+Dialogue: 0,0:08:23.29,0:08:25.05,Gen_Main,,0000,0000,0000,,¡Oye! ¡Degesu!
+Dialogue: 0,0:08:25.13,0:08:27.67,Gen_Main,,0000,0000,0000,,¡Ve y tráeme ese cinturón!
+Dialogue: 0,0:08:27.76,0:08:28.63,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:08:29.22,0:08:32.64,Gen_Main,,0000,0000,0000,,No dejes que nadie se entere\Nde tus intenciones, ¿entendido?
+Dialogue: 0,0:08:32.72,0:08:33.60,Gen_Main,,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:08:34.18,0:08:36.06,Gen_Main,,0000,0000,0000,,Pero ¿cómo lo obtengo?
+Dialogue: 0,0:08:38.39,0:08:42.10,Gen_Main,,0000,0000,0000,,Eres listo, ¿verdad? Resuélvelo.
+Dialogue: 0,0:08:42.19,0:08:43.94,Gen_Main,,0000,0000,0000,,Entendido, señor.
+Dialogue: 0,0:08:56.49,0:08:58.87,Gen_Main,,0000,0000,0000,,{\i1}Pausemos un momento para explicar esto.{\i}
+Dialogue: 0,0:09:00.12,0:09:03.50,Gen_Main,,0000,0000,0000,,{\i1}El Tercer Ojo,\Ntambién conocido como Ojo Terciano,{\i}
+Dialogue: 0,0:09:03.58,0:09:07.26,Gen_Main,,0000,0000,0000,,{\i1}solía colocarse en la frente\Nde los Grandes Reyes Demonios.{\i}
+Dialogue: 0,0:09:07.34,0:09:09.47,Gen_Main,,0000,0000,0000,,{\i1}Les otorgaba poder y autoridad.{\i}
+Dialogue: 0,0:09:09.55,0:09:15.14,Gen_Main,,0000,0000,0000,,{\i1}Es un símbolo del Gran Rey Demonio\Ny tiene un peligroso poder mágico.{\i}
+Dialogue: 0,0:09:15.76,0:09:21.85,Gen_Main,,0000,0000,0000,,{\i1}Cuando necesitaban más poder,{\i}\N{\i1}los Grandes Reyes usaban el Tercer Ojo,{\i}
+Dialogue: 0,0:09:22.44,0:09:24.56,Gen_Main,,0000,0000,0000,,{\i1}el cual les otorgaba\Nuna magia inimaginable{\i}
+Dialogue: 0,0:09:24.65,0:09:31.20,Gen_Main,,0000,0000,0000,,{\i1}y los hacía capaces de desatar\Nun poder fuera de este mundo.{\i}
+Dialogue: 0,0:09:32.45,0:09:38.91,Gen_Main,,0000,0000,0000,,{\i1}Pero durante el reinado\Ndel Gran Rey Demonio Abura,{\i}
+Dialogue: 0,0:09:39.00,0:09:43.00,Gen_Main,,0000,0000,0000,,{\i1}alguien se robó el Tercer Ojo\Ny nunca fue visto de nuevo.{\i}
+Dialogue: 0,0:09:46.42,0:09:50.21,Gen_Main,,0000,0000,0000,,Bien. No está el Gran Rey Demonio Abura.
+Dialogue: 0,0:09:50.30,0:09:55.51,Gen_Main,,0000,0000,0000,,Distraeré a los guardias.\NEl Tercer Ojo está en la caja fuerte.
+Dialogue: 0,0:09:56.26,0:09:58.18,Gen_Main,,0000,0000,0000,,Una vez que lo robes,
+Dialogue: 0,0:09:58.26,0:10:02.14,Gen_Main,,0000,0000,0000,,llévalo al Tercer Mundo.\NSerá difícil encontrarlo allí.
+Dialogue: 0,0:10:02.73,0:10:05.35,Gen_Main,,0000,0000,0000,,Te contactaré tiempo después.
+Dialogue: 0,0:10:06.40,0:10:08.86,Gen_Main,,0000,0000,0000,,Entiendo, Dabura.
+Dialogue: 0,0:10:53.94,0:10:55.99,Gen_Main,,0000,0000,0000,,Lo logré.
+Dialogue: 0,0:11:16.38,0:11:19.26,Gen_Main,,0000,0000,0000,,Maldición. ¿Qué le sucedió?
+Dialogue: 0,0:11:20.39,0:11:25.77,Gen_Main,,0000,0000,0000,,No importa. De cualquier manera,\Nel Tercer Ojo ya no será un problema.
+Dialogue: 0,0:11:27.14,0:11:31.61,Gen_Main,,0000,0000,0000,,{\i1}El Gran Rey Demonio Abura\Nse jactaba de tener un poder absoluto.{\i}
+Dialogue: 0,0:11:31.69,0:11:36.49,Gen_Main,,0000,0000,0000,,{\i1}Pero sin el Tercer Ojo,\Nse dejó engañar por su hijo, Dabura.{\i}
+Dialogue: 0,0:11:37.07,0:11:41.99,Gen_Main,,0000,0000,0000,,{\i1}Incluso después\Nde que el Gran Rey Demonio Dabura{\i}
+Dialogue: 0,0:11:42.08,0:11:44.75,Gen_Main,,0000,0000,0000,,{\i1}le robara el trono,\Nfue vencido por Majin Buu{\i}
+Dialogue: 0,0:11:44.83,0:11:50.84,Gen_Main,,0000,0000,0000,,{\i1}y el trono pasó a ser\Ndel Vice Gran Rey Demonio Gomah.{\i}
+Dialogue: 0,0:11:53.84,0:11:57.05,Gen_Main,,0000,0000,0000,,{\i1}Y tiempo después…{\i}
+Dialogue: 0,0:12:10.90,0:12:15.94,Gen_Main,,0000,0000,0000,,{\i1}Y fue así como el Tercer Ojo Malvado\Nterminó siendo usado{\i}
+Dialogue: 0,0:12:16.03,0:12:19.99,Gen_Main,,0000,0000,0000,,{\i1}como hebilla\Nen el cinturón de este sujeto.{\i}
+Dialogue: 0,0:12:26.37,0:12:27.79,Gen_Main,,0000,0000,0000,,Ese es el palacio.
+Dialogue: 0,0:12:45.56,0:12:46.72,Gen_Main,,0000,0000,0000,,Se acercan.
+Dialogue: 0,0:13:18.59,0:13:21.63,Gen_Main,,0000,0000,0000,,¡Miren! Es un niño con orejas redondas!
+Dialogue: 0,0:13:21.72,0:13:23.47,Gen_Main,,0000,0000,0000,,¿Quién será?
+Dialogue: 0,0:13:26.76,0:13:28.81,Gen_Main,,0000,0000,0000,,Son muchos más que antes.
+Dialogue: 0,0:13:29.35,0:13:30.81,Gen_Main,,0000,0000,0000,,Cielos.
+Dialogue: 0,0:13:31.94,0:13:33.06,Gen_Main,,0000,0000,0000,,Oye, abuelo.
+Dialogue: 0,0:13:33.15,0:13:34.15,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:13:34.69,0:13:39.15,Gen_Main,,0000,0000,0000,,Tú fuiste el que creó ese escudo, ¿no?\N¿Tienes alguna idea?
+Dialogue: 0,0:13:41.53,0:13:46.66,Gen_Main,,0000,0000,0000,,Soy un anciano.\NSolo vine a concederles su deseo.
+Dialogue: 0,0:13:47.24,0:13:49.25,Gen_Main,,0000,0000,0000,,Tendrán que arreglárselas solos.
+Dialogue: 0,0:13:49.33,0:13:50.62,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:13:54.63,0:13:56.25,Gen_Main,,0000,0000,0000,,Disculpa.
+Dialogue: 0,0:13:57.42,0:14:00.09,Gen_Main,,0000,0000,0000,,Ese cinturón.
+Dialogue: 0,0:14:01.55,0:14:03.05,Gen_Main,,0000,0000,0000,,Es muy lindo.
+Dialogue: 0,0:14:04.13,0:14:06.76,Gen_Main,,0000,0000,0000,,Lo sé. Es mi favorito.
+Dialogue: 0,0:14:06.85,0:14:09.68,Gen_Main,,0000,0000,0000,,Me gusta mucho.
+Dialogue: 0,0:14:10.18,0:14:12.35,Gen_Main,,0000,0000,0000,,Si me lo das…
+Dialogue: 0,0:14:13.02,0:14:17.23,Gen_Main,,0000,0000,0000,,te daré un beso.
+Dialogue: 0,0:14:17.31,0:14:19.98,Gen_Main,,0000,0000,0000,,No seas tonta. No quiero un beso.
+Dialogue: 0,0:14:21.44,0:14:22.44,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:14:23.03,0:14:25.95,Gen_Main,,0000,0000,0000,,te lo cambiaré por ese sombrero.
+Dialogue: 0,0:14:26.03,0:14:28.08,Gen_Main,,0000,0000,0000,,¿Qué? ¿Mi sombrero?
+Dialogue: 0,0:14:32.45,0:14:33.46,Gen_Main,,0000,0000,0000,,Bueno.
+Dialogue: 0,0:14:34.08,0:14:35.58,Gen_Main,,0000,0000,0000,,¡Yupi!
+Dialogue: 0,0:14:36.21,0:14:38.00,Gen_Main,,0000,0000,0000,,Esto es genial.
+Dialogue: 0,0:14:41.34,0:14:42.34,Gen_Main,,0000,0000,0000,,Toma.
+Dialogue: 0,0:14:43.47,0:14:45.30,Gen_Main,,0000,0000,0000,,Fuchi.
+Dialogue: 0,0:14:46.43,0:14:51.06,Gen_Main,,0000,0000,0000,,Todo salió bien,\Npero estoy un poco ofendida.
+Dialogue: 0,0:14:55.27,0:14:57.40,Gen_Main,,0000,0000,0000,,Puedo regenerarme.
+Dialogue: 0,0:14:58.19,0:14:59.57,Gen_Main,,0000,0000,0000,,¡Me encargaré de todos!
+Dialogue: 0,0:14:59.65,0:15:03.82,Gen_Main,,0000,0000,0000,,Buena idea. Se tienen que quedar\Nsin municiones en algún momento.
+Dialogue: 0,0:15:03.90,0:15:05.45,Gen_Main,,0000,0000,0000,,No te molestes.
+Dialogue: 0,0:15:06.11,0:15:12.16,Gen_Main,,0000,0000,0000,,Aunque puedas regenerarte, morirás\Nsi te disparan en un órgano vital.
+Dialogue: 0,0:15:12.75,0:15:17.71,Gen_Main,,0000,0000,0000,,Desafortunadamente, esas pistolas\Npueden disparar por diez días seguidos.
+Dialogue: 0,0:15:17.79,0:15:19.25,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:15:39.31,0:15:41.02,Gen_Main,,0000,0000,0000,,Casi es hora.
+Dialogue: 0,0:15:41.61,0:15:43.90,Gen_Main,,0000,0000,0000,,Todo va de acuerdo al plan.
+Dialogue: 0,0:15:55.91,0:15:58.67,Gen_Main,,0000,0000,0000,,¡Maldición! ¡No esperaré más!
+Dialogue: 0,0:15:58.75,0:16:00.58,Gen_Main,,0000,0000,0000,,¡Hay que atacar a todos al mismo tiempo!
+Dialogue: 0,0:16:17.14,0:16:19.52,Gen_Main,,0000,0000,0000,,¡Bien hecho! ¡Sigan así!
+Dialogue: 0,0:16:20.31,0:16:21.86,Gen_Main,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:16:54.22,0:16:55.64,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:17:17.70,0:17:18.58,Gen_Main,,0000,0000,0000,,¡Fuego!
+Dialogue: 0,0:17:26.17,0:17:28.92,Gen_Main,,0000,0000,0000,,¡No siento el cuerpo!
+Dialogue: 0,0:18:00.20,0:18:02.08,Gen_Main,,0000,0000,0000,,¡Fuego!
+Dialogue: 0,0:18:23.39,0:18:24.27,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:18:26.98,0:18:30.44,Gen_Main,,0000,0000,0000,,¡Ahí voy!
+Dialogue: 0,0:18:33.82,0:18:35.36,Gen_Main,,0000,0000,0000,,¡Es papá!
+Dialogue: 0,0:18:49.80,0:18:50.67,Gen_Main,,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:19:05.35,0:19:06.73,Gen_Main,,0000,0000,0000,,¡Papá!
+Dialogue: 0,0:19:34.59,0:19:36.59,Gen_Main,,0000,0000,0000,,¡Papá! ¡Muchachos!
+Dialogue: 0,0:19:40.14,0:19:43.22,Gen_Main,,0000,0000,0000,,¡Hora de desatar la ira!
+Dialogue: 0,0:19:48.10,0:19:50.11,Gen_Main,,0000,0000,0000,,¡Iremos con ustedes!
+Dialogue: 0,0:19:50.19,0:19:51.15,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:20:11.29,0:20:13.38,Gen_Main,,0000,0000,0000,,¡Parece que les llevamos ventaja!
+Dialogue: 0,0:20:13.46,0:20:14.55,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:20:35.98,0:20:37.40,Gen_Main,,0000,0000,0000,,¡Nada mal, rey!
+Dialogue: 0,0:20:37.49,0:20:38.74,Gen_Main,,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:21:32.75,0:21:33.75,Gen_Main,,0000,0000,0000,,Eso…
+Dialogue: 0,0:21:34.33,0:21:35.42,Gen_Main,,0000,0000,0000,,Eso…
+Dialogue: 0,0:21:36.59,0:21:38.76,Gen_Main,,0000,0000,0000,,¡Eso es imposible!
+Dialogue: 0,0:21:44.18,0:21:45.47,Gen_Main,,0000,0000,0000,,Esto es muy malo.
+Dialogue: 0,0:21:45.55,0:21:48.39,Gen_Main,,0000,0000,0000,,¡Ya lo sé!
+Dialogue: 0,0:21:48.47,0:21:51.73,Gen_Main,,0000,0000,0000,,Aún nos queda la Policía Militar Élite.
+Dialogue: 0,0:21:56.44,0:21:58.11,Gen_Main,,0000,0000,0000,,Es cierto.
+Dialogue: 0,0:22:12.25,0:22:13.33,Gen_Main,,0000,0000,0000,,¡Oigan!
+Dialogue: 0,0:22:15.75,0:22:18.42,Gen_Main,,0000,0000,0000,,¡Eso fue impresionante, su alteza real!
+Dialogue: 0,0:22:19.00,0:22:19.92,Gen_Main,,0000,0000,0000,,¡Papá!
+Dialogue: 0,0:22:20.42,0:22:22.55,Gen_Main,,0000,0000,0000,,¡Llegaste justo a tiempo!
+Dialogue: 0,0:22:24.18,0:22:25.64,Gen_Main,,0000,0000,0000,,Lo sé.
+Dialogue: 0,0:22:25.72,0:22:28.56,Gen_Main,,0000,0000,0000,,¡Parece que nos necesitaban!
+Dialogue: 0,0:23:40.71,0:23:45.63,Cart_A_Ari,,0000,0000,0000,,DEGESU
+Dialogue: 0,0:23:45.72,0:23:50.60,Cart_A_Ari,,0000,0000,0000,,Subtítulos: Cinthia Perez
