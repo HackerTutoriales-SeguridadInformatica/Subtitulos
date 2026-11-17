@@ -1,0 +1,220 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00B825CC,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Trebuchet MS,26,&H00FAA6FF,&H000000FF,&H00D700E2,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0120,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Gen_Opening,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00AC6AF1,&H00F850B1,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_SeriesTitle,Courier New,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_NextTitle,Trebuchet MS,24,&H00DAAE73,&H000000FF,&H00FFFFFF,&H0097F6FA,-1,0,0,0,100,100,0,0,1,1,2,8,0020,0020,0040,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.30,0:00:13.10,Gen_Main,,0000,0000,0000,,{\i1}Las Esferas del dragón.{\i}
+Dialogue: 0,0:00:13.18,0:00:19.48,Gen_Main,,0000,0000,0000,,{\i1}Cuando se obtienen siete de estas esferas\Ny se dice en voz alta la frase mágica,{\i}
+Dialogue: 0,0:00:19.56,0:00:23.90,Gen_Main,,0000,0000,0000,,{\i1}aparece Shen Long, el dragón,\Ny te concederá cualquier deseo que pidas.{\i}
+Dialogue: 0,0:00:24.82,0:00:29.11,Gen_Main,,0000,0000,0000,,{\i1}Este hombre, Goku, puede parecer gentil,{\i}
+Dialogue: 0,0:00:29.20,0:00:34.37,Gen_Main,,0000,0000,0000,,{\i1}pero proviene de una feroz raza guerrera,\Nlos Saiyajin, y posee fuerza sobrehumana.{\i}
+Dialogue: 0,0:00:34.99,0:00:41.33,Gen_Main,,0000,0000,0000,,{\i1}Conoció amigos en el camino, compartió\Nmuchas aventuras y creció con ellos.{\i}
+Dialogue: 0,0:00:42.88,0:00:49.09,Gen_Main,,0000,0000,0000,,{\i1}Incluso ahora, Goku continúa\Nprotegiendo a la Tierra del mal.{\i}
+Dialogue: 0,0:00:55.81,0:01:01.31,Cart_A_Ari,,0000,0000,0000,,Obra original, historia\Ny creación de personajes: Akira Toriyama
+Dialogue: 0,0:02:23.98,0:02:25.27,Gen_Main,,0000,0000,0000,,{\i1}Tienen…{\i}
+Dialogue: 0,0:02:25.35,0:02:29.36,Gen_Main,,0000,0000,0000,,¡También tienen la Esfera del dragón\Ndel Segundo Mundo Demoníaco!
+Dialogue: 0,0:02:30.23,0:02:32.74,Gen_Main,,0000,0000,0000,,Vendrán al Primer Mundo Demoníaco.
+Dialogue: 0,0:02:37.57,0:02:40.37,Gen_Main,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:02:44.96,0:02:47.29,Gen_Main,,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:02:47.88,0:02:52.30,Cart_A_Ari,,0000,0000,0000,,SORPRESA
+Dialogue: 0,0:02:54.80,0:02:58.47,Gen_Main,,0000,0000,0000,,¿La Policía Militar\Nse reúne en el Primer Mundo Demoníaco?
+Dialogue: 0,0:02:58.55,0:03:00.60,Gen_Main,,0000,0000,0000,,Sí, la mayoría.
+Dialogue: 0,0:03:00.68,0:03:01.72,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:03:04.73,0:03:06.56,Gen_Main,,0000,0000,0000,,¡Inhabilita el Warp-sama!
+Dialogue: 0,0:03:06.64,0:03:08.27,Gen_Main,,0000,0000,0000,,¿El Warp-sama?
+Dialogue: 0,0:03:08.35,0:03:12.32,Gen_Main,,0000,0000,0000,,No podrán llegar\Nsi no pueden usar el Warp-sama.
+Dialogue: 0,0:03:12.40,0:03:15.86,Gen_Main,,0000,0000,0000,,Pero jamás escuché nada\Nsobre inhabilitar el Warp-sama.
+Dialogue: 0,0:03:15.95,0:03:19.82,Gen_Main,,0000,0000,0000,,¡Cállate! ¡Solo hazlo!
+Dialogue: 0,0:03:45.56,0:03:48.35,Gen_Main,,0000,0000,0000,,¿Por qué debo hacerlo yo?
+Dialogue: 0,0:04:30.06,0:04:32.31,Gen_Main,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:04:32.40,0:04:33.94,Gen_Main,,0000,0000,0000,,Perdemos altitud.
+Dialogue: 0,0:04:34.02,0:04:35.57,Gen_Main,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:04:36.78,0:04:38.03,Gen_Main,,0000,0000,0000,,Voy a vomitar.
+Dialogue: 0,0:04:40.78,0:04:42.66,Gen_Main,,0000,0000,0000,,¡Cielos! ¡El motor está fallando!
+Dialogue: 0,0:04:44.33,0:04:45.79,Gen_Main,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:04:45.87,0:04:47.95,Gen_Main,,0000,0000,0000,,¡Aterriza rápido en cualquier parte!
+Dialogue: 0,0:04:48.04,0:04:49.46,Gen_Main,,0000,0000,0000,,¿En cualquier parte?
+Dialogue: 0,0:04:49.54,0:04:53.29,Gen_Main,,0000,0000,0000,,Si bajamos en el océano,\Nnos comerán los krakens.
+Dialogue: 0,0:04:53.96,0:04:55.17,Gen_Main,,0000,0000,0000,,¡Sujétense todos!
+Dialogue: 0,0:05:11.77,0:05:14.65,Gen_Main,,0000,0000,0000,,No puedo creer que sobrevivimos.
+Dialogue: 0,0:05:14.73,0:05:16.15,Gen_Main,,0000,0000,0000,,¿Están bien?
+Dialogue: 0,0:05:16.23,0:05:17.36,Gen_Main,,0000,0000,0000,,Eso creo.
+Dialogue: 0,0:05:17.44,0:05:18.90,Gen_Main,,0000,0000,0000,,¿Qué causó la falla?
+Dialogue: 0,0:05:18.99,0:05:20.11,Gen_Main,,0000,0000,0000,,Iré a revisar.
+Dialogue: 0,0:05:20.19,0:05:22.91,Gen_Main,,0000,0000,0000,,Salgan todos así reparo el avión.
+Dialogue: 0,0:05:22.99,0:05:24.03,Gen_Main,,0000,0000,0000,,Santos cielos.
+Dialogue: 0,0:05:24.12,0:05:26.58,Gen_Main,,0000,0000,0000,,Echemos un vistazo.
+Dialogue: 0,0:06:06.24,0:06:11.33,Gen_Main,,0000,0000,0000,,Rayos. Perdimos las herramientas\Ndurante el ataque del kraken.
+Dialogue: 0,0:06:11.41,0:06:12.91,Gen_Main,,0000,0000,0000,,Puedes usar esto.
+Dialogue: 0,0:06:13.58,0:06:15.37,Gen_Main,,0000,0000,0000,,Se llama Cápsula Hoipoi.
+Dialogue: 0,0:06:15.46,0:06:17.59,Gen_Main,,0000,0000,0000,,Mi padre la inventó.
+Dialogue: 0,0:06:21.01,0:06:23.51,Gen_Main,,0000,0000,0000,,¿Qué es esa cosa? ¡Qué increíble!
+Dialogue: 0,0:06:24.13,0:06:27.55,Gen_Main,,0000,0000,0000,,Te permite encoger cosas\Npara facilitar su traslado.
+Dialogue: 0,0:06:27.64,0:06:30.72,Gen_Main,,0000,0000,0000,,¿Puedes encoger mis medias?
+Dialogue: 0,0:06:30.81,0:06:33.06,Gen_Main,,0000,0000,0000,,¿Por qué querrías hacer eso?
+Dialogue: 0,0:06:33.73,0:06:35.44,Gen_Main,,0000,0000,0000,,- ¿Me prestas esto?\N- Claro.
+Dialogue: 0,0:06:35.52,0:06:36.85,Gen_Main,,0000,0000,0000,,¿Qué hacemos?
+Dialogue: 0,0:06:36.94,0:06:41.03,Gen_Main,,0000,0000,0000,,¿Qué tal si los guerreros vamos volando\Nal Primer Mundo Demoníaco?
+Dialogue: 0,0:06:41.11,0:06:45.24,Gen_Main,,0000,0000,0000,,Eso es imposible. Los mortales\Nno pueden pasar solos por el Warp-sama.
+Dialogue: 0,0:06:46.36,0:06:47.49,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:06:50.62,0:06:52.95,Gen_Main,,0000,0000,0000,,¡Un momento! ¡Esto es…!
+Dialogue: 0,0:06:55.12,0:06:58.71,Gen_Main,,0000,0000,0000,,¡Oigan! ¡Debemos reparar el avión\Ny salir de aquí cuanto antes!
+Dialogue: 0,0:07:00.34,0:07:01.67,Gen_Main,,0000,0000,0000,,Esto es…
+Dialogue: 0,0:07:03.13,0:07:05.17,Gen_Main,,0000,0000,0000,,el planeta de Mega.
+Dialogue: 0,0:07:05.26,0:07:08.89,Gen_Main,,0000,0000,0000,,¿El planeta de Mega? Escuché hablar de él.
+Dialogue: 0,0:07:09.47,0:07:11.81,Gen_Main,,0000,0000,0000,,¿Es donde viven gigantes llamados Megas?
+Dialogue: 0,0:07:11.89,0:07:15.23,Gen_Main,,0000,0000,0000,,Es el segundo planeta más aterrador\Ndel Reino Demoníaco.
+Dialogue: 0,0:07:15.31,0:07:16.85,Gen_Main,,0000,0000,0000,,Así es.
+Dialogue: 0,0:07:16.94,0:07:19.65,Gen_Main,,0000,0000,0000,,No solo hay gigantes,\Ntodo es enorme por aquí.
+Dialogue: 0,0:07:19.73,0:07:23.69,Gen_Main,,0000,0000,0000,,Ni siquiera el Gran Rey Demonio\No la Policía Militar quieren venir.
+Dialogue: 0,0:07:23.78,0:07:28.03,Gen_Main,,0000,0000,0000,,¡Esto es malo! ¡Esto es muy malo!\N¡En serio, es muy malo!
+Dialogue: 0,0:07:28.61,0:07:33.16,Gen_Main,,0000,0000,0000,,Bueno, ya entendimos.\NSi algo sucede, lo solucionaremos.
+Dialogue: 0,0:07:33.74,0:07:36.12,Gen_Main,,0000,0000,0000,,Igual deberíamos apresurarnos.
+Dialogue: 0,0:07:36.21,0:07:37.79,Gen_Main,,0000,0000,0000,,¡Lo encontré!
+Dialogue: 0,0:07:37.87,0:07:41.13,Gen_Main,,0000,0000,0000,,¡Hybis! Ayúdame con esto.
+Dialogue: 0,0:07:41.88,0:07:42.84,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:07:43.67,0:07:46.80,Gen_Main,,0000,0000,0000,,Se me manchan los pantalones.
+Dialogue: 0,0:07:48.55,0:07:49.51,Gen_Main,,0000,0000,0000,,¿El Warp-sama?
+Dialogue: 0,0:07:49.59,0:07:51.80,Gen_Main,,0000,0000,0000,,¡Revísenlo de inmediato!
+Dialogue: 0,0:07:53.47,0:07:55.43,Gen_Main,,0000,0000,0000,,Algo debió haber sucedido.
+Dialogue: 0,0:08:01.15,0:08:04.82,Gen_Main,,0000,0000,0000,,Habla Glorio.\NYa tenemos la segunda Esfera del dragón.
+Dialogue: 0,0:08:04.90,0:08:06.44,Gen_Main,,0000,0000,0000,,Nos dirigimos hacia allá.
+Dialogue: 0,0:08:07.40,0:08:08.32,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:09.11,0:08:10.41,Gen_Main,,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:08:10.49,0:08:12.66,Gen_Main,,0000,0000,0000,,Estaré pendiente de Gomah, sí.
+Dialogue: 0,0:08:13.78,0:08:14.70,Gen_Main,,0000,0000,0000,,Adiós.
+Dialogue: 0,0:08:22.54,0:08:26.09,Gen_Main,,0000,0000,0000,,Ya tengo las tres Esferas del dragón.
+Dialogue: 0,0:08:29.68,0:08:31.76,Gen_Main,,0000,0000,0000,,¡Qué hábil eres!
+Dialogue: 0,0:08:31.84,0:08:33.64,Gen_Main,,0000,0000,0000,,¿Eres buena con las máquinas?
+Dialogue: 0,0:08:33.72,0:08:35.97,Gen_Main,,0000,0000,0000,,Me gusta arreglarlas y modificarlas.
+Dialogue: 0,0:08:36.06,0:08:42.15,Gen_Main,,0000,0000,0000,,Trabajé en una de estas máquinas,\Npero ¿sabes qué es esa piedra brillante?
+Dialogue: 0,0:08:42.23,0:08:43.31,Gen_Main,,0000,0000,0000,,¿Esto?
+Dialogue: 0,0:08:43.40,0:08:46.69,Gen_Main,,0000,0000,0000,,Es Mayilita.\NEs lo que le da energía al avión.
+Dialogue: 0,0:08:46.78,0:08:49.45,Gen_Main,,0000,0000,0000,,Es vital a la hora de volar.
+Dialogue: 0,0:08:49.53,0:08:54.24,Gen_Main,,0000,0000,0000,,Ya veo. No tenemos de estas en la Tierra,\Npor eso es que no entendía.
+Dialogue: 0,0:08:54.33,0:08:55.45,Gen_Main,,0000,0000,0000,,Me imagino.
+Dialogue: 0,0:08:55.53,0:09:00.46,Gen_Main,,0000,0000,0000,,Se activan con agua ácida y crean\Nuna energía que dura hasta 30 años.
+Dialogue: 0,0:09:00.54,0:09:03.67,Gen_Main,,0000,0000,0000,,¡Qué increíble! ¿Y son muy costosas?
+Dialogue: 0,0:09:03.75,0:09:05.92,Gen_Main,,0000,0000,0000,,Sí. Desde aquí no se ve bien,
+Dialogue: 0,0:09:06.00,0:09:10.72,Gen_Main,,0000,0000,0000,,{\i1}pero la cima del Segundo Mundo Demoníaco,\No sea el suelo del Tercer Mundo Demoníaco,{\i}
+Dialogue: 0,0:09:10.80,0:09:12.01,Gen_Main,,0000,0000,0000,,{\i1}está hecho de {\i\i1}Mayilita.{\i}
+Dialogue: 0,0:09:12.09,0:09:12.93,Gen_Main,,0000,0000,0000,,{\i1}¿Qué?{\i}
+Dialogue: 0,0:09:13.01,0:09:16.10,Gen_Main,,0000,0000,0000,,{\i1}El agua ácida se filtra\Ndel Tercer Mundo Demoníaco,{\i}
+Dialogue: 0,0:09:16.18,0:09:19.81,Gen_Main,,0000,0000,0000,,{\i1}lo que genera una reacción,\Npor eso brilla como un sol.{\i}
+Dialogue: 0,0:09:20.43,0:09:23.52,Gen_Main,,0000,0000,0000,,{\i1}Según la composición del agua,\Ntambién cambia de color.{\i}
+Dialogue: 0,0:09:24.19,0:09:28.07,Gen_Main,,0000,0000,0000,,Esta es la primera vez que veo este cielo.
+Dialogue: 0,0:09:28.15,0:09:29.74,Gen_Main,,0000,0000,0000,,Ya no resisto más…
+Dialogue: 0,0:09:29.82,0:09:31.70,Gen_Main,,0000,0000,0000,,Gracias, Hybis.
+Dialogue: 0,0:09:33.11,0:09:35.91,Gen_Main,,0000,0000,0000,,¿Tienes acceso\Na toda la Mayilita que quieras?
+Dialogue: 0,0:09:35.99,0:09:39.79,Gen_Main,,0000,0000,0000,,No. El Gran Rey Demonio controla todo.
+Dialogue: 0,0:09:39.87,0:09:43.46,Gen_Main,,0000,0000,0000,,Es un mineral valioso\Nen el Tercer Mundo Demoníaco.
+Dialogue: 0,0:09:43.54,0:09:48.55,Gen_Main,,0000,0000,0000,,- La pena por tomarla es la muerte.\N- Ya veo. Ojalá pudiera llevarme algo.
+Dialogue: 0,0:09:49.42,0:09:52.68,Gen_Main,,0000,0000,0000,,Le pediré a papá que te dé\Ncuando terminemos con esto.
+Dialogue: 0,0:09:52.76,0:09:55.59,Gen_Main,,0000,0000,0000,,De seguro es fácil de robar.
+Dialogue: 0,0:10:31.80,0:10:34.26,Gen_Main,,0000,0000,0000,,¿Qué se supone que eres?
+Dialogue: 0,0:10:37.26,0:10:39.43,Gen_Main,,0000,0000,0000,,¡Es un hámster!
+Dialogue: 0,0:10:39.51,0:10:41.39,Gen_Main,,0000,0000,0000,,¡Es enorme!
+Dialogue: 0,0:10:43.14,0:10:45.02,Gen_Main,,0000,0000,0000,,¡Ya basta!
+Dialogue: 0,0:10:45.10,0:10:48.02,Gen_Main,,0000,0000,0000,,¿Qué haces? ¡Termina con él!
+Dialogue: 0,0:10:48.11,0:10:50.02,Gen_Main,,0000,0000,0000,,¡Eso sería muy cruel!
+Dialogue: 0,0:10:54.11,0:10:56.24,Gen_Main,,0000,0000,0000,,¡Esto no es nada bueno!
+Dialogue: 0,0:11:01.08,0:11:02.87,Gen_Main,,0000,0000,0000,,¿Es un ejército de hámsteres?
+Dialogue: 0,0:11:10.54,0:11:12.13,Gen_Main,,0000,0000,0000,,¡Me hacen cosquillas!
+Dialogue: 0,0:11:21.68,0:11:23.77,Gen_Main,,0000,0000,0000,,¡Son muy fuertes!
+Dialogue: 0,0:11:26.56,0:11:27.65,Gen_Main,,0000,0000,0000,,¿Ya terminaron?
+Dialogue: 0,0:11:30.48,0:11:32.32,Gen_Main,,0000,0000,0000,,Esto en serio es muy malo.
+Dialogue: 0,0:11:32.40,0:11:35.07,Gen_Main,,0000,0000,0000,,¡No tengo buen sabor!
+Dialogue: 0,0:11:58.72,0:12:00.14,Gen_Main,,0000,0000,0000,,Iré a ver qué sucede.
+Dialogue: 0,0:12:32.88,0:12:34.25,Gen_Main,,0000,0000,0000,,Ese es…
+Dialogue: 0,0:12:42.22,0:12:45.56,Gen_Main,,0000,0000,0000,,un niño Megas.
+Dialogue: 0,0:12:45.64,0:12:50.98,Gen_Main,,0000,0000,0000,,¿Dices que ese gigante\Nes en realidad un niño?
+Dialogue: 0,0:13:28.27,0:13:30.64,Gen_Main,,0000,0000,0000,,Miren, lleva un bolso.
+Dialogue: 0,0:13:30.73,0:13:34.94,Gen_Main,,0000,0000,0000,,Claro, debe estar volviendo de la escuela.
+Dialogue: 0,0:13:35.02,0:13:36.48,Gen_Main,,0000,0000,0000,,¿Tienen escuelas aquí?
+Dialogue: 0,0:13:42.66,0:13:44.03,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:13:44.11,0:13:47.08,Gen_Main,,0000,0000,0000,,¿Qué sucede? ¿Por qué se sentó aquí?
+Dialogue: 0,0:13:47.16,0:13:49.62,Gen_Main,,0000,0000,0000,,Algo se aproxima.
+Dialogue: 0,0:13:59.96,0:14:01.92,Gen_Main,,0000,0000,0000,,¡Todo es gigantesco!
+Dialogue: 0,0:14:06.39,0:14:08.51,Gen_Main,,0000,0000,0000,,Está comiendo algo con la mano.
+Dialogue: 0,0:14:08.60,0:14:12.02,Gen_Main,,0000,0000,0000,,Debe haberlo comprado\Nen alguna tienda de camino.
+Dialogue: 0,0:14:12.10,0:14:15.23,Gen_Main,,0000,0000,0000,,Es un tentáculo de kraken frito.
+Dialogue: 0,0:14:18.40,0:14:20.61,Gen_Main,,0000,0000,0000,,¿Comen esas monstruosidades?
+Dialogue: 0,0:14:26.87,0:14:31.25,Gen_Main,,0000,0000,0000,,¡Los que no estén trabajando en el avión\Ndeben ocultarse o moriremos!
+Dialogue: 0,0:15:51.87,0:15:53.62,Gen_Main,,0000,0000,0000,,¿Estás bien, Goliro?
+Dialogue: 0,0:15:53.70,0:15:54.75,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:15:55.33,0:15:57.21,Gen_Main,,0000,0000,0000,,¡Aléjenlo del avión!
+Dialogue: 0,0:15:59.96,0:16:01.13,Gen_Main,,0000,0000,0000,,¡Está bien!
+Dialogue: 0,0:16:03.25,0:16:05.30,Gen_Main,,0000,0000,0000,,Yo me encargo.
+Dialogue: 0,0:16:33.03,0:16:34.83,Gen_Main,,0000,0000,0000,,¿Estoy sobre el perro?
+Dialogue: 0,0:16:54.64,0:16:55.97,Gen_Main,,0000,0000,0000,,¿Son garrapatas?
+Dialogue: 0,0:17:21.25,0:17:24.08,Gen_Main,,0000,0000,0000,,¡Maldición! ¡No llegaré a tiempo!
+Dialogue: 0,0:17:31.18,0:17:34.76,Gen_Main,,0000,0000,0000,,¡Ka… Me…!
+Dialogue: 0,0:17:34.85,0:17:39.10,Gen_Main,,0000,0000,0000,,¡Ha… Me…!
+Dialogue: 0,0:17:39.18,0:17:41.73,Gen_Main,,0000,0000,0000,,¡Ha!
+Dialogue: 0,0:17:46.52,0:17:48.15,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:17:50.57,0:17:51.99,Gen_Main,,0000,0000,0000,,¡Eso estuvo cerca!
+Dialogue: 0,0:18:17.60,0:18:18.51,Gen_Main,,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:18:18.60,0:18:21.48,Gen_Main,,0000,0000,0000,,¡Regresen aquí!\N¡Ya terminamos con el avión!
+Dialogue: 0,0:18:22.10,0:18:25.31,Gen_Main,,0000,0000,0000,,Vaya, casi me convierto en fósil.
+Dialogue: 0,0:18:25.40,0:18:27.77,Gen_Main,,0000,0000,0000,,¡Rápido, muchachos! ¡Vámonos!
+Dialogue: 0,0:18:27.86,0:18:30.15,Gen_Main,,0000,0000,0000,,¡Los distraeré mientras suben!
+Dialogue: 0,0:18:30.23,0:18:31.24,Gen_Main,,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:18:47.25,0:18:49.63,Gen_Main,,0000,0000,0000,,¡Vamos a morir!
+Dialogue: 0,0:18:49.71,0:18:51.51,Gen_Main,,0000,0000,0000,,¡Hay que despegar ahora!
+Dialogue: 0,0:19:05.19,0:19:06.14,Gen_Main,,0000,0000,0000,,¡No puedo esquivarlo!
+Dialogue: 0,0:19:17.61,0:19:18.45,Gen_Main,,0000,0000,0000,,¡Son Goku!
+Dialogue: 0,0:19:25.46,0:19:26.29,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:19:52.82,0:19:54.48,Gen_Main,,0000,0000,0000,,¿Dónde está la salida?
+Dialogue: 0,0:20:03.70,0:20:05.33,Gen_Main,,0000,0000,0000,,¡La salida!
+Dialogue: 0,0:20:38.78,0:20:39.99,Gen_Main,,0000,0000,0000,,¡Es muy fuerte!
+Dialogue: 0,0:21:00.80,0:21:02.34,Gen_Main,,0000,0000,0000,,¡Esa cosa es increíble!
+Dialogue: 0,0:21:03.89,0:21:05.76,Gen_Main,,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:21:15.73,0:21:18.03,Gen_Main,,0000,0000,0000,,Qué planeta más aterrador.
+Dialogue: 0,0:21:18.61,0:21:21.86,Gen_Main,,0000,0000,0000,,Los Megas adultos son aún más aterradores.
+Dialogue: 0,0:21:22.45,0:21:25.87,Gen_Main,,0000,0000,0000,,Si son tan fuertes, ¿por qué\Nninguno es el Gran Rey Demonio?
+Dialogue: 0,0:21:25.95,0:21:30.41,Gen_Main,,0000,0000,0000,,Los Megas son una raza relajada,\Nno les interesa gobernar.
+Dialogue: 0,0:21:30.50,0:21:32.46,Gen_Main,,0000,0000,0000,,Monstruos aterradores y relajados.
+Dialogue: 0,0:21:32.54,0:21:38.71,Gen_Main,,0000,0000,0000,,Dijiste que este era el segundo planeta\Nmás aterrador del Reino Demoníaco.
+Dialogue: 0,0:21:38.80,0:21:41.68,Gen_Main,,0000,0000,0000,,¿O sea que existe un planeta\Npeor que este?
+Dialogue: 0,0:21:41.76,0:21:44.72,Gen_Main,,0000,0000,0000,,Así es. Se llama planeta de Giga.
+Dialogue: 0,0:21:44.80,0:21:48.39,Gen_Main,,0000,0000,0000,,Allí viven los Gigas,\Nseres más grandes que estos.
+Dialogue: 0,0:21:48.47,0:21:50.43,Gen_Main,,0000,0000,0000,,- ¿Más grandes?\N- No puede ser.
+Dialogue: 0,0:21:50.52,0:21:52.89,Gen_Main,,0000,0000,0000,,Qué lugar.
+Dialogue: 0,0:22:00.86,0:22:03.45,Gen_Main,,0000,0000,0000,,Así es el Reino Demoníaco.
+Dialogue: 0,0:22:04.91,0:22:05.82,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:23:40.67,0:23:45.59,Cart_A_Ari,,0000,0000,0000,,TABÚ
+Dialogue: 0,0:23:45.67,0:23:50.55,Cart_A_Ari,,0000,0000,0000,,Subtítulos: Cinthia Perez

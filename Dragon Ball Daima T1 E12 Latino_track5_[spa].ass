@@ -1,0 +1,213 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00B825CC,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Trebuchet MS,26,&H00FAA6FF,&H000000FF,&H00D700E2,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0120,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Gen_Opening,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00AC6AF1,&H00F850B1,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_SeriesTitle,Courier New,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_NextTitle,Trebuchet MS,24,&H00DAAE73,&H000000FF,&H00FFFFFF,&H0097F6FA,-1,0,0,0,100,100,0,0,1,1,2,8,0020,0020,0040,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.77,0:00:21.27,Cart_A_Ver,,0000,0000,0000,,Obra original, historia\Ny creación de personajes: Akira Toriyama
+Dialogue: 0,0:01:41.10,0:01:43.98,Cart_A_Ver,,0000,0000,0000,,VERDADERA FUERZA
+Dialogue: 0,0:01:44.06,0:01:45.31,Gen_Main,,0000,0000,0000,,¡Vegeta!
+Dialogue: 0,0:01:54.32,0:01:55.32,Gen_Main,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:02:15.22,0:02:16.14,Gen_Main,,0000,0000,0000,,¡Vegeta!
+Dialogue: 0,0:02:17.14,0:02:19.47,Gen_Main,,0000,0000,0000,,¡Creí que te comió el kraken!
+Dialogue: 0,0:02:20.06,0:02:23.31,Gen_Main,,0000,0000,0000,,¡Cállate! ¡No estoy acostumbrado\Na este cuerpo de niño!
+Dialogue: 0,0:03:45.48,0:03:48.69,Gen_Main,,0000,0000,0000,,La pelea con el kraken\Nle sirvió como precalentamiento.
+Dialogue: 0,0:03:48.77,0:03:51.61,Gen_Main,,0000,0000,0000,,También puede usar magia, ¿verdad?
+Dialogue: 0,0:03:55.65,0:03:56.82,Gen_Main,,0000,0000,0000,,¡Boing!
+Dialogue: 0,0:04:04.58,0:04:05.87,Gen_Main,,0000,0000,0000,,¡Gira, gira, gira!
+Dialogue: 0,0:04:11.83,0:04:13.54,Gen_Main,,0000,0000,0000,,¡Tú puedes, Duu!
+Dialogue: 0,0:04:26.52,0:04:27.73,Gen_Main,,0000,0000,0000,,Boing.
+Dialogue: 0,0:04:28.31,0:04:29.89,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:04:29.98,0:04:31.23,Gen_Main,,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:04:31.81,0:04:32.61,Gen_Main,,0000,0000,0000,,¡Duu!
+Dialogue: 0,0:04:36.94,0:04:38.36,Gen_Main,,0000,0000,0000,,¡Quiero comer chocolate!
+Dialogue: 0,0:04:38.44,0:04:39.36,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:04:40.36,0:04:44.87,Gen_Main,,0000,0000,0000,,¡No seas estúpido!\N¡Estás en medio de una gran batalla!
+Dialogue: 0,0:04:53.29,0:04:55.00,Gen_Main,,0000,0000,0000,,¡Quiero chocolate!
+Dialogue: 0,0:04:55.09,0:04:57.46,Gen_Main,,0000,0000,0000,,¡Quiero chocolate!
+Dialogue: 0,0:04:57.55,0:04:58.97,Gen_Main,,0000,0000,0000,,¡Quiero chocolate!
+Dialogue: 0,0:04:59.05,0:05:00.76,Gen_Main,,0000,0000,0000,,¡Iré a comprar algunos!
+Dialogue: 0,0:05:01.43,0:05:02.72,Gen_Main,,0000,0000,0000,,¡Quiero chocolate!
+Dialogue: 0,0:05:02.80,0:05:03.93,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:05:04.01,0:05:06.93,Gen_Main,,0000,0000,0000,,¡Quiero chocolate!
+Dialogue: 0,0:05:07.02,0:05:09.27,Gen_Main,,0000,0000,0000,,¡Quiero chocolate!
+Dialogue: 0,0:05:09.35,0:05:12.98,Gen_Main,,0000,0000,0000,,¡Quiero chocolate!
+Dialogue: 0,0:05:14.06,0:05:14.90,Gen_Main,,0000,0000,0000,,Quiero…
+Dialogue: 0,0:05:29.58,0:05:31.62,Gen_Main,,0000,0000,0000,,¡No puedo creerlo!
+Dialogue: 0,0:05:31.71,0:05:34.58,Gen_Main,,0000,0000,0000,,¿En serio le está ganando a un Tamagami?
+Dialogue: 0,0:05:36.75,0:05:39.42,Gen_Main,,0000,0000,0000,,Si existe un individuo así de fuerte…
+Dialogue: 0,0:05:41.47,0:05:42.38,Gen_Main,,0000,0000,0000,,Aquí tienes.
+Dialogue: 0,0:06:03.99,0:06:05.66,Gen_Main,,0000,0000,0000,,¿Qué hiciste?
+Dialogue: 0,0:06:05.74,0:06:08.24,Gen_Main,,0000,0000,0000,,Dijeron que les gustaba pelear.
+Dialogue: 0,0:06:08.33,0:06:11.16,Gen_Main,,0000,0000,0000,,Solo los ayudé un poco.
+Dialogue: 0,0:06:57.13,0:06:57.96,Gen_Main,,0000,0000,0000,,¡Miren!
+Dialogue: 0,0:06:58.54,0:07:00.63,Gen_Main,,0000,0000,0000,,¡El Tamagami está peleando!
+Dialogue: 0,0:07:00.71,0:07:02.46,Gen_Main,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:07:09.85,0:07:10.72,Gen_Main,,0000,0000,0000,,¿Qué fue eso?
+Dialogue: 0,0:07:11.81,0:07:12.85,Gen_Main,,0000,0000,0000,,¿Qué puede ser?
+Dialogue: 0,0:07:16.19,0:07:18.40,Gen_Main,,0000,0000,0000,,¿El Tamagami está peleando?
+Dialogue: 0,0:07:30.62,0:07:32.49,Gen_Main,,0000,0000,0000,,¡Duu! ¡Aquí tienes chocolate!
+Dialogue: 0,0:07:44.26,0:07:47.18,Gen_Main,,0000,0000,0000,,¡Qué rico!
+Dialogue: 0,0:08:11.82,0:08:15.45,Gen_Main,,0000,0000,0000,,¿Contra quién pelea?\NEse no es uno de ellos, ¿verdad?
+Dialogue: 0,0:08:15.54,0:08:17.83,Gen_Main,,0000,0000,0000,,No, viene con alguien más. Mira.
+Dialogue: 0,0:08:31.34,0:08:32.55,Gen_Main,,0000,0000,0000,,Adelante.
+Dialogue: 0,0:09:13.43,0:09:15.89,Gen_Main,,0000,0000,0000,,Muy bien. Me rindo.
+Dialogue: 0,0:09:17.01,0:09:19.35,Gen_Main,,0000,0000,0000,,¡Sí! ¡Sí!
+Dialogue: 0,0:09:20.77,0:09:22.90,Gen_Main,,0000,0000,0000,,¡No puedo creerlo! ¡Lo logró!
+Dialogue: 0,0:09:22.98,0:09:24.40,Gen_Main,,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:09:24.48,0:09:25.73,Gen_Main,,0000,0000,0000,,¡Gira, gira!
+Dialogue: 0,0:09:26.36,0:09:27.19,Gen_Main,,0000,0000,0000,,¡Gira, gira!
+Dialogue: 0,0:09:27.28,0:09:29.28,Gen_Main,,0000,0000,0000,,¡Bien hecho, Duu!
+Dialogue: 0,0:09:31.45,0:09:33.61,Gen_Main,,0000,0000,0000,,Buena pelea, has ganado.
+Dialogue: 0,0:09:34.28,0:09:36.70,Gen_Main,,0000,0000,0000,,Ahora, el reto final.
+Dialogue: 0,0:09:36.78,0:09:37.83,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:09:38.54,0:09:42.21,Gen_Main,,0000,0000,0000,,Si ganas, la Esfera del dragón es tuya.
+Dialogue: 0,0:09:46.00,0:09:47.50,Gen_Main,,0000,0000,0000,,Arinsu…
+Dialogue: 0,0:09:48.09,0:09:52.09,Gen_Main,,0000,0000,0000,,¿Quién es ese? ¿Es un sirviente de Arinsu?
+Dialogue: 0,0:09:54.14,0:09:56.22,Gen_Main,,0000,0000,0000,,¿En qué piensas…
+Dialogue: 0,0:09:57.01,0:09:58.68,Gen_Main,,0000,0000,0000,,Arinsu?
+Dialogue: 0,0:10:08.07,0:10:09.86,Gen_Main,,0000,0000,0000,,El reto final es…
+Dialogue: 0,0:10:10.53,0:10:11.82,Gen_Main,,0000,0000,0000,,¡cálculos mentales!
+Dialogue: 0,0:10:16.20,0:10:22.29,Gen_Main,,0000,0000,0000,,Debes sumar todos los números\Nque veas aquí y darme el resultado.
+Dialogue: 0,0:10:26.04,0:10:27.08,Gen_Main,,0000,0000,0000,,Ahora…
+Dialogue: 0,0:10:29.59,0:10:30.96,Gen_Main,,0000,0000,0000,,¡Comienza!
+Dialogue: 0,0:10:56.41,0:11:00.28,Gen_Main,,0000,0000,0000,,¡Dime la respuesta! ¿Cuál es el resultado?
+Dialogue: 0,0:11:02.58,0:11:05.87,Gen_Main,,0000,0000,0000,,¡Nadie puede sumar así de rápido!
+Dialogue: 0,0:11:05.96,0:11:09.09,Gen_Main,,0000,0000,0000,,¡Ni siquiera yo! ¡Nos engañaste!\N¡Estás haciendo trampa!
+Dialogue: 0,0:11:11.21,0:11:14.05,Gen_Main,,0000,0000,0000,,¡Vamos! ¡Dime la suma total!
+Dialogue: 0,0:11:18.43,0:11:21.93,Gen_Main,,0000,0000,0000,,Es 683 775 029.
+Dialogue: 0,0:11:25.02,0:11:26.19,Gen_Main,,0000,0000,0000,,¿Te rindes?
+Dialogue: 0,0:11:27.44,0:11:32.98,Gen_Main,,0000,0000,0000,,Es 683 775 029.
+Dialogue: 0,0:11:34.53,0:11:35.90,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:11:47.92,0:11:50.92,Gen_Main,,0000,0000,0000,,¡Es correcto!
+Dialogue: 0,0:11:52.71,0:11:53.63,Gen_Main,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:11:57.01,0:11:58.13,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:12:00.51,0:12:02.39,Gen_Main,,0000,0000,0000,,Toma. Llévatela.
+Dialogue: 0,0:12:09.65,0:12:10.94,Gen_Main,,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:12:13.65,0:12:15.48,Gen_Main,,0000,0000,0000,,¿Qué acaba de…?
+Dialogue: 0,0:12:24.54,0:12:26.25,Gen_Main,,0000,0000,0000,,¡Es increíble!
+Dialogue: 0,0:12:26.87,0:12:28.62,Gen_Main,,0000,0000,0000,,¡Bien hecho, Majin Duu!
+Dialogue: 0,0:12:30.67,0:12:33.09,Gen_Main,,0000,0000,0000,,¡Sí! ¡Viva!
+Dialogue: 0,0:12:36.21,0:12:37.26,Gen_Main,,0000,0000,0000,,¡Gira, gira, gira!
+Dialogue: 0,0:12:38.09,0:12:40.84,Gen_Main,,0000,0000,0000,,Yo también ayudé, ¿verdad?
+Dialogue: 0,0:12:40.93,0:12:43.01,Gen_Main,,0000,0000,0000,,Lo único que hiciste fue mirar.
+Dialogue: 0,0:12:43.10,0:12:44.35,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:12:47.73,0:12:49.14,Gen_Main,,0000,0000,0000,,Bueno, ¡está bien!
+Dialogue: 0,0:12:51.73,0:12:53.19,Gen_Main,,0000,0000,0000,,¡No puedo creerlo!
+Dialogue: 0,0:12:54.02,0:12:58.15,Gen_Main,,0000,0000,0000,,No puede ser.\NObtuvo la Esfera del dragón del Tamagami.
+Dialogue: 0,0:12:59.32,0:13:05.03,Gen_Main,,0000,0000,0000,,¿Y si Arinsu está protegiendo la Esfera\Nde los niños de la Tierra?
+Dialogue: 0,0:13:05.12,0:13:10.37,Gen_Main,,0000,0000,0000,,No creo que haga algo\Nasí de generoso por nosotros.
+Dialogue: 0,0:13:12.63,0:13:15.84,Gen_Main,,0000,0000,0000,,¡Más vale que la Esfera que queda\Nsiga a salvo!
+Dialogue: 0,0:13:17.59,0:13:20.72,Gen_Main,,0000,0000,0000,,Claro, sí. Sí, está a salvo.
+Dialogue: 0,0:13:23.26,0:13:25.89,Gen_Main,,0000,0000,0000,,¡Revisaré de inmediato! ¡Un momento!
+Dialogue: 0,0:15:08.62,0:15:12.62,Gen_Main,,0000,0000,0000,,¿Qué? ¡No puede ser!\N¿Cuándo aprendió a hacer eso?
+Dialogue: 0,0:15:12.70,0:15:15.29,Gen_Main,,0000,0000,0000,,Pasó mucho tiempo entrenando solo.
+Dialogue: 0,0:17:10.70,0:17:12.53,Gen_Main,,0000,0000,0000,,Me rindo.
+Dialogue: 0,0:17:24.54,0:17:25.84,Gen_Main,,0000,0000,0000,,¡Bien hecho!
+Dialogue: 0,0:17:26.42,0:17:29.55,Gen_Main,,0000,0000,0000,,Vaya, esto sí que es una sorpresa.
+Dialogue: 0,0:17:37.64,0:17:38.64,Gen_Main,,0000,0000,0000,,Arreglado.
+Dialogue: 0,0:17:40.81,0:17:42.81,Gen_Main,,0000,0000,0000,,Ahora, el reto final.
+Dialogue: 0,0:17:42.90,0:17:45.73,Gen_Main,,0000,0000,0000,,Si resuelves esto,\Nla Esfera del dragón es tuya.
+Dialogue: 0,0:17:45.81,0:17:47.86,Gen_Main,,0000,0000,0000,,¿Qué? ¿Falta más?
+Dialogue: 0,0:17:51.65,0:17:55.03,Gen_Main,,0000,0000,0000,,Esta es tu pregunta.\NTienes diez segundos para responder.
+Dialogue: 0,0:17:55.12,0:17:56.87,Gen_Main,,0000,0000,0000,,¿Mi pregunta?
+Dialogue: 0,0:18:08.50,0:18:14.01,Gen_Main,,0000,0000,0000,,La madre de Johnny, el niño Majin,\Nle da 15 galletas para salir a pasear.
+Dialogue: 0,0:18:14.09,0:18:18.26,Gen_Main,,0000,0000,0000,,Johnny come un tercio de las galletas\Ny se encuentra con Jiro, la cabra.
+Dialogue: 0,0:18:18.35,0:18:22.35,Gen_Main,,0000,0000,0000,,Jiro le pide la mitad de las galletas\Nque quedan y Johnny se las da,
+Dialogue: 0,0:18:22.43,0:18:26.61,Gen_Main,,0000,0000,0000,,pero Jiro no quiere ser codicioso,\Nasí que le devuelve dos galletas.
+Dialogue: 0,0:18:26.69,0:18:30.03,Gen_Main,,0000,0000,0000,,Luego, Johnny le convida una galleta\Na Saburo, el perro,
+Dialogue: 0,0:18:30.11,0:18:33.78,Gen_Main,,0000,0000,0000,,pero de repente aparece Shiro,\Nel mono, y se roba tres.
+Dialogue: 0,0:18:33.86,0:18:37.07,Gen_Main,,0000,0000,0000,,Johnny sigue caminando\Nsin enojarse por lo sucedido.
+Dialogue: 0,0:18:37.16,0:18:39.58,Gen_Main,,0000,0000,0000,,Luego, se encuentra con Ichiro,\Nla serpiente,
+Dialogue: 0,0:18:39.66,0:18:43.08,Gen_Main,,0000,0000,0000,,y el buen Johnny le da a Ichiro\Nel resto de las galletas.
+Dialogue: 0,0:18:43.16,0:18:44.12,Gen_Main,,0000,0000,0000,,Entonces…
+Dialogue: 0,0:18:44.21,0:18:47.00,Gen_Main,,0000,0000,0000,,¿Cuántas galletas pudo comer Ichiro?
+Dialogue: 0,0:18:47.08,0:18:48.71,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:18:51.55,0:18:53.55,Gen_Main,,0000,0000,0000,,No…
+Dialogue: 0,0:18:53.63,0:18:56.97,Gen_Main,,0000,0000,0000,,Vegeta no es bueno\Npara estos tipos de preguntas.
+Dialogue: 0,0:19:01.27,0:19:02.60,Gen_Main,,0000,0000,0000,,Quedan cinco segundos.
+Dialogue: 0,0:19:03.81,0:19:04.77,Gen_Main,,0000,0000,0000,,Cuatro segundos.
+Dialogue: 0,0:19:05.77,0:19:07.27,Gen_Main,,0000,0000,0000,,Tres segundos.
+Dialogue: 0,0:19:08.48,0:19:09.65,Gen_Main,,0000,0000,0000,,Dos segundos.
+Dialogue: 0,0:19:10.82,0:19:12.44,Gen_Main,,0000,0000,0000,,Un segundo.
+Dialogue: 0,0:19:14.61,0:19:16.49,Gen_Main,,0000,0000,0000,,- Cer…\N- ¡Cero!
+Dialogue: 0,0:19:16.57,0:19:18.20,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:19:18.28,0:19:20.45,Gen_Main,,0000,0000,0000,,¡Dije que cero galletas!
+Dialogue: 0,0:19:21.08,0:19:22.16,Gen_Main,,0000,0000,0000,,¿Por qué lo dices?
+Dialogue: 0,0:19:22.24,0:19:26.46,Gen_Main,,0000,0000,0000,,Me preguntaste cuántas galletas\Npudo comer Ichiro.
+Dialogue: 0,0:19:26.54,0:19:30.42,Gen_Main,,0000,0000,0000,,Dijiste que era una serpiente.\NLas serpientes no comen galletas.
+Dialogue: 0,0:19:33.46,0:19:35.55,Gen_Main,,0000,0000,0000,,Por eso no comió ninguna.
+Dialogue: 0,0:19:44.02,0:19:48.27,Gen_Main,,0000,0000,0000,,Es correcto.\NPuedes llevarte la Esfera del dragón.
+Dialogue: 0,0:20:01.78,0:20:04.49,Gen_Main,,0000,0000,0000,,¡Vaya! ¡Nada mal, Vegeta!
+Dialogue: 0,0:20:04.58,0:20:05.41,Gen_Main,,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:20:05.50,0:20:08.37,Gen_Main,,0000,0000,0000,,¡Bien hecho, Vegeta!
+Dialogue: 0,0:20:11.92,0:20:12.84,Gen_Main,,0000,0000,0000,,¡Buen trabajo!
+Dialogue: 0,0:20:15.51,0:20:20.01,Gen_Main,,0000,0000,0000,,Lo siento mucho.\NNo pude proteger la Esfera del dragón.
+Dialogue: 0,0:20:20.09,0:20:22.80,Gen_Main,,0000,0000,0000,,Está bien. Así es como debe ser.
+Dialogue: 0,0:20:22.89,0:20:25.31,Gen_Main,,0000,0000,0000,,Peleaste bien.
+Dialogue: 0,0:20:25.89,0:20:27.23,Gen_Main,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:20:36.86,0:20:41.16,Gen_Main,,0000,0000,0000,,¡Eso fue increíble!\N¡Resolviste ese problema tan difícil!
+Dialogue: 0,0:20:41.24,0:20:45.37,Gen_Main,,0000,0000,0000,,- ¡Increíble!\N- Había serpientes en el Planeta Vegeta.
+Dialogue: 0,0:20:45.45,0:20:49.96,Gen_Main,,0000,0000,0000,,Ahora veo lo fuerte que eres en verdad.
+Dialogue: 0,0:20:50.04,0:20:52.88,Gen_Main,,0000,0000,0000,,Bailaré en honor a tu victoria.
+Dialogue: 0,0:20:52.96,0:20:54.59,Gen_Main,,0000,0000,0000,,No. No lo hagas.
+Dialogue: 0,0:20:55.13,0:20:57.55,Gen_Main,,0000,0000,0000,,¡Oye! ¿Quieres uno de estos?
+Dialogue: 0,0:20:57.63,0:20:58.63,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:20:58.72,0:21:03.01,Gen_Main,,0000,0000,0000,,Un Insecto Resucitador. Los compramos\Nen el Tercer Mundo Demoníaco.
+Dialogue: 0,0:21:03.10,0:21:07.06,Gen_Main,,0000,0000,0000,,Te curan y te devuelven la energía\Ncomo las semillas del ermitaño.
+Dialogue: 0,0:21:07.14,0:21:07.98,Gen_Main,,0000,0000,0000,,¡Toma!
+Dialogue: 0,0:21:09.48,0:21:11.44,Gen_Main,,0000,0000,0000,,¿Por qué querría comer un insecto?
+Dialogue: 0,0:21:11.52,0:21:15.23,Gen_Main,,0000,0000,0000,,No me vengas con eso.\NNunca te molestó comer insectos.
+Dialogue: 0,0:21:15.32,0:21:17.61,Gen_Main,,0000,0000,0000,,Ahora soy más sofisticado.
+Dialogue: 0,0:21:17.69,0:21:20.40,Gen_Main,,0000,0000,0000,,No hablas como alguien sofisticado.
+Dialogue: 0,0:21:21.41,0:21:22.49,Gen_Main,,0000,0000,0000,,¡Cállate!
+Dialogue: 0,0:21:24.83,0:21:25.78,Gen_Main,,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:21:26.37,0:21:30.87,Gen_Main,,0000,0000,0000,,Y ahora, para rescatar a Dendé\Ny obtener la tercera Esfera del dragón,
+Dialogue: 0,0:21:30.96,0:21:33.46,Gen_Main,,0000,0000,0000,,¡viajemos al Primer Mundo Demoníaco!
+Dialogue: 0,0:21:33.54,0:21:35.63,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:21:46.51,0:21:49.52,Gen_Main,,0000,0000,0000,,¿Qué sucede? ¿Algo está fallando?
+Dialogue: 0,0:21:49.60,0:21:51.14,Gen_Main,,0000,0000,0000,,El motor no enciende.
+Dialogue: 0,0:21:51.23,0:21:53.40,Gen_Main,,0000,0000,0000,,Es bastante viejo.
+Dialogue: 0,0:21:53.48,0:21:55.90,Gen_Main,,0000,0000,0000,,Espera. Déjame revisarlo.
+Dialogue: 0,0:22:01.57,0:22:02.90,Gen_Main,,0000,0000,0000,,¡Todo listo!
+Dialogue: 0,0:22:11.71,0:22:13.79,Gen_Main,,0000,0000,0000,,{\i1}Tienen…{\i}
+Dialogue: 0,0:22:14.37,0:22:18.34,Gen_Main,,0000,0000,0000,,¡También tienen la Esfera del dragón\Ndel Segundo Mundo Demoníaco!
+Dialogue: 0,0:22:18.42,0:22:19.96,Gen_Main,,0000,0000,0000,,Esto es muy malo.
+Dialogue: 0,0:22:20.55,0:22:23.26,Gen_Main,,0000,0000,0000,,Vendrán al Primer Mundo Demoníaco.
+Dialogue: 0,0:22:27.35,0:22:30.18,Gen_Main,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:22:38.23,0:22:40.07,Gen_Main,,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:23:40.67,0:23:45.59,Cart_A_Ver,,0000,0000,0000,,SORPRESA
+Dialogue: 0,0:23:45.67,0:23:50.55,Cart_A_Ver,,0000,0000,0000,,Subtítulos: Cinthia Perez

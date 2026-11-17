@@ -1,0 +1,245 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:12.09,0:00:14.22,Default,,0000,0000,0000,,{\i1}Dragon Balls.{\i}
+Dialogue: 0,0:00:14.34,0:00:18.01,Default,,0000,0000,0000,,{\i1}When seven of these\Nmysterious balls are gathered{\i}
+Dialogue: 0,0:00:18.14,0:00:24.02,Default,,0000,0000,0000,,{\i1}and the password recited,\Na dragon called Shenron appears.{\i}
+Dialogue: 0,0:00:26.02,0:00:30.98,Default,,0000,0000,0000,,{\i1}Shenron will grant\Nwhatever wish is requested.{\i}
+Dialogue: 0,0:00:32.03,0:00:35.95,Default,,0000,0000,0000,,{\i1}This man, Son Goku, may appear gentle,{\i}
+Dialogue: 0,0:00:36.07,0:00:40.91,Default,,0000,0000,0000,,{\i1}but he is of a battle race called Saiyans,\Nand possesses unparalleled strength.{\i}
+Dialogue: 0,0:00:41.70,0:00:44.50,Default,,0000,0000,0000,,{\i1}He lived in the mountains as a child,{\i}
+Dialogue: 0,0:00:44.62,0:00:47.88,Default,,0000,0000,0000,,{\i1}searched for the Dragon Balls,\Nmet many friends{\i}
+Dialogue: 0,0:00:48.00,0:00:50.71,Default,,0000,0000,0000,,{\i1}and grew into adulthood together.{\i}
+Dialogue: 0,0:00:52.80,0:00:59.30,Default,,0000,0000,0000,,{\i1}Saiyans maintain a youthful body\Nfor much of their lives.{\i}
+Dialogue: 0,0:00:59.97,0:01:03.93,Default,,0000,0000,0000,,{\i1}Even now, together with his former rivals,{\i}
+Dialogue: 0,0:01:04.06,0:01:08.06,Default,,0000,0000,0000,,{\i1}he continues to protect Earth from evil.{\i}
+Dialogue: 0,0:01:14.82,0:01:20.28,Default,,0000,0000,0000,,Original Work, Story & Character Design\NAkira Toriyama (Shueisha "Jump comics")
+Dialogue: 0,0:01:24.54,0:01:26.12,Default,,0000,0000,0000,,{\i1}Hee, hee hee!{\i}
+Dialogue: 0,0:01:26.25,0:01:30.67,Default,,0000,0000,0000,,{\i1}Time to adventure!\NYou'll be hooked for sure!{\i}
+Dialogue: 0,0:01:31.30,0:01:35.38,Default,,0000,0000,0000,,{\i1}The Demon Realm is full of mystery{\i}
+Dialogue: 0,0:01:35.51,0:01:38.43,Default,,0000,0000,0000,,{\i1}DAIMA wonderland{\i}
+Dialogue: 0,0:01:39.55,0:01:41.22,Default,,0000,0000,0000,,{\i1}Whoopsie daisy!{\i}
+Dialogue: 0,0:01:41.35,0:01:45.73,Default,,0000,0000,0000,,{\i1}Even when your heart shrinks\NAnd you feel low{\i}
+Dialogue: 0,0:01:45.85,0:01:50.44,Default,,0000,0000,0000,,{\i1}Dreams are everywhere\NDon't worry about it{\i}
+Dialogue: 0,0:01:50.56,0:01:54.19,Default,,0000,0000,0000,,{\i1}Never give up{\i}
+Dialogue: 0,0:01:54.86,0:02:00.95,Default,,0000,0000,0000,,{\i1}Here comes a New Story{\i}
+Dialogue: 0,0:02:01.07,0:02:05.20,Default,,0000,0000,0000,,{\i1}Thousands of jabs and silly jokes{\i}
+Dialogue: 0,0:02:05.33,0:02:08.25,Default,,0000,0000,0000,,{\i1}They're waitin' for you{\i}
+Dialogue: 0,0:02:09.17,0:02:16.05,Default,,0000,0000,0000,,{\i1}Jaan! Jaka jaan!\NThe fanfare of courage{\i}
+Dialogue: 0,0:02:16.67,0:02:23.64,Default,,0000,0000,0000,,{\i1}No-holds-barred battles\NThe excitement ain't stoppin'{\i}
+Dialogue: 0,0:02:23.76,0:02:30.19,Default,,0000,0000,0000,,{\i1}Hey Shenron, grant my wish{\i}
+Dialogue: 0,0:02:30.98,0:02:37.82,Default,,0000,0000,0000,,{\i1}I wanna meet\NSomeone amazin' again tomorrow{\i}
+Dialogue: 0,0:02:40.20,0:02:44.91,On Top,,0000,0000,0000,,THIRD EYE
+Dialogue: 0,0:02:46.24,0:02:49.50,Default,,0000,0000,0000,,Execute a full-on attack!
+Dialogue: 0,0:02:53.34,0:02:55.13,Default,,0000,0000,0000,,Attack!
+Dialogue: 0,0:03:11.52,0:03:12.73,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:03:15.32,0:03:16.15,Default,,0000,0000,0000,,Annoying pests!
+Dialogue: 0,0:03:16.78,0:03:19.11,Default,,0000,0000,0000,,They're usin' guns! That's cheatin'!
+Dialogue: 0,0:03:19.70,0:03:21.28,Default,,0000,0000,0000,,Don't let them escape!
+Dialogue: 0,0:03:21.41,0:03:24.28,Default,,0000,0000,0000,,Hey! Are y'all okay?!
+Dialogue: 0,0:03:24.41,0:03:25.87,Default,,0000,0000,0000,,Barely!
+Dialogue: 0,0:03:35.71,0:03:36.80,Default,,0000,0000,0000,,Over there!
+Dialogue: 0,0:03:50.56,0:03:52.56,Default,,0000,0000,0000,,Ow, ow, ow!
+Dialogue: 0,0:04:04.82,0:04:06.53,Default,,0000,0000,0000,,Ow, ow, ow.
+Dialogue: 0,0:04:06.66,0:04:09.62,Default,,0000,0000,0000,,A direct shot can incapacitate you.\NWatch yourself!
+Dialogue: 0,0:04:15.67,0:04:16.92,Default,,0000,0000,0000,,Why those dirty…!
+Dialogue: 0,0:04:17.75,0:04:19.63,Default,,0000,0000,0000,,Extend!
+Dialogue: 0,0:04:24.18,0:04:25.51,Default,,0000,0000,0000,,Awesome!
+Dialogue: 0,0:04:29.76,0:04:32.81,Default,,0000,0000,0000,,Man, there's no end to 'em.
+Dialogue: 0,0:04:34.02,0:04:35.44,Default,,0000,0000,0000,,There are so many.
+Dialogue: 0,0:04:36.27,0:04:38.11,Default,,0000,0000,0000,,We'll have to take them down\None at a time.
+Dialogue: 0,0:04:38.23,0:04:40.53,Default,,0000,0000,0000,,Blast it! Screw their ray guns!
+Dialogue: 0,0:04:40.65,0:04:43.74,Default,,0000,0000,0000,,They won't work on a Saiyan like me!
+Dialogue: 0,0:05:02.71,0:05:04.51,Default,,0000,0000,0000,,Hey! Are you okay?!
+Dialogue: 0,0:05:05.93,0:05:08.09,Default,,0000,0000,0000,,K-Kakarot.
+Dialogue: 0,0:05:08.89,0:05:11.72,Default,,0000,0000,0000,,H-Have you… still got those bugs?
+Dialogue: 0,0:05:11.85,0:05:15.69,Default,,0000,0000,0000,,Huh? Ah. The Revive Bugs, right?
+Dialogue: 0,0:05:16.73,0:05:17.77,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:05:19.98,0:05:21.53,Default,,0000,0000,0000,,Give me that.
+Dialogue: 0,0:05:31.16,0:05:35.21,Default,,0000,0000,0000,,Those dirty pieces of scum!\NThey're shooting everywhere!
+Dialogue: 0,0:05:35.96,0:05:39.42,Default,,0000,0000,0000,,Looks like dealin' with this\Nmight be rough in a kid's body.
+Dialogue: 0,0:05:41.59,0:05:45.84,Default,,0000,0000,0000,,Yes! Even they aren't strong enough\Nto do anything about that!
+Dialogue: 0,0:05:46.72,0:05:49.89,Default,,0000,0000,0000,,That Namek is the one from Earth.
+Dialogue: 0,0:05:50.80,0:05:54.64,Default,,0000,0000,0000,,That brat's from the Third Demon World,\Ndang it!
+Dialogue: 0,0:05:56.35,0:05:58.85,Default,,0000,0000,0000,,That one's probably\Nfrom the Third Demon World, too.
+Dialogue: 0,0:06:00.56,0:06:03.28,Default,,0000,0000,0000,,Curse them! They'll pay!
+Dialogue: 0,0:06:03.40,0:06:04.36,Default,,0000,0000,0000,,Hm?!
+Dialogue: 0,0:06:05.15,0:06:06.19,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:06:06.74,0:06:08.15,Default,,0000,0000,0000,,Him…
+Dialogue: 0,0:06:08.91,0:06:10.28,Default,,0000,0000,0000,,His belt…
+Dialogue: 0,0:06:10.41,0:06:11.20,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:15.70,0:06:16.75,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:06:18.83,0:06:22.38,Default,,0000,0000,0000,,The buckle on his belt. Isn't that…
+Dialogue: 0,0:06:23.13,0:06:24.59,Default,,0000,0000,0000,,the Third Eye?!
+Dialogue: 0,0:06:24.71,0:06:28.43,Default,,0000,0000,0000,,The Third Eye?\NThe legendary Tertian Oculus?
+Dialogue: 0,0:06:29.38,0:06:31.39,Default,,0000,0000,0000,,Impossible. There's no way…
+Dialogue: 0,0:06:37.77,0:06:39.06,Default,,0000,0000,0000,,Extend!
+Dialogue: 0,0:06:51.62,0:06:53.45,Default,,0000,0000,0000,,It-It's all over!
+Dialogue: 0,0:06:54.58,0:06:57.08,Default,,0000,0000,0000,,R-Run!
+Dialogue: 0,0:07:05.67,0:07:07.05,Default,,0000,0000,0000,,It's all clear!
+Dialogue: 0,0:07:07.80,0:07:10.72,Default,,0000,0000,0000,,Whew. They're finally taken care of.
+Dialogue: 0,0:07:10.84,0:07:14.26,Default,,0000,0000,0000,,Hey. You hardly did anything.\NStop acting so self-important.
+Dialogue: 0,0:07:14.39,0:07:16.14,Default,,0000,0000,0000,,We can get moving now.
+Dialogue: 0,0:07:18.02,0:07:21.48,Default,,0000,0000,0000,,The Tamagami is\Nin Gomah's palace that way.
+Dialogue: 0,0:07:35.16,0:07:35.95,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:40.16,0:07:42.17,Default,,0000,0000,0000,,Enemies approaching the Oparu District!
+Dialogue: 0,0:07:42.29,0:07:44.08,Default,,0000,0000,0000,,{\i1}Everyone, to your stations!{\i}
+Dialogue: 0,0:07:44.21,0:07:46.84,Default,,0000,0000,0000,,{\i1}-Enemies approaching the Oparu District!{\i}\N-You cover over there!
+Dialogue: 0,0:07:46.96,0:07:48.17,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:07:51.38,0:07:56.14,Default,,0000,0000,0000,,I thought the Third Eye\Nwas lost a long time ago.
+Dialogue: 0,0:07:57.01,0:08:00.39,Default,,0000,0000,0000,,I've seen it… long ago.
+Dialogue: 0,0:08:01.39,0:08:04.98,Default,,0000,0000,0000,,{\i1}Supreme Demon King Abura\Nhad it on his forehead.{\i}
+Dialogue: 0,0:08:06.61,0:08:07.90,Default,,0000,0000,0000,,It's the spitting image.
+Dialogue: 0,0:08:08.86,0:08:10.40,Default,,0000,0000,0000,,It looked just like that!
+Dialogue: 0,0:08:12.03,0:08:14.41,Default,,0000,0000,0000,,Don't all eyes look like that?
+Dialogue: 0,0:08:15.37,0:08:17.78,Default,,0000,0000,0000,,Besides, why would\Nsomeone like that have it?
+Dialogue: 0,0:08:18.41,0:08:19.54,Default,,0000,0000,0000,,Don't ask me!
+Dialogue: 0,0:08:19.66,0:08:23.16,Default,,0000,0000,0000,,If it really is it, we need to act fast.
+Dialogue: 0,0:08:23.29,0:08:25.00,Default,,0000,0000,0000,,Hey! Degesu!
+Dialogue: 0,0:08:25.13,0:08:27.63,Default,,0000,0000,0000,,Go get that belt and bring it to me!
+Dialogue: 0,0:08:27.75,0:08:28.59,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:29.21,0:08:32.59,Default,,0000,0000,0000,,Don't let anyone notice\Nwhat you're up to! Got it?!
+Dialogue: 0,0:08:32.72,0:08:33.55,Default,,0000,0000,0000,,Yes, sire!
+Dialogue: 0,0:08:34.18,0:08:36.01,Default,,0000,0000,0000,,But, how am I supposed to?
+Dialogue: 0,0:08:38.39,0:08:42.06,Default,,0000,0000,0000,,You're smart, aren't you? Figure it out!
+Dialogue: 0,0:08:42.18,0:08:43.89,Default,,0000,0000,0000,,U-Understood, sire.
+Dialogue: 0,0:08:56.49,0:08:58.83,Default,,0000,0000,0000,,{\i1}Let's take a moment to explain.{\i}
+Dialogue: 0,0:09:00.12,0:09:03.46,Default,,0000,0000,0000,,{\i1}The Third Eye,\Nalso known as the Tertian Oculus.{\i}
+Dialogue: 0,0:09:03.58,0:09:07.21,Default,,0000,0000,0000,,{\i1}It's an eye previous Supreme Demon Kings\Nhave worn on their foreheads,{\i}
+Dialogue: 0,0:09:07.33,0:09:09.42,Default,,0000,0000,0000,,{\i1}which grants them power and authority.{\i}
+Dialogue: 0,0:09:09.54,0:09:15.09,Default,,0000,0000,0000,,{\i1}It is a symbol of the Supreme Demon King\Nand possesses terrifying magic power.{\i}
+Dialogue: 0,0:09:15.76,0:09:19.10,Default,,0000,0000,0000,,{\i1}When great power became necessary,{\i}
+Dialogue: 0,0:09:19.22,0:09:21.81,Default,,0000,0000,0000,,{\i1}by wearing the Third Eye,{\i}
+Dialogue: 0,0:09:22.43,0:09:24.52,Default,,0000,0000,0000,,{\i1}they were imbued with unbelievable magic{\i}
+Dialogue: 0,0:09:24.64,0:09:31.15,Default,,0000,0000,0000,,{\i1}and became capable\Nof wielding unworldly power.{\i}
+Dialogue: 0,0:09:32.44,0:09:38.87,Default,,0000,0000,0000,,{\i1}But during Supreme Demon King Abura's\Nreign, it was stolen by someone,{\i}
+Dialogue: 0,0:09:38.99,0:09:42.95,Default,,0000,0000,0000,,{\i1}and was subsequently lost to the world.{\i}
+Dialogue: 0,0:09:46.41,0:09:50.17,Default,,0000,0000,0000,,Good. Supreme Demon King Abura is absent.
+Dialogue: 0,0:09:50.29,0:09:53.17,Default,,0000,0000,0000,,I'll distract the guards.
+Dialogue: 0,0:09:53.30,0:09:55.47,Default,,0000,0000,0000,,The Third Eye is in the safe.
+Dialogue: 0,0:09:56.26,0:10:02.10,Default,,0000,0000,0000,,Once you steal it, head to the Third\NDemon World where it'll be hard to find.
+Dialogue: 0,0:10:02.72,0:10:05.31,Default,,0000,0000,0000,,I'll contact you sometime later.
+Dialogue: 0,0:10:06.39,0:10:08.81,Default,,0000,0000,0000,,I understand, Dabura-sama.
+Dialogue: 0,0:10:53.94,0:10:55.94,Default,,0000,0000,0000,,I made it.
+Dialogue: 0,0:11:16.38,0:11:19.22,Default,,0000,0000,0000,,Blast it. What happened to him?
+Dialogue: 0,0:11:20.38,0:11:25.72,Default,,0000,0000,0000,,It matters not. The Third Eye\Nis no longer an issue either way.
+Dialogue: 0,0:11:27.14,0:11:31.56,Default,,0000,0000,0000,,{\i1}Supreme Demon King Abura\Nboasted absolute power.{\i}
+Dialogue: 0,0:11:31.69,0:11:36.44,Default,,0000,0000,0000,,{\i1}But without the Third Eye,\Nhe fell to his son, Dabura.{\i}
+Dialogue: 0,0:11:37.07,0:11:41.95,Default,,0000,0000,0000,,{\i1}But, even after Supreme Demon King Dabura\Nstole the throne,{\i}
+Dialogue: 0,0:11:42.07,0:11:44.70,Default,,0000,0000,0000,,{\i1}he was eventually defeated by Majin Buu,{\i}
+Dialogue: 0,0:11:44.82,0:11:50.79,Default,,0000,0000,0000,,{\i1}and the throne was passed on\Nto his Vice-Supreme Demon King Gomah.{\i}
+Dialogue: 0,0:11:53.83,0:11:57.00,Default,,0000,0000,0000,,{\i1}And after some time…{\i}
+Dialogue: 0,0:12:10.89,0:12:15.90,Default,,0000,0000,0000,,{\i1}And so, the Evil Third Eye ended up{\i}
+Dialogue: 0,0:12:16.02,0:12:19.94,Default,,0000,0000,0000,,{\i1}being worn as a belt buckle\Naround the waist.{\i}
+Dialogue: 0,0:12:26.37,0:12:27.74,Default,,0000,0000,0000,,That's the palace.
+Dialogue: 0,0:12:45.55,0:12:46.68,Default,,0000,0000,0000,,They're comin'.
+Dialogue: 0,0:13:18.58,0:13:21.59,Default,,0000,0000,0000,,Look! There's a kid with round ears!
+Dialogue: 0,0:13:21.71,0:13:23.42,Default,,0000,0000,0000,,Who could that be?
+Dialogue: 0,0:13:26.76,0:13:28.76,Default,,0000,0000,0000,,There's a lot more of them than before.
+Dialogue: 0,0:13:29.35,0:13:30.76,Default,,0000,0000,0000,,Oh man.
+Dialogue: 0,0:13:31.93,0:13:33.02,Default,,0000,0000,0000,,Hey, gramps.
+Dialogue: 0,0:13:33.14,0:13:34.10,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:34.68,0:13:39.11,Default,,0000,0000,0000,,You made that shield, didn't you?\NCan't you think of somethin'?
+Dialogue: 0,0:13:41.52,0:13:46.61,Default,,0000,0000,0000,,I'm an old man. I'm just here\Nto help you with your wish.
+Dialogue: 0,0:13:47.24,0:13:49.20,Default,,0000,0000,0000,,Figure it out yourselves.
+Dialogue: 0,0:13:49.32,0:13:50.58,Default,,0000,0000,0000,,Aww.
+Dialogue: 0,0:13:54.62,0:13:56.21,Default,,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:13:57.42,0:14:00.04,Default,,0000,0000,0000,,That belt of yours.
+Dialogue: 0,0:14:01.54,0:14:03.00,Default,,0000,0000,0000,,It's very pretty.
+Dialogue: 0,0:14:04.13,0:14:06.72,Default,,0000,0000,0000,,I know. It's my favorite.
+Dialogue: 0,0:14:06.84,0:14:09.64,Default,,0000,0000,0000,,I like it a lot.
+Dialogue: 0,0:14:10.18,0:14:12.31,Default,,0000,0000,0000,,If you give it to me…
+Dialogue: 0,0:14:13.01,0:14:17.19,Default,,0000,0000,0000,,I'll give you a kiss.
+Dialogue: 0,0:14:17.31,0:14:19.94,Default,,0000,0000,0000,,Don't be stupid. I don't want that.
+Dialogue: 0,0:14:21.44,0:14:22.40,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:14:23.02,0:14:25.90,Default,,0000,0000,0000,,I'll trade it for that hat.
+Dialogue: 0,0:14:26.03,0:14:28.03,Default,,0000,0000,0000,,Huh? My hat?
+Dialogue: 0,0:14:32.45,0:14:33.41,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:14:34.08,0:14:35.54,Default,,0000,0000,0000,,Woo hoo.
+Dialogue: 0,0:14:36.20,0:14:37.96,Default,,0000,0000,0000,,This is cool.
+Dialogue: 0,0:14:41.33,0:14:42.29,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:14:43.46,0:14:45.25,Default,,0000,0000,0000,,Ew.
+Dialogue: 0,0:14:46.42,0:14:48.63,Default,,0000,0000,0000,,That went well, but…
+Dialogue: 0,0:14:49.30,0:14:51.01,Default,,0000,0000,0000,,I'm a little insulted.
+Dialogue: 0,0:14:55.26,0:14:57.35,Default,,0000,0000,0000,,I can regenerate.
+Dialogue: 0,0:14:58.18,0:14:59.52,Default,,0000,0000,0000,,I'll take care of them all!
+Dialogue: 0,0:14:59.64,0:15:03.77,Default,,0000,0000,0000,,Good idea.\NThey'll run out of ammo eventually.
+Dialogue: 0,0:15:03.90,0:15:05.40,Default,,0000,0000,0000,,Don't bother.
+Dialogue: 0,0:15:06.11,0:15:12.12,Default,,0000,0000,0000,,Even if you can regenerate,\None hit to a vital and it's over.
+Dialogue: 0,0:15:12.74,0:15:17.66,Default,,0000,0000,0000,,Unfortunately, those guns\Ncan probably shoot for ten days straight.
+Dialogue: 0,0:15:17.79,0:15:19.21,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:39.31,0:15:40.98,Default,,0000,0000,0000,,It's almost time.
+Dialogue: 0,0:15:41.60,0:15:43.86,Default,,0000,0000,0000,,Everything's going according to plan.
+Dialogue: 0,0:15:55.91,0:15:58.62,Default,,0000,0000,0000,,Darn it! I ain't waitin' anymore!
+Dialogue: 0,0:15:58.74,0:16:00.54,Default,,0000,0000,0000,,We'll have to take them out all at once!
+Dialogue: 0,0:16:17.14,0:16:19.47,Default,,0000,0000,0000,,Good going! Keep it up!
+Dialogue: 0,0:16:20.31,0:16:21.81,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:16:54.22,0:16:55.59,Default,,0000,0000,0000,,What is that?!
+Dialogue: 0,0:17:17.70,0:17:18.53,Default,,0000,0000,0000,,Fire!
+Dialogue: 0,0:17:26.17,0:17:28.88,Default,,0000,0000,0000,,M-My body feels numb!
+Dialogue: 0,0:18:00.20,0:18:02.03,Default,,0000,0000,0000,,Fire!
+Dialogue: 0,0:18:23.39,0:18:24.22,Default,,0000,0000,0000,,What's that?!
+Dialogue: 0,0:18:26.98,0:18:30.40,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:33.82,0:18:35.32,Default,,0000,0000,0000,,It's Dad!
+Dialogue: 0,0:18:49.79,0:18:50.63,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:19:05.35,0:19:06.68,Default,,0000,0000,0000,,Dad!
+Dialogue: 0,0:19:34.59,0:19:36.55,Default,,0000,0000,0000,,Dad! Everyone!
+Dialogue: 0,0:19:40.13,0:19:43.18,Default,,0000,0000,0000,,Time to cut loose!
+Dialogue: 0,0:19:48.10,0:19:50.06,Default,,0000,0000,0000,,Let's go, too!
+Dialogue: 0,0:19:50.18,0:19:51.10,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:11.29,0:20:13.33,Default,,0000,0000,0000,,Looks like the tides are turning!
+Dialogue: 0,0:20:13.46,0:20:14.50,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:35.98,0:20:37.36,Default,,0000,0000,0000,,Not bad there, King!
+Dialogue: 0,0:20:37.48,0:20:38.69,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:21:32.75,0:21:33.70,Default,,0000,0000,0000,,That…
+Dialogue: 0,0:21:34.33,0:21:35.37,Default,,0000,0000,0000,,That…
+Dialogue: 0,0:21:36.58,0:21:38.71,Default,,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:21:44.17,0:21:45.42,Default,,0000,0000,0000,,This is bad.
+Dialogue: 0,0:21:45.55,0:21:48.34,Default,,0000,0000,0000,,I… I know that!
+Dialogue: 0,0:21:48.47,0:21:51.68,Default,,0000,0000,0000,,B-But we still have the Gendarmerie Force.
+Dialogue: 0,0:21:56.44,0:21:58.06,Default,,0000,0000,0000,,Th-That's right.
+Dialogue: 0,0:22:12.24,0:22:13.29,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:22:15.75,0:22:18.37,Default,,0000,0000,0000,,That was pretty impressive, Your Highness!
+Dialogue: 0,0:22:19.00,0:22:19.88,Default,,0000,0000,0000,,Dad!
+Dialogue: 0,0:22:20.42,0:22:22.50,Default,,0000,0000,0000,,Your timing was perfect!
+Dialogue: 0,0:22:24.17,0:22:25.59,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:22:25.71,0:22:28.51,Default,,0000,0000,0000,,Looks like we helped out a bit!
+Dialogue: 0,0:22:41.77,0:22:43.65,Default,,0000,0000,0000,,{\i1}Holding out my hand{\i}
+Dialogue: 0,0:22:45.44,0:22:47.32,Default,,0000,0000,0000,,{\i1}Up to the sky{\i}
+Dialogue: 0,0:22:49.24,0:22:51.74,Default,,0000,0000,0000,,{\i1}The moment is ours{\i}
+Dialogue: 0,0:22:52.41,0:22:55.79,Default,,0000,0000,0000,,{\i1}Make a miracle happen{\i}
+Dialogue: 0,0:22:55.91,0:23:02.04,Default,,0000,0000,0000,,{\i1}Like a bird with open wings we fly{\i}
+Dialogue: 0,0:23:02.17,0:23:05.88,Default,,0000,0000,0000,,{\i1}Picking up{\i}
+Dialogue: 0,0:23:06.01,0:23:09.26,Default,,0000,0000,0000,,{\i1}Those pieces of hope{\i}
+Dialogue: 0,0:23:10.34,0:23:16.22,Default,,0000,0000,0000,,{\i1}There's no giving up{\i}
+Dialogue: 0,0:23:16.85,0:23:21.06,Default,,0000,0000,0000,,{\i1}Go as far as we can{\i}
+Dialogue: 0,0:23:21.19,0:23:24.69,Default,,0000,0000,0000,,{\i1}I got you by my side{\i}
+Dialogue: 0,0:23:24.82,0:23:27.78,Default,,0000,0000,0000,,{\i1}Run, run, run{\i}
+Dialogue: 0,0:23:27.90,0:23:31.36,Default,,0000,0000,0000,,{\i1}Over the mountain we go{\i}
+Dialogue: 0,0:23:31.49,0:23:35.20,Default,,0000,0000,0000,,{\i1}I hear it always\NYour voice in my heart{\i}
+Dialogue: 0,0:23:35.33,0:23:39.62,Default,,0000,0000,0000,,{\i1}"You know that we're never alone"{\i}
+Dialogue: 0,0:23:40.71,0:23:45.59,On Top,,0000,0000,0000,,DEGESU
