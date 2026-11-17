@@ -1,0 +1,183 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0070,0070,0030,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.76,0:00:21.23,On Top,sign,0000,0000,0000,,Original Work, Story & Character Design\NAkira Toriyama (Shueisha "Jump comics")
+Dialogue: 0,0:00:25.48,0:00:27.06,Default,,0000,0000,0000,,{\i1}Hee, hee hee!{\i}
+Dialogue: 0,0:00:27.19,0:00:31.61,Default,,0000,0000,0000,,{\i1}Time to adventure!\NYou'll be hooked for sure!{\i}
+Dialogue: 0,0:00:32.24,0:00:36.32,Default,,0000,0000,0000,,{\i1}The Demon Realm is full of mystery{\i}
+Dialogue: 0,0:00:36.45,0:00:39.37,Default,,0000,0000,0000,,{\i1}DAIMA wonderland{\i}
+Dialogue: 0,0:00:40.49,0:00:42.16,Default,,0000,0000,0000,,{\i1}Whoopsie daisy!{\i}
+Dialogue: 0,0:00:42.29,0:00:46.67,Default,,0000,0000,0000,,{\i1}Even when your heart shrinks\NAnd you feel low{\i}
+Dialogue: 0,0:00:46.79,0:00:51.38,Default,,0000,0000,0000,,{\i1}Dreams are everywhere\NDon't worry about it{\i}
+Dialogue: 0,0:00:51.51,0:00:55.13,Default,,0000,0000,0000,,{\i1}Never give up{\i}
+Dialogue: 0,0:00:55.80,0:01:01.89,Default,,0000,0000,0000,,{\i1}Here comes a New Story{\i}
+Dialogue: 0,0:01:02.02,0:01:06.14,Default,,0000,0000,0000,,{\i1}Thousands of jabs and silly jokes{\i}
+Dialogue: 0,0:01:06.27,0:01:09.19,Default,,0000,0000,0000,,{\i1}They're waitin' for you{\i}
+Dialogue: 0,0:01:10.11,0:01:16.99,Default,,0000,0000,0000,,{\i1}Jaan! Jaka jaan!\NThe fanfare of courage{\i}
+Dialogue: 0,0:01:17.61,0:01:24.58,Default,,0000,0000,0000,,{\i1}No-holds-barred battles\NThe excitement ain't stoppin'{\i}
+Dialogue: 0,0:01:24.71,0:01:31.13,Default,,0000,0000,0000,,{\i1}Hey Shenron, grant my wish{\i}
+Dialogue: 0,0:01:31.92,0:01:38.76,Default,,0000,0000,0000,,{\i1}I wanna meet\NSomeone amazin' again tomorrow{\i}
+Dialogue: 0,0:01:41.14,0:01:45.98,On Top,sign,0000,0000,0000,,BETRAYAL
+Dialogue: 0,0:01:51.15,0:01:52.36,Default,,0000,0000,0000,,Now…!
+Dialogue: 0,0:02:06.04,0:02:07.46,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:02:51.46,0:02:52.63,Default,,0000,0000,0000,,I'm back…
+Dialogue: 0,0:02:52.75,0:02:54.46,Default,,0000,0000,0000,,I'm back to normal!
+Dialogue: 0,0:02:55.13,0:02:56.00,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:02:58.09,0:02:59.38,Default,,0000,0000,0000,,How…?
+Dialogue: 0,0:03:12.60,0:03:14.48,Default,,0000,0000,0000,,Thanks, Gliro!
+Dialogue: 0,0:03:17.19,0:03:18.40,Default,,0000,0000,0000,,It's Glorio.
+Dialogue: 0,0:03:21.45,0:03:23.91,Default,,0000,0000,0000,,Wh-What… What did you…?
+Dialogue: 0,0:03:26.16,0:03:28.37,Default,,0000,0000,0000,,Your wish has been granted.
+Dialogue: 0,0:03:30.83,0:03:33.25,Default,,0000,0000,0000,,And now, farewell!
+Dialogue: 0,0:03:56.23,0:03:57.69,Default,,0000,0000,0000,,Oh well…
+Dialogue: 0,0:03:57.82,0:04:03.74,Default,,0000,0000,0000,,You may have been turned back into adults,\Nbut you still don't stand a chance.
+Dialogue: 0,0:04:12.00,0:04:14.92,Default,,0000,0000,0000,,Don't underestimate us\Nnow that we're back to normal.
+Dialogue: 0,0:04:15.83,0:04:18.30,Default,,0000,0000,0000,,Now that we're back,\Nlet's fight one at a time.
+Dialogue: 0,0:04:19.00,0:04:20.88,Default,,0000,0000,0000,,In that case it's my turn!
+Dialogue: 0,0:04:21.01,0:04:22.34,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:22.47,0:04:26.01,Default,,0000,0000,0000,,Don't complain. You decided on the order.
+Dialogue: 0,0:04:26.55,0:04:27.76,Default,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:04:30.18,0:04:33.60,Default,,0000,0000,0000,,Hear that?\NYou lot better not try to join in either!
+Dialogue: 0,0:05:24.61,0:05:27.03,Default,,0000,0000,0000,,H-He's that strong?!
+Dialogue: 0,0:05:31.08,0:05:33.83,Default,,0000,0000,0000,,I see how it is, Glorio.
+Dialogue: 0,0:05:39.04,0:05:40.75,Default,,0000,0000,0000,,I'm very sorry.
+Dialogue: 0,0:05:42.38,0:05:46.05,Default,,0000,0000,0000,,Have you forgotten my kindness in\Nrescuing you from the Third Demon World?
+Dialogue: 0,0:05:47.59,0:05:48.55,Default,,0000,0000,0000,,That's…!
+Dialogue: 0,0:05:52.26,0:05:53.68,Default,,0000,0000,0000,,I'm grateful.
+Dialogue: 0,0:05:56.39,0:05:57.35,Default,,0000,0000,0000,,But…!
+Dialogue: 0,0:06:11.78,0:06:12.78,Default,,0000,0000,0000,,Forget it.
+Dialogue: 0,0:06:19.29,0:06:21.46,Default,,0000,0000,0000,,You're fired. Leave.
+Dialogue: 0,0:06:23.30,0:06:25.76,Default,,0000,0000,0000,,Thank you for everything\Nyou've done for me.
+Dialogue: 0,0:06:41.61,0:06:43.32,Default,,0000,0000,0000,,Don't worry. I'm sticking with you.
+Dialogue: 0,0:06:57.12,0:07:00.92,Default,,0000,0000,0000,,Okay! I've finally gotten used\Nto my body again!
+Dialogue: 0,0:07:29.32,0:07:31.11,Default,,0000,0000,0000,,I can go all day!
+Dialogue: 0,0:07:32.20,0:07:33.66,Default,,0000,0000,0000,,I'll show you!
+Dialogue: 0,0:07:50.63,0:07:52.05,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:08:43.94,0:08:45.90,Default,,0000,0000,0000,,Super Saiyan 3!
+Dialogue: 0,0:08:46.02,0:08:47.11,Default,,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:09:53.76,0:09:55.76,Default,,0000,0000,0000,,I can go all day!
+Dialogue: 0,0:10:31.25,0:10:33.84,Default,,0000,0000,0000,,You're amazing, Glorio!
+Dialogue: 0,0:10:42.14,0:10:43.18,Default,,0000,0000,0000,,Glorio-san!
+Dialogue: 0,0:10:44.60,0:10:46.02,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:11:02.37,0:11:04.28,Default,,0000,0000,0000,,Nice goin', Glorio!
+Dialogue: 0,0:11:08.54,0:11:11.75,Default,,0000,0000,0000,,That's the first time\Nyou've gotten my name correct.
+Dialogue: 0,0:11:18.84,0:11:21.76,Default,,0000,0000,0000,,Damn it all!
+Dialogue: 0,0:13:16.58,0:13:20.42,Default,,0000,0000,0000,,No matter how many times you hit me,\Nit won't work!
+Dialogue: 0,0:13:45.53,0:13:49.95,Default,,0000,0000,0000,,This is bad. His Super Saiyan 3\Nain't gonna last much longer.
+Dialogue: 0,0:13:50.62,0:13:51.70,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:13:53.49,0:13:56.29,Default,,0000,0000,0000,,That guy. He's not showin'\Nany sort of exhaustion at all
+Dialogue: 0,0:13:57.08,0:13:58.25,Default,,0000,0000,0000,,What's goin' on?
+Dialogue: 0,0:13:58.88,0:14:01.42,Default,,0000,0000,0000,,It appears to be an effect\Nof the Tertian Oculus.
+Dialogue: 0,0:14:07.76,0:14:12.85,Default,,0000,0000,0000,,And while we've been restored,\Nwe still retain our damage.
+Dialogue: 0,0:14:13.72,0:14:17.35,Default,,0000,0000,0000,,This might not be the time\Nto obsess over fighting.
+Dialogue: 0,0:14:18.60,0:14:20.44,Default,,0000,0000,0000,,Come to think of it…
+Dialogue: 0,0:14:20.56,0:14:25.19,Default,,0000,0000,0000,,Supreme Demon King Abura used to\Nattach and remove the Third Eye at will.
+Dialogue: 0,0:14:27.15,0:14:28.82,Default,,0000,0000,0000,,Just how did he…?
+Dialogue: 0,0:14:31.91,0:14:32.83,Default,,0000,0000,0000,,Kuu!
+Dialogue: 0,0:14:32.95,0:14:33.87,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:14:33.99,0:14:37.66,Default,,0000,0000,0000,,Bring me the Book of Magic Items\Nfrom archive number 37!
+Dialogue: 0,0:14:38.29,0:14:40.33,Default,,0000,0000,0000,,Righto! No problem!
+Dialogue: 0,0:14:59.35,0:15:01.85,Default,,0000,0000,0000,,What's wrong? Finished already?
+Dialogue: 0,0:15:21.83,0:15:23.54,Default,,0000,0000,0000,,Blast it!
+Dialogue: 0,0:15:25.29,0:15:28.76,Default,,0000,0000,0000,,Hey Vegeta! Can I join in?!
+Dialogue: 0,0:15:28.88,0:15:31.34,Default,,0000,0000,0000,,Don't be stupid! Back off!
+Dialogue: 0,0:15:31.47,0:15:34.26,Default,,0000,0000,0000,,I'll take out anyone who gets in my way!
+Dialogue: 0,0:15:37.22,0:15:38.98,Default,,0000,0000,0000,,Thought you'd say that.
+Dialogue: 0,0:15:41.27,0:15:42.44,Default,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:15:42.56,0:15:45.52,Default,,0000,0000,0000,,If he doesn't lose any stamina\Nno matter how much we hit him,
+Dialogue: 0,0:15:45.65,0:15:49.24,Default,,0000,0000,0000,,then your joining in\Nmay not make a difference.
+Dialogue: 0,0:15:52.07,0:15:53.45,Default,,0000,0000,0000,,Sorry to keep you waiting!
+Dialogue: 0,0:15:53.99,0:15:54.99,Default,,0000,0000,0000,,Well done.
+Dialogue: 0,0:16:04.00,0:16:05.59,Default,,0000,0000,0000,,Shall I help?
+Dialogue: 0,0:16:05.71,0:16:06.67,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:12.22,0:16:13.43,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:16:22.23,0:16:23.19,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:16:33.45,0:16:34.61,Default,,0000,0000,0000,,Arinsu?!
+Dialogue: 0,0:16:38.33,0:16:40.41,Default,,0000,0000,0000,,Listen to me closely.
+Dialogue: 0,0:16:41.41,0:16:43.50,Default,,0000,0000,0000,,Gomah's Tertian Oculus…
+Dialogue: 0,0:16:44.42,0:16:49.00,Default,,0000,0000,0000,,can be removed if you hit him in the back\Nof the head three times in a row.
+Dialogue: 0,0:16:49.63,0:16:51.46,Default,,0000,0000,0000,,Huh?! Is that true?
+Dialogue: 0,0:16:52.67,0:16:53.93,Default,,0000,0000,0000,,Arinsu-sama…
+Dialogue: 0,0:16:56.76,0:16:57.76,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:16:57.89,0:16:59.35,Default,,0000,0000,0000,,That's wonderful information.
+Dialogue: 0,0:17:00.60,0:17:02.06,Default,,0000,0000,0000,,Don't get the wrong idea.
+Dialogue: 0,0:17:02.60,0:17:05.94,Default,,0000,0000,0000,,I just want Gomah defeated. That's all.
+Dialogue: 0,0:17:07.65,0:17:08.48,Default,,0000,0000,0000,,What now?
+Dialogue: 0,0:17:08.61,0:17:11.78,Default,,0000,0000,0000,,I doubt he'll give us an opening\Nto hit the back of his head three times.
+Dialogue: 0,0:17:12.49,0:17:17.53,Default,,0000,0000,0000,,I ain't got much stamina left,\Nbut I've got more than Vegeta.
+Dialogue: 0,0:17:23.12,0:17:27.96,Default,,0000,0000,0000,,I'll fight. You find an openin'\Nand hit him in the back of the head.
+Dialogue: 0,0:17:29.21,0:17:30.21,Default,,0000,0000,0000,,Got it?
+Dialogue: 0,0:17:30.34,0:17:31.17,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:31.80,0:17:36.88,Default,,0000,0000,0000,,But I think Vegeta-san would rather die\Nthan let anyone else take over.
+Dialogue: 0,0:17:41.72,0:17:43.10,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:17:43.77,0:17:44.89,Default,,0000,0000,0000,,What are you gonna do?
+Dialogue: 0,0:17:47.44,0:17:49.06,Default,,0000,0000,0000,,Vegeta!
+Dialogue: 0,0:17:49.19,0:17:50.98,Default,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:17:51.11,0:17:56.74,Default,,0000,0000,0000,,Get your head out of your butt\Nand let everyone else fight!
+Dialogue: 0,0:17:56.86,0:18:01.08,Default,,0000,0000,0000,,N-No way!\NI'll beat him even if it kills me!
+Dialogue: 0,0:18:02.95,0:18:04.45,Default,,0000,0000,0000,,Then you can just die!
+Dialogue: 0,0:18:04.58,0:18:06.29,Default,,0000,0000,0000,,Stop being stupid!
+Dialogue: 0,0:18:06.91,0:18:08.46,Default,,0000,0000,0000,,If you're going to keep fighting,
+Dialogue: 0,0:18:08.58,0:18:10.63,Default,,0000,0000,0000,,I'm never going to
+Dialogue: 0,0:18:10.75,0:18:16.01,Default,,0000,0000,0000,,take a bath with you again!
+Dialogue: 0,0:18:24.77,0:18:27.10,Default,,0000,0000,0000,,Very well. I'll let you take over.
+Dialogue: 0,0:18:35.19,0:18:36.36,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:18:37.45,0:18:40.36,Default,,0000,0000,0000,,If he suspects anythin',\Nhe'll be on his guard.
+Dialogue: 0,0:18:40.49,0:18:42.03,Default,,0000,0000,0000,,We only got one chance.
+Dialogue: 0,0:18:42.16,0:18:43.28,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:18:44.37,0:18:45.54,Default,,0000,0000,0000,,Okay then.
+Dialogue: 0,0:18:46.54,0:18:47.66,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:18:59.30,0:19:01.01,Default,,0000,0000,0000,,So now it's you.
+Dialogue: 0,0:19:06.97,0:19:09.64,Default,,0000,0000,0000,,It doesn't matter who fights me.
+Dialogue: 0,0:19:09.77,0:19:13.19,Default,,0000,0000,0000,,Why don't you all just fight me at once?!
+Dialogue: 0,0:19:15.23,0:19:18.03,Default,,0000,0000,0000,,{\i1}Time ain't on my side here.{\i}
+Dialogue: 0,0:19:18.15,0:19:20.32,Default,,0000,0000,0000,,{\i1}I need to end this quickly.{\i}
+Dialogue: 0,0:19:23.57,0:19:25.53,Default,,0000,0000,0000,,Take a good look, Gomah.
+Dialogue: 0,0:19:45.39,0:19:47.56,Default,,0000,0000,0000,,This is Super Saiyan.
+Dialogue: 0,0:19:54.36,0:19:56.77,Default,,0000,0000,0000,,Super Saiyan 2.
+Dialogue: 0,0:20:00.19,0:20:01.20,Default,,0000,0000,0000,,And…
+Dialogue: 0,0:20:59.88,0:21:02.63,Default,,0000,0000,0000,,Super Saiyan 3.
+Dialogue: 0,0:21:04.26,0:21:07.09,Default,,0000,0000,0000,,More pointless transformations.
+Dialogue: 0,0:21:10.18,0:21:12.77,Default,,0000,0000,0000,,These guys seem more like Majin.
+Dialogue: 0,0:21:19.57,0:21:21.40,Default,,0000,0000,0000,,One more bonus…
+Dialogue: 0,0:21:23.24,0:21:24.07,Default,,0000,0000,0000,,It can't be!
+Dialogue: 0,0:21:24.70,0:21:25.91,Default,,0000,0000,0000,,This is…
+Dialogue: 0,0:22:41.73,0:22:43.61,Default,,0000,0000,0000,,{\i1}Holding out my hand{\i}
+Dialogue: 0,0:22:45.40,0:22:47.28,Default,,0000,0000,0000,,{\i1}Up to the sky{\i}
+Dialogue: 0,0:22:49.20,0:22:51.70,Default,,0000,0000,0000,,{\i1}The moment is ours{\i}
+Dialogue: 0,0:22:52.37,0:22:55.74,Default,,0000,0000,0000,,{\i1}Make a miracle happen{\i}
+Dialogue: 0,0:22:55.87,0:23:02.00,Default,,0000,0000,0000,,{\i1}Like a bird with open wings we fly{\i}
+Dialogue: 0,0:23:02.13,0:23:05.84,Default,,0000,0000,0000,,{\i1}Picking up{\i}
+Dialogue: 0,0:23:05.96,0:23:09.22,Default,,0000,0000,0000,,{\i1}Those pieces of hope{\i}
+Dialogue: 0,0:23:10.30,0:23:16.18,Default,,0000,0000,0000,,{\i1}There's no giving up{\i}
+Dialogue: 0,0:23:16.81,0:23:21.02,Default,,0000,0000,0000,,{\i1}Go as far as we can{\i}
+Dialogue: 0,0:23:21.15,0:23:24.65,Default,,0000,0000,0000,,{\i1}I got you by my side{\i}
+Dialogue: 0,0:23:24.77,0:23:27.74,Default,,0000,0000,0000,,{\i1}Run, run, run{\i}
+Dialogue: 0,0:23:27.86,0:23:31.32,Default,,0000,0000,0000,,{\i1}Over the mountain we go{\i}
+Dialogue: 0,0:23:31.45,0:23:35.16,Default,,0000,0000,0000,,{\i1}I hear it always\NYour voice in my heart{\i}
+Dialogue: 0,0:23:35.28,0:23:39.58,Default,,0000,0000,0000,,{\i1}"You know that we're never alone"{\i}
+Dialogue: 0,0:23:40.66,0:23:45.54,On Top,sign,0000,0000,0000,,MAXIMUM

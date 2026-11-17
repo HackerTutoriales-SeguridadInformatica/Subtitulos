@@ -1,0 +1,154 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00B825CC,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Trebuchet MS,26,&H00FAA6FF,&H000000FF,&H00D700E2,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0120,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Gen_Opening,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00AC6AF1,&H00F850B1,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_SeriesTitle,Courier New,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_NextTitle,Trebuchet MS,24,&H00DAAE73,&H000000FF,&H00FFFFFF,&H0097F6FA,-1,0,0,0,100,100,0,0,1,1,2,8,0020,0020,0040,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.77,0:00:21.27,Cart_A_Ver,,0000,0000,0000,,Obra original, historia\Ny creación de personajes: Akira Toriyama
+Dialogue: 0,0:01:41.14,0:01:47.32,Gen_Main,,0000,0000,0000,,¡Así es!\N¡Soy el rey Gomah, el Gran Rey Demonio!
+Dialogue: 0,0:01:48.57,0:01:50.15,Gen_Main,,0000,0000,0000,,Parece que no tengo opción.
+Dialogue: 0,0:02:03.33,0:02:07.75,Cart_A_Ver,,0000,0000,0000,,DESPERTAR
+Dialogue: 0,0:02:17.51,0:02:19.26,Gen_Main,,0000,0000,0000,,¿Ese es Goku?
+Dialogue: 0,0:02:19.85,0:02:20.89,Gen_Main,,0000,0000,0000,,¡Vegeta!
+Dialogue: 0,0:02:20.97,0:02:21.93,Gen_Main,,0000,0000,0000,,¿Están bien?
+Dialogue: 0,0:02:27.52,0:02:28.65,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:02:34.74,0:02:37.53,Gen_Main,,0000,0000,0000,,Sigues con esa magia extraña.
+Dialogue: 0,0:02:59.80,0:03:01.01,Gen_Main,,0000,0000,0000,,¡Maldito seas!
+Dialogue: 0,0:03:19.82,0:03:20.87,Gen_Main,,0000,0000,0000,,¡Bien hecho, Goku!
+Dialogue: 0,0:03:20.95,0:03:22.58,Gen_Main,,0000,0000,0000,,¡Hazlo!
+Dialogue: 0,0:03:23.16,0:03:24.54,Gen_Main,,0000,0000,0000,,¡Vaya!
+Dialogue: 0,0:03:24.62,0:03:26.79,Gen_Main,,0000,0000,0000,,¡Está electrificado!
+Dialogue: 0,0:03:26.87,0:03:27.83,Gen_Main,,0000,0000,0000,,¡Eso es!
+Dialogue: 0,0:03:33.17,0:03:34.88,Gen_Main,,0000,0000,0000,,¡También quiero pelear!
+Dialogue: 0,0:03:52.90,0:03:54.69,Gen_Main,,0000,0000,0000,,¡Duu!
+Dialogue: 0,0:03:55.28,0:03:58.82,Gen_Main,,0000,0000,0000,,¡Toma esto!
+Dialogue: 0,0:04:07.71,0:04:09.54,Gen_Main,,0000,0000,0000,,¿Qué? ¿Qué es eso?
+Dialogue: 0,0:04:09.62,0:04:11.96,Gen_Main,,0000,0000,0000,,¡Duu! ¡También puedes electrificarte!
+Dialogue: 0,0:04:18.68,0:04:23.89,Gen_Main,,0000,0000,0000,,¡Galleta de chocolate!
+Dialogue: 0,0:04:23.97,0:04:25.01,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:04:25.10,0:04:26.02,Gen_Main,,0000,0000,0000,,¡Es increíble!
+Dialogue: 0,0:04:47.58,0:04:49.66,Gen_Main,,0000,0000,0000,,¿Qué magia usaron?
+Dialogue: 0,0:04:49.75,0:04:51.04,Gen_Main,,0000,0000,0000,,¡Aquí vamos!
+Dialogue: 0,0:04:56.75,0:04:57.92,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:05:19.65,0:05:21.32,Gen_Main,,0000,0000,0000,,¡Así se hace, Duu!
+Dialogue: 0,0:05:25.07,0:05:27.37,Gen_Main,,0000,0000,0000,,¡Tú puedes, Duu!
+Dialogue: 0,0:05:31.75,0:05:33.46,Gen_Main,,0000,0000,0000,,Se terminó el poder de la galleta.
+Dialogue: 0,0:05:33.96,0:05:34.79,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:05:35.42,0:05:36.42,Gen_Main,,0000,0000,0000,,¡Boing!
+Dialogue: 0,0:06:38.31,0:06:39.94,Gen_Main,,0000,0000,0000,,- ¡Goku!\N- ¡Goku!
+Dialogue: 0,0:06:45.86,0:06:47.37,Gen_Main,,0000,0000,0000,,Creo que eso es todo.
+Dialogue: 0,0:06:48.07,0:06:51.45,Gen_Main,,0000,0000,0000,,¡Ahora terminaré con todos ustedes!
+Dialogue: 0,0:06:52.20,0:06:54.00,Gen_Main,,0000,0000,0000,,¡Esto es malo!
+Dialogue: 0,0:06:54.08,0:06:56.42,Gen_Main,,0000,0000,0000,,¡No podemos detenerlo estando así!
+Dialogue: 0,0:07:10.89,0:07:12.27,Gen_Main,,0000,0000,0000,,¡No!
+Dialogue: 0,0:08:13.66,0:08:14.49,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:08:35.31,0:08:36.43,Gen_Main,,0000,0000,0000,,¿Goku?
+Dialogue: 0,0:08:44.32,0:08:45.32,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:09:09.51,0:09:11.30,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:09:17.06,0:09:18.64,Gen_Main,,0000,0000,0000,,¡Es un ki muy poderoso!
+Dialogue: 0,0:09:43.12,0:09:45.54,Gen_Main,,0000,0000,0000,,¡Aquí voy!
+Dialogue: 0,0:09:53.34,0:09:56.01,Gen_Main,,0000,0000,0000,,¡Aquí voy!
+Dialogue: 0,0:10:07.32,0:10:08.36,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:10:48.27,0:10:49.11,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:11:56.59,0:11:57.76,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:12:01.51,0:12:02.64,Gen_Main,,0000,0000,0000,,¿Glorio?
+Dialogue: 0,0:12:03.81,0:12:05.10,Gen_Main,,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:12:06.27,0:12:08.64,Gen_Main,,0000,0000,0000,,¡Tú puedes, Duu!
+Dialogue: 0,0:12:10.86,0:12:11.86,Gen_Main,,0000,0000,0000,,¡Está bien!
+Dialogue: 0,0:12:12.98,0:12:14.28,Gen_Main,,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:12:17.32,0:12:18.36,Gen_Main,,0000,0000,0000,,¡Demonios!
+Dialogue: 0,0:13:04.95,0:13:07.20,Gen_Main,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:13:38.32,0:13:40.65,Gen_Main,,0000,0000,0000,,¡Makankosappo!
+Dialogue: 0,0:14:11.81,0:14:13.98,Gen_Main,,0000,0000,0000,,¡Ka…!
+Dialogue: 0,0:14:25.20,0:14:26.57,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:14:52.10,0:14:53.35,Gen_Main,,0000,0000,0000,,¡Ka…!
+Dialogue: 0,0:14:55.14,0:14:57.02,Gen_Main,,0000,0000,0000,,¡Me…!
+Dialogue: 0,0:14:57.10,0:14:58.48,Gen_Main,,0000,0000,0000,,¡Ha…!
+Dialogue: 0,0:14:58.56,0:14:59.73,Gen_Main,,0000,0000,0000,,¡Me…!
+Dialogue: 0,0:15:01.03,0:15:02.90,Gen_Main,,0000,0000,0000,,¡Ha!
+Dialogue: 0,0:15:44.23,0:15:45.32,Gen_Main,,0000,0000,0000,,¿Qué sucedió?
+Dialogue: 0,0:16:02.54,0:16:04.42,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:16:40.46,0:16:42.42,Gen_Main,,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:16:58.39,0:16:59.81,Gen_Main,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:17:20.12,0:17:24.13,Gen_Main,,0000,0000,0000,,¿Qué tan poderoso es ese Ojo Terciano?
+Dialogue: 0,0:17:26.55,0:17:28.01,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:17:28.09,0:17:29.17,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:17:42.35,0:17:43.69,Gen_Main,,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:17:43.77,0:17:48.40,Gen_Main,,0000,0000,0000,,Glorio, tráeme las Esferas del dragón.
+Dialogue: 0,0:18:03.00,0:18:04.08,Gen_Main,,0000,0000,0000,,Hybis.
+Dialogue: 0,0:18:05.96,0:18:09.63,Gen_Main,,0000,0000,0000,,Es demasiado peligroso.\NDame las Esferas del dragón.
+Dialogue: 0,0:18:10.80,0:18:13.01,Gen_Main,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:18:16.60,0:18:20.02,Gen_Main,,0000,0000,0000,,Glorio, trae las Esferas.
+Dialogue: 0,0:18:20.52,0:18:21.52,Gen_Main,,0000,0000,0000,,No piensas…
+Dialogue: 0,0:18:22.27,0:18:27.40,Gen_Main,,0000,0000,0000,,Así es. Usaré las Esferas del dragón\Npara pedir un deseo.
+Dialogue: 0,0:18:28.02,0:18:32.61,Gen_Main,,0000,0000,0000,,Me convertiré en el Gran Rey Demonio\Nde mayor poder mágico…
+Dialogue: 0,0:18:33.11,0:18:34.86,Gen_Main,,0000,0000,0000,,¡y venceré a Gomah!
+Dialogue: 0,0:18:38.41,0:18:41.16,Gen_Main,,0000,0000,0000,,¡Rápido, invoca a Polunga!
+Dialogue: 0,0:18:41.70,0:18:44.79,Gen_Main,,0000,0000,0000,,¡Para eso te hice aprender\Nel idioma de los Namekianos!
+Dialogue: 0,0:18:47.84,0:18:50.00,Gen_Main,,0000,0000,0000,,¿Qué esperas?
+Dialogue: 0,0:18:50.09,0:18:53.88,Gen_Main,,0000,0000,0000,,A este paso, ¡el mandato de Gomah\Ndurará para siempre!
+Dialogue: 0,0:19:36.01,0:19:38.47,Gen_Main,,0000,0000,0000,,Takkaraputo…
+Dialogue: 0,0:19:40.30,0:19:41.68,Gen_Main,,0000,0000,0000,,Popurunga…
+Dialogue: 0,0:19:43.64,0:19:45.02,Gen_Main,,0000,0000,0000,,Pupirittoparo…
+Dialogue: 0,0:19:57.36,0:19:58.99,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:20:01.28,0:20:02.20,Gen_Main,,0000,0000,0000,,¿Está…?
+Dialogue: 0,0:20:33.36,0:20:34.36,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:20:34.86,0:20:36.23,Gen_Main,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:20:36.32,0:20:39.66,Gen_Main,,0000,0000,0000,,¡Se ve igual al Shen Long\Ndel Planeta Namek!
+Dialogue: 0,0:20:41.45,0:20:42.49,Gen_Main,,0000,0000,0000,,¿Glorio?
+Dialogue: 0,0:20:45.33,0:20:46.62,Gen_Main,,0000,0000,0000,,Es una broma, ¿verdad?
+Dialogue: 0,0:20:47.87,0:20:50.25,Gen_Main,,0000,0000,0000,,Pero ¿por qué?
+Dialogue: 0,0:20:51.12,0:20:52.29,Gen_Main,,0000,0000,0000,,Glorio…
+Dialogue: 0,0:20:54.54,0:20:56.30,Gen_Main,,0000,0000,0000,,¡Es un traidor!
+Dialogue: 0,0:20:57.05,0:21:00.63,Gen_Main,,0000,0000,0000,,¿Estaba trabajando para Arinsu?
+Dialogue: 0,0:21:02.09,0:21:04.35,Gen_Main,,0000,0000,0000,,Habla en el idioma de los Namekianos.
+Dialogue: 0,0:21:04.43,0:21:06.18,Gen_Main,,0000,0000,0000,,¿Cómo se atreven?
+Dialogue: 0,0:21:06.77,0:21:10.89,Gen_Main,,0000,0000,0000,,Alma valiente que has juntado\Nlas Esferas del dragón.
+Dialogue: 0,0:21:11.44,0:21:14.36,Gen_Main,,0000,0000,0000,,Vamos, dime tu deseo.
+Dialogue: 0,0:21:14.90,0:21:17.65,Gen_Main,,0000,0000,0000,,Te concederé cualquier deseo.
+Dialogue: 0,0:21:17.73,0:21:21.32,Gen_Main,,0000,0000,0000,,¡No te dejaré salirte con la tuya!
+Dialogue: 0,0:21:29.29,0:21:32.83,Gen_Main,,0000,0000,0000,,Vamos, Glorio. Pide el deseo.
+Dialogue: 0,0:21:36.13,0:21:42.63,Gen_Main,,0000,0000,0000,,Que me convierta en el Gran Rey Demonio\Ncon el mayor poder mágico que exista.
+Dialogue: 0,0:21:47.72,0:21:48.97,Gen_Main,,0000,0000,0000,,Díselo.
+Dialogue: 0,0:21:53.73,0:21:54.69,Gen_Main,,0000,0000,0000,,¡Rápido!
+Dialogue: 0,0:21:58.44,0:21:59.94,Gen_Main,,0000,0000,0000,,Peltotep…
+Dialogue: 0,0:22:00.69,0:22:01.90,Gen_Main,,0000,0000,0000,,Sari…
+Dialogue: 0,0:22:01.99,0:22:03.95,Gen_Main,,0000,0000,0000,,Kontoputtorahtons…
+Dialogue: 0,0:22:05.16,0:22:06.16,Gen_Main,,0000,0000,0000,,Tela…
+Dialogue: 0,0:22:08.91,0:22:10.20,Gen_Main,,0000,0000,0000,,¡Chilldopp!
+Dialogue: 0,0:22:22.72,0:22:24.30,Gen_Main,,0000,0000,0000,,¿Qué sucederá ahora?
+Dialogue: 0,0:23:40.67,0:23:45.59,Cart_A_Ver,,0000,0000,0000,,TRAICIÓN
+Dialogue: 0,0:23:45.67,0:23:50.55,Cart_A_Ver,,0000,0000,0000,,Subtítulos: Cinthia Perez

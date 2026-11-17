@@ -1,0 +1,234 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00B825CC,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Trebuchet MS,26,&H00FAA6FF,&H000000FF,&H00D700E2,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0120,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Gen_Opening,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00AC6AF1,&H00F850B1,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_SeriesTitle,Courier New,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_NextTitle,Trebuchet MS,24,&H00DAAE73,&H000000FF,&H00FFFFFF,&H0097F6FA,-1,0,0,0,100,100,0,0,1,1,2,8,0020,0020,0040,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:21.56,0:00:26.44,Cart_A_Ver,,0000,0000,0000,,MÁXIMO
+Dialogue: 0,0:00:40.17,0:00:41.29,Gen_Main,,0000,0000,0000,,¡Aquí voy!
+Dialogue: 0,0:04:50.62,0:04:51.92,Gen_Main,,0000,0000,0000,,¡Es increíble!
+Dialogue: 0,0:05:17.40,0:05:18.44,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:05:26.24,0:05:28.66,Gen_Main,,0000,0000,0000,,¡Maldito seas!
+Dialogue: 0,0:05:57.90,0:05:59.65,Gen_Main,,0000,0000,0000,,¡Ka…!
+Dialogue: 0,0:06:00.53,0:06:02.86,Gen_Main,,0000,0000,0000,,¡Me…!
+Dialogue: 0,0:06:08.74,0:06:11.04,Gen_Main,,0000,0000,0000,,¡Ha…!
+Dialogue: 0,0:06:11.12,0:06:13.29,Gen_Main,,0000,0000,0000,,¡Me…!
+Dialogue: 0,0:06:14.37,0:06:17.42,Gen_Main,,0000,0000,0000,,¡Ha!
+Dialogue: 0,0:06:48.66,0:06:50.79,Gen_Main,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:08:07.45,0:08:08.65,Gen_Main,,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:08:16.83,0:08:18.62,Gen_Main,,0000,0000,0000,,¡Esto se termina ahora!
+Dialogue: 0,0:08:26.84,0:08:28.84,Gen_Main,,0000,0000,0000,,¡Falló!
+Dialogue: 0,0:08:28.93,0:08:30.55,Gen_Main,,0000,0000,0000,,¿Qué hacemos ahora?
+Dialogue: 0,0:08:33.10,0:08:37.14,Gen_Main,,0000,0000,0000,,¡Maldición!\N¡Intentó remover el Tercer Ojo!
+Dialogue: 0,0:08:37.23,0:08:39.60,Gen_Main,,0000,0000,0000,,¡No se lo permitiré!
+Dialogue: 0,0:08:47.03,0:08:49.45,Gen_Main,,0000,0000,0000,,Quizás el libro tenga más información.
+Dialogue: 0,0:08:55.16,0:08:56.20,Gen_Main,,0000,0000,0000,,¡Rayos!
+Dialogue: 0,0:09:57.14,0:09:58.43,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:10:44.27,0:10:46.06,Gen_Main,,0000,0000,0000,,¡Glorio!
+Dialogue: 0,0:10:59.62,0:11:03.66,Gen_Main,,0000,0000,0000,,¿Qué? ¿Por qué no puedo terminar nada?
+Dialogue: 0,0:11:03.75,0:11:06.62,Gen_Main,,0000,0000,0000,,¡Bien! ¡Estuviste increíble, Majin Kuu!
+Dialogue: 0,0:11:06.71,0:11:07.96,Gen_Main,,0000,0000,0000,,¡Lo lograste!
+Dialogue: 0,0:11:08.67,0:11:10.67,Gen_Main,,0000,0000,0000,,¡Bien hecho, amigo mío!
+Dialogue: 0,0:11:22.93,0:11:24.52,Gen_Main,,0000,0000,0000,,Arinsu.
+Dialogue: 0,0:11:29.77,0:11:31.02,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:11:34.07,0:11:35.74,Gen_Main,,0000,0000,0000,,¡Goku!
+Dialogue: 0,0:11:39.82,0:11:41.66,Gen_Main,,0000,0000,0000,,Parece que funcionó.
+Dialogue: 0,0:11:42.45,0:11:43.45,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:11:52.09,0:11:54.42,Gen_Main,,0000,0000,0000,,Qué reinado tan corto.
+Dialogue: 0,0:11:54.51,0:11:57.55,Gen_Main,,0000,0000,0000,,¿Cómo te atreves?\N¡Soy el Gran Rey Demonio!
+Dialogue: 0,0:11:57.63,0:12:01.22,Gen_Main,,0000,0000,0000,,¡Y tú! ¿No era que estabas senil?
+Dialogue: 0,0:12:05.60,0:12:07.56,Gen_Main,,0000,0000,0000,,Gomah.
+Dialogue: 0,0:12:07.64,0:12:11.36,Gen_Main,,0000,0000,0000,,Aquí podrás lamentarte por cien años.
+Dialogue: 0,0:12:11.44,0:12:12.69,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:12:13.90,0:12:16.69,Gen_Main,,0000,0000,0000,,Pero no intentó matar a Dendé.
+Dialogue: 0,0:12:16.78,0:12:19.66,Gen_Main,,0000,0000,0000,,¡Es cierto! ¡Soy una buena persona!
+Dialogue: 0,0:12:19.74,0:12:23.03,Gen_Main,,0000,0000,0000,,Bien. Le daremos 99 años.
+Dialogue: 0,0:12:23.12,0:12:26.50,Gen_Main,,0000,0000,0000,,¿Qué? ¡No lo hagan!
+Dialogue: 0,0:12:35.84,0:12:36.84,Gen_Main,,0000,0000,0000,,Marba.
+Dialogue: 0,0:12:37.42,0:12:40.18,Gen_Main,,0000,0000,0000,,Que vaya Degesu también,\Nasí le hace compañía.
+Dialogue: 0,0:12:40.26,0:12:41.84,Gen_Main,,0000,0000,0000,,Es una gran idea.
+Dialogue: 0,0:12:50.60,0:12:51.73,Gen_Main,,0000,0000,0000,,¡Esto es…!
+Dialogue: 0,0:13:04.37,0:13:08.54,Gen_Main,,0000,0000,0000,,Es pequeño, pero agradable, ¿no crees?
+Dialogue: 0,0:13:09.04,0:13:12.58,Gen_Main,,0000,0000,0000,,Tiene un pequeño jardín\Ny varios juegos para ustedes.
+Dialogue: 0,0:13:12.67,0:13:16.30,Gen_Main,,0000,0000,0000,,- ¡Maldición! ¡Gomah, haz algo!\N- ¡Sáquenme de aquí!
+Dialogue: 0,0:13:16.38,0:13:17.42,Gen_Main,,0000,0000,0000,,Entonces…
+Dialogue: 0,0:13:18.17,0:13:20.55,Gen_Main,,0000,0000,0000,,Ahora que Gomah y Degesu ya no están,
+Dialogue: 0,0:13:21.18,0:13:24.30,Gen_Main,,0000,0000,0000,,¿quién será el nuevo Gran Rey Demonio?
+Dialogue: 0,0:13:25.01,0:13:27.22,Gen_Main,,0000,0000,0000,,¿Por qué no asumes tú?
+Dialogue: 0,0:13:27.93,0:13:30.02,Gen_Main,,0000,0000,0000,,Eres mejor que todos tus rivales.
+Dialogue: 0,0:13:30.10,0:13:31.98,Gen_Main,,0000,0000,0000,,Es lo que querías, ¿no?
+Dialogue: 0,0:13:32.06,0:13:33.56,Gen_Main,,0000,0000,0000,,¡Vaya!
+Dialogue: 0,0:13:33.65,0:13:36.69,Gen_Main,,0000,0000,0000,,No esperaba que dijeras eso.
+Dialogue: 0,0:13:36.77,0:13:41.65,Gen_Main,,0000,0000,0000,,Bueno, veo que aún te queda una pizca\Nde conciencia.
+Dialogue: 0,0:13:41.74,0:13:44.28,Gen_Main,,0000,0000,0000,,Qué cosas más horribles dices.
+Dialogue: 0,0:13:44.91,0:13:46.37,Gen_Main,,0000,0000,0000,,Seré honesta contigo.
+Dialogue: 0,0:13:46.95,0:13:50.62,Gen_Main,,0000,0000,0000,,Mis ambiciones siguen siendo las mismas.
+Dialogue: 0,0:13:51.66,0:13:56.21,Gen_Main,,0000,0000,0000,,Sí, un Reino Demoníaco aterrador\Nque enfrente al mundo externo, ¿cierto?
+Dialogue: 0,0:13:57.55,0:13:59.38,Gen_Main,,0000,0000,0000,,Pero debo declinar la oferta.
+Dialogue: 0,0:14:00.09,0:14:05.80,Gen_Main,,0000,0000,0000,,Si me convierto en Gran Rey Demonio\Nsin el poder de las Esferas del dragón,
+Dialogue: 0,0:14:06.51,0:14:10.18,Gen_Main,,0000,0000,0000,,de seguro alguien intentará destronarme.
+Dialogue: 0,0:14:10.27,0:14:11.68,Gen_Main,,0000,0000,0000,,¡Esperen!
+Dialogue: 0,0:14:12.31,0:14:17.94,Gen_Main,,0000,0000,0000,,¡El que vence al Gran Rey Demonio\Nse convierte en el heredero al trono!
+Dialogue: 0,0:14:27.74,0:14:30.16,Gen_Main,,0000,0000,0000,,¿El que vence al Gran Rey Demonio?
+Dialogue: 0,0:14:30.24,0:14:31.54,Gen_Main,,0000,0000,0000,,Pero ¿ese no es…?
+Dialogue: 0,0:14:32.29,0:14:33.50,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:14:34.71,0:14:35.67,Gen_Main,,0000,0000,0000,,¿Yo?
+Dialogue: 0,0:14:38.38,0:14:40.96,Gen_Main,,0000,0000,0000,,¡Ya entiendo! ¡Soy yo!
+Dialogue: 0,0:14:41.05,0:14:44.51,Gen_Main,,0000,0000,0000,,¡Eso es! ¡Acepto! ¡Seré Gran Rey Demonio!
+Dialogue: 0,0:14:46.84,0:14:47.72,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:14:47.80,0:14:48.68,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:14:48.76,0:14:49.64,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:14:49.72,0:14:52.14,Gen_Main,,0000,0000,0000,,¿Tienes idea de lo que dices?
+Dialogue: 0,0:14:52.22,0:14:54.14,Gen_Main,,0000,0000,0000,,¡Claro que sí!
+Dialogue: 0,0:14:54.89,0:14:55.89,Gen_Main,,0000,0000,0000,,Arinsu.
+Dialogue: 0,0:14:56.77,0:15:00.19,Gen_Main,,0000,0000,0000,,¡Te elijo como Vice Gran Rey Demonio!
+Dialogue: 0,0:15:00.27,0:15:01.82,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:15:01.90,0:15:06.03,Gen_Main,,0000,0000,0000,,¡Puedo juzgar a las personas\Nmejor de lo que crees!
+Dialogue: 0,0:15:08.07,0:15:12.08,Gen_Main,,0000,0000,0000,,Arinsu es muy ambiciosa,\Npero de buen corazón.
+Dialogue: 0,0:15:12.70,0:15:15.66,Gen_Main,,0000,0000,0000,,¡Su mente y sus estrategias\Nson armas muy poderosas!
+Dialogue: 0,0:15:16.42,0:15:20.79,Gen_Main,,0000,0000,0000,,Y además, ¡Majin Duu será ministro!
+Dialogue: 0,0:15:21.42,0:15:23.34,Gen_Main,,0000,0000,0000,,¡Y Marba y Neva también!
+Dialogue: 0,0:15:23.42,0:15:24.34,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:15:24.42,0:15:30.43,Gen_Main,,0000,0000,0000,,Son sabios, hábiles, tienen poder mágico\Ny conocen bien el Reino Demoníaco.
+Dialogue: 0,0:15:31.06,0:15:33.77,Gen_Main,,0000,0000,0000,,- Glorio también será ministro.\N- ¿Qué?
+Dialogue: 0,0:15:33.85,0:15:39.15,Gen_Main,,0000,0000,0000,,Es bastante raro ver un Majin\Ntan considerado y con tanto criterio.
+Dialogue: 0,0:15:39.23,0:15:42.52,Gen_Main,,0000,0000,0000,,- ¡El rey Kadan también será ministro!\N- ¿Yo?
+Dialogue: 0,0:15:42.61,0:15:43.94,Gen_Main,,0000,0000,0000,,¡Así es!
+Dialogue: 0,0:15:44.03,0:15:47.99,Gen_Main,,0000,0000,0000,,¡Mereces ser reconocido por tu valentía\Nen la lucha por el Reino Demoníaco!
+Dialogue: 0,0:15:48.07,0:15:51.58,Gen_Main,,0000,0000,0000,,¡Pero soy un Majin\Ndel Tercer Mundo Demoníaco!
+Dialogue: 0,0:15:51.66,0:15:53.95,Gen_Main,,0000,0000,0000,,¡Nunca escuché algo así!
+Dialogue: 0,0:15:54.04,0:15:56.91,Gen_Main,,0000,0000,0000,,Serás el primer ministro\Ndel Tercer Mundo Demoníaco.
+Dialogue: 0,0:15:57.00,0:16:00.21,Gen_Main,,0000,0000,0000,,¡Felicidades, papá!
+Dialogue: 0,0:16:02.34,0:16:07.34,Gen_Main,,0000,0000,0000,,Y ustedes, personas del mundo externo,\Nles agradezco por todo lo que hicieron.
+Dialogue: 0,0:16:07.42,0:16:09.51,Gen_Main,,0000,0000,0000,,¿Alguien quiere ser ministro?
+Dialogue: 0,0:16:11.72,0:16:13.72,Gen_Main,,0000,0000,0000,,No, debemos ir a casa.
+Dialogue: 0,0:16:14.31,0:16:15.22,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:16:16.23,0:16:19.06,Gen_Main,,0000,0000,0000,,¡Está bien!\N¿Alguien más quiere ser ministro?
+Dialogue: 0,0:16:19.98,0:16:21.02,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:16:21.11,0:16:23.32,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:16:24.11,0:16:26.19,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:16:27.19,0:16:30.86,Gen_Main,,0000,0000,0000,,¡Entonces, ya terminé de asignar\Ntodos los puestos a la perfección!
+Dialogue: 0,0:16:31.62,0:16:32.99,Gen_Main,,0000,0000,0000,,¡Listo!
+Dialogue: 0,0:16:38.96,0:16:41.42,Gen_Main,,0000,0000,0000,,Esperen un momento.
+Dialogue: 0,0:16:41.50,0:16:44.88,Gen_Main,,0000,0000,0000,,Puede que haga un buen trabajo.
+Dialogue: 0,0:16:49.38,0:16:54.64,Gen_Main,,0000,0000,0000,,¡Juntos, haremos del Reino Demoníaco\Nun lugar aterrador, pero bueno para vivir!
+Dialogue: 0,0:16:54.72,0:16:56.85,Gen_Main,,0000,0000,0000,,Bueno…
+Dialogue: 0,0:17:01.19,0:17:02.02,Gen_Main,,0000,0000,0000,,¡Yupi!
+Dialogue: 0,0:17:02.10,0:17:06.11,Gen_Main,,0000,0000,0000,,¡Rey Kuu, el nuevo Gran Rey Demonio!
+Dialogue: 0,0:17:07.74,0:17:09.24,Gen_Main,,0000,0000,0000,,Me parece bien.
+Dialogue: 0,0:17:20.79,0:17:24.00,Gen_Main,,0000,0000,0000,,Aquí tienes la Mayilita\Nque te prometí, Bulma.
+Dialogue: 0,0:17:25.25,0:17:28.05,Gen_Main,,0000,0000,0000,,No necesitaba tanta.
+Dialogue: 0,0:17:28.13,0:17:29.59,Gen_Main,,0000,0000,0000,,Pero gracias.
+Dialogue: 0,0:17:29.67,0:17:33.18,Gen_Main,,0000,0000,0000,,Saqué todo esto del almacén\Nen el palacio de Gomah.
+Dialogue: 0,0:17:34.85,0:17:38.18,Gen_Main,,0000,0000,0000,,- Toma, para el viaje.\N- ¡Galletas de chocolate!
+Dialogue: 0,0:17:38.27,0:17:41.98,Gen_Main,,0000,0000,0000,,Muchas gracias.\NDesafortunadamente, no puedo comer esto.
+Dialogue: 0,0:17:42.06,0:17:45.56,Gen_Main,,0000,0000,0000,,¡Maldición! ¡Pude haber ganado esa pelea!
+Dialogue: 0,0:17:45.65,0:17:48.48,Gen_Main,,0000,0000,0000,,¿Sigues pensando en eso? Ya se terminó.
+Dialogue: 0,0:17:48.57,0:17:54.53,Gen_Main,,0000,0000,0000,,- ¡Me ocultaste esa transformación!\N- ¿El Super Saiyajin 4?
+Dialogue: 0,0:17:55.87,0:18:00.54,Gen_Main,,0000,0000,0000,,Buu era muy fuerte,\Npor eso entrené mucho después de la pelea.
+Dialogue: 0,0:18:00.62,0:18:04.04,Gen_Main,,0000,0000,0000,,Pero no sabía si iba a funcionar.
+Dialogue: 0,0:18:04.67,0:18:07.63,Gen_Main,,0000,0000,0000,,Parece una rebaja de Supersaiyajins.
+Dialogue: 0,0:18:07.71,0:18:09.92,Gen_Main,,0000,0000,0000,,Igual llegaste al Super Saiyajin 3.
+Dialogue: 0,0:18:11.72,0:18:15.84,Gen_Main,,0000,0000,0000,,¡Cállate! Esa transformación fue…
+Dialogue: 0,0:18:16.47,0:18:18.26,Gen_Main,,0000,0000,0000,,¡Ultra Vegeta 1!
+Dialogue: 0,0:18:18.35,0:18:19.64,Gen_Main,,0000,0000,0000,,¿Qué rayos es eso?
+Dialogue: 0,0:18:21.39,0:18:22.56,Gen_Main,,0000,0000,0000,,Dendé.
+Dialogue: 0,0:18:23.10,0:18:26.19,Gen_Main,,0000,0000,0000,,¿No pensaste en vivir aquí?
+Dialogue: 0,0:18:26.27,0:18:28.77,Gen_Main,,0000,0000,0000,,Vivirías muy bien aquí.
+Dialogue: 0,0:18:29.36,0:18:33.65,Gen_Main,,0000,0000,0000,,Lo lamento,\Npero tengo responsabilidades en la Tierra.
+Dialogue: 0,0:18:34.66,0:18:36.37,Gen_Main,,0000,0000,0000,,¿Tú también?
+Dialogue: 0,0:18:36.45,0:18:37.49,Gen_Main,,0000,0000,0000,,Así es.
+Dialogue: 0,0:18:38.24,0:18:44.67,Gen_Main,,0000,0000,0000,,Les preguntaré a los namekianos\Nque se han convertido en nómadas.
+Dialogue: 0,0:18:45.17,0:18:47.67,Gen_Main,,0000,0000,0000,,De seguro les encantará la idea.
+Dialogue: 0,0:18:48.21,0:18:50.75,Gen_Main,,0000,0000,0000,,Sí. Es una idea maravillosa.
+Dialogue: 0,0:18:51.96,0:18:55.18,Gen_Main,,0000,0000,0000,,Los espero con ansias.
+Dialogue: 0,0:18:58.30,0:18:59.26,Gen_Main,,0000,0000,0000,,Goku.
+Dialogue: 0,0:18:59.89,0:19:00.89,Gen_Main,,0000,0000,0000,,Ya pueden irse.
+Dialogue: 0,0:19:00.97,0:19:02.27,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:19:02.35,0:19:05.10,Gen_Main,,0000,0000,0000,,Mira, Goku.
+Dialogue: 0,0:19:05.19,0:19:07.52,Gen_Main,,0000,0000,0000,,El Túnel está abierto,
+Dialogue: 0,0:19:07.60,0:19:11.90,Gen_Main,,0000,0000,0000,,así que el viento levantó el gas.\NEl aire es más liviano.
+Dialogue: 0,0:19:13.49,0:19:18.20,Gen_Main,,0000,0000,0000,,Nos ayudaron mucho con todo esto.
+Dialogue: 0,0:19:18.78,0:19:21.41,Gen_Main,,0000,0000,0000,,Te agradezco desde el fondo de mi corazón.
+Dialogue: 0,0:19:22.91,0:19:24.12,Gen_Main,,0000,0000,0000,,Los llevaré a casa.
+Dialogue: 0,0:19:24.20,0:19:27.83,Gen_Main,,0000,0000,0000,,- Gracias. Vamos.\N- ¡Sí!
+Dialogue: 0,0:19:32.84,0:19:34.42,Gen_Main,,0000,0000,0000,,¡Nos vemos pronto!
+Dialogue: 0,0:19:34.51,0:19:36.93,Gen_Main,,0000,0000,0000,,¡Muchas gracias!
+Dialogue: 0,0:19:37.01,0:19:40.51,Gen_Main,,0000,0000,0000,,¡Si las cosas se complican,\Nregresen a ayudarnos!
+Dialogue: 0,0:19:40.60,0:19:43.22,Gen_Main,,0000,0000,0000,,¡Claro! ¡Seguro!
+Dialogue: 0,0:19:45.64,0:19:48.56,Gen_Main,,0000,0000,0000,,¡Nos vemos!
+Dialogue: 0,0:20:01.24,0:20:03.24,Gen_Main,,0000,0000,0000,,¡Nos vemos!
+Dialogue: 0,0:20:06.96,0:20:12.04,Gen_Main,,0000,0000,0000,,Obra original, historia\Ny creación de personajes: Akira Toriyama
+Dialogue: 0,0:21:29.91,0:21:32.12,Gen_Main,,0000,0000,0000,,Oye, ministro Gliro.
+Dialogue: 0,0:21:32.67,0:21:34.04,Gen_Main,,0000,0000,0000,,¿Me escuchas?
+Dialogue: 0,0:21:34.13,0:21:35.29,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:21:35.38,0:21:36.92,Gen_Main,,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:21:37.55,0:21:40.80,Gen_Main,,0000,0000,0000,,¿Recuerdas dónde compramos\Nesos Insectos Medicinales?
+Dialogue: 0,0:21:40.88,0:21:42.63,Gen_Main,,0000,0000,0000,,¿Podemos parar ahí?
+Dialogue: 0,0:21:43.43,0:21:44.59,Gen_Main,,0000,0000,0000,,No hay problema.
+Dialogue: 0,0:21:44.68,0:21:48.27,Gen_Main,,0000,0000,0000,,Ya nos quedan pocas semillas del ermitaño
+Dialogue: 0,0:21:48.35,0:21:53.23,Gen_Main,,0000,0000,0000,,y también podemos comprar más\Nde esos Insectos Resucitadores.
+Dialogue: 0,0:21:59.44,0:22:01.11,Gen_Main,,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:22:01.19,0:22:02.32,Gen_Main,,0000,0000,0000,,Bienvenidos.
+Dialogue: 0,0:22:02.90,0:22:04.20,Gen_Main,,0000,0000,0000,,Hola, señora.
+Dialogue: 0,0:22:06.28,0:22:08.62,Gen_Main,,0000,0000,0000,,¿Qué? Tú…
+Dialogue: 0,0:22:10.12,0:22:16.33,Gen_Main,,0000,0000,0000,,Espera, ¿no eres el niño del otro día\Nque compró los Insectos Medicinales?
+Dialogue: 0,0:22:16.42,0:22:19.17,Gen_Main,,0000,0000,0000,,Sí, me sirvieron mucho.
+Dialogue: 0,0:22:19.25,0:22:21.84,Gen_Main,,0000,0000,0000,,¡Qué grande estás!
+Dialogue: 0,0:22:21.92,0:22:26.64,Gen_Main,,0000,0000,0000,,¿Creciste por un efecto secundario\Nde los Insectos Medicinales?
+Dialogue: 0,0:22:27.68,0:22:28.85,Gen_Main,,0000,0000,0000,,No, no fue por eso.
+Dialogue: 0,0:22:28.93,0:22:31.10,Gen_Main,,0000,0000,0000,,Qué lindo.
+Dialogue: 0,0:22:32.43,0:22:33.23,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:22:33.85,0:22:37.44,Gen_Main,,0000,0000,0000,,¿Insectos? ¡Qué asqueroso!
+Dialogue: 0,0:22:37.52,0:22:39.52,Gen_Main,,0000,0000,0000,,¿Cómo puedes comer esas cosas?
+Dialogue: 0,0:22:40.98,0:22:46.78,Gen_Main,,0000,0000,0000,,Bueno, los Insectos Medicinales funcionan.\NLos Insectos Achichi curan quemaduras.
+Dialogue: 0,0:22:46.87,0:22:49.41,Gen_Main,,0000,0000,0000,,Los Insectos Embellecedores\Nmejoran la piel.
+Dialogue: 0,0:22:49.49,0:22:51.54,Gen_Main,,0000,0000,0000,,¿Que hacen qué?
+Dialogue: 0,0:22:51.62,0:22:55.17,Gen_Main,,0000,0000,0000,,Si comes uno,\Ntu piel rejuvenecerá diez años.
+Dialogue: 0,0:22:55.25,0:22:56.88,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:22:57.50,0:22:59.34,Gen_Main,,0000,0000,0000,,¡Me llevaré todos!
+Dialogue: 0,0:23:04.34,0:23:05.18,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:23:05.26,0:23:06.80,Gen_Main,,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:23:12.52,0:23:14.81,Gen_Main,,0000,0000,0000,,¡Oiga, señora! ¿Qué son estos?
+Dialogue: 0,0:23:14.89,0:23:19.48,Gen_Main,,0000,0000,0000,,Son Ojos Tercianos,\Ntambién llamados Tercer Ojos Malvados.
+Dialogue: 0,0:23:19.56,0:23:20.94,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:23:21.57,0:23:26.91,Gen_Main,,0000,0000,0000,,Si te pones uno en la frente,\Nte dará una fuerza formidable.
+Dialogue: 0,0:23:26.99,0:23:28.66,Gen_Main,,0000,0000,0000,,Solía tener tres,
+Dialogue: 0,0:23:28.74,0:23:35.00,Gen_Main,,0000,0000,0000,,pero son raros y muy costosos,\Nasí que solo logré vender uno.
+Dialogue: 0,0:23:35.08,0:23:38.58,Gen_Main,,0000,0000,0000,,Si quieres uno, te haré un descuento.
+Dialogue: 0,0:23:38.67,0:23:41.80,Gen_Main,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:23:41.88,0:23:45.42,Cart_A_Ver,,0000,0000,0000,,FIN
+Dialogue: 0,0:23:45.51,0:23:50.39,Cart_A_Ver,,0000,0000,0000,,Subtítulos: Cinthia Perez
